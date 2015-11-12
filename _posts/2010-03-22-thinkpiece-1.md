@@ -1,0 +1,16 @@
+---
+title: Thinkpiece 1
+author: Greg
+layout: post
+permalink: /2010/03/thinkpiece-1/
+wordbooker_options:
+  - 'a:9:{s:18:"wordbook_noncename";s:10:"a6612e6ae1";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:20:"wordbook_comment_get";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";}'
+comments: True
+categories:
+  - PTR330
+---
+Connor begins by defining nationalism and patriotism. Nationalism is defined as loyalties to one&#8217;s ethnonation. An ethnonation being a group of people with a perceived unique common linage. Patriotism on the other hand is loyalties to one&#8217;s nation state. For instance, an ethically Chinese Australian may be loyal to the Australian Government. Connor argues that nationalism is stronger then patriotism citing examples such as the break up of the Soviet Union, which dissolved into states which were largely ethnonational. A Polish nation for the Polish, a Russian nation for the Russians etc. Connor suggests that the criteria used to determine whether a group constitutes a nation is not objective. He uses the example of ethnic Germans living in Poland. These Germans may have the same religion, live in the same regions, dress and look the same way, and speak the same language but they are considered Germans by themselves and by their fellow countrymen. Connor argues that states have the advantage of being able to politically socialise their citizens in order to create patriotism but citing the many ethnonation separatist groups, suggests patriotism is a weaker force then nationalism. Patriotism and nationalism need not be in conflict, but when a conflict exists that is irreconcilable, people are loyal to their ethnonation.
+
+This article raises interesting points about one&#8217;s loyalties. An ethnonation is not necessarily capable of supplying services such as protection and education to those that identify with it. Whereas, most states are capable of supplying such services. From a Darwinian point of view I can understand why people would like to protect vessels containing their genes, such as their children, siblings, and other blood family. I think it is difficult to conclude that because members of this particular group of people act, dress, and talk a specific way that they necessarily share the same genes. I suppose observations are the most accurate way most people have of identifying those of similar genetic make up. Using Darwinian logic, I can understand that individuals who could seem to foster genetic material of others would receive more protection from peers and thus be more likely to survive and reproduce. This could explain the strong loyalties to the ethnonation. I suppose people see a state as being created by people whereas a nation is seen as having created people. I wonder if it is possible to transcend ethnonational ties and become ethno-agnostic?
+
+Connor W. &#8220;Beyond Reason: The Nature of the Ethnonational Bond&#8221; in Connor (ed.) Ethnonationalism, Princeton University Press, 1994.

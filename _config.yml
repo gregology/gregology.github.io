@@ -1,0 +1,33 @@
+# Site settings
+title: "Gregology"
+email: Greg@gho.st
+description: "The world according to Greg. Plus links to my online self."
+baseurl: ""
+url: ""
+title_description: "The world according to Greg Clarke."
+title_image: "http://www.gravatar.com/avatar/ce627ea82f589ccb85c6a37b921dcad6.jpg?s=500&d=mm"
+google_analytics: "UA-20365477-4"
+disqus_account: gregology
+github_repository: https://github.com/gregology
+addthis_id: ra-5643e2402a79a349
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: gregologynet
+github_username:  gregology
+linkedin_link: https://ca.linkedin.com/in/gregology
+stackoverflow_link: http://stackoverflow.com/users/1142113/gregology
+instagram_username: gregology
+facebook_username: gregology
+wikipedia_username: gregology
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
