@@ -8,4 +8,4 @@ categories:
   - YouTube upload
 ---
 
-{% youtube 5viTHhOiLVQ %}
+{% include youtubePlayer.html id='5viTHhOiLVQ' %}
