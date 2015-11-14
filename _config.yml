@@ -22,8 +22,8 @@ facebook_username: gregology
 wikipedia_username: gregology
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "The world accordig to Greg."
+footer_right: "<a href=\"https://github.com/gregology/gregology.github.io\">Site Source</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: redcarpet

@@ -5,5 +5,7 @@ layout: post
 permalink: /2013/03/take-on-me-ukulele-goat-cover/
 comments: True
 categories:
-  - YouTube upload
+  - YouTube
 ---
+
+{% include youtubePlayer.html id='OWq2yHaAYLE' %}

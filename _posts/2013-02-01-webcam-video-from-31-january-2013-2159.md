@@ -5,6 +5,8 @@ layout: post
 permalink: /2013/02/webcam-video-from-31-january-2013-2159/
 comments: True
 categories:
-  - YouTube upload
+  - YouTube
 ---
 This is my first French song with a lot of help from Adrijana and Julie.
+
+{% include youtubePlayer.html id='37X7r9-SQEE' %}
