@@ -10,6 +10,10 @@ $linkedin:       #2b77b1;
 $google-plus:    #c95644;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
+$facebook:       #3b5998;
+$instagram:      #517fa4;
+$reddit:         #FC471E;
+$wikipedia:      #EFEFF0;
 $rss:            #eea33a;
 
 $darker:         #21211E;
@@ -190,6 +194,22 @@ ul {
 
 	.fa-github-alt:hover {
 		color: $github;
+	}
+
+	.fa-facebook:hover {
+		color: $facebook;
+	}
+
+	.fa-wikipedia-w:hover {
+		color: $wikipedia;
+	}
+
+	.fa-reddit:hover {
+		color: $reddit;
+	}
+
+	.fa-instagram:hover {
+		color: $instagram;
 	}
 
 	.fa-stack-overflow:hover {
