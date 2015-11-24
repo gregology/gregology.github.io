@@ -1,10 +1,10 @@
 # Site settings
 title: "Gregology"
 email: Greg@gho.st
-description: "The world according to Greg. Plus links to my online self."
+description: "The world according to Greg Clarke. Plus links to my online self."
 baseurl: ""
 url: ""
-title_description: "A gateway to digital Greg."
+title_description: "The gateway to digital Greg Clarke."
 title_image: "http://www.gravatar.com/avatar/ce627ea82f589ccb85c6a37b921dcad6.jpg?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account: gregology
@@ -24,7 +24,7 @@ imgur_username: gregology
 reddit_username: gregologynet
 
 # Footer
-footer_left: "The world accordig to Greg Clarke."
+footer_left: "The world according to Greg."
 footer_right: "<a href=\"https://github.com/gregology/gregology.github.io\">Site Source</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
