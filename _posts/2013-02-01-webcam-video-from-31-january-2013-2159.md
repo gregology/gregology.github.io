@@ -9,4 +9,4 @@ categories:
 ---
 This is my first French song with a lot of help from Adrijana and Julie.
 
-{% include youtubePlayer.html id='37X7r9-SQEE' %}
+{% include youtube_player.html id='37X7r9-SQEE' %}

@@ -1,0 +1,41 @@
+{% comment %}
+Usage
+=====
+
+set flickr_username in _config.yml
+{% include flickr_album.html album_id='72157659478920074' %}
+OR
+{% include flickr_album.html user='gregologynet' album_id='72157659478920074' %}
+
+{% endcomment %}
+
+{% if include.user %}
+  {% assign flickr_username = include.user %}
+{% else %}
+  {% assign flickr_username = site.flickr_username %}
+{% endif %}
+
+<style>
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow:
+    hidden; max-width:
+    100%; height: auto;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+<div class='embed-container'>
+  <iframe src='https://www.flickr.com/photos/{{ flickr_username }}/sets/{{ include.album_id }}/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>

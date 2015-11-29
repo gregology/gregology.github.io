@@ -6,5 +6,7 @@
   {% if site.reddit_username %}<a href="https://www.reddit.com/user/{{ site.reddit_username }}" target="_new"><i class="fa fa-reddit"></i></a>{% endif %}
   {% if site.instagram_username %}<a href="https://www.instagram.com/{{ site.instagram_username }}" target="_new"><i class="fa fa-instagram"></i></a>{% endif %}
   {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_new"><i class="fa fa-github-alt"></i></a>{% endif %}
-  <a href="{{ site.baseurl }}/feed.xml" target="_new"><i class="fa fa-rss"></i></a>
+  {% if site.github_username %}<a href="https://www.youtube.com/user/{{ site.youtube_username }}" target="_new"><i class="fa fa-youtube"></i></a>{% endif %}
+  {% if site.github_username %}<a href="https://www.flickr.com/photos/{{ site.flickr_username }}" target="_new"><i class="fa fa-flickr"></i></a>{% endif %}
+  <!-- <a href="{{ site.baseurl }}/feed.xml" target="_new"><i class="fa fa-rss"></i></a> -->
 </p>

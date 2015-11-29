@@ -8,4 +8,4 @@ categories:
   - YouTube
 ---
 
-{% include youtubePlayer.html id='OWq2yHaAYLE' %}
+{% include youtube_player.html id='OWq2yHaAYLE' %}
