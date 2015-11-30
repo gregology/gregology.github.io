@@ -7,6 +7,9 @@ comments: True
 categories:
   - Miscellaneous
 ---
+
+{% include flickr_album.html album_id='72157661239418130' %}
+
 <div id='gallery-5' class='gallery galleryid-1360 gallery-columns-3 gallery-size-responsive-200'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
