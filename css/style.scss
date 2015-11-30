@@ -11,12 +11,13 @@ $google-plus:    #c95644;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $facebook:       #3b5998;
-$instagram:      #517fa4;
+$instagram:      #675144;
 $reddit:         #FC471E;
-$wikipedia:      #BBBBBB;
+$wikipedia:      #444444;
 $rss:            #eea33a;
 $youtube:        #e52d27;
 $flickr:         #0063DC;
+$skype:          #00aff0;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -216,6 +217,14 @@ ul {
 
 	.fa-stack-overflow:hover {
 		color: $stack-overflow;
+	}
+
+	.fa-youtube:hover {
+		color: $youtube;
+	}
+
+	.fa-flickr:hover {
+		color: $flickr;
 	}
 
 	.fa-rss:hover {
