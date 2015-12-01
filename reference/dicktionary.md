@@ -1,6 +1,10 @@
 ---
 title: Dicktionary
 layout: page
+related:
+  - vagitionary
+  - menstruationary
+  - sextionary
 ---
 
 The largest list of penis euphemisms  
