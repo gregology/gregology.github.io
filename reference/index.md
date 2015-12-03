@@ -10,7 +10,7 @@ layout: page
 * [Funny One-liners](funnyoneliners)
 * [Funny Sayings](funnysayings)
 * [Gazillion](gazillion)
-* [Genarrsis](Genarrsis)
+* [Genarrsis](genarrsis)
 * [Guide to Chivalry](guide-to-chivalry)
 * [Koumpounophobia](koumpounophobia)
 * [Menstruationary](menstruationary)
