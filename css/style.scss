@@ -18,6 +18,7 @@ $rss:            #eea33a;
 $youtube:        #e52d27;
 $flickr:         #0063DC;
 $skype:          #00aff0;
+$email:          #654321;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -229,6 +230,10 @@ ul {
 
 	.fa-rss:hover {
 		color: $rss;
+	}
+
+	.fa-envelope-o:hover {
+		color: $email;
 	}
 }
 
