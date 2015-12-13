@@ -35,7 +35,7 @@ Currently claimed by: Solomon Islands
 Climate: Tropical  
 Area: 118km^2  
 Location: Pacific Ocean, near Solomon Islands, 8°43′00″S 157°33′00″E﻿  
-This island is the largest uninhabited island in the Pacific and some conservationists believe that makes it special and worth protecting. There are traditional owners also which may have something to say about you claiming their land. There were scared off by head hunters a century ago so the same trick might work again <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+This island is the largest uninhabited island in the Pacific and some conservationists believe that makes it special and worth protecting. There are traditional owners also which may have something to say about you claiming their land. There were scared off by head hunters a century ago so the same trick might work again <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 **Blasket Islands**  
 [<img src="/wp-content/uploads/2010/04/Blasketislands-300x59.jpg" alt="" title="Blasket Islands" width="300" height="59" class="alignnone size-medium wp-image-319" />][3]  
@@ -79,7 +79,7 @@ Currently claimed by: France
 Climate: Temperate  
 Area: ~4km^2 spread over 4 atolls  
 Location: 21°22′59″S 136°34′59″W﻿  
-These atolls would be perfect for setting up a new country if they weren&#8217;t 230km away from the French nuclear testing site <img src="http://gregology.net/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+These atolls would be perfect for setting up a new country if they weren&#8217;t 230km away from the French nuclear testing site <img src="/wp-content/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 **Ducie Island**  
 [<img src="/wp-content/uploads/2010/04/DucieISS002-E-10044.png" alt="" title="Ducie Island" width="288" height="204" class="alignnone size-full wp-image-323" />][8]  

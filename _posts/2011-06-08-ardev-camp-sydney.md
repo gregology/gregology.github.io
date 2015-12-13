@@ -11,7 +11,7 @@ tags:
   - ardevcamp
   - augmented reality
 ---
-I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I&#8217;ll edit this post during the day as new interesting things come up <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I&#8217;ll edit this post during the day as new interesting things come up <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 **Links**
 
@@ -46,11 +46,11 @@ I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse M
   * Junaio
 
 **Images**  
-<img title="318820697" src="http://gregology.net/wp-content/uploads/2011/06/318820697-300x168.png" alt="" width="300" height="168" />  
+<img title="318820697" src="/wp-content/uploads/2011/06/318820697-300x168.png" alt="" width="300" height="168" />  
 AndAR model 
 
-<img src="http://gregology.net/wp-content/uploads/2011/06/wpid-IMAG0518.jpg" alt="image" width="300" height="450" />  
-The ultimate goal <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+<img src="/wp-content/uploads/2011/06/wpid-IMAG0518.jpg" alt="image" width="300" height="450" />  
+The ultimate goal <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
  [1]: http://ar-ux.com/the-4-key-user-experience-modes-of-augmented
  [2]: http://www.ardevcamp.org/wiki/index.php?title=ARDevCamp_Sydney_2011_resources "ARDevCamp Sydney 2011 Resources"

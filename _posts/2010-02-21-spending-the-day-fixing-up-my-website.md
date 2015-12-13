@@ -7,4 +7,4 @@ comments: True
 categories:
   - website
 ---
-I think I&#8217;ve set up my blog to link to facebook. After I post this we&#8217;ll see <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I think I&#8217;ve set up my blog to link to facebook. After I post this we&#8217;ll see <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

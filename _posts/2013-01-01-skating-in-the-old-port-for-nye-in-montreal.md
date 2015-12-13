@@ -18,11 +18,11 @@ tags:
   - Nye
 format: image
 ---
-[<img title="IMAG0173.jpg" class="alignnone" alt="image" src="http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0173.jpg" />][1]
+[<img title="IMAG0173.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0173.jpg" />][1]
 
-[<img title="IMAG0171.jpg" class="alignnone" alt="image" src="http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0171.jpg" />][2]
+[<img title="IMAG0171.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0171.jpg" />][2]
 
 Bad photos but you get the idea.
 
- [1]: http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0173.jpg
- [2]: http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0171.jpg
+ [1]: /wp-content/uploads/2013/01/wpid-IMAG0173.jpg
+ [2]: /wp-content/uploads/2013/01/wpid-IMAG0171.jpg

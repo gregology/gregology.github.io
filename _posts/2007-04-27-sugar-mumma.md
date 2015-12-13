@@ -7,7 +7,7 @@ comments: True
 categories:
   - Uncategorized
 ---
-I just dropped Nathalie at work for her second day. She doesn&#8217;t really like it there, it&#8217;s a really snooty French restaurant but she&#8217;s got another job offer starting on Wednesday and this is good experience for her. Plus it&#8217;s money and how can she be my sugar mumma if she&#8217;s not earning? I watching French TV and I&#8217;m a bit over not knowing what&#8217;s going on <img src="http://gregology.net/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I just dropped Nathalie at work for her second day. She doesn&#8217;t really like it there, it&#8217;s a really snooty French restaurant but she&#8217;s got another job offer starting on Wednesday and this is good experience for her. Plus it&#8217;s money and how can she be my sugar mumma if she&#8217;s not earning? I watching French TV and I&#8217;m a bit over not knowing what&#8217;s going on <img src="/wp-content/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 I was sitting at a fountain reading my Tin Tin comic when 5 homeless looking ultra hippies, maybe Gipsy&#8217;s came with there pack of about 10 dogs. They pushed the dogs in the fountain, I assume to wash them, and then pulled them out. The dogs seemed in better condition then the people but were clearly scared of them and cowered when a fast movement was made. These people keep dogs with them so they cannot be arrested as the police need a vet present to arrest someone with a pet so you see a lot of these people with dogs, rabbits, cats, etc so I&#8217;ve been told. It was an odd sight so I took a photo.
 

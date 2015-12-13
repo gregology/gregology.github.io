@@ -9,4 +9,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-This is a test to see if I have setup the postie plugin correctly. If so I will be able to post via email. I won&#8217;t let anyone know what the email address for automatic posting is because that could be dangerous <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+This is a test to see if I have setup the postie plugin correctly. If so I will be able to post via email. I won&#8217;t let anyone know what the email address for automatic posting is because that could be dangerous <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

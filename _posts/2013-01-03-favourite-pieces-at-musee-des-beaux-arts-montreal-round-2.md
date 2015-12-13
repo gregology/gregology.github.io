@@ -23,13 +23,13 @@ tags:
   - Montreal
   - museum
 ---
-[<img class="alignnone" title="IMAG0183.jpg" alt="image" src="http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0183.jpg" />][1]  
+[<img class="alignnone" title="IMAG0183.jpg" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0183.jpg" />][1]  
 The King&#8217;s Beavers &#8211; Kent Monkman, 2011
 
-[<img class="alignnone" title="IMAG0184.jpg" alt="image" src="http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0184.jpg" />][2]  
+[<img class="alignnone" title="IMAG0184.jpg" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0184.jpg" />][2]  
 The Arrest of Christ &#8211; Antoine Plamondon, 1839
 
-<a href="http://gregology.net/2013/01/favourite-pieces-at-musee-des-beaux-arts-montreal-round-2/2013-01-03-12-15-18/" rel="attachment wp-att-1289"><img class="alignnone size-large wp-image-1289" alt="2013-01-03 12.15.18" src="http://gregology.net/wp-content/uploads/2013/01/2013-01-03-12.15.18-577x1024.jpg" width="550" height="976" /></a>
+<img class="alignnone size-large wp-image-1289" alt="2013-01-03 12.15.18" src="/wp-content/uploads/2013/01/2013-01-03-12.15.18-577x1024.jpg" width="550" height="976" />
 
 Mile de Verchères &#8211; Louis-Pholilippe Hébert, ~1907
 
@@ -37,5 +37,5 @@ Mile de Verchères &#8211; Louis-Pholilippe Hébert, ~1907
 
 Wo bist De, Edison, &#8230;? Hanging Lamp &#8211; Ingo Maurer GmbH, 1997
 
- [1]: http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0183.jpg
- [2]: http://gregology.net/wp-content/uploads/2013/01/wpid-IMAG0184.jpg
+ [1]: /wp-content/uploads/2013/01/wpid-IMAG0183.jpg
+ [2]: /wp-content/uploads/2013/01/wpid-IMAG0184.jpg

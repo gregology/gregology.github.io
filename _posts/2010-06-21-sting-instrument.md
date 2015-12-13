@@ -29,4 +29,4 @@ Being able to make music would be pretty cool so I&#8217;ve decided to buy a str
   
 [poll id=&#8221;2&#8243;]
 
-If you have any other options that you feel are missing from this poll, please comment and I&#8217;ll put them in <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+If you have any other options that you feel are missing from this poll, please comment and I&#8217;ll put them in <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

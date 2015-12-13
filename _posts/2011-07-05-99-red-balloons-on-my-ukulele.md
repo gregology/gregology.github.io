@@ -24,6 +24,6 @@ tags:
 ---
 <span class="youtube"></span>
 
-This is a [wikijam project][1] if you would like to add to or remix this song in any way <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+This is a [wikijam project][1] if you would like to add to or remix this song in any way <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
  [1]: http://wikijam.org/index.php?title=99_Red_Balloons

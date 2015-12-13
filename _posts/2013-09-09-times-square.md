@@ -15,17 +15,17 @@ What is this madness? I&#8217;m standing in Times Square people watching in the 
 
 Eleven hours of train and I&#8217;ve arrived in NYC from Montréal. As always I had a wonderful time in MTL, some acroyoga jamming at Ashtanga with acroyoga teacher training friends, then off to the Tam Tams where new friends we&#8217;re found. They invited me to a BBQ and I may have ruined Australia&#8217;s reputation as grill masters. But I had a wonderful time, some new Canadian beers, and met some really inspiring people.
 
-It may be easier to scratch the surface of NYC once I lose this awkward backpack <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+It may be easier to scratch the surface of NYC once I lose this awkward backpack <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
-[<img class="alignnone size-large wp-image-1395" alt="2013-09-09 12.06.15" src="http://gregology.net/wp-content/uploads/2013/09/2013-09-09-12.06.15-e1379082649371-1024x730.jpg" width="550" height="392" />][1]
+[<img class="alignnone size-large wp-image-1395" alt="2013-09-09 12.06.15" src="/wp-content/uploads/2013/09/2013-09-09-12.06.15-e1379082649371-1024x730.jpg" width="550" height="392" />][1]
 
 $6 entry fee, the customs officer feel the love
 
-[<img class="alignnone size-large wp-image-1394" alt="Times square recruiting centre" src="http://gregology.net/wp-content/uploads/2013/09/2013-09-09-21.15.41-1024x768.jpg" width="550" height="412" />][2]
+[<img class="alignnone size-large wp-image-1394" alt="Times square recruiting centre" src="/wp-content/uploads/2013/09/2013-09-09-21.15.41-1024x768.jpg" width="550" height="412" />][2]
 
 &nbsp;
 
 The recruiting centre at Times Square.
 
- [1]: http://gregology.net/wp-content/uploads/2013/09/2013-09-09-12.06.15.jpg
- [2]: http://gregology.net/wp-content/uploads/2013/09/2013-09-09-21.15.41.jpg
+ [1]: /wp-content/uploads/2013/09/2013-09-09-12.06.15.jpg
+ [2]: /wp-content/uploads/2013/09/2013-09-09-21.15.41.jpg

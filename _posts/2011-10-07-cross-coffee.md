@@ -18,6 +18,6 @@ Recently I moved to the Kings Cross area and have noticed a big difference in th
   
 <small>View <a href="http://maps.google.com/maps/ms?msa=0&msid=210881447981604558933.0004ad43bd72a9d831525&ie=UTF8&t=m&vpsrc=6&ll=-33.872625,151.225691&spn=0.008552,0.013733&z=16&source=embed" style="color:#0000FF;text-align:left">Gregology&#8217;s Guide to Cross Coffee</a> in a larger map or on a mobile device</small>
 
-If you would like to make your own coffee map please feel free to use my images traffic light images found <a href="/library/images/googlemaps/coffeetrafficlights/" title="here" target="_blank">here</a> <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+If you would like to make your own coffee map please feel free to use my images traffic light images found <a href="/library/images/googlemaps/coffeetrafficlights/" title="here" target="_blank">here</a> <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
  [1]: http://maps.google.com/maps/ms?msid=210881447981604558933.0004ad43bd72a9d831525&msa=0 "clicking here"

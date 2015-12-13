@@ -38,13 +38,13 @@ The playlist:
 4. Regina Spektor &#8211; On The Radio &#8211; USA (born in Russian SSR)  
 5. Soko &#8211; Dandy Cowboys &#8211; France (Soko really sums up crazy chicks, I love her. I really like the YouTube film clip too)  
 6. Alizée &#8211; J&#8217;en Ai Marre &#8211; France(wow, she&#8217;s very sexy but I&#8217;m still cultured by watching her because she&#8217;s French)  
-7. Peter, Bjorn & John &#8211; Young Folks &#8211; Sweden (I am aware the there is a male singer here too <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )  
+7. Peter, Bjorn & John &#8211; Young Folks &#8211; Sweden (I am aware the there is a male singer here too <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )  
 8. Camille &#8211; Ta Douleur &#8211; French (She mixes some really weird sounds)  
 9. Ladyhawke &#8211; Paris Is Burning &#8211; New Zealand (Pretty cool song)  
 10. Emilíana Torrini &#8211; Jungle Drum &#8211; Iceland (Good song, cool film clip)  
 11. Lily Allen &#8211; LDN &#8211; England (I find her really sexy for some reason, which I don&#8217;t understand because she&#8217;s not that attractive, she doesn&#8217;t hold her self well at all, and has an awful accent)  
 12. Katie Melua &#8211; Shy Boy &#8211; England (Born in Georgian SSR)
 
-These are not in order of preference, just an order that I think will make them most enjoyable. These song are not necessarily my favourite song by each artist, again the song was chosen to fit into a playlist. Also, I&#8217;ve kept a few artists out of this list such as MIA, Blondie, Shakira, Lady Gaga, and Katy Perry because I didn&#8217;t want anyone knowing I was a fan <img src="http://gregology.net/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> If you know of any similar artists that I might like, please tell me in the comments.
+These are not in order of preference, just an order that I think will make them most enjoyable. These song are not necessarily my favourite song by each artist, again the song was chosen to fit into a playlist. Also, I&#8217;ve kept a few artists out of this list such as MIA, Blondie, Shakira, Lady Gaga, and Katy Perry because I didn&#8217;t want anyone knowing I was a fan <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> If you know of any similar artists that I might like, please tell me in the comments.
 
 Enjoy!

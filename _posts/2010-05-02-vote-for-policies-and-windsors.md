@@ -21,7 +21,7 @@ I came across an interesting site for the UK election. [Vote for Policies][1] su
 
 Would anyone be interested in working with me to set up a similar site for the up coming federal election? If I did it by myself I&#8217;m sure it would become a platform for socialist propaganda or turn in to a rant about how our politicians can&#8217;t tie Windsor knots.
 
-One of these two will be our next Prime minister and neither can tie a Windsor knot <img src="http://gregology.net/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+One of these two will be our next Prime minister and neither can tie a Windsor knot <img src="/wp-content/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 [<img src="/wp-content/uploads/2010/05/Kevin_Rudd_by_UNDP-182x300.jpg" alt="" title="Kevin_Rudd_by_UNDP" width="182" height="300" class="alignnone size-medium wp-image-370" />][2][<img src="/wp-content/uploads/2010/05/tony-abbott-225x300.jpg" alt="" title="tony abbott" width="225" height="300" class="alignnone size-medium wp-image-375" />][3]
 
