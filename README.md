@@ -1,6 +1,6 @@
 # Gregology
 
-A simple Jekyll blog for Greg. [gregology.github.io](http://gregology.net)
+A simple Jekyll blog for Greg. [gregology.net](http://gregology.net)
 
 ## Theme
 Carte Noire - Theme was created by [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) and edited by myself.
