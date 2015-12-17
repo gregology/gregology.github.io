@@ -2,17 +2,13 @@
 layout: default
 ---
 
-{% if page.minutes %}
-  {% assign minutes = page.minutes %}
-{% else %}
-  {% assign minutes = content | number_of_words | divided_by: 180 %}
-  {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-{% endif %}
-
 <div class="container-fluid single">
   <div class="row">
 
     <div itemscope itemtype="http://schema.org/Article" class="col-md-12 article">
+      <div class="avatar">
+        <img src="/avatars/{{ page.date | date: '%Y' }}_greg.jpg" class="img-circle about-image" height="150" width="150" alt="Greg in {{ page.date | date: '%Y' }}" />
+      </div>
       {% if site.data.thumbnail[page.thumbnail] %}
       <div class="thumb">
         <img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" />
@@ -46,12 +42,6 @@ layout: default
         </i></small>
       </div>
 
-      <div class="read-time">
-        <small>
-          {{ minutes }} minute read
-        </small>
-      </div>
-
       <div class="content-panel content">
         <span itemprop="articleBody">{{ content }}</span>
 
@@ -71,11 +61,6 @@ layout: default
         </div>
         {% endif %}
 
-      </div>
-
-      <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or leave a comment below!
       </div>
 
       {% if site.disqus_account %}
