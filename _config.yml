@@ -10,7 +10,7 @@ google_analytics: "UA-23771948-1"
 disqus_account: gregology
 github_repository: https://github.com/gregology
 addthis_id: ra-5643e2402a79a349
-post_limit: 5
+post_limit: 10
 
 # Social usernames/URLs
 twitter_username: gregologynet
