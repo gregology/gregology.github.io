@@ -5,23 +5,26 @@ Usage
 {% endcomment %}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 
 <p id="demo"></p>
 
 <script type="text/javascript">
-  var json = (function () {
-      var json = null;
-      $.ajax({
-          'async': false,
-          'global': false,
-          'url': 'https://api.instagram.com/oembed/?url=http://instagram.com/p/{{ include.id }}/',
-          'dataType': "json",
-          'success': function (data) {
-              json = data;
-          }
-      });
-      return json;
-  })();
-  document.getElementById("demo").innerHTML = json;
+var myvideourl="http://instagram.com/p/{{ include.id }}/"
+$.ajaxSetup({
+    scriptCharset: "utf-8",
+    contentType: "application/json; charset=utf-8"
+});
+
+$.getJSON('http://whateverorigin.org/get?url=' +
+    encodeURIComponent(myvideourl) + '&callback=?',
+    function(data) {
+
+        var xx=data.contents
+        var dataindex=xx.search('<meta property="og:video" content=')
+        var end=xx.indexOf('/>', dataindex);
+        var yy=xx.slice(dataindex,end+2)
+        var metaobject=$.parseHTML(yy)
+        document.getElementById("demo").innerHTML = '<video preload="auto" controls autoplay="autoplay" loop width="100%" height="auto" style="margin-top:25px"><source src="' + metaobject[0].content + '" type="video/mp4"/></video>'
+        console.log(metaobject[0].content)
+});
 </script>
