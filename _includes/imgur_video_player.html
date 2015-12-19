@@ -1,0 +1,10 @@
+{% comment %}
+Usage
+=====
+{% include imgur_video_player.html id='erJLOO8' alt='Uberpop Riots in Paris' %}
+{% endcomment %}
+
+<video preload="auto" autoplay loop muted width="100%" height="auto" style="margin-top:25px" alt="{{ include.alt }}">
+  <source src="http://i.imgur.com/{{ include.id }}.webm" type="video/mp4">
+  Your browser does not support the video tag. Click <a href='http://imgur.com/gallery/{{ include.id }}'>here</a> to see the video.
+</video>
