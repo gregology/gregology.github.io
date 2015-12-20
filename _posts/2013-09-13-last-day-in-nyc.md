@@ -13,13 +13,8 @@ tags:
 ---
 &#8220;Multigrain bagel with tofu&#8221; was just called in this deliberately rustic looking [café][1] in Queens. The staff wear fedoras and the customers wear Lulu Lemon while pushing little people cars or typing on MacBooks.  There are a lot more smiles, laughs and in jokes here then the cafés I found in Manhattan. This was the kind of cultural experience I wanted from my trip to NYC, I feel like I could become a local here. Plus they serve decent coffee including cold pressed! My indecisiveness pushed me further out of town as the cheap hostels booked up. It worked out really well and I ended up next door to a 50s style diner. I ate all kinds of awful foods which will help me appreciate American movies.
 
-<div id="attachment_1398" style="width: 560px" class="wp-caption alignnone">
-  <a href="/wp-content/uploads/2013/09/2013-09-12-20.41.38.jpg"><img class="size-large wp-image-1398" alt="Pecan Pie was Trip Tucker's (Star Trek Enterprise) favourite dish and I wanted to experience it." src="/wp-content/uploads/2013/09/2013-09-12-20.41.38-1024x768.jpg" width="550" height="412" /></a>
-
-  <p class="wp-caption-text">
-    Pecan Pie was Trip Tucker&#8217;s (Star Trek Enterprise) favourite dish and I wanted to experience it.
-  </p>
-</div>
+<img alt="Pecan Pie was Trip Tucker's (Star Trek Enterprise) favourite dish and I wanted to experience it." src="/wp-content/uploads/2013/09/2013-09-12-20.41.38.jpg" width="100%" height="auto" />
+Pecan Pie was Trip Tucker&#8217;s (Star Trek Enterprise) favourite dish and I wanted to experience it.
 
 TV lied to me about Manhattan and I didn&#8217;t realise it wasn&#8217;t finished yet. The streets were full of litter  and the buildings were run down or under construction. The people were interesting and it was easy to start a conversation, get a direction, or exchange a smile. By my second day exploring the island the tourist bus salesmen had stopped hassling me so I must have looked somewhat local.
 

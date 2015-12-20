@@ -14,7 +14,7 @@ tags:
 ---
 [Trampoline Day][1] is a self organised event and today was the first time the event had been held in Sydney. It is a two way dialogue where anyone who wishes gets an opportunity to run a talk. Mine was on Open Source and I&#8217;ll upload the YouTube video shortly. Here are my notes from today.
 
-[<img class="alignnone size-thumbnail wp-image-1132" title="IMAG1466" src="/wp-content/uploads/2012/04/IMAG1466-150x150.jpg" alt="" width="150" height="150" />][2]  
+<img title="IMAG1466" src="/wp-content/uploads/2012/04/IMAG1466.jpg" alt="" width="100%" height="auto" />  
 Mornings talks
 
 **Knowledge management** with Aprill @aprillarm  
@@ -40,7 +40,7 @@ Creating business that have a social environmental impact
 The way we interact with information is changing  
 Social enterprise
 
-[<img class="alignnone size-thumbnail wp-image-1133" title="IMAG1467" src="/wp-content/uploads/2012/04/IMAG1467-150x150.jpg" alt="" width="150" height="150" />][4]  
+<img title="IMAG1467" src="/wp-content/uploads/2012/04/IMAG1467.jpg" alt="" width="100%" height="auto"/>
 Afternoon talks
 
 **3D printing** with Adam  
@@ -69,7 +69,9 @@ Sign bank online
 Products made from land fill  
 <a href="http://www.xstransformed.com/" target="_blank">www.xstransformed.com</a>
 
-[<img class="alignnone size-thumbnail wp-image-1134" title="IMAG1468" src="/wp-content/uploads/2012/04/IMAG1468-150x150.jpg" alt="" width="150" height="150" />][5] [<img class="alignnone size-thumbnail wp-image-1135" title="IMAG1469" src="/wp-content/uploads/2012/04/IMAG1469-150x150.jpg" alt="" width="150" height="150" />][6] [<img class="alignnone size-thumbnail wp-image-1136" title="IMAG1470" src="/wp-content/uploads/2012/04/IMAG1470-150x150.jpg" alt="" width="150" height="150" />][7]
+<img title="IMAG1468" src="/wp-content/uploads/2012/04/IMAG1468.jpg" alt="" width="100%" height="auto" />
+<img title="IMAG1469" src="/wp-content/uploads/2012/04/IMAG1469.jpg" alt="" width="100%" height="auto" />
+<img title="IMAG1470" src="/wp-content/uploads/2012/04/IMAG1470.jpg" alt="" width="100%" height="auto" />
 
  [1]: http://trampolineday.com/
  [2]: /wp-content/uploads/2012/04/IMAG1466.jpg

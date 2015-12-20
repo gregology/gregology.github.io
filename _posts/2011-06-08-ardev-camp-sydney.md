@@ -1,5 +1,5 @@
 ---
-title: 'ARDEV Camp &#8211; Sydney'
+title: 'ARDEV Camp Sydney'
 author: Greg
 layout: post
 permalink: /2011/06/ardev-camp-sydney/
@@ -46,10 +46,10 @@ I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse M
   * Junaio
 
 **Images**  
-<img title="318820697" src="/wp-content/uploads/2011/06/318820697-300x168.png" alt="" width="300" height="168" />  
-AndAR model 
+<img title="318820697" src="/wp-content/uploads/2011/06/318820697.png" alt="" width="100%" height="auto"/>  
+AndAR model
 
-<img src="/wp-content/uploads/2011/06/wpid-IMAG0518.jpg" alt="image" width="300" height="450" />  
+<img src="/wp-content/uploads/2011/06/wpid-IMAG0518.jpg" width="100%" height="auto"/>  
 The ultimate goal <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
  [1]: http://ar-ux.com/the-4-key-user-experience-modes-of-augmented

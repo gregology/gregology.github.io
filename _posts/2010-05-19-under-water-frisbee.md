@@ -16,9 +16,9 @@ tags:
 ---
 FYI frisbee is yet another thing that doesn&#8217;t work under water :'(
 
-[<img src="/wp-content/uploads/2010/05/P1220067.resized-300x225.jpg" alt="" title="P1220067.resized" width="300" height="225" class="alignnone size-medium wp-image-397" />][1]
+[<img src="/wp-content/uploads/2010/05/P1220067.resized.jpg" alt="" title="P1220067.resized" width="100%" height="auto" />][1]
 
-[<img src="/wp-content/uploads/2010/05/P1220064.resized-300x225.jpg" alt="" title="P1220064.resized" width="300" height="225" class="alignnone size-medium wp-image-398" />][2]
+[<img src="/wp-content/uploads/2010/05/P1220064.resized.jpg" alt="" title="P1220064.resized" width="100%" height="auto" />][2]
 
  [1]: /wp-content/uploads/2010/05/P1220067.resized.jpg
  [2]: /wp-content/uploads/2010/05/P1220064.resized.jpg

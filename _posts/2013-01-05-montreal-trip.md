@@ -17,11 +17,11 @@ Seven nights was a good start for my exploration of Montréal. I&#8217;ve creat
 
 Just for Laughs Gags is an awesome show but now I can&#8217;t take Montréal police seriously. Whenever I saw a cop I would look at them sideways expecting them to do something funny.
 
-<img class="alignnone size-large wp-image-1337" alt="vlcsnap-2013-01-04-16h49m43s246" src="/wp-content/uploads/2013/01/vlcsnap-2013-01-04-16h49m43s246-1024x576.png" width="550" height="309" />
+<img class="alignnone size-large wp-image-1337" alt="vlcsnap-2013-01-04-16h49m43s246" src="/wp-content/uploads/2013/01/vlcsnap-2013-01-04-16h49m43s246.png" width="100%" height="auto" />
 
 There was an audio visual piece at the Montreal Museum of Fine Arts about some Canadian [Riots][3] in 2011. I watched the whole thing waiting for the gag. It turns out that 140 people were injured during the riot so I probably shouldn&#8217;t have been staring at the screen with a smile on my face.
 
-<img class="alignnone size-large wp-image-1338" alt="Riot_aftermath_Vancouver" src="/wp-content/uploads/2013/01/Riot_aftermath_Vancouver-1024x678.jpg" width="550" height="364" />
+<img class="alignnone size-large wp-image-1338" alt="Riot_aftermath_Vancouver" src="/wp-content/uploads/2013/01/Riot_aftermath_Vancouver.jpg" width="100%" height="auto" />
 
  [1]: https://www.google.ca/maps/@45.514665,-73.5974903,14z/data=!4m2!6m1!1szWQoaquoja_k.kslOO6Nhrybk?hl=en "Montreal"
  [2]: http://www.imdb.com/title/tt0842926/

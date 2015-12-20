@@ -23,13 +23,13 @@ Would anyone be interested in working with me to set up a similar site for the u
 
 One of these two will be our next Prime minister and neither can tie a Windsor knot <img src="/wp-content/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
-[<img src="/wp-content/uploads/2010/05/Kevin_Rudd_by_UNDP-182x300.jpg" alt="" title="Kevin_Rudd_by_UNDP" width="182" height="300" class="alignnone size-medium wp-image-370" />][2][<img src="/wp-content/uploads/2010/05/tony-abbott-225x300.jpg" alt="" title="tony abbott" width="225" height="300" class="alignnone size-medium wp-image-375" />][3]
+[<img src="/wp-content/uploads/2010/05/Kevin_Rudd_by_UNDP.jpg" alt="" title="Kevin_Rudd_by_UNDP" width="182" height="300" class="alignnone size-medium wp-image-370" />][2][<img src="/wp-content/uploads/2010/05/tony-abbott.jpg" alt="" title="tony abbott" width="225" height="300" class="alignnone size-medium wp-image-375" />][3]
 
 Yet this guy, a chick, and a teddy bear (I think he cheated) seem to do it just fine.  
-[<img src="/wp-content/uploads/2010/05/tie1-150x150.jpg" alt="" title="tie1" width="150" height="150" class="alignnone size-thumbnail wp-image-372" />][4][<img src="/wp-content/uploads/2010/05/tie-chick-150x150.jpg" alt="" title="tie chick" width="150" height="150" class="alignnone size-thumbnail wp-image-373" />][5][<img src="/wp-content/uploads/2010/05/tie-teddy-bear-150x150.jpg" alt="" title="tie teddy bear" width="150" height="150" class="alignnone size-thumbnail wp-image-374" />][6]
+[<img src="/wp-content/uploads/2010/05/tie1.jpg" alt="" title="tie1" width="150" height="150" class="alignnone size-thumbnail wp-image-372" />][4][<img src="/wp-content/uploads/2010/05/tie-chick.jpg" alt="" title="tie chick" width="150" height="150" class="alignnone size-thumbnail wp-image-373" />][5][<img src="/wp-content/uploads/2010/05/tie-teddy-bear.jpg" alt="" title="tie teddy bear" width="150" height="150" class="alignnone size-thumbnail wp-image-374" />][6]
 
 FYI Mr Rudd and Mr Abbott  
-[<img src="/wp-content/uploads/2010/05/Tying_the_Windsor_Knot-300x244.jpg" alt="" title="Tying_the_Windsor_Knot" width="300" height="244" class="alignnone size-medium wp-image-376" />][7]
+[<img src="/wp-content/uploads/2010/05/Tying_the_Windsor_Knot.jpg" alt="" title="Tying_the_Windsor_Knot" width="300" height="244" class="alignnone size-medium wp-image-376" />][7]
 
 See, I knew that would happen&#8230;
 

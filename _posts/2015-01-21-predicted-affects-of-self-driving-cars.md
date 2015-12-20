@@ -39,7 +39,7 @@ Millions of humans make their living driving and because of that millions of hum
 
 Insurance will be a key driving factor in the adoption of self driving cars. There will be accidents with self driving cars but *every* self driving car will learn from them. Self driving cars will always be getting safer.
 
-[<img class="alignnone size-large wp-image-1453" src="/wp-content/uploads/2015/01/knight-rider-1024x744.jpg" alt="Kitt - Knight Rider" width="605" height="440" />][5]
+<img class="alignnone size-large wp-image-1453" src="/wp-content/uploads/2015/01/knight-rider.jpg" alt="Kitt - Knight Rider" width="100%" height="auto" />
 
 WHO, ed. (2013). <a class="external text" href="http://www.who.int/iris/bitstream/10665/78256/1/9789241564564_eng.pdf" rel="nofollow">&#8220;Global Status Report on Road Safety 2013: supporting a decade of action&#8221;</a> (PDF) (official report). Geneva, Switzerland: World Health Organisation (WHO). pp. vii, 1–8, 53ff (countries), 244–251 (table A2), 296–303 (table A10). [ISBN][6] [978 92 4 156456 4][7]<span class="reference-accessdate">. Retrieved<span class="nowrap">2014-05-30</span></span>. <q>Tables A2 & A10, data from 2010</q>
 
