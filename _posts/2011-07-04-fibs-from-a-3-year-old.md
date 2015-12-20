@@ -44,9 +44,9 @@ And he assured me that he is allowed to sit on the sofa with the dog.
 
 None of these it turns out were true and I started to clue on towards the end. In order to catch the little monkey out I began recording some of our conversations.
 
-<span class="youtube"></span>
+{% include youtube_player.html id='QT9UOR-Pfn0' %}
 
-<span class="youtube"></span>
+{% include youtube_player.html id='sdQFx1l-wX0' %}
 
 I checked with his mother and he does not eat ice cream for lunch every day <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 

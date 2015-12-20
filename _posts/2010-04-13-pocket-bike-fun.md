@@ -16,6 +16,7 @@ tags:
   - movies
   - pocket bike
 ---
-<span class="youtube"></span>
+
+{% include youtube_player.html id='zpscuMoeF0M' %}
 
 I made this video after Dylan, Paul, and myself played with fire and pocket bikes.

@@ -20,7 +20,7 @@ tags:
 ---
 I have been playing around with augment reality apps for Android and thinking of useful ways to integrate them into my every day life. Augmented reality fashion will allow us to change our appearance with a push of a button. Imagine having a video conference wearing a comfortable t-shirt but appearing as though you are wearing a suit. Other applications include awesome Halloween costumes, girlfriends getting ready quickly, and never turning up to a party wearing the same clothes as someone else. This is just a fun proof of concept but I will attempt to make more useful 3d models to augment over the real t-shirt.
 
-<span class="youtube"></span>
+{% include youtube_player.html id='0DZNwdaujbY' %}
 
 Augmented reality is in its infancy but in the future we should be able to create really useful applications such as augmented girlfirends.
 
