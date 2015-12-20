@@ -1,0 +1,10 @@
+/Users/greg/.rbenv/versions/2.1.6/bin/ruby -r ./siteconf20151219-37223-a2rhtd.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
+installing default libraries

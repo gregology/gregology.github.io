@@ -1,6 +1,9 @@
 ---
 title: Koumpounophobia
 disqus: yep
+redirect_from:
+  - /health/koumpounophobia/
+  - /Health/Koumpounophobia/
 layout: page
 ---
 ### Koumpounophobia Support

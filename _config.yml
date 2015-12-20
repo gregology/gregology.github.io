@@ -40,3 +40,5 @@ exclude: [vendor]
 # Gems
 gems:
   - jekyll-sitemap
+  - jemoji
+  - jekyll-redirect-from

@@ -1,6 +1,10 @@
 ---
 title: Dicktionary
 layout: page
+redirect_from:
+  - /reference/Dicktionary/
+  - /Reference/Dicktionary/
+  - /reference/dictionary/
 related:
   - vagitionary
   - menstruationary
