@@ -20,11 +20,14 @@ $.getJSON('http://whateverorigin.org/get?url=' +
     function(data) {
 
         var xx=data.contents
-        var dataindex=xx.search('<meta property="og:video" content=')
-        var end=xx.indexOf('/>', dataindex);
-        var yy=xx.slice(dataindex,end+2)
-        var metaobject=$.parseHTML(yy)
-        document.getElementById("demo").innerHTML = '<video preload="auto" controls autoplay="autoplay" loop width="100%" height="auto" style="margin-top:25px"><source src="' + metaobject[0].content + '" type="video/mp4"/></video>'
-        console.log(metaobject[0].content)
+        var videourlindex=xx.search('<meta property="og:video" content=')
+        var videourlindexend=xx.indexOf('/>', videourlindex);
+        var videourl=$.parseHTML(xx.slice(videourlindex,videourlindexend+2))[0].content
+
+        var captionindex=xx.search('<meta property="og:title" content=')
+        var captionindexend=xx.indexOf('/>', captionindex);
+        var caption=$.parseHTML(xx.slice(captionindex,captionindexend+2))[0].content
+
+        document.getElementById("demo").innerHTML = '<video preload="auto" controls autoplay="autoplay" loop width="100%" height="auto" style="margin-top:25px"><source src="' + videourl + '" type="video/mp4"/></video><br>' + caption + '<br><a href="' + myvideourl + '">View on Instagram</a>'
 });
 </script>
