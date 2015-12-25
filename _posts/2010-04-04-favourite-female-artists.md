@@ -30,7 +30,6 @@ tags:
   - YouTube
 ---
 Here are my favourite female artists I&#8217;ve found on YouTube.  
-httpvp://www.youtube.com/view\_play\_list?p=9537A050088AC7E5  
 The playlist:  
 1. Sia &#8211; You&#8217;ve Changed &#8211; USA (This is an awesome film clip so a good starting point)  
 2. Lisa Mitchell &#8211; Coin Laundry &#8211; Australia (I fell in love with Lisa after seeing this film clip, wow)  
