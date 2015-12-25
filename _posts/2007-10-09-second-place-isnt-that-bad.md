@@ -8,7 +8,7 @@ categories:
   - General
   - Travel
 ---
-Australia came second place in the ruby world cup match against England which I think is an alright attempt. I&#8217;m off to Ireland tomorrow to drink black beer <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> with Scott, Chris, and Jacqui. My blog entries will be erratic for the next few months because I&#8217;ll be traveling around Europe.
+Australia came second place in the ruby world cup match against England which I think is an alright attempt. I&#8217;m off to Ireland tomorrow to drink black beer :) with Scott, Chris, and Jacqui. My blog entries will be erratic for the next few months because I&#8217;ll be traveling around Europe.
 
 It’s been nice staying in Swanage between my aunt & uncle’s bed and breakfast and my grandmother’s apartment. My mum&#8217;s nose is also stuck to my aunt&#8217;s face which is oddly comforting. Yesterday I visited a castle with my Grandmother (it was built in the 1800’s and was designed to be a restaurant). She’s quite mobile for her age and I enjoyed the walk. She told me about berries. I walked her home and then went for a guided walk around the old rock quarries that litter the Perbeck coast. After the walk I played geologist and hunted fossils. I found lots of fossilized rocks.
 

@@ -26,7 +26,7 @@ This guy asked if I was a virgin&#8230;
 [<img title="chatroulettechild2" src="/wp-content/uploads/2010/04/child5.png" alt="" width="100%" height="auto"/>][4]  
 At least this guy kept his underwear on
 
-I had about 20 funny screenshots but only these 2 were appropriate for my blog. Most of the time it was a disgusted/concerned face that quickly hit the next button <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I had about 20 funny screenshots but only these 2 were appropriate for my blog. Most of the time it was a disgusted/concerned face that quickly hit the next button :)
 
  [1]: http://chatroulette.com/
  [2]: http://sourceforge.net/projects/webcamstudio/

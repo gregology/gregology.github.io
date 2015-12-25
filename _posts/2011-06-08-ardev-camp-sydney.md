@@ -11,7 +11,7 @@ tags:
   - ardevcamp
   - augmented reality
 ---
-I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I&#8217;ll edit this post during the day as new interesting things come up <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I&#8217;ll edit this post during the day as new interesting things come up :)
 
 **Links**
 
@@ -50,7 +50,7 @@ I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse M
 AndAR model
 
 <img src="/wp-content/uploads/2011/06/wpid-IMAG0518.jpg" width="100%" height="auto"/>  
-The ultimate goal <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+The ultimate goal :)
 
  [1]: http://ar-ux.com/the-4-key-user-experience-modes-of-augmented
  [2]: http://www.ardevcamp.org/wiki/index.php?title=ARDevCamp_Sydney_2011_resources "ARDevCamp Sydney 2011 Resources"

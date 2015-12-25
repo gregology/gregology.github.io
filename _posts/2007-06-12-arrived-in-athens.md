@@ -8,4 +8,4 @@ categories:
   - Uncategorized
 ---
 Arrived at Luton, north of London, and staying in Dunstable.  
-15 minute plane flight including time difference <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+15 minute plane flight including time difference :)

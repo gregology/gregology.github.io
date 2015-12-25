@@ -21,6 +21,6 @@ tags:
 
 {% include youtube_player.html id='tGu3Hy_Uga4' %}
 
-This is a [wikijam project][1] if you would like to add to or remix this song in any way <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+This is a [wikijam project][1] if you would like to add to or remix this song in any way :)
 
  [1]: https://web.archive.org/web/20120425073034/http://wikijam.org/

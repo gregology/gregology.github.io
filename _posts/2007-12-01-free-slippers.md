@@ -13,4 +13,4 @@ categories:
 
 L&#8217;aquila , Italy
 
-We stayed in 4 star luxury last night. It was the best option at 00:30 when Adrian had been driving for 8 hours. They gave us slippers. Now we&#8217;re on our way to Napoli to climb a volcano <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+We stayed in 4 star luxury last night. It was the best option at 00:30 when Adrian had been driving for 8 hours. They gave us slippers. Now we&#8217;re on our way to Napoli to climb a volcano :)

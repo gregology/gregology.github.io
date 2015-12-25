@@ -48,7 +48,7 @@ None of these it turns out were true and I started to clue on towards the end. I
 
 {% include youtube_player.html id='sdQFx1l-wX0' %}
 
-I checked with his mother and he does not eat ice cream for lunch every day <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I checked with his mother and he does not eat ice cream for lunch every day :)
 
  [1]: /wp-content/uploads/2011/07/IMAG0239clean.jpg
  [2]: /wp-content/uploads/2011/07/IMAG0248.jpg

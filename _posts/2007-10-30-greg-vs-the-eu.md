@@ -15,4 +15,4 @@ As Brussels is the home of the EU parliament i thought it was my duty to investi
 
 The pissing boy, manneke pis was my next stop. I watched the cheeky little fellow wee into the fountain until it inspired me then I headed to a church wall that had been converted into an outside urinal.
 
-I finished my 10km walk on top of a 10 story car park which gave me 360 views of the city and then retired to my hostel with some apples and sore legs. It&#8217;s an early one for me, tomorrow I&#8217;m off to Koln <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I finished my 10km walk on top of a 10 story car park which gave me 360 views of the city and then retired to my hostel with some apples and sore legs. It&#8217;s an early one for me, tomorrow I&#8217;m off to Koln :)

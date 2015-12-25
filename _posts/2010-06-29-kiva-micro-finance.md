@@ -26,9 +26,9 @@ Yesterday I had a very conversation with my doctor. She had just finished a mast
 
 While studying on Gov Love (Centrelink calls it youth allowance) my income was in the top 10% in the world. That wage was enough for me to live comfortably. Currently I am working full time and I just invested $250 in a ukulele (plus a bit more on a case). If I can spend $250 on myself I think I can invest a little in a stranger by lending them a bit of cash to improve their lives.
 
-You can see where I&#8217;ve chosen to invest my money [here][3]. Ideally I would like to target my loans towards education and health projects but there aren&#8217;t many options in those fields, I suppose everyone wants to support those fields. If you find something especially worthy of support please let me know so I can help out <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+You can see where I&#8217;ve chosen to invest my money [here][3]. Ideally I would like to target my loans towards education and health projects but there aren&#8217;t many options in those fields, I suppose everyone wants to support those fields. If you find something especially worthy of support please let me know so I can help out :)
 
-FYI This is an F chord on a Ukulele <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> but I still don&#8217;t have a mic <img src="/wp-content/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />  
+FYI This is an F chord on a Ukulele :) but I still don&#8217;t have a mic :(  
 [<img class="aligncenter size-full wp-image-438" title="F chord" src="/wp-content/uploads/2010/06/2010-06-29-213650.jpg" alt="" width="640" height="480" />][4]
 
  [1]: http://www.kiva.org

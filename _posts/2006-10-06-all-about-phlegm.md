@@ -16,4 +16,4 @@ So your body produces phlegm to expel immune waste and thus it is important for 
 
 But anyway, back to my first point, is milk bad for you when you have a cough. I did a little more research and came across some conflicting information. There is a lot of very subjective anti milk and pro milk web site both contradicting each other. There isn’t much objective information on the internet regarding milks effect on phlegm production. If milk does increase the production of phlegm when you have a cough it isn’t necessarily a bad thing. It is an immune reaction, a symptom and not a cause of illness. It helps you get better quicker, so even if it does cause phlegm production it’s not bad for you.
 
-Well now that I’ve justified drinking milk to myself I will have a big glass of chocolate milk <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> If nothing else I’ll enjoy it!
+Well now that I’ve justified drinking milk to myself I will have a big glass of chocolate milk :) If nothing else I’ll enjoy it!

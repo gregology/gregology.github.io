@@ -8,12 +8,12 @@ categories:
   - General
   - Travel
 ---
-I&#8217;m having yet another lazy weekend <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> in preparation for my go go travel in the coming months. I booked my train ticket for Europe and look up hire cars for Ireland but my weekend has mainly been filled with laying in bed. Before I left the UK I was planning on visiting my grandmother on my dads side but when I called her and asked she turned me down <img src="/wp-content/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> She&#8217;s not aging so well and I don&#8217;t think I&#8217;m going to be back in the UK anytime soon so I was a little disappointed. She seems to have the maternal instincts of a sponge. I don&#8217;t actually have any memories of her and it would have been nice to have met her if only once. The experience made me appreciate my other grandmother, she&#8217;s my real grandmother, she sends me birthday cards, makes me fat with roasts & fry-ups, and has an Irish accent.
+I&#8217;m having yet another lazy weekend :) in preparation for my go go travel in the coming months. I booked my train ticket for Europe and look up hire cars for Ireland but my weekend has mainly been filled with laying in bed. Before I left the UK I was planning on visiting my grandmother on my dads side but when I called her and asked she turned me down :( She&#8217;s not aging so well and I don&#8217;t think I&#8217;m going to be back in the UK anytime soon so I was a little disappointed. She seems to have the maternal instincts of a sponge. I don&#8217;t actually have any memories of her and it would have been nice to have met her if only once. The experience made me appreciate my other grandmother, she&#8217;s my real grandmother, she sends me birthday cards, makes me fat with roasts & fry-ups, and has an Irish accent.
 
 So here is my plan for the next few months.
 
 19th September  
-I finish work and have a going away bash <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I finish work and have a going away bash :)
 
 21th September  
 Visit family on my mums side.
@@ -36,6 +36,6 @@ My 22 days of rail starts so I&#8217;ll head south through some random places in
 22nd September  
 Head to Switzerland to visit a mate Adrian.
 
-Very lose and it&#8217;s a work in progress <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Very lose and it&#8217;s a work in progress :)
 
-If you have any ideas of cool places to visit over that side of the world please leave a comment and let me know <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+If you have any ideas of cool places to visit over that side of the world please leave a comment and let me know :)

@@ -22,7 +22,7 @@ Have you ever wanted to play lazy arse security guard? The kind that doesn&#8217
 
 [Pretty cityscape][3] &#8211; I&#8217;m not sure where this is but it&#8217;s kind of pretty at night, this camera has crazy zooming abilities.
 
-If you find any other cool ones, drop me a line <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+If you find any other cool ones, drop me a line :)
 
  [1]: http://70.54.178.135:60007/ViewerFrame?Mode=motion
  [2]: http://65.42.42.31/ViewerFrame?Mode=Motion&Resolution=640x480&Quality=Standard&Interval=10&Size=STD&PresetOperation=Move&Language=0

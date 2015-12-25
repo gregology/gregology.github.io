@@ -18,11 +18,11 @@ tags:
   - swap
   - teapot
 ---
-I&#8217;m back from my little trip <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> My little scooter looked pretty lonely while I was away and I want him to feel important and loved again so I&#8217;ve put him up on Gumtree to try and swap him for an art work or a funky teapot.<table WIDTH=100%> <tr VALIGN=TOP> <td WIDTH=33% STYLE="border: none; padding: 0cm"> <p ALIGN=CENTER>
+I&#8217;m back from my little trip :) My little scooter looked pretty lonely while I was away and I want him to feel important and loved again so I&#8217;ve put him up on Gumtree to try and swap him for an art work or a funky teapot.<table WIDTH=100%> <tr VALIGN=TOP> <td WIDTH=33% STYLE="border: none; padding: 0cm"> <p ALIGN=CENTER>
 
 <img src="/wp-content/uploads/2011/04/IMAG0414.jpg" alt="Little Scooter" title="My Little Scooter" width="100%" height="auto" /><br>
 <img src="/wp-content/uploads/2011/04/Mona_Lisa.jpg" alt="The Mona Lisa" title="Mona_Lisa" width="100%" height="auto" /><br>
 
-I&#8217;ll make my decision by the end of this super long weekend and hopefully have a funky artwork to share with you soon <img src="/wp-content/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I&#8217;ll make my decision by the end of this super long weekend and hopefully have a funky artwork to share with you soon :)
 
 So far I&#8217;ve had a half a dozen offers including an interesting painting of Lieyton Hewitt with &#8220;Tennis Pox&#8221;, some antique flower paintings, and a silver tea service set.
