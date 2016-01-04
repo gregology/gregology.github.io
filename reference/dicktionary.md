@@ -349,6 +349,7 @@ The largest list of penis euphemisms
   * Dirk Diggler
   * Disco Stick
   * Divining rod
+  * DNA Rifle
   * Dobber
   * Docking tube
   * Dog knot
