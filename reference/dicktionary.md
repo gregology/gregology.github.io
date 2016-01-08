@@ -1524,6 +1524,7 @@ The largest list of penis euphemisms
   * Tickle pickle
   * Tickle tail
   * Tickle Toby
+  * Tinkle tube
   * Tiddlywinker
   * Tingler
   * Tinkie Winkie
