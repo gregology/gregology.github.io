@@ -93,6 +93,34 @@ ul {
 	}
 }
 
+.submit-button {
+	vertical-align: top;
+	-webkit-box-shadow:rgba(0,0,0,0.98) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.98) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.98) 0 1px 0 0;
+	background-color:#EEE;
+	border-radius:0;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border:1px solid #999;
+	color:#666;
+	font-family:'Lucida Grande',Tahoma,Verdana,Arial,Sans-serif;
+	font-size:11px;
+	font-weight:700;
+	padding:2px 6px;
+}
+
+.textbox-gradient {
+	vertical-align: top;
+	border:1px solid #d1c7ac;
+	width: 230px;
+	color:#333333;
+	padding:3px;
+	margin-right:4px;
+	margin-bottom:8px;
+	font-family:tahoma, arial, sans-serif;
+}
+
 .clearfix:after {
    content: " ";
    display: block;

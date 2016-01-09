@@ -13,10 +13,10 @@ Usage
   }
 </script>
 
-<form action="https://getsimpleform.com/messages?form_api_token=ede78c82d54e22ca15fd7b5e239fb8d9" method="post">
+<form action='https://getsimpleform.com/messages?form_api_token=ede78c82d54e22ca15fd7b5e239fb8d9' method='post'>
   {{ include.submit_slogan }}<br>
   <input type='hidden' name='redirect_to' value='http://gregology.net/reference/{{ include.type }}/#submitted' />
-  <input type='text' name='word' style="color: #000;" />
-  <input type="hidden" name="type" value="{{ include.type }}">
-  <input type='submit' style="color: #000000; background-color: #AAAAAA;" value='Submit' />
+  <input type='hidden' name='type' value='{{ include.type }}'>
+  <input type='text' name='word' class='textbox-gradient' />
+  <input type='submit' class='submit-button' value='Submit' />
 </form>
