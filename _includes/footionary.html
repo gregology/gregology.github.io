@@ -1,0 +1,22 @@
+{% comment %}
+Usage
+=====
+{% include footionary.html type='dicktionary' submit_slogan='Submit your own dick!'%}
+{% endcomment %}
+
+<p id="submitted"></p>
+
+<script type="text/javascript">
+  var hash = window.location.hash.substr(1);
+  if (hash == 'submitted') {
+    document.getElementById("submitted").innerHTML = '<font color="red">Thank you for your submission!</font>';
+  }
+</script>
+
+<form action="https://getsimpleform.com/messages?form_api_token=ede78c82d54e22ca15fd7b5e239fb8d9" method="post">
+  {{ include.submit_slogan }}<br>
+  <input type='hidden' name='redirect_to' value='http://gregology.net/reference/{{ include.type }}/#submitted' />
+  <input type='text' name='word' style="color: #000;" />
+  <input type="hidden" name="type" value="{{ include.type }}">
+  <input type='submit' style="color: #000000; background-color: #AAAAAA;" value='Submit' />
+</form>
