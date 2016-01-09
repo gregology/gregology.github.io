@@ -19,7 +19,6 @@ The largest list of penis euphemisms
 
 **<a name=#>#</a>**
 
-  * 100% all-beef thermometer
   * 21st digit
 
 **<A name=A>A</a>**
@@ -110,6 +109,7 @@ The largest list of penis euphemisms
   * Beef on a stick
   * Beef soldier
   * Beef stick
+  * Beef thermometer
   * Beefy McManstick
   * Bell rope
   * Belly stick
