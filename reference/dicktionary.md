@@ -33,7 +33,7 @@ The largest list of penis euphemisms
   * Afro man
   * AIDS baster
   * AIDS cannon
-  * AIDS grenade, The
+  * AIDS grenade
   * Alabama blacksnake
   * albino asparagus
   * Albino cave dweller
@@ -68,6 +68,7 @@ The largest list of penis euphemisms
   * Bagpipe
   * Baked bean with a roll neck
   * Bald Avenger, The
+  * Bald Bishop
   * Bald butler
   * Bald eagle
   * Bald monkey
@@ -468,6 +469,7 @@ The largest list of penis euphemisms
   * Fountain of youth
   * Frank 'n' beans
   * Frankfurter
+  * Fred
   * Freddy firehose
   * Freddy fish monger
   * Free Willy
@@ -770,6 +772,7 @@ The largest list of penis euphemisms
   * Live sausage
   * Lizard
   * Lobster
+  * Locomotor
   * Lollipop
   * Long Black Limousine
   * Long Dong Silver
@@ -850,6 +853,7 @@ The largest list of penis euphemisms
   * Mangina
   * Mangroin
   * Manhole cover
+  * Manhood helmet
   * Manimal
   * Manoy
   * Marriage tackle
@@ -916,6 +920,7 @@ The largest list of penis euphemisms
   * Moby Dick
   * Mojo
   * Molten mushroom, The
+  * Mommy daddy button
   * Monkey
   * Monkey tamer, The
   * Monkeymaker
@@ -985,6 +990,7 @@ The largest list of penis euphemisms
   * Mutton javelin
   * Mutton pole
   * Muzzled bulldog
+  * My little brother
   * My small little hunter
 
 **<A name=N>N</a>**
@@ -999,6 +1005,7 @@ The largest list of penis euphemisms
   * Nightcrawler
   * Nimrod
   * Nine inch knocker
+  * Nine inch nail
   * Nob
   * Nudger
   * Nuke, The

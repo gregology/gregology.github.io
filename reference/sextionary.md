@@ -76,6 +76,7 @@ layout: page
   * Dip the chip
   * Dip your wick
   * Dirty work at the crossroads
+  * Dirty sanchez
   * Dive in the dark, A
   * Diving for pearls
   * Do a lewd infusion
@@ -151,6 +152,7 @@ layout: page
   * Go fishing
   * Go like a rat up a drainpipe
   * Go to town
+  * Good old poke
   * Goose someone
   * Grease her
   * Grease the wheel
@@ -179,6 +181,7 @@ layout: page
   * Have a turn on your back
   * Heels to Jesus
   * Hide the knee
+  * Hide the pickle
   * Hide the salami
   * Hide the sausage
   * Hippity dippity
@@ -360,6 +363,7 @@ layout: page
   * Smash
   * Smash it
   * Smashing pissers
+  * Snake in the grass
   * Snaking her pipes
   * Sow your (wild) oats
   * Spankin' the cat
@@ -371,6 +375,7 @@ layout: page
   * Storm the pearly gates with your purple-headed devil
   * Storm the trenches
   * Stretch leather
+  * Stretching
   * Stuff the beaver
   * Stuff the taco
   * Suck the sugar-stick

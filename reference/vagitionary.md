@@ -191,7 +191,8 @@ layout: page
   * Four-lipped man eater
   * Framazama
   * French poodle
-  * Front-butt
+  * Front butt
+  * Front bottom
   * Frothing gash
   * Fuck fold
   * Fuck hole
@@ -319,6 +320,7 @@ layout: page
 **<A name=L>L</a>**
 
   * Labbe
+  * Lady garden
   * Landing strip
   * Lap flounder
   * Lips that never speak
