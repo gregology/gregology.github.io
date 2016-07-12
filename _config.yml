@@ -32,7 +32,7 @@ footer_left: "The world according to Greg."
 footer_right: "<a href=\"https://github.com/gregology/gregology.github.io\">Site Source</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 permalink: pretty
