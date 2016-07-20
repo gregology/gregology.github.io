@@ -53,6 +53,7 @@ The largest list of penis euphemisms
   * Assmaster
   * Astralgod
   * Auger-headed gut wrench
+  * Austrian sausage
   * Axolotl
 
 **<A name=B>B</a>**
