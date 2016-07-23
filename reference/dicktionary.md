@@ -1,10 +1,10 @@
 ---
 title: Dicktionary
 layout: page
-redirect_from:
-  - /reference/Dicktionary/
-  - /Reference/Dicktionary/
-  - /reference/dictionary/
+# redirect_from:
+#  - /reference/Dicktionary/
+#  - /Reference/Dicktionary/
+#  - /reference/dictionary/
 related:
   - vagitionary
   - menstruationary
@@ -19,11 +19,14 @@ The largest list of penis euphemisms
 
 {% include footionary.html type='dicktionary' submit_slogan='Submit your own dick!'%}
 
-**<a name=#>#</a>**
+{::options parse_block_html="true" /}
+
+
+**#**
 
   * 21st digit
 
-**<A name=A>A</a>**
+**[A](#A)**
 
   * Abdomen
   * Ace in the hole
@@ -57,7 +60,7 @@ The largest list of penis euphemisms
   * Auger-headed gut wrench
   * Axolotl
 
-**<A name=B>B</a>**
+**[B](#B)**
 
   * Ba-donk-a-donk
   * Baby maker
@@ -196,7 +199,7 @@ The largest list of penis euphemisms
   * Butter churn
   * Butterknife
 
-**<A name=C>C</a>**
+**[C](#C)**
 
   * Camel rider
   * Candy cane
@@ -308,7 +311,7 @@ The largest list of penis euphemisms
   * Cyclops
   * Cycloptic milk spitter
 
-**<A name=D>D</a>**
+**[D](#D)**
 
   * Daddy Long-stroke
   * Daddy's long leg
@@ -389,7 +392,7 @@ The largest list of penis euphemisms
   * Dumb stick
   * Dungula bone
 
-**<A name=E>E</a>**
+**[E](#E)**
 
   * Ear tickler
   * Early riser, The
@@ -417,7 +420,7 @@ The largest list of penis euphemisms
   * Excreting eel
   * Executive staff member
 
-**<A name=F>F</a>**
+**[F](#F)**
 
   * Fallopian fiddler
   * Family jewels
@@ -492,7 +495,7 @@ The largest list of penis euphemisms
   * Fury, The
   * Fuzzbuster
 
-**<A name=G>G</a>**
+**[G](#G)**
 
   * Gadget
   * Gag mallet
@@ -544,7 +547,7 @@ The largest list of penis euphemisms
   * Gut wrench
   * Guy, My
 
-**<A name=H>H</a>**
+**[H](#H)**
 
   * Hair splitter
   * Hairy acorn
@@ -628,7 +631,7 @@ The largest list of penis euphemisms
   * Hunka-hunka burnin' love, The
   * Hymen hammer
 
-**<A name=I>I</a>**
+**[I](#I)**
 
   * Ice cream machine
   * Icing Sugar Fountain
@@ -648,7 +651,7 @@ The largest list of penis euphemisms
   * Ivan the Terrible
   * Ivory shaft
 
-**<A name=J>J</a>**
+**[J](#J)**
 
   * Jack
   * Jack in the box
@@ -697,7 +700,7 @@ The largest list of penis euphemisms
   * Junior burger
   * Junk
 
-**<A name=K>K</a>**
+**[K](#K)**
 
   * Kaptain Kielbasa
   * Ken cracker
@@ -726,7 +729,7 @@ The largest list of penis euphemisms
   * Kuku
   * Kuku bird
 
-**<A name=L>L</a>**
+**[L](#L)**
 
   * Lady dagger
   * Lance of love
@@ -818,7 +821,7 @@ The largest list of penis euphemisms
   * Lung disturber
   * Lung puncturer
 
-**<A name=M>M</a>**
+**[M](#M)**
 
   * Magenta mushroom
   * Magic Flute
@@ -995,7 +998,7 @@ The largest list of penis euphemisms
   * My little brother
   * My small little hunter
 
-**<A name=N>N</a>**
+**[N](#N)**
 
   * Nag
   * Nail
@@ -1014,7 +1017,7 @@ The largest list of penis euphemisms
   * Number Two Pencil
   * Nut cannon
 
-**<A name=O>O</a>**
+**[O](#O)**
 
   * O'Henry
   * Octogon, The
@@ -1073,7 +1076,7 @@ The largest list of penis euphemisms
   * Ovarian pool stick
   * Oyster probe
 
-**<A name=P>P</a>**
+**[P](#P)**
 
   * Package
   * Pajama python
@@ -1266,7 +1269,7 @@ The largest list of penis euphemisms
   * Pussy stretcher
   * Putz
 
-**<A name=Q>Q</a>**
+**[Q](#Q)**
 
   * Quantum jizzix
   * Quarter master
@@ -1275,7 +1278,7 @@ The largest list of penis euphemisms
   * Quim-tickler
   * Quivering member
 
-**<A name=R>R</a>**
+**[R](#R)**
 
   * Rainbow roll
   * Ralph the fur faced chicken
@@ -1326,7 +1329,7 @@ The largest list of penis euphemisms
   * Russian spurtnik
   * Rusty tunnel jangler
 
-**<A name=S>S</a>**
+**[S](#S)**
 
   * Salami
   * Salami grande
@@ -1490,7 +1493,7 @@ The largest list of penis euphemisms
   * Swollen blood bomber
   * Sword
 
-**<A name=T>T</a>**
+**[T](#T)**
 
   * Taco warmer
   * Tadger
@@ -1605,7 +1608,7 @@ The largest list of penis euphemisms
   * Two pounds of swinging meat
   * Two-legged sword
 
-**<A name=U>U</a>**
+**[U](#U)**
 
   * Ugly brother
   * Ugly stick
@@ -1623,7 +1626,7 @@ The largest list of penis euphemisms
   * Upright uncle
   * Uterus unicorn
 
-**<A name=V>V</a>**
+**[V](#V)**
 
   * Vagina miner
   * Vaginal depth detector
@@ -1643,7 +1646,7 @@ The largest list of penis euphemisms
   * Vomit rod
   * Vomiting dummy
 
-**<A name=W>W</a>**
+**[W](#W)**
 
   * Wacker
   * Waldo
@@ -1738,12 +1741,12 @@ The largest list of penis euphemisms
   * Wriggling pole
   * Wrinklebeast
 
-**<A name=X>X</a>**
+**[X](#X)**
 
   * Xcaliber
   * XTC Stick
 
-**<A name=Y>Y</a>**
+**[Y](#Y)**
 
   * Yam
   * Yang
@@ -1760,7 +1763,7 @@ The largest list of penis euphemisms
   * Yummy hummer
   * Yung the Hung
 
-**<A name=Z>Z</a>**
+**[Z](#Z)**
 
   * Zamboner
   * Zamboni baloney
