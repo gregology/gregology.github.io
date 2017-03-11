@@ -1,8 +1,8 @@
 ---
-title: Sting instrument
+title: String instrument
 author: Greg
 layout: post
-permalink: /2010/06/sting-instrument/
+permalink: /2010/06/string-instrument/
 comments: True
 categories:
   - Music
