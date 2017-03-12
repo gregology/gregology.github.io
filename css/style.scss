@@ -18,6 +18,7 @@ $rss:            #eea33a;
 $youtube:        #e52d27;
 $flickr:         #0063DC;
 $skype:          #00aff0;
+$imgur:          #89C621;
 $email:          #654321;
 
 $darker:         #21211E;
@@ -251,6 +252,10 @@ ul {
 
 	.fa-youtube:hover {
 		color: $youtube;
+	}
+
+	.fa-picture-o:hover {
+		color: $imgur;
 	}
 
 	.fa-flickr:hover {
