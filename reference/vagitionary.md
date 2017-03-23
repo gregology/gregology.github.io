@@ -4,11 +4,9 @@ layout: page
 ---
  The largest list of sex euphemisms  
 
-[A][1] :: [B][2] :: [C][3] :: [D][4] :: [E][5] :: [F][6] :: [G][7] :: [H][8] :: [I][9] :: [J][10] :: [K][11] :: [L][12] :: [M][13] :: [N][14] :: [O][15] :: [P][16] :: [Q][17] :: [R][18] :: [S][19] :: [T][20] :: [U][21] :: [V][22] :: [W][23] :: [X][24] :: [Y][25] :: [Z][26]
-
 {% include footionary.html type='vagitionary' submit_slogan='Submit your own vagina!'%}
 
-**<A name=A>A</a>**
+**[A](#A)**
 
   * Abyss, The
   * Afro clam
@@ -16,7 +14,7 @@ layout: page
   * Apple Pie
   * Axe wound
 
-**<A name=B>B</a>**
+**[B](#B)**
 
   * Bacon strip
   * Badly wrapped kebab
@@ -62,7 +60,7 @@ layout: page
   * Bush
   * Busted plum
 
-**<A name=C>C</a>**
+**[C](#C)**
 
   * Cake
   * Camel hoof
@@ -125,7 +123,7 @@ layout: page
   * Cunt
   * Cunti
 
-**<A name=D>D</a>**
+**[D](#D)**
 
   * Dank diner
   * Delta of Venus
@@ -149,13 +147,13 @@ layout: page
   * Droog
   * Dyke snack
 
-**<A name=E>E</a>**
+**[E](#E)**
 
   * Easy bake oven
   * Escalope
   * Everlasting Gobstuffer
 
-**<A name=F>F</a>**
+**[F](#F)**
 
   * Fadge
   * Fandango
@@ -211,7 +209,7 @@ layout: page
   * Fuzzy puddle
   * Fuzzy taco
 
-**<A name=G>G</a>**
+**[G](#G)**
 
   * Gammon goalpost
   * Gange
@@ -246,7 +244,7 @@ layout: page
   * Gutted rabbit
   * Gynie
 
-**<A name=H>H</a>**
+**[H](#H)**
 
   * Haddock pasty
   * Hair pie
@@ -293,19 +291,19 @@ layout: page
   * Hotdog bun
   * Hummer hole
 
-**<A name=I>I</a>**
+**[I](#I)**
 
   * Illnana
   * In hole, The
 
-**<A name=J>J</a>**
+**[J](#J)**
 
   * Jack Nastyface
   * Jellyroll
   * Jizz receptacle
   * Juice box
 
-**<A name=K>K</a>**
+**[K](#K)**
 
   * Kini
   * Kit-Kat
@@ -317,7 +315,7 @@ layout: page
   * Kooter
   * Kunt
 
-**<A name=L>L</a>**
+**[L](#L)**
 
   * Labbe
   * Lady garden
@@ -331,7 +329,7 @@ layout: page
   * Love tunnel
   * Lower lips
 
-**<A name=M>M</a>**
+**[M](#M)**
 
   * Man's ruin
   * Map of Tasmania (Tasi)
@@ -376,7 +374,7 @@ layout: page
   * Mutton chops
   * Mutton flaps
 
-**<A name=N>N</a>**
+**[N](#N)**
 
   * Na-na
   * Na-ner na-ner pudding
@@ -386,7 +384,7 @@ layout: page
   * Ninja slipper
   * Nipper
 
-**<A name=O>O</a>**
+**[O](#O)**
 
   * Oak tree planter
   * Old bacon strip
@@ -399,7 +397,7 @@ layout: page
   * Oval office
   * Oyster taco
 
-**<A name=P>P</a>**
+**[P](#P)**
 
   * Panocha
   * Panty hamster
@@ -471,14 +469,14 @@ layout: page
   * Puter
   * Puty pu
 
-**<A name=Q>Q</a>**
+**[Q](#Q)**
 
   * Quiff
   * Quim
   * Quinnie
   * Quivering mound of love pudding
 
-**<A name=R>R</a>**
+**[R](#R)**
 
   * Raw oyster
   * Receptacle, The
@@ -494,7 +492,7 @@ layout: page
   * Rug
   * Rusty axe wound
 
-**<A name=S>S</a>**
+**[S](#S)**
 
   * Sacapuntas
   * Sagging bacon cones
@@ -565,7 +563,7 @@ layout: page
   * Sweet spot
   * Sword swallower
 
-**<A name=T>T</a>**
+**[T](#T)**
 
   * Taco
   * Taffy puller
@@ -595,12 +593,12 @@ layout: page
   * Two fingered fish mitten
   * Two-lips
 
-**<A name=U>U</a>**
+**[U](#U)**
 
   * Underwear oyster
   * Upside down taco
 
-**<A name=V>V</a>**
+**[V](#V)**
 
   * V Thing, The
   * Vadge
@@ -619,7 +617,7 @@ layout: page
   * Vertical taco
   * Vice of love, The
 
-**<A name=W>W</a>**
+**[W](#W)**
 
   * Warehouse of warmth
   * Warm slurpee
@@ -642,11 +640,11 @@ layout: page
   * Wrinkle
   * Wuzza
 
-**<A name=X>X</a>**
+**[X](#X)**
 
   * X-Box
 
-**<A name=Y>Y</a>**
+**[Y](#Y)**
 
   * Ya-ya
   * Yeast cake
@@ -654,36 +652,6 @@ layout: page
   * Yoni
   * Yum yum
 
-**<A name=Z>Z</a>**
+**[Z](#Z)**
 
   * Zone, The
-
-  [A][1] :: [B][2] :: [C][3] :: [D][4] :: [E][5] :: [F][6] :: [G][7] :: [H][8] :: [I][9] :: [J][10] :: [K][11] :: [L][12] :: [M][13] :: [N][14] :: [O][15] :: [P][16] :: [Q][17] :: [R][18] :: [S][19] :: [T][20] :: [U][21] :: [V][22] :: [W][23] :: [X][24] :: [Y][25] :: [Z][26]
-
-
- [1]: #A
- [2]: #B
- [3]: #C
- [4]: #D
- [5]: #E
- [6]: #F
- [7]: #G
- [8]: #H
- [9]: #I
- [10]: #J
- [11]: #K
- [12]: #L
- [13]: #M
- [14]: #N
- [15]: #O
- [16]: #P
- [17]: #Q
- [18]: #R
- [19]: #S
- [20]: #T
- [21]: #U
- [22]: #V
- [23]: #W
- [24]: #X
- [25]: #Y
- [26]: #Z

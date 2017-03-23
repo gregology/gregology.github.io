@@ -4,11 +4,9 @@ layout: page
 ---
  The largest list of menstruation euphemisms  
 
- [A][1] :: [B][2] :: [C][3] :: [D][4] :: [E][5] :: [F][6] :: [G][7] :: [H][8] :: [I][9] :: [J][10] :: [K][11] :: [L][12] :: [M][13] :: [N][14] :: [O][15] :: [P][16] :: [Q][17] :: [R][18] :: [S][19] :: [T][20] :: [U][21] :: [V][22] :: [W][23] :: [X][24] :: [Y][25] :: [Z][26]
-
 {% include footionary.html type='menstruationary' submit_slogan='Submit your own menstruation!'%}
 
-**<A name=A>A</a>**
+**[A](#A)**
 
   * All anal sex week
   * All over
@@ -19,7 +17,7 @@ layout: page
   * Aunt Rose visiting
   * Aunt Ruby
 
-**<A name=B>B</a>**
+**[B](#B)**
 
   * Barbequed chicken
   * Bitchy witchy week
@@ -30,7 +28,7 @@ layout: page
   * Blow job week
   * Bodily functions
 
-**<A name=C>C</a>**
+**[C](#C)**
 
   * Calendar days
   * Charlie popped out of the bush and I need allies
@@ -50,7 +48,7 @@ layout: page
   * Crimson wave, The
   * Curse, The
 
-**<A name=D>D</a>**
+**[D](#D)**
 
   * Dam has burst, The
   * Dark week, The
@@ -59,25 +57,25 @@ layout: page
   * Dracula's tea bag
   * Dropping clots
 
-**<A name=E>E</a>**
+**[E](#E)**
 
   * End of sentence
   * Executive week
 
-**<A name=F>F</a>**
+**[F](#F)**
 
   * Falling to the communists
   * Flying the red flag
   * Friend from the Red Sea
 
-**<A name=G>G</a>**
+**[G](#G)**
 
   * Game Day for the crimson tide
   * Gift, The
   * Girl time
   * Got the thingies
 
-**<A name=H>H</a>**
+**[H](#H)**
 
   * Hammock season
   * Happy Fun Time
@@ -86,17 +84,17 @@ layout: page
   * Hummer week
   * Hunt for Red October, The
 
-**<A name=I>I</a>**
+**[I](#I)**
 
   * In season
 
-**<A name=J>J</a>**
+**[J](#J)**
 
-**<A name=K>K</a>**
+**[K](#K)**
 
   * Kitty has a nosebleed, The
 
-**<A name=L>L</a>**
+**[L](#L)**
 
   * Lady days
   * Lady in the red dress
@@ -107,7 +105,7 @@ layout: page
   * Little ketchup with my steak, A
   * Little Red Riding Hood (in the woods)
 
-**<A name=M>M</a>**
+**[M](#M)**
 
   * Massacre at the beef curtain
   * Massacre at the Y
@@ -139,12 +137,12 @@ layout: page
   * My red-headed cousin from Virginia
   * My steak is raw
 
-**<A name=N>N</a>**
+**[N](#N)**
 
   * Nosebleed in Australia
   * Nuisance, The
 
-**<A name=O>O</a>**
+**[O](#O)**
 
   * Oil change
   * On the blob
@@ -153,7 +151,7 @@ layout: page
   * Out of commission
   * Out of order
 
-**<A name=P>P</a>**
+**[P](#P)**
 
   * Pad straddling
   * Painters are in, The
@@ -166,11 +164,11 @@ layout: page
   * Playground's muddy, The
   * Playing banjo in Sgt. Zygote's Ragtime Band
 
-**<A name=Q>Q</a>**
+**[Q](#Q)**
 
   * Quiff cry
 
-**<A name=R>R</a>**
+**[R](#R)**
 
   * Rag, The
   * Ragtime
@@ -200,7 +198,7 @@ layout: page
   * Riding the crimson wave
   * Riding the red ball special
 
-**<A name=S>S</a>**
+**[S](#S)**
 
   * Saddling Old Rusty
   * Santa's bringing the presents
@@ -217,7 +215,7 @@ layout: page
   * Surfing the crimson tide
   * Surfing the crimson wave
 
-**<A name=T>T</a>**
+**[T](#T)**
 
   * T-Minus 9 months and holding
   * T.O.M. (Time Of the Month)
@@ -233,55 +231,26 @@ layout: page
   * Train wreck
   * Trolling for vampires
 
-**<A name=U>U</a>**
+**[U](#U)**
 
   * Up on blocks
 
-**<A name=V>V</a>**
+**[V](#V)**
 
   * Vampire's bag lunch
   * Visit from Cap'n Bloodsnatch, A
   * Visit from the Cardinal, A
   * Visitations, The
 
-**<A name=W>W</a>**
+**[W](#W)**
 
   * War in Virginia
   * Weeping womb
   * Wound of Eve that never heals, The
   * Wounded clam
 
-**<A name=X>X</a>**
+**[X](#X)**
 
-**<A name=Y>Y</a>**
+**[Y](#Y)**
 
-**<A name=Z>Z</a>**
-
-[A][1] :: [B][2] :: [C][3] :: [D][4] :: [E][5] :: [F][6] :: [G][7] :: [H][8] :: [I][9] :: [J][10] :: [K][11] :: [L][12] :: [M][13] :: [N][14] :: [O][15] :: [P][16] :: [Q][17] :: [R][18] :: [S][19] :: [T][20] :: [U][21] :: [V][22] :: [W][23] :: [X][24] :: [Y][25] :: [Z][26]
-
- [1]: #A
- [2]: #B
- [3]: #C
- [4]: #D
- [5]: #E
- [6]: #F
- [7]: #G
- [8]: #H
- [9]: #I
- [10]: #J
- [11]: #K
- [12]: #L
- [13]: #M
- [14]: #N
- [15]: #O
- [16]: #P
- [17]: #Q
- [18]: #R
- [19]: #S
- [20]: #T
- [21]: #U
- [22]: #V
- [23]: #W
- [24]: #X
- [25]: #Y
- [26]: #Z
+**[Z](#Z)**

@@ -4,11 +4,9 @@ layout: page
 ---
  The largest list of sex euphemisms  
 
-[A][1] :: [B][2] :: [C][3] :: [D][4] :: [E][5] :: [F][6] :: [G][7] :: [H][8] :: [I][9] :: [J][10] :: [K][11] :: [L][12] :: [M][13] :: [N][14] :: [O][15] :: [P][16] :: [Q][17] :: [R][18] :: [S][19] :: [T][20] :: [U][21] :: [V][22] :: [W][23] :: [X][24] :: [Y][25] :: [Z][26]
-
 {% include footionary.html type='sextionary' submit_slogan='Submit your own sex euphemism!'%}
 
-**<A name=A>A</a>**
+**[A](#A)**
 
   * A bit of the old in & out
   * Act of darkness, The
@@ -17,7 +15,7 @@ layout: page
   * Alternative activities
   * Applepicking
 
-**<A name=B>B</a>**
+**[B](#B)**
 
   * Baking cookies
   * Ball
@@ -55,7 +53,7 @@ layout: page
   * Butter the muffin
   * Buzz the brillo
 
-**<A name=C>C</a>**
+**[C](#C)**
 
   * Chimney
   * Churning butter
@@ -67,7 +65,7 @@ layout: page
   * Creampie
   * Cut the mustard
 
-**<A name=D>D</a>**
+**[D](#D)**
 
   * Dance the buttock jig
   * Dance the matrimonial polka
@@ -87,7 +85,7 @@ layout: page
   * Drilling the ditch
   * Drive home
 
-**<A name=E>E</a>**
+**[E](#E)**
 
   * Eat cauliflower
   * Eat hymeneal sweets
@@ -95,7 +93,7 @@ layout: page
   * Enjoy a flesh session
   * Exchange bodily fluids
 
-**<A name=F>F</a>**
+**[F](#F)**
 
   * Featherbed jig
   * Feed the dummy
@@ -113,7 +111,7 @@ layout: page
   * Fuck
   * Funky Chicken, The
 
-**<A name=G>G</a>**
+**[G](#G)**
 
   * Gateway to her guts
   * Genital exercise
@@ -159,7 +157,7 @@ layout: page
   * Grind your tool
   * Growling at the badger
 
-**<A name=H>H</a>**
+**[H](#H)**
 
   * Hammer someone
   * Hanky panky
@@ -203,12 +201,12 @@ layout: page
   * Humpty dance, The
   * Humpty dumpty
 
-**<A name=I>I</a>**
+**[I](#I)**
 
   * Impale someone
   * Introduce Charlie
 
-**<A name=J>J</a>**
+**[J](#J)**
 
   * Jab someone
   * Jiggle someone
@@ -216,12 +214,12 @@ layout: page
   * Jumbo frank, The
   * Jump someone's bones
 
-**<A name=K>K</a>**
+**[K](#K)**
 
   * Knock boots
   * Knocking mops
 
-**<A name=L>L</a>**
+**[L](#L)**
 
   * Lady bits
   * Lay some pipe
@@ -231,7 +229,7 @@ layout: page
   * Light the lamp
   * Lose the match and pocket the stake
 
-**<A name=M>M</a>**
+**[M](#M)**
 
   * Make a fuck trophy
   * Make baskets
@@ -252,7 +250,7 @@ layout: page
   * Mommy-daddy dance
   * Mount someone
 
-**<A name=N>N</a>**
+**[N](#N)**
 
   * Nasty, The
   * Naughty, The
@@ -261,9 +259,9 @@ layout: page
   * Nooner
   * Nose painting
 
-**<A name=O>O</a>**
+**[O](#O)**
 
-**<A name=P>P</a>**
+**[P](#P)**
 
   * Parallel park
   * Parking (the car)
@@ -314,11 +312,11 @@ layout: page
   * Putting sour cream in the burrito
   * Putting the candle in the pumpkin
 
-**<A name=Q>Q</a>**
+**[Q](#Q)**
 
   * Quickie
 
-**<A name=R>R</a>**
+**[R](#R)**
 
   * Ram someone
   * Rear attack
@@ -339,7 +337,7 @@ layout: page
   * Rump work
   * Rumpy Pumpy
 
-**<A name=S>S</a>**
+**[S](#S)**
 
   * Saucing the clam
   * Saw off a chunk
@@ -382,7 +380,7 @@ layout: page
   * Surrender the Pink (Carrie Fisher)
   * Swiping the V-card
 
-**<A name=T>T</a>**
+**[T](#T)**
 
   * Take a belly-ride
   * Take a turn in the stubble
@@ -409,19 +407,19 @@ layout: page
   * Two in the pink, one in the stink
   * Two-backed beast
 
-**<A name=U>U</a>**
+**[U](#U)**
 
   * Ugly, The
   * Up to ya nuts in guts
   * Uppy downy
 
-**<A name=V>V</a>**
+**[V](#V)**
 
   * Varnish your cane
   * Visit the Netherlands
   * visiting the happy valley
 
-**<A name=W>W</a>**
+**[W](#W)**
 
   * Walk the dog
   * Wallpaper the closet
@@ -435,46 +433,17 @@ layout: page
   * Wink wink, nudge nudge
   * Work the hairy oracle
 
-**<A name=X>X</a>**
+**[X](#X)**
 
-**<A name=Y>Y</a>**
+**[Y](#Y)**
 
   * Yodel in the valley
   * Yodeling in the gulley
 
-**<A name=Z>Z</a>**
+**[Z](#Z)**
 
   * Zallywhacking
   * Ziggy-wiggling
   * Zoinkering
   * Zoomin' and boomin'
   * Zwooshing the swoosh
-
-[A][1] :: [B][2] :: [C][3] :: [D][4] :: [E][5] :: [F][6] :: [G][7] :: [H][8] :: [I][9] :: [J][10] :: [K][11] :: [L][12] :: [M][13] :: [N][14] :: [O][15] :: [P][16] :: [Q][17] :: [R][18] :: [S][19] :: [T][20] :: [U][21] :: [V][22] :: [W][23] :: [X][24] :: [Y][25] :: [Z][26]
-
- [1]: #A
- [2]: #B
- [3]: #C
- [4]: #D
- [5]: #E
- [6]: #F
- [7]: #G
- [8]: #H
- [9]: #I
- [10]: #J
- [11]: #K
- [12]: #L
- [13]: #M
- [14]: #N
- [15]: #O
- [16]: #P
- [17]: #Q
- [18]: #R
- [19]: #S
- [20]: #T
- [21]: #U
- [22]: #V
- [23]: #W
- [24]: #X
- [25]: #Y
- [26]: #Z

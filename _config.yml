@@ -1,17 +1,225 @@
-# Site settings
-title: "Gregology"
-email: Greg@gho.st
-description: "The world according to Greg Clarke. Plus links to my online self."
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://gregology.net"
 baseurl: ""
-url: ""
-title_description: "The gateway to digital Greg Clarke."
-title_image: "http://www.gravatar.com/avatar/ce627ea82f589ccb85c6a37b921dcad6.jpg?s=500&d=mm"
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: "Gregology"
+
+# Short description of your site
+description: "The world according to Greg Clarke. Plus links to my online self."
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About: "about"
+  Posts: "posts"
+  Projects:
+    - Smiley Om: "https://SmileyOm.com"
+    - Memair: "https://Memair.com"
+    - Ships Computer: "https://github.com/ShipsComputer"
+    - Acroyoga Ottawa: "http://AcroyogaOttawa.com"
+    - Acro Roulette: "https://play.google.com/store/apps/details?id=st.gho.acro_roulette"
+    - Handy Signs: "http://handysigns.github.io/"
+    - Deprecated Projects: "deprecated_projects"
+  Reference Tools:
+    - Conspiracy Theories: "reference/conspiracies/"
+    - Dicktionary: "reference/dicktionary/"
+    - Gazillion: "reference/gazillion/"
+    - Genarrsis: "reference/genarrsis/"
+    - Koumpounophobia: "reference/koumpounophobia/"
+    - Menstruationary: "reference/menstruationary/"
+    - Sextionary: "reference/sextionary/"
+    - Vagitionary: "reference/vagitionary/"
+    - Women: "reference/women/"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/avatars/2017_greg.jpg"
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Greg Clarke
+  facebook: gregology  # eg. daattali
+  github: gregology    # eg. daattali
+  twitter: gregologynet   # eg. daattali
+  reddit: gregologynet    # eg. daattali
+  linkedin: gregology  # eg. daattali
+  stackoverflow: 1142113/gregology  # eg. "3943160/daattali"
+  instagram: gregology # eg. daattali
+  youtube: gregologynet   # eg. user/daattali or channel/daattali
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: true
+  email: true
+  twitter: true
+  google-plus: false
+  github: true
+  reddit: true
+  linkedin: true
+  xing: false
+  stackoverflow: true
+  snapchat: false
+  instagram: false
+  youtube: true
+  spotify: false
+  telephone: false
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "Gregology.net"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Misc --- #
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "gregology"
+
+# Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-23771948-1"
-luckyorange: 38409
-disqus_account: gregology
-github_repository: https://github.com/gregology
-addthis_id: ra-5643e2402a79a349
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
 post_limit: 10
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
+
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Vagrantfile
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-redirect-from
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
 
 # Social usernames/URLs
 twitter_username: gregologynet
@@ -26,20 +234,3 @@ reddit_username: gregologynet
 youtube_username: gregologynet
 flickr_username: gregologynet
 skype_username: gregory.clarke
-
-# Footer
-footer_left: "The world according to Greg."
-footer_right: "<a href=\"https://github.com/gregology/gregology.github.io\">Site Source</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
-
-# Build settings
-markdown: kramdown
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-permalink: pretty
-exclude: [vendor]
-
-# Gems
-gems:
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-redirect-from
