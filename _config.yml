@@ -23,7 +23,7 @@ description: "The world according to Greg Clarke. Plus links to my online self."
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: "codex"
   Posts: "posts"
   Projects:
     - Smiley Om: "https://SmileyOm.com"
