@@ -18,22 +18,37 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
 - My senses can easily be fooled, I experience the world though my senses
+- I will make more mistakes
 
 
 ## Beliefs about Humans
 
-- Humans have evolved to be social creatures, our genes have evolved to be selfish
-- If a human is not threatened, they will be more social then selfish
+- Humans have evolved to be social creatures
+- Human's genes & memes have evolved to be selfish
 - Humans are not special, sentience is
 - Souls do not exist as separate from the physical body
 - Humans created God
+- Race and ethnicity are social constructs
+- Cultural traits exist, isolated cultures do not
+- Humans of today will appear ludicrous to future generations
+- Humans have never won a war
+- Nations give meaning to wars after the fact
+- Humans will make more mistakes
+
+
+## Beliefs about Science & Technology
+
+- AI technology is advancing faster than humans are learning to critically think
+- AI alone is not a threat to humans
+- Humans with AI is a threat to humans
+- Humans will measure AIs success by it's obedience not its intelligence
 
 
 ## Beliefs about the Universe
 
 - We share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
-- We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
+- I have no cosmic significance, other than that the cosmos is significant and I am part of it
 
 
 ## Perceptions
@@ -55,8 +70,18 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - Human driven vehicles will be uncommon (driven partly by the cost of insurance and an increase in the value of human life)
 - Deurbanisation will occur as proximity to cities becomes less important with new technology like self driving vehicles and augmented reality
 - Pedestrian will reclaim downtown areas from cars
+- AIs will easily pass Turing tests
 
 ### Before 2040
 
 - Road rules will no longer be necessary
-- The United States will not be the dominate world power
+- A human will step foot on Mars
+- Useful general purpose robots will be common
+
+### Before 2050
+
+- Some humans will be amortal (unable to die from disease or age)
+- Self replicating general purpose robots will:
+  - Allow huge infrastructure projects like intercontinental tunnels, space elevators, and cleaning up the environment
+  - Cause human labour as a commodity will be worthless
+  - Unfortunately cause citizens to be less important to politicians and leaders
