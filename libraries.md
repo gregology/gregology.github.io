@@ -1,11 +1,11 @@
 ---
+title: Libraries
 layout: page
 comments: True
 licence: Creative Commons
 ---
 
-# Libraries
-
+Some libraries that Greg maintains.
 
 ## Biased Stop words (Python)
 

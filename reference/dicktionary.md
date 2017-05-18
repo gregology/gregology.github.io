@@ -1,5 +1,5 @@
 ---
-title: Dicktionary - Penis Euphemisms
+title: Dicktionary
 layout: page
 redirect_from:
   - /reference/Dicktionary/
