@@ -28,10 +28,12 @@ navbar-links:
   Projects:
     - Smiley Om: "https://SmileyOm.com"
     - Memair: "https://Memair.com"
+    - SV Catsaway: "https://SVCatsaway.com"
     - Ships Computer: "https://github.com/ShipsComputer"
     - Acroyoga Ottawa: "http://AcroyogaOttawa.com"
     - Acro Roulette: "https://play.google.com/store/apps/details?id=st.gho.acro_roulette"
     - Handy Signs: "http://handysigns.github.io/"
+    - Libraries: "libraries"
     - Deprecated Projects: "deprecated_projects"
   Reference Tools:
     - Dicktionary: "reference/dicktionary/"
