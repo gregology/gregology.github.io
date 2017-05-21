@@ -5,7 +5,7 @@ disqus: yep
 ---
 ### A Gazillion
 
-How much is a Gazillion? To discover how much it is lets first break down the word Gazillion. Etymology of &#8220;illion&#8221;  
+How much is a Gazillion? Lets first break down the word Gazillion. Etymology of `llion`
 From million, from Latin mille, thousand, plus augmentative suffix -ion or -on (literally big thousand)
 
   * Million has 6 zeros
@@ -31,11 +31,9 @@ From million, from Latin mille, thousand, plus augmentative suffix -ion or -on (
   * Googol has 100 zeros.
   * Centillion has 303 zeros (except in Britain, where it has 600 zeros)
   * Googolplex has a googol of zeros  
-    ### Etymology of &#8220;Gaz&#8221;
 
-    From Gazzen, from Latin &#8220;earthly edge&#8221;, or end of the earth, abbreviated to gaz (literally 28810 ancient Greek miles, been one full revolution of the globe) So how much is a Gazillion?  
-    a Gazillion has (28810 x 3) zeros  
-    thus  
-    a Gazillion has 86430 zeros  
-    & thus 1 Gazillion is  
-    1 {% include gazillion_zeros.html %}
+### Etymology of `Gaz`
+
+Gazzen, from Latin `earthly edge`, or end of the earth, abbreviated to gaz (literally 28810 ancient Greek miles, been one full revolution of the globe). Therefore a Gazillion has (28810 x 3) zeros and a Gazillion is...
+
+1 {% include gazillion_zeros.html %}
