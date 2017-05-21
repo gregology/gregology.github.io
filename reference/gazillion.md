@@ -32,7 +32,7 @@ From million, from Latin mille, thousand, plus augmentative suffix -ion or -on (
   * Centillion has 303 zeros (except in Britain, where it has 600 zeros)
   * Googolplex has a googol of zeros  
 
-### Etymology of `Gaz`
+### Etymology of Gaz
 
 Gazzen, from Latin `earthly edge`, or end of the earth, abbreviated to gaz (literally 28810 ancient Greek miles, been one full revolution of the globe). Therefore a Gazillion has (28810 x 3) zeros and a Gazillion is...
 

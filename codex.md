@@ -29,10 +29,12 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - Souls do not exist as separate from the physical body
 - Humans created God
 - Race and ethnicity are social constructs
+- Human segmentations are as fleeting at fashion
 - Cultural traits exist, isolated cultures do not
 - Humans of today will appear ludicrous to future generations
-- Humans have never won a war
+- Armies & governments win & lose in war, civilians & soldiers only lose in war
 - Nations give meaning to wars after the fact
+- Plants & animals domesticated humans
 - Humans will make more mistakes
 
 
@@ -41,7 +43,8 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - AI technology is advancing faster than humans are learning to critically think
 - AI alone is not a threat to humanity
 - Humans with AI is a threat to humanity
-- Humans will measure AIs success by it's obedience not its intelligence
+- As AI evolves, we must be careful to measure sentience by intelligence not obedience
+- All scientific models are wrong but some are useful
 
 
 ## Beliefs about the Universe
@@ -49,6 +52,7 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - We share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
 - Humans have no cosmic significance, other than that the cosmos is significant and humans are part of it
+- In a casual universe, nobody is irrational
 
 
 ## Perceptions
@@ -61,7 +65,9 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 ## Principles
 
-tbd
+- Do not judge
+- Minimise sentience distress
+
 
 ## Predictions
 

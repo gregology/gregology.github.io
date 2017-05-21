@@ -36,7 +36,7 @@ navbar-links:
     - Acroyoga Ottawa: "http://AcroyogaOttawa.com"
     - Acro Roulette: "https://play.google.com/store/apps/details?id=st.gho.acro_roulette"
     - Packages: "packages"
-    - Deprecated Projects: "deprecated"
+    - Deprecated: "deprecated"
   Reference Tools:
     - Dicktionary: "reference/dicktionary/"
     - Gazillion: "reference/gazillion/"
