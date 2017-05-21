@@ -2,9 +2,9 @@
 layout: page
 comments: True
 licence: Creative Commons
+title: Codex Vitae
 ---
 
-# Codex Vitae
 This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
 
 #### Changelog
@@ -39,8 +39,8 @@ This document's purpose is to capture my beliefs about the universe, track how m
 ## Beliefs about Science & Technology
 
 - AI technology is advancing faster than humans are learning to critically think
-- AI alone is not a threat to humans
-- Humans with AI is a threat to humans
+- AI alone is not a threat to humanity
+- Humans with AI is a threat to humanity
 - Humans will measure AIs success by it's obedience not its intelligence
 
 
@@ -48,7 +48,7 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 - We share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
-- I have no cosmic significance, other than that the cosmos is significant and I am part of it
+- Humans have no cosmic significance, other than that the cosmos is significant and humans are part of it
 
 
 ## Perceptions
@@ -58,6 +58,10 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - I am susceptible to many cognitive biases and logical fallacies
 - I will continue to identify my biases and challenge my perceptions
 
+
+## Principles
+
+tbd
 
 ## Predictions
 
@@ -71,6 +75,7 @@ This document's purpose is to capture my beliefs about the universe, track how m
 - Deurbanisation will occur as proximity to cities becomes less important with new technology like self driving vehicles and augmented reality
 - Pedestrian will reclaim downtown areas from cars
 - AIs will easily pass Turing tests
+- AI audits will rewrite history by discovering patterns in open and closed data
 
 ### Before 2040
 

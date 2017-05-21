@@ -1,0 +1,38 @@
+---
+layout: page
+comments: False
+licence: Creative Commons
+title: Curriculum Vitae
+---
+
+## Work History
+
+### Data Engineer @ Shopify
+Sep 2013 to Present, Ottawa Canada
+
+* Data modelling, reporting, experimenting, & machine learning
+* Mainly working [PySpark](http://spark.apache.org/docs/latest/api/python/) and [Rails](http://rubyonrails.org/)
+
+### Acroyoga Instructor @ Upward Dog Yoga Centre
+Jul 2014 to Present, Ottawa Canada
+
+* Teaching Acroyoga
+
+### Data Specialist @ Amnesty International
+Mar 2012 to Sep 2013, Sydney Australia & Ottawa Canada
+
+* Project management for supporter database
+* Mainly working with [Rails](http://rubyonrails.org/) & SQL
+
+### Communications Specialist @ Australian Army
+Jul 2004 to Nov 2012, Australia
+
+* Peace making tour in Afghanistan
+* Pease keeping tour in Solomon Islands
+
+## Education
+
+### Bachelor's degree @ Murdoch University
+Feb 2008 to Mar 2011, by correspondence
+
+* Terrorism, Counterterrorism, and Security

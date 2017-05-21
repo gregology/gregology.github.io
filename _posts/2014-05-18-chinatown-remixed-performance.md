@@ -8,6 +8,7 @@ categories:
   - YouTube
 tags:
   - acroyoga
+  - youtube
 ---
 
 {% include youtube_player.html id='S0drn6F0M3Q' %}

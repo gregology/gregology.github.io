@@ -1,11 +1,11 @@
 ---
-title: Libraries
+title: Maintained Packages
 layout: page
 comments: True
 licence: Creative Commons
 ---
 
-Some libraries that Greg maintains.
+Some packages that Greg maintains.
 
 ## Biased Stop words (Python)
 

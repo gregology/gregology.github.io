@@ -6,6 +6,8 @@ permalink: /2015/07/jurassic-kitty
 comments: True
 categories:
   - YouTube
+tags:
+  - YouTube
 ---
 
 {% include youtube_player.html id='s7LwXTzVgHo' %}

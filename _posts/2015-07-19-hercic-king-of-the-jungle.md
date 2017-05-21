@@ -6,6 +6,8 @@ permalink: /2015/07/hercic-king-of-the-jungle
 comments: True
 categories:
   - YouTube
+tags:
+  - YouTube
 ---
 
 {% include youtube_player.html id='oYVAxlG5mIQ' %}
