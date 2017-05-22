@@ -5,7 +5,8 @@ licence: Creative Commons
 title: Codex Vitae
 ---
 
-This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
+By consciously defining my beliefs and principles I can recognise when my actions and principles misalign. When this inevitably occurs, I can consciously alter my actions or update this Codex Vitae. This public document is an invitation to others to hold me accountable to my beliefs and commitments.
+
 
 #### Changelog
 - [history of changes to this document](https://github.com/gregology/gregology.github.io/commits/master/codex.md)
@@ -14,11 +15,11 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 - I am ignorant of the universe or multiverse or multiverses but trying my hardest
 - Things that I hold as truths today may not be truths in the future
-- I will embrace change
+- I will continue to change
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
 - My senses can easily be fooled, I experience the world though my senses
-- I will make more mistakes
+- I make mistakes
 
 
 ## Beliefs about Humans
@@ -65,8 +66,12 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 ## Principles
 
+*In order of importance*
+
 - Do not judge
+- Maximise sentience fulfilment
 - Minimise sentience distress
+- My mind and body deserve exercise & rest
 
 
 ## Predictions

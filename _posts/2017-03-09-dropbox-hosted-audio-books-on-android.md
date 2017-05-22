@@ -11,7 +11,6 @@ tags:
   - Dropbox
   - Audiobooks
 licence: Creative Commons
-
 ---
 
 My ears get bored on busses so I consume a lot of audiobooks. Dropbox is my main backup solution and it contains the majority of my collection. I wanted an easy way to consume those audiobooks on my Android device. This is what I did;
@@ -33,7 +32,7 @@ My ears get bored on busses so I consume a lot of audiobooks. Dropbox is my main
 
 <p>
   <img src="/wp-content/uploads/2017/03/2017-03-09 22.58.04.png" alt="Set Dropbox data directory as root folder" style="width: 45%; height: 45%"/><br>
-  In the library settings of Smart AudioBook Player, select the Dropbox data directory as the root folder. The location may be different on your device/version of Android. On my device it was /storage/emulated/0/Android/data/com.dropbox.android/files/[user_id]/scratch/Audiobooks. Checkout <a href='http://android.stackexchange.com/questions/8436/dropbox-for-android-folder-location'>this</a> stackexchange post for hints as to where it lives on your particular device
+  In the library settings of Smart AudioBook Player, select the Dropbox data directory as the root folder. The location may be different on your device/version of Android. On my device it was `/storage/emulated/0/Android/data/com.dropbox.android/files/[user_id]/scratch/Audiobooks`. Checkout <a href='http://android.stackexchange.com/questions/8436/dropbox-for-android-folder-location'>this</a> stackexchange post for hints as to where it lives on your particular device
 </p>
 
 <p>

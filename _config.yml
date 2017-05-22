@@ -27,6 +27,7 @@ navbar-links:
     - Bucket List: "bucket"
     - Codex Vitae: "codex"
     - Curriculum Vitae: "cv"
+    - Timeline: "timeline"
   Posts: "posts"
   Projects:
     - Smiley Om: "https://SmileyOm.com"
