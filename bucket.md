@@ -5,7 +5,6 @@ comments: True
 licence: Creative Commons
 ---
 
-
 ## Experience
 
 * Start a company
@@ -17,21 +16,33 @@ licence: Creative Commons
 * Write a book
 * ~~Learn a partner dance~~
 * ~~Learn a musical instrument~~
-* Live in a megacity
+* ~~Live in a megacity~~
 * Live in the country
 * Learn another language
+* ~~Catch a snake~~
 * See in the wild
   * ~~Penguin~~
   * ~~Dolphin~~
   * ~~Bear~~
+  * ~~Seal~~
   * Orca
+  * Humpback
   * Moose
   * Wolf
+  * Koala
+* Be a mentor
+* ~~Fly in a hot air balloon~~
+* Public speak in front of;
+  * ~~100 people~~
+  * 1000 people
+* Act in a Bollywood movie
+* Go on a meditation retreat
 
 
 ## Travel
 
 * Go into space
+* Set sail with no predetermined destination
 * Visit every major continent
   * ~~Eurasia~~
   * ~~Australia~~
@@ -44,6 +55,13 @@ licence: Creative Commons
 * Experience Northern or Southern Lights
 * ~~Visit an igloo~~
 * Trans-Siberian Express
+* See the sun rise and set on every ocean
+  * ~~Pacific rise~~
+  * ~~Pacific set~~
+  * ~~Atlantic rise~~
+  * ~~Atlantic set~~
+  * Indian rise
+  * ~~Indian set~~
 
 
 ## Physical
