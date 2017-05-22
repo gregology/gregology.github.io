@@ -30,10 +30,9 @@ navbar-links:
     - Timeline: "timeline"
   Posts: "posts"
   Projects:
-    - Smiley Om: "https://SmileyOm.com"
     - Memair: "https://Memair.com"
+    - Smiley Om: "https://SmileyOm.com"
     - SV Catsaway: "https://SVCatsaway.com"
-    - Ships Computer: "https://github.com/ShipsComputer"
     - Acroyoga Ottawa: "http://AcroyogaOttawa.com"
     - Acro Roulette: "https://play.google.com/store/apps/details?id=st.gho.acro_roulette"
     - Packages: "packages"
@@ -41,9 +40,7 @@ navbar-links:
   Reference Tools:
     - Dicktionary: "reference/dicktionary/"
     - Gazillion: "reference/gazillion/"
-    - Genarrsis: "reference/genarrsis/"
     - Koumpounophobia: "reference/koumpounophobia/"
-    - Sextionary: "reference/sextionary/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -215,9 +212,10 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
-  - jekyll-redirect-from
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

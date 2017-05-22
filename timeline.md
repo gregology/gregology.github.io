@@ -63,7 +63,7 @@ Started at Beacon Hill High School
 
 ## 1997
 
-Moved to Forest High School
+Moved to Forest High School because that's where Scott & Tim went
 
 ## 1998
 
@@ -113,17 +113,9 @@ Started dating my first serious girlfriend, Julia Stockdale
 
 Started studying structural engineering at TAFE
 
-### May ?
-
-Sold my first cars
-
 ### June
 
 Wasn't enjoying engineering so I dropped out of TAFE
-
-### July?
-
-Bought my second car, a 1989 Toyota Celica
 
 ### September
 
@@ -137,7 +129,7 @@ Started working full time at Sydney Hi-Fi
 
 ### March?
 
-Sold my Toyota Celica and bought a motorbike, 1983 GSX250
+Bought a motorbike, 1983 GSX250
 
 ### November?
 
@@ -191,21 +183,13 @@ I was enjoying university but was getting restless after 2.5 years living in New
 
 ### July?
 
-Moved back in with my mum in Sydney and became a postman on a motorbike to save up for my overseas trip. Sold my GPX250 and bought a Postie bike
+Moved back in with my mum in Sydney and became a postman on a motorbike to save up for my overseas trip
 
 ## 2007
 
-### January
-
-Sold my Postie bike
-
-### March
-
-Quit my job as a postie
-
 ### April
 
-Nathalie and I left for an overseas trip. After a few days in London we trained to France and settled in Cahors
+Quit my job as a postie and Nathalie and I left for an overseas trip. After a few days in London we trained to France and settled in Cahors
 
 ### June
 
