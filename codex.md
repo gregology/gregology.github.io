@@ -30,16 +30,22 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Humans are not special, sentience is
 - Souls do not exist as separate from the physical body
 - Humans created God
-- Race and ethnicity are social constructs
-- Cultural traits exist, cultures do not
 - Today's humanity will appear ludicrous to future generations
-- Armies & governments win & lose in war, civilians & soldiers only lose in war
-- Nations give meaning to wars after the fact
 - Plants & animals domesticated humans
 - Humans will make more mistakes
 
 
-## Beliefs about Science & Technology
+## Beliefs about Society
+
+- Race and ethnicity are social constructs
+- Cultural traits exist, cultures do not
+- Verbal purity is not social change
+- Friendship is the best way to overcome bigotry
+- Nations give meaning to wars after the fact
+- Armies & governments win & lose in war, civilians & soldiers only lose in war
+
+
+## Beliefs about Science
 
 - AI is already causing huge societal changes
 - AI alone is not a threat to humanity
