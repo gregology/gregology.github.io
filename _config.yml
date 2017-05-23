@@ -122,7 +122,6 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
 
 post_limit: 10
 
@@ -211,7 +210,6 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 gems:
-  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
