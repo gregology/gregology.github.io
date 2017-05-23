@@ -5,7 +5,7 @@ licence: Creative Commons
 title: Codex Vitae
 ---
 
-By consciously defining my beliefs and principles I can recognise when my actions and principles misalign. When this inevitably occurs, I can consciously alter my actions or update this Codex Vitae. This public document is an invitation to others to hold me accountable to my beliefs and commitments.
+By consciously defining my beliefs and principles I can recognise when my actions and thoughts misalign. When this inevitably occurs, I will consciously alter my actions or update this Codex Vitae. This public document is an invitation to others to hold me accountable to my beliefs and commitments.
 
 
 #### Changelog
@@ -13,8 +13,9 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 ## Beliefs about Me
 
-- I am ignorant of the universe or multiverse or multiverses but trying my hardest
-- Things that I hold as truths today may not be truths in the future
+- I am ignorant
+- Today's beliefs may not be tomorrow's beliefs
+- My emotions are my responsibility
 - I will continue to change
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
@@ -30,9 +31,8 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Souls do not exist as separate from the physical body
 - Humans created God
 - Race and ethnicity are social constructs
-- Human segmentations are as fleeting at fashion
-- Cultural traits exist, isolated cultures do not
-- Humans of today will appear ludicrous to future generations
+- Cultural traits exist, cultures do not
+- Today's humanity will appear ludicrous to future generations
 - Armies & governments win & lose in war, civilians & soldiers only lose in war
 - Nations give meaning to wars after the fact
 - Plants & animals domesticated humans
@@ -41,9 +41,9 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 ## Beliefs about Science & Technology
 
-- AI technology is advancing faster than humans are learning to critically think
+- AI is already causing huge societal changes
 - AI alone is not a threat to humanity
-- Humans with AI is a threat to humanity
+- Humans misusing AI is a threat to humanity
 - As AI evolves, we must be careful to measure sentience by intelligence not obedience
 - All scientific models are wrong but some are useful
 
@@ -68,10 +68,10 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 *In order of importance*
 
+- Think objectively
 - Do not judge
 - Maximise sentience fulfilment
 - Minimise sentience distress
-- My mind and body deserve exercise & rest
 
 
 ## Predictions
