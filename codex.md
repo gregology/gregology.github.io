@@ -8,10 +8,25 @@ title: Codex Vitae
 By consciously defining my beliefs and principles I can recognise when my actions and thoughts misalign. When this inevitably occurs, I will consciously alter my actions or update this Codex Vitae. This public document is an invitation to others to hold me accountable to my beliefs and commitments.
 
 
+## Table of Contents
+
+- [Beliefs](#beliefs)
+  - [Beliefs about Me](#beliefs-about-me)
+  - [Beliefs about Humans](#beliefs-about-humans)
+  - [Beliefs about Society](#beliefs-about-society)
+  - [Beliefs about Science](#beliefs-about-science)
+  - [Beliefs about the Universe](#beliefs-about-the-universe)
+  - [Beliefs about Perceptions](#beliefs-about-perceptions)
+- [Principles](#principles)
+- [Predictions](#predictions)
+
+
 #### Changelog
 - [history of changes to this document](https://github.com/gregology/gregology.github.io/commits/master/codex.md)
 
-## Beliefs about Me
+## Beliefs
+
+### Beliefs about Me
 
 - I am ignorant
 - New information should update my perspective
@@ -24,7 +39,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - I make mistakes
 
 
-## Beliefs about Humans
+### Beliefs about Humans
 
 - Humans have evolved to be social creatures
 - Human's genes & memes have evolved to be selfish
@@ -36,7 +51,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Humans make mistakes
 
 
-## Beliefs about Society
+### Beliefs about Society
 
 - Race and ethnicity are social constructs
 - Cultural traits exist, cultures do not
@@ -46,7 +61,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Armies & governments win & lose in war, civilians & soldiers only lose in war
 
 
-## Beliefs about Science
+### Beliefs about Science
 
 - AI is already causing huge societal changes
 - AI alone is not a threat to humanity
@@ -55,7 +70,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - All scientific models are wrong but some are useful
 
 
-## Beliefs about the Universe
+### Beliefs about the Universe
 
 - We share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
@@ -63,12 +78,12 @@ By consciously defining my beliefs and principles I can recognise when my action
 - In a casual universe, nobody is irrational
 
 
-## Perceptions
+### Beliefs about Perceptions
 
 - I have many implicit associations that lead to bias
 - I have a slight automatic preference for people that look like me
 - I am susceptible to many cognitive biases and logical fallacies
-- I will continue to identify my biases and challenge my perceptions
+- It is my responsibility to continue to identify my biases and challenge my perceptions
 
 
 ## Principles
