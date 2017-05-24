@@ -18,6 +18,7 @@ By consciously defining my beliefs and principles I can recognise when my action
   - [Beliefs about the Universe](#beliefs-about-the-universe)
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
 - [Principles](#principles)
+- [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
 
 
@@ -69,7 +70,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - AI is already causing huge societal changes
 - AI alone is not a threat to humanity
 - Humans misusing AI is a threat to humanity
-- The Internet can confirm any position
+- Google search can confirm any position
 - As AI evolves, we must be careful to measure sentience by intelligence not obedience
 - All scientific models are wrong but some are useful
 
@@ -94,12 +95,24 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 ## Principles
 
-*In order of importance*
+- Maximise
+  - Thinking critically and objectively
+  - Sentience fulfilment
+  - Understanding other people
+- Minimise
+  - Harbouring hate and resentment
+  - Sentience distress
+  - Judgement of other people
 
-- Think critically and objectively
-- Minimise judgement
-- Maximise sentience fulfilment
-- Minimise sentience distress
+
+## Hopes and Desires
+
+- That my life will be shared with many wonderful people
+- To leave the universe in a better state then when I entered it
+- That I will continue to be challenged and grow
+- To complete the majority of my [bucket list](/bucket)
+- That we achieve a post scarcity economy and become a fulfilment focused society
+- For Humans or their digital offspring will become an intergalactic species
 
 
 ## Predictions

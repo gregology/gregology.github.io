@@ -41,7 +41,6 @@ licence: Creative Commons
 
 ## Travel
 
-* Go into space
 * Set sail with no predetermined destination
 * Visit every major continent
   * ~~Eurasia~~
@@ -89,3 +88,12 @@ licence: Creative Commons
     * ~~Hand to hand~~
     * ~~Needle~~
     * ~~Standing hand to hand~~
+
+
+## Futurism
+
+* Go into space
+* Watch humans step on the Moon
+* Watch humans step on Mars
+* Communicate with extraterrestrial intelligence
+* See a revived extinct species
