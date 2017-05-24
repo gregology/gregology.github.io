@@ -32,10 +32,10 @@ By consciously defining my beliefs and principles I can recognise when my action
 - New information should update my perspective
 - Today's beliefs may not be tomorrow's beliefs
 - My emotions are my responsibility
-- I should continue to change
-- There is no universal purpose of life, we must make our own
-- I am not sure what my purpose of life is yet
+- I learn more from failure then success
 - My senses can easily be fooled, I experience the world though my senses
+- The most dangerous risk I can take is no risk as all
+- It's my responsibility to befriend with people who think differently to me
 - I make mistakes
 
 
@@ -44,6 +44,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Humans have evolved to be social creatures
 - Human's genes & memes have evolved to be selfish
 - Humans are not special, sentience is
+- A person is smart, people are dumb
 - Souls do not exist as separate from the physical body
 - Humans created God
 - Today's humanity will appear ludicrous to future generations
@@ -57,8 +58,10 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Cultural traits exist, cultures do not
 - Verbal purity is not social change
 - Friendship is the best way to overcome bigotry
+- Soldiers generally have more in common with the people they fight then with the leaders that send them to fight
 - Nations give meaning to wars after the fact
 - Armies & governments win & lose in war, civilians & soldiers only lose in war
+- Terrorism is a mental health problem
 
 
 ### Beliefs about Science
@@ -66,6 +69,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - AI is already causing huge societal changes
 - AI alone is not a threat to humanity
 - Humans misusing AI is a threat to humanity
+- The Internet can confirm any position
 - As AI evolves, we must be careful to measure sentience by intelligence not obedience
 - All scientific models are wrong but some are useful
 
@@ -76,6 +80,8 @@ By consciously defining my beliefs and principles I can recognise when my action
 - There are intelligent collective consciousnesses that we do not understand
 - Humans have no cosmic significance, other than that the cosmos is significant and humans are part of it
 - In a casual universe, nobody is irrational
+- There is no universal purpose of life, we must make our own
+- I am not sure what my purpose of life is yet
 
 
 ### Beliefs about Perceptions
@@ -91,7 +97,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 *In order of importance*
 
 - Think critically and objectively
-- Do not judge
+- Minimise judgement
 - Maximise sentience fulfilment
 - Minimise sentience distress
 
