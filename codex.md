@@ -14,9 +14,10 @@ By consciously defining my beliefs and principles I can recognise when my action
 ## Beliefs about Me
 
 - I am ignorant
+- New information should update my perspective
 - Today's beliefs may not be tomorrow's beliefs
 - My emotions are my responsibility
-- I will continue to change
+- I should continue to change
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
 - My senses can easily be fooled, I experience the world though my senses
@@ -32,7 +33,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Humans created God
 - Today's humanity will appear ludicrous to future generations
 - Plants & animals domesticated humans
-- Humans will make more mistakes
+- Humans make mistakes
 
 
 ## Beliefs about Society
@@ -74,7 +75,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 *In order of importance*
 
-- Think objectively
+- Think critically and objectively
 - Do not judge
 - Maximise sentience fulfilment
 - Minimise sentience distress
