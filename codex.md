@@ -39,6 +39,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - It's my responsibility to befriend with people who think differently to me
 - I learn more from failure then success
 - The most dangerous risk I can take is no risk as all
+- My ego is my enemy
 - I make mistakes
 - I am privileged because
   - I am human
@@ -110,6 +111,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Try not to harbouring hate and resentment
 - Minimise Sentience distress
 - Own mistakes and achievements
+- Lose the ego
 
 
 ## Hopes and Desires
