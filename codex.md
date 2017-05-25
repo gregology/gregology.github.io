@@ -112,6 +112,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Minimise Sentience distress
 - Own mistakes and achievements
 - Lose the ego
+- Take risks
 
 
 ## Hopes and Desires
