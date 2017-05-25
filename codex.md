@@ -25,19 +25,27 @@ By consciously defining my beliefs and principles I can recognise when my action
 #### Changelog
 - [history of changes to this document](https://github.com/gregology/gregology.github.io/commits/master/codex.md)
 
+
 ## Beliefs
+
 
 ### Beliefs about Me
 
 - I am ignorant
+- My emotions are my responsibility
+- My senses can easily be fooled, I experience the world though my senses
 - New information should update my perspective
 - Today's beliefs may not be tomorrow's beliefs
-- My emotions are my responsibility
-- I learn more from failure then success
-- My senses can easily be fooled, I experience the world though my senses
-- The most dangerous risk I can take is no risk as all
 - It's my responsibility to befriend with people who think differently to me
+- I learn more from failure then success
+- The most dangerous risk I can take is no risk as all
 - I make mistakes
+- I am privileged because
+  - I am human
+  - I have a loving & supporting family
+  - I natively speak english
+  - of my citizenships and permanent residency
+  - my physical appearance & cultural traits are considered "normal" where I live
 
 
 ### Beliefs about Humans
@@ -77,10 +85,10 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 ### Beliefs about the Universe
 
+- In a casual universe, nobody is irrational
 - We share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
 - Humans have no cosmic significance, other than that the cosmos is significant and humans are part of it
-- In a casual universe, nobody is irrational
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
 
@@ -95,24 +103,23 @@ By consciously defining my beliefs and principles I can recognise when my action
 
 ## Principles
 
-- Maximise
-  - Thinking critically and objectively
-  - Sentience fulfilment
-  - Understanding other people
-- Minimise
-  - Harbouring hate and resentment
-  - Sentience distress
-  - Judgement of other people
+- Think critically and objectively
+- Withhold judgement of others
+- Aim to understand other people
+- Maximise Sentience fulfilment
+- Try not to harbouring hate and resentment
+- Minimise Sentience distress
+- Own mistakes and achievements
 
 
 ## Hopes and Desires
 
-- That my life will be shared with many wonderful people
-- To leave the universe in a better state then when I entered it
-- That I will continue to be challenged and grow
-- To complete the majority of my [bucket list](/bucket)
-- That we achieve a post scarcity economy and become a fulfilment focused society
-- For Humans or their digital offspring will become an intergalactic species
+- My life will be shared with many wonderful & interesting people
+- I will leave the universe in a better state then when I entered it
+- Humans or their digital offspring will become an intergalactic species
+- I will continue to be challenged and grow
+- We achieve a post scarcity economy and become a fulfilment focused society
+- Most items on my [bucket list](/bucket) will be crossed off
 
 
 ## Predictions
@@ -134,6 +141,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Road rules will no longer be necessary
 - A human will step foot on Mars
 - Useful general purpose robots will be common
+- Humans will be augmented to the point that they refer to their tools in the first person
 
 ### Before 2050
 
