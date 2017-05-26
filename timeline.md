@@ -58,7 +58,7 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ### December
 
-🏠 Moved in with Julie in the ByWard Market, Ottawa
+🏠 Moved in with Julie in the ByWard Market, Ottawa. Julie was looking for a female roommate and I misread the Kijiji ad
 
 ### November
 
