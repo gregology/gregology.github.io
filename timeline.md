@@ -212,6 +212,7 @@ A brief history of milestones from my life *(Work in Progress)*
 ### November
 
 🎓 Graduated from TAFE with a score of 92.5
+🌏 Launched Gregology.net
 
 ### July
 
