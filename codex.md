@@ -17,7 +17,7 @@ By consciously defining my beliefs and principles I can recognise when my action
   - [Beliefs about Science](#beliefs-about-science)
   - [Beliefs about the Universe](#beliefs-about-the-universe)
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
-- [Principles](#principles)
+- [Principles and Values](#principles-and-values)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
 
@@ -102,7 +102,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - It is my responsibility to continue to identify my biases and challenge my perceptions
 
 
-## Principles
+## Principles and Values
 
 - Think critically and objectively
 - Withhold judgement of others
@@ -112,7 +112,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Minimise Sentience distress
 - Own mistakes and achievements
 - Lose the ego
-- Take risks
+- Take risks & stay uncomfortable
 
 
 ## Hopes and Desires

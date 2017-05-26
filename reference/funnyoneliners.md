@@ -102,7 +102,7 @@ If Barbie is so popular, why do you have to buy her friends?
 If ignorance is bliss, you must be orgasmic.  
 If you can read this, I can slam on my brakes and sue you!  
 If you can't convince them, confuse them.  
-If you choke a smurf, what color does it turn?  
+If you choke a smurf, what colour does it turn?  
 If you get to it and you can't do it, well there you jolly well are, aren't you.  
 If you haven't much education you must use your brain.  
 If you lend someone $20, and never see that person again; it was probably worth it.  
@@ -112,13 +112,13 @@ IRS: We've got what it takes to take what you've got.
 It IS as bad as you think, and they ARE out to get you.  
 It is far more impressive when others discover your good qualities without your help.  
 It may be that your sole purpose in life is simply to serve as a warning to others.  
-It's always darkest before dawn. So if you're going to steal the neighbor's newspaper, that's the time to do it.  
+It's always darkest before dawn. So if you're going to steal the neighbour's newspaper, that's the time to do it.  
 It's lonely at the top, but you eat better.  
 Jack Kevorkian for White House Physician.  
 Jesus loves you, but everyone else thinks you're an asshole.  
 Join the Army, meet interesting people, and kill them.  
 Keep honking. I'm reloading.  
-Laughing stock: cattle with a sense of humor.  
+Laughing stock: cattle with a sense of humour.  
 Learn from your parents' mistakes: use birth control.  
 Lottery: A tax on people who are bad at math.  
 Love may be blind but marriage is a real eye-opener.  
@@ -172,7 +172,7 @@ The problem with the gene pool is that there is no lifeguard.
 The quickest way to double your money is to fold it in half and put it back in your pocket.  
 The secret of the universe is @*&^^^ NO CARRIER  
 The severity of the itch is inversely proportional to the ability to reach it.  
-The sex was so good that even the neighbors had a cigarette.  
+The sex was so good that even the neighbours had a cigarette.  
 The shortest distance between two points is under construction.  
 The sooner you fall behind the more time you'll have to catch up.  
 The universe is a figment of its own imagination. There's no future in time travel.  
@@ -208,7 +208,7 @@ You can do more with a kind word and a gun than with just a kind word.
 You have the right to remain silent. Anything you say will be misquoted then used against you.  
 You're just jealous because the voices are talking to me and not you!  
 Your gene pool could use a little chlorine.  
-Your kid may be an honors student, but you're still an idiot.
+Your kid may be an honours student, but you're still an idiot.
 Man says to wife "I had a wet dream about you last night, I dreamt you got run over by a bus and I pissed myself laughing".
 Tampax have replaced the string on their tampons with a piece of tinsel... They say it's only for the Christmas period.
 I threw a boomerang a few years ago. I now live in constant fear.
