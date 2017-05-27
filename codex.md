@@ -5,7 +5,7 @@ licence: Creative Commons
 title: Codex Vitae
 ---
 
-By consciously defining my beliefs and principles I can recognise when my actions and thoughts misalign. When this inevitably occurs, I will consciously alter my actions or update this Codex Vitae. This public document is an invitation to others to hold me accountable to my beliefs and commitments.
+By defining my beliefs and principles I can recognise when my actions misalign. When this inevitably occurs, I will *consciously* decide whether to alter my actions or my Codex Vitae. This public document is an invitation to others to hold me accountable to my commitments.
 
 
 ## Table of Contents
@@ -17,7 +17,7 @@ By consciously defining my beliefs and principles I can recognise when my action
   - [Beliefs about Science](#beliefs-about-science)
   - [Beliefs about the Universe](#beliefs-about-the-universe)
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
-- [Principles and Values](#principles-and-values)
+- [Principles](#principles)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
 
@@ -34,12 +34,10 @@ By consciously defining my beliefs and principles I can recognise when my action
 - I am ignorant
 - My emotions are my responsibility
 - My senses can easily be fooled, I experience the world though my senses
-- New information should update my perspective
-- Today's beliefs may not be tomorrow's beliefs
-- It's my responsibility to befriend with people who think differently to me
+- I may not believe tomorrow what I believe today
 - I learn more from failure then success
-- The most dangerous risk I can take is no risk as all
-- My ego is my enemy
+- The most foolish risk I can take is no risk as all
+- I have an ego
 - I make mistakes
 - I am privileged because
   - I am human
@@ -59,6 +57,7 @@ By consciously defining my beliefs and principles I can recognise when my action
 - Humans created God
 - Today's humanity will appear ludicrous to future generations
 - Plants & animals domesticated humans
+- No human changes the world alone and every humans changes the world at least a little
 - Humans make mistakes
 
 
@@ -102,17 +101,19 @@ By consciously defining my beliefs and principles I can recognise when my action
 - It is my responsibility to continue to identify my biases and challenge my perceptions
 
 
-## Principles and Values
+## Principles
 
 - Think critically and objectively
 - Withhold judgement of others
 - Aim to understand other people
 - Maximise Sentience fulfilment
-- Try not to harbouring hate and resentment
+- Let go of hate and resentment
 - Minimise Sentience distress
 - Own mistakes and achievements
-- Lose the ego
+- Fight the ego
 - Take risks & stay uncomfortable
+- New information should update my perspective
+- Befriend those who think differently
 
 
 ## Hopes and Desires

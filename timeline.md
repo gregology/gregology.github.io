@@ -225,7 +225,7 @@ A brief history of milestones from my life *(Work in Progress)*
 ### February
 
 🎓 Quit Sydney Hi-Fi  
-🏠 Moved in with Sam and Aaron in Newcastle  
+🏠 Moved in with my sister Sam & her partner Aaron in Newcastle  
 🎓 Started studying a Tertiary Preparation course at Newcastle TAFE in order to go to university  
 
 ## 2003
