@@ -131,6 +131,7 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 ### Before 2020
 
 - Self driving vehicles will be common
+- Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
 
 ### Before 2030
 
