@@ -97,7 +97,7 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ## 2010
 
-🐶 Molly passed away
+🐶 Molly was put down, we had attempted to rehouse her with the RSPCA but she failed one of their tests and by that time she was out of our custody and couldn't be saved
 
 ### November
 
@@ -246,7 +246,7 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ## 2002
 
-🐶 Lulu passed away
+🐶 Lulu was put down, she was completely blind. I comforted her as the green liquid entered her body
 
 ### September
 
@@ -311,14 +311,15 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ## 1996
 
-🐶 Floppy passed away  
+🐶 Floppy passed away from old age  
 🎓 Started at Beacon Hill High School  
 🇦🇺 Became an Australian citizen  
 🌏 We got the Internet, I remember seeing chat for the first time and I didn't believe my brother that there were real people chatting  
 
 ## 1995
 
-🎓 Graduated from primary school
+🎓 Graduated from primary school  
+🐈 Abby passed away from cancer  
 
 ## 1993
 
@@ -334,7 +335,8 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ## 1989
 
-🖥 Started using our family computer, an Amstrad CPC
+🖥 Started using our family computer, an Amstrad CPC  
+🐈 Adopted our tabby cat Abby  
 
 ### November
 
