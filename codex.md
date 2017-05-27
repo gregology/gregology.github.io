@@ -140,6 +140,7 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 - Pedestrian will reclaim downtown areas from cars
 - AIs will easily pass Turing tests
 - AI audits will rewrite history by discovering patterns in open and closed data
+- Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential and prevalence
 
 ### Before 2040
 
