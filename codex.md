@@ -5,7 +5,7 @@ licence: Creative Commons
 title: Codex Vitae
 ---
 
-By defining my beliefs and principles I can recognise when my actions misalign. When this inevitably occurs, I will *consciously* decide whether to alter my actions or my Codex Vitae. This public document is an invitation to others to hold me accountable to my commitments.
+By defining my beliefs & principles I can recognise when my actions misalign. When this inevitably occurs, I will *consciously* decide whether to alter my actions or my Codex Vitae. This public document is an invitation to others to hold me accountable to my commitments and to help me identify contradictions.
 
 
 ## Table of Contents
@@ -17,6 +17,7 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
   - [Beliefs about Science](#beliefs-about-science)
   - [Beliefs about the Universe](#beliefs-about-the-universe)
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
+  - [Beliefs about my Privilege](#beliefs-about-my-privilege)
 - [Principles](#principles)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
@@ -39,12 +40,6 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 - The most foolish risk I can take is no risk as all
 - I have an ego
 - I make mistakes
-- I am privileged because
-  - I am human
-  - I have a loving & supporting family
-  - I natively speak english
-  - of my citizenships and permanent residency
-  - my physical appearance & cultural traits are considered "normal" where I live
 
 
 ### Beliefs about Humans
@@ -57,13 +52,13 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 - Humans created God
 - Today's humanity will appear ludicrous to future generations
 - Plants & animals domesticated humans
-- No human changes the world alone and every humans changes the world at least a little
+- No human changes the world alone & every humans changes the world at least a little
 - Humans make mistakes
 
 
 ### Beliefs about Society
 
-- Race and ethnicity are social constructs
+- Race & ethnicity are social constructs
 - Cultural traits exist, cultures do not
 - Verbal purity is not social change
 - Friendship is the best way to overcome bigotry
@@ -88,7 +83,7 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 - In a casual universe, nobody is irrational
 - We share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
-- Humans have no cosmic significance, other than that the cosmos is significant and humans are part of it
+- Humans have no cosmic significance, other than that the cosmos is significant & humans are part of it
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
 
@@ -97,24 +92,48 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 
 - I have many implicit associations that lead to bias
 - I have a slight automatic preference for people that look like me
-- I am susceptible to many cognitive biases and logical fallacies
-- It is my responsibility to continue to identify my biases and challenge my perceptions
+- I am susceptible to many cognitive biases & logical fallacies
+- It is my responsibility to continue to identify my biases & challenge my perceptions
+
+
+### Beliefs about my Privilege
+
+- I am privileged because:
+  - I am human
+  - I have a loving & supporting family
+  - my physical appearance & cultural traits are considered "normal" where I live
+  - I natively speak english with a western accent
+  - of my citizenships & permanent residency
+  - I have access to the internet
+  - I understand & create technology
+  - I have a warm dry place to sleep
+  - I have access to healthcare & counselling
+  - I have learned tools to deal with stress
+  - I have free time
+  - have the freedom to travel to most places on earth
+- Humans are privileged because:
+  - we are self aware
+  - we can control our environment
+  - we can control other creatures
+  - we communicate & organise with other each other
+  - we can record & share ideas & concepts
+  - we learn from others experience
 
 
 ## Principles
 
-- Think critically and objectively
-- Remain open minded to opposing views and ideas
+- Think critically
+- Remain objective & open minded
+- Seek opposing views & ideas
 - Withhold judgement of others
-- Aim to understand other people
+- Seek to understand other people's intentions
 - Maximise Sentience fulfilment
-- Let go of hate and resentment
+- Do not harbour hate or resentment
 - Minimise Sentience distress
-- Own mistakes and achievements
-- Fight the ego
+- Own mistakes & achievements
+- Identify & control ego
 - Take risks & stay uncomfortable
-- New information should update my perspective
-- Befriend those who think differently
+- Update or reenforce opinions when presented reliable information
 
 
 ## Hopes and Desires
@@ -122,8 +141,8 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 - My life will be shared with many wonderful & interesting people
 - I will leave the universe in a better state then when I entered it
 - Humans or their digital offspring will become an intergalactic species
-- I will continue to be challenged and grow
-- We achieve a post scarcity economy and become a fulfilment focused society
+- I will continue to be challenged & grow
+- We achieve a post scarcity economy & become a fulfilment focused society
 - Most items on my [bucket list](/bucket) will be crossed off
 
 
@@ -140,8 +159,8 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 - Deurbanisation will occur as proximity to cities becomes less important with new technology like self driving vehicles and augmented reality
 - Pedestrian will reclaim downtown areas from cars
 - AIs will easily pass Turing tests
-- AI audits will rewrite history by discovering patterns in open and closed data
-- Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential and prevalence
+- AI audits will rewrite history by discovering patterns in open & closed data
+- Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential & prevalence
 
 ### Before 2040
 
@@ -154,6 +173,6 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 
 - Some humans will be amortal (unable to die from disease or age)
 - Self replicating general purpose robots will:
-  - Allow huge infrastructure projects like intercontinental tunnels, space elevators, and cleaning up the environment
+  - Allow huge infrastructure projects like intercontinental tunnels, space elevators, & cleaning up the environment
   - Cause human labour as a commodity will be worthless
-  - Unfortunately cause citizens to be less important to politicians and leaders
+  - Unfortunately cause citizens to be less important to politicians & leaders
