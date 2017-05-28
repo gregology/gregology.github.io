@@ -104,6 +104,7 @@ By defining my beliefs and principles I can recognise when my actions misalign. 
 ## Principles
 
 - Think critically and objectively
+- Remain open minded to opposing views and ideas
 - Withhold judgement of others
 - Aim to understand other people
 - Maximise Sentience fulfilment
