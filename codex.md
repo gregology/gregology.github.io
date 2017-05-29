@@ -38,7 +38,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - I may not believe tomorrow what I believe today
 - I learn more from failure then success
 - The most foolish risk I can take is no risk as all
-- I have an ego
+- I have an ego & insecurities
 - I make mistakes
 
 
@@ -113,6 +113,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - have the freedom to travel to most places on earth
 - Humans are privileged because:
   - we are self aware
+  - we are intelligent
+  - we have articulate hands
   - we can control our environment
   - we can control other creatures
   - we communicate & organise with other each other

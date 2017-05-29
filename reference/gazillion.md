@@ -2,6 +2,13 @@
 title: Gazillion
 layout: page
 disqus: yep
+redirect_from:
+  - /GregologicalStudies/gazillion
+  - /GregologicalStudies/Gazillion
+  - /gregologicalstudies/gazillion
+  - /gregologicalstudies/Gazillion
+  - /gazillion
+  - /Gazillion
 ---
 ### A Gazillion
 

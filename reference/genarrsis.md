@@ -2,6 +2,10 @@
 title: Genarrsis
 disqus: yep
 layout: page
+redirect_from:
+  - /GregologicalStudies/Genarrsis
+  - /GregologicalStudies/genarrsis
+  - /gregologicalstudies/genarrsis
 ---
 <img class="aligncenter" src="/library/images/piratebible/cap%27ncrossdplank.jpg" alt="" />  
 001:001 In t&#8217; beginning Admiral White Beard created t&#8217; Pirates Cove and t&#8217; seven seas.
