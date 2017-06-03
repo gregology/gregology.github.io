@@ -16,6 +16,9 @@ tags:
   - Philosophy
   - world domination
 ---
+
+**2017 update:** I bought a boat, [follow along](https://www.youtube.com/channel/UCvxC2_BVnsAcaPEsIUcJx6A) as we visit some of these islands.
+
 Have you ever wanted to start your own country on some island? Here is a list of possible territories to conquer.
 
 **Kermadec Islands**  
