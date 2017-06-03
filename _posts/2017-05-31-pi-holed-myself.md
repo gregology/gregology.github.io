@@ -25,7 +25,7 @@ licence: Creative Commons
 
 Another advantage of DNS level blocking is that the data for the advertisement is never actually sent to the device, which dramatically speeds up web browsing. This becomes obvious when reading ad heavy news articles on mobile devices.
 
-As a side note, I find it easy to morally defend ad-blocking. Advertising is a socially acceptable form of [psychological manipulation](https://en.wikipedia.org/wiki/Media_manipulation#Advertising). I appreciate that I benefit from advertising as it funds many things I enjoy like YouTube. However I contribute directly to content creators via [Patreon](https://www.patreon.com/) and I have the right and a duty to defend myself from propaganda.
+As a side note, I find it easy to morally defend ad-blocking. Advertising is a socially acceptable form of manipulation. I appreciate that I benefit from advertising as it funds many things I enjoy like YouTube. However I contribute directly to content creators via [Patreon](https://www.patreon.com/) and I have the right and a duty to defend myself from propaganda.
 
 Pi-hole is the DNS server for my home network as well as my VPN so I can pi-hole on the go. Things were going great, I was enjoying a faster and less annoying web experience... until I noticed something strange with YouTube's recommendations. Every time I visited YouTube, it would recommend me the same videos, even after I had watched them. After a couple of weeks cursing YouTube, I discovered the problem. Pi-hole was eating requests to `s.youtube.com` which was feeding YouTube's recommendation engine by tracking my viewing habits. `s.youtube.com` was quickly whitelisted and YouTube returned to normal.
 
