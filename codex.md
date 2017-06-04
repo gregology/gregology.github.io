@@ -39,6 +39,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - I learn more from failure then success
 - The most foolish risk I can take is no risk as all
 - I have an ego & insecurities
+- I am optimistic
+- Mindfulness prevents me from making mistakes
 - I make mistakes
 
 
@@ -152,7 +154,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 ### Before 2020
 
-- Self driving vehicles will be common
+- Self driving vehicles will be common (1% of inner city traffic my home town of Ottawa)
 - Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
 
 ### Before 2030
