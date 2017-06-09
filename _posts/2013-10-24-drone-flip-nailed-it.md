@@ -2,7 +2,7 @@
 title: Drone Flip, Nailed It!
 author: Greg
 layout: post
-permalink: /2013-10/drone-flip-nailed-it
+permalink: /2013/10/drone-flip-nailed-it
 comments: True
 categories:
   - YouTube
