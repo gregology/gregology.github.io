@@ -20,6 +20,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
   - [Beliefs about my Privilege](#beliefs-about-my-privilege)
 - [Principles](#principles)
+- [Triggers](#triggers)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
 
@@ -139,6 +140,18 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Identify & control ego
 - Take risks & stay uncomfortable
 - Update or reenforce opinions when presented reliable information
+
+
+## Triggers
+
+- The sound of military jets & helicopters
+  - *Emotional response:* anxiety & fear followed by sadness
+  - *Physical response:* increased heart rate, adrenaline, tight chest, & occasional shaking
+- Explosions, loud bangs, fireworks, and some alarms
+  - *Emotional response:* anxiety & excitement followed by sadness
+  - *Physical response:* increased heart rate, adrenaline, & tight chest
+- Blood
+  - *Physical response:* light headedness and occasional fainting
 
 
 ## Hopes and Desires
