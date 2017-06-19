@@ -19,4 +19,4 @@ I took the advice of an internet cat. We bought a boat and we're taking our cats
 
 {% include youtube_player.html id='W0lhlPdo0mw' %}
 
-If you like it, please [subscribe](https://www.youtube.com/channel/UCvxC2_BVnsAcaPEsIUcJx6A?sub_confirmation=1) to our youtube channel :)
+If you like it, please [subscribe](https://www.youtube.com/SVCatsaway?sub_confirmation=1) to our youtube channel :)

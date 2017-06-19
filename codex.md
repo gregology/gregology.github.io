@@ -3,6 +3,7 @@ layout: page
 comments: True
 licence: Creative Commons
 title: Codex Vitae
+subtitle: An exercise in metacognition
 ---
 
 By defining my beliefs & principles I can recognise when my actions misalign. When this inevitably occurs, I will *consciously* decide whether to alter my actions or my Codex Vitae. This public document is an invitation to others to hold me accountable to my commitments and to help me identify contradictions.
