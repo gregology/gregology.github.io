@@ -114,14 +114,14 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have access to healthcare & counselling
   - I have learned tools to deal with stress
   - I have free time
-  - have the freedom to travel to most places on earth
+  - I have the freedom to travel to most places on earth
 - Humans are privileged because:
   - we are self aware
   - we are intelligent
   - we have articulate hands
   - we can control our environment
   - we can control other creatures
-  - we communicate & organise with other each other
+  - we communicate & organise with each other
   - we can record & share ideas & concepts
   - we learn from others experience
 
@@ -139,7 +139,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Own mistakes & achievements
 - Identify & control ego
 - Take risks & stay uncomfortable
-- Update or reenforce opinions when presented reliable information
+- Update or reenforce opinions when presented with new reliable information
 
 
 ## Triggers
