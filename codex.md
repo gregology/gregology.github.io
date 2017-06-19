@@ -158,7 +158,6 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 - My life will be shared with many wonderful & interesting people
 - I will leave the universe in a better state then when I entered it
-- Humans or their digital offspring will become an intergalactic species
 - I will continue to be challenged & grow
 - We achieve a post scarcity economy & become a fulfilment focused society
 - Most items on my [bucket list](/bucket) will be crossed off
