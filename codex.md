@@ -20,7 +20,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
   - [Beliefs about my Privilege](#beliefs-about-my-privilege)
 - [Principles](#principles)
-- [Triggers](#triggers)
+- [Reactions](#reactions)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
 
@@ -42,7 +42,9 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - The most foolish risk I can take is no risk as all
 - I have an ego & insecurities
 - I am optimistic
-- Mindfulness prevents me from making mistakes
+- I am not the same person I was 5 years ago
+- I hopefully will not be the same person in 5 years
+- Practicing mindfulness helps me act consciously
 - I make mistakes
 
 
@@ -130,9 +132,11 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 - Think critically
 - Remain objective & open minded
-- Seek opposing views & ideas
+- Be effective not busy
+- Find opposing views & ideas
+- Discuss ideas to reason not rationalize
 - Withhold judgement of others
-- Seek to understand other people's intentions
+- Understand people's intentions
 - Maximise Sentience fulfilment
 - Do not harbour hate or resentment
 - Minimise Sentience distress
@@ -142,7 +146,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Update or reenforce opinions when presented with new reliable information
 
 
-## Triggers
+## Reactions
 
 - The sound of military jets & helicopters
   - *Emotional response:* anxiety & fear followed by sadness
@@ -150,8 +154,14 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Explosions, loud bangs, fireworks, and some alarms
   - *Emotional response:* anxiety & excitement followed by sadness
   - *Physical response:* increased heart rate, adrenaline, & tight chest
-- Blood
+- Sight or thought of blood
   - *Physical response:* light headedness and occasional fainting
+- People interrupting to finish my sentiences
+  - *Emotional response:* annoyed
+  - *Conversational response:* become distracted & disengage
+- Being around Alpha people
+  - *Behavioural response:* become more alpha
+  - *Emotional response:* get annoyed at myself for failing to control my ego
 
 
 ## Hopes and Desires
