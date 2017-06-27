@@ -117,6 +117,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have learned tools to deal with stress
   - I have free time
   - I have the freedom to travel to most places on earth
+  - I am able bodied
 - Humans are privileged because:
   - we are self aware
   - we are intelligent
@@ -147,6 +148,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 
 ## Reactions
+
+Subconscious reactions that I have noticed;
 
 - The sound of military jets & helicopters
   - *Emotional response:* anxiety & fear followed by sadness
@@ -195,6 +198,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - A human will step foot on Mars
 - Useful general purpose robots will be common
 - Humans will be augmented to the point that they refer to their tools in the first person
+- Vehicles will travel at 300+kph on Canadian Highways
 
 ### Before 2050
 
