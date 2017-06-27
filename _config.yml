@@ -101,6 +101,8 @@ disqus: "gregology"
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-23771948-1"
 
+lucky_orange: "38409"
+
 # Google Tag Manager ID
 #gtm: ""
 
