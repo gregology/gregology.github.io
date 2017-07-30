@@ -28,6 +28,7 @@ navbar-links:
     - Codex Vitae: "codex"
     - Curriculum Vitae: "cv"
     - Timeline: "timeline"
+    - Feedback: "feedback"
   Posts: "posts"
   Projects:
     - Memair: "https://Memair.com"
