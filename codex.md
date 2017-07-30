@@ -182,6 +182,7 @@ Subconscious reactions that I have noticed;
 
 - Self driving vehicles will be common (1% of inner city traffic my home town of Ottawa)
 - Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
+- Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)
 
 ### Before 2030
 
@@ -191,6 +192,7 @@ Subconscious reactions that I have noticed;
 - AIs will easily pass Turing tests
 - AI audits will rewrite history by discovering patterns in open & closed data
 - Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential & prevalence
+- Critical thinking skills will improve as legacy media fades (alternatively the world will be destroyed by trolls)
 
 ### Before 2040
 
