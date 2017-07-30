@@ -9,6 +9,11 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ## 2017
 
+### September
+
+⛵️ Left on a year long sailing adventure with Diana and our cats
+🛍 Quit Shopify  
+
 ### May
 
 ⛵️ Bought my first boat with Diana
