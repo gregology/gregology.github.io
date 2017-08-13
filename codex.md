@@ -106,7 +106,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 - I am privileged because:
   - I am human
-  - I have a loving & supporting family
+  - I am the youngest in a loving & supporting family
   - my physical appearance & cultural traits are considered "normal" where I live
   - I natively speak english with a western accent
   - of my citizenships & permanent residency
@@ -117,6 +117,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have learned tools to deal with stress
   - I have free time
   - I have the freedom to travel to most places on earth
+  - I have savings
+  - I am a veteran
   - I am able bodied
 - Humans are privileged because:
   - we are self aware
