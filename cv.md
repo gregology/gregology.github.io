@@ -8,15 +8,15 @@ title: Curriculum Vitae
 ## Work History
 
 ### Data Engineer @ Shopify
-Sep 2013 to Present, Ottawa Canada
+Sep 2013 to Sep 2017, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
-* Mainly working [PySpark](http://spark.apache.org/docs/latest/api/python/) and [Rails](http://rubyonrails.org/)
+* Mainly working with [PySpark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](http://rubyonrails.org/)
 
 ### Acroyoga Instructor @ Upward Dog Yoga Centre
-Jul 2014 to Present, Ottawa Canada
+Jul 2014 to Aug 2017, Ottawa Canada
 
-* Teaching Acroyoga
+* Teaching Acroyoga as part of [SmileyOm](https://smileyom.com)
 
 ### Data Specialist @ Amnesty International
 Mar 2012 to Sep 2013, Sydney Australia & Ottawa Canada
