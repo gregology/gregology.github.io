@@ -15,7 +15,6 @@ I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse M
 
 **Links**
 
-  * [The 4 key user experience modes of augmented][1]
   * [http://www.ardevcamp.org/wiki/index.php?title=ARDevCamp\_Sydney\_2011_resources][2]
   * [Remixing Reality Mozilla Demo][3]
   * [Junaio AR demo video][4]
@@ -52,7 +51,6 @@ AndAR model
 <img src="/wp-content/uploads/2011/06/wpid-IMAG0518.jpg" width="100%" height="auto"/>  
 The ultimate goal :)
 
- [1]: http://ar-ux.com/the-4-key-user-experience-modes-of-augmented
  [2]: http://www.ardevcamp.org/wiki/index.php?title=ARDevCamp_Sydney_2011_resources "ARDevCamp Sydney 2011 Resources"
  [3]: https://mozillademos.org/demos/remixingreality/demo.html
  [4]: http://www.youtube.com/watch?v=_8B9_lHYQNc

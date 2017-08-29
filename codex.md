@@ -19,6 +19,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - [Beliefs about the Universe](#beliefs-about-the-universe)
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
   - [Beliefs about my Privilege](#beliefs-about-my-privilege)
+  - [Beliefs about my Responsibilities](#beliefs-about-my-responsibilities)
 - [Principles](#principles)
 - [Reactions](#reactions)
 - [Hopes and Desires](#hopes-and-desires)
@@ -129,6 +130,11 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - we communicate & organise with each other
   - we can record & share ideas & concepts
   - we learn from others experience
+
+
+### Beliefs about my Responsibilities
+
+*Work in progress*
 
 
 ## Principles

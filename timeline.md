@@ -11,8 +11,8 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ### September
 
-⛵️ Left on a year long sailing adventure with Diana and our cats
-🛍 Quit Shopify  
+⛵️ Left on a year long sailing adventure with Diana and our cats  
+🛍 Quit Shopify after 4 amazing years  
 
 ### May
 

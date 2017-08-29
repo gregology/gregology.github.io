@@ -66,8 +66,7 @@ Deaf culture, sign names (has to be made by deaf person), has very strong eye co
 Sign bank online
 
 **Design** with Jess  
-Products made from land fill  
-<a href="http://www.xstransformed.com/" target="_blank">www.xstransformed.com</a>
+Products made from land fill www.xstransformed.com
 
 <img title="IMAG1468" src="/wp-content/uploads/2012/04/IMAG1468.jpg" alt="" width="100%" height="auto" />
 <img title="IMAG1469" src="/wp-content/uploads/2012/04/IMAG1469.jpg" alt="" width="100%" height="auto" />
