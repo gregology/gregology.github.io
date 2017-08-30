@@ -9,7 +9,9 @@ licence: Creative Commons
 categories:
   - Technology
 tags:
-  - tag
+  - technology
+  - machine learning
+  - sailing
 ---
 
 My partner and I are leaving on a [year long sailing trip](https://www.youtube.com/SVCatsaway) this weekend. One of the last things on our shopping list is a spare handheld marine VHF radio. This spare radio will allow us to communicate with other boats if our main radio is incapacitated.
@@ -28,4 +30,4 @@ It was unlikely that Canadian Tire was trying to trick people into floating powe
 
 ![Fat Cat Rowing A Boat](/wp-content/uploads/2017/08/Fat Cat Rowing A Boat.gif){:height="75%" width="75%"}
 
-It far more likely that users of their website inadvertently trained Canadian Tire's search algorithms into believing that "VHF Marine Radio" was a synonym for "Walkie Talkie". A simple mistake for a gullible algorithm. Nowadays machine learning is relatively easy, machine learning useful things is more difficult. We're likely to see more mistakes like this as algorithms penetrate our lives. I just hope the machine are smarter before they attempt their inevitable coup d'etat.
+It far more likely that users of their website inadvertently trained Canadian Tire's search algorithms into believing that "VHF Marine Radio" was a synonym for "Walkie Talkie". A simple mistake for a gullible algorithm. Nowadays machine learning is relatively easy, machine learning useful things is more difficult. We're likely to see more mistakes like this as algorithms penetrate our lives. I just hope the machines are smarter before they attempt their inevitable coup d'etat.
