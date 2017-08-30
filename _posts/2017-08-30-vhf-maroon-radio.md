@@ -20,7 +20,7 @@ Canadian Tire's website return a few entries with the query "VHF Marine Radio" s
 
 ![Canadian Tire VHF Marine Radio Search](/wp-content/uploads/2017/08/Canadian Tire VHF Marine Radio Search.png){:height="75%" width="75%"}
 
-When I arrived however I discovered that none of Canadian Tire's radio were *VHF Marine*, they were all *Walkie Talkies*. This is problematic as Walkie Talkies can not communicate with VHF Marine Radios. Canadian Tire... more like Canadian Liar... amirite?
+When I arrived however I discovered that none of Canadian Tire's radios were *VHF Marine*, they were all *Walkie Talkies*. This is problematic as Walkie Talkies can not communicate with VHF Marine Radios. Canadian Tire... more like Canadian Liar... amirite?
 
 This may seem like an inconsequential mistake until you consider when these radios are likely to be used. In an emergency on the water; Walkie Talkies are as useless as a knitted life raft. Ideally humans will check their equipment before they use them, however these radios normally come as a pair. It would be easy to be lulled into a false sense of security after a successful self radio check.
 
