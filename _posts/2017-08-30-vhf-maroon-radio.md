@@ -16,7 +16,7 @@ tags:
 
 My partner and I are leaving on a [year long sailing trip](https://www.youtube.com/SVCatsaway) this weekend. One of the last things on our shopping list is a spare handheld marine VHF radio. This spare radio will allow us to communicate with other boats if our main radio is incapacitated.
 
-Canadian Tire's website return a few entries with the query "VHF Marine Radio" so I headed off to my local store.
+Canadian Tire's website returned a few entries with the query "VHF Marine Radio" so I headed off to my local store.
 
 ![Canadian Tire VHF Marine Radio Search](/wp-content/uploads/2017/08/Canadian Tire VHF Marine Radio Search.png){:height="75%" width="75%"}
 
