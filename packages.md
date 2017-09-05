@@ -19,6 +19,18 @@ Lists of biased stop words from various genres
 [![GitHub stars](https://img.shields.io/github/stars/gregology/biased-stop-words.svg?style=social&label=Star)](https://github.com/gregology/biased-stop-words)
 
 
+## Spot SDK (Python)
+
+An SDK for the Find Me Spot
+
+[![Package](https://badge.fury.io/py/spot-sdk.svg)](https://badge.fury.io/py/spot-sdk)
+[![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/spot-sdk/blob/master/LICENSE)
+[![Status](https://img.shields.io/pypi/status/spot-sdk.svg)](https://pypi.python.org/pypi/spot-sdk)
+[![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/spot-sdk)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![GitHub stars](https://img.shields.io/github/stars/gregology/spot-sdk.svg?style=social&label=Star)](https://github.com/gregology/spot-sdk)
+
+
 ## gstatsat (Ruby)
 
 A Ruby Gem for calculating bearings of geostationary satellites
