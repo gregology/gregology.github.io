@@ -1,27 +1,8 @@
-# --- General options --- #
-
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://gregology.net"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
-# Name of website
 title: "Gregology"
-
-# Short description of your site
 description: "The world according to Greg Clarke. Plus links to my online self."
 
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
 navbar-links:
   About:
     - Bucket List: "bucket"
@@ -44,30 +25,39 @@ navbar-links:
     - Gazillion: "reference/gazillion/"
     - Koumpounophobia: "reference/koumpounophobia/"
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/avatars/greg.jpg"
+logo: /logo.jpg
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-# title-img: /path/to/image
-
-# --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Greg Clarke
-  facebook: gregology  # eg. daattali
-  github: gregology    # eg. daattali
-  twitter: gregologynet   # eg. daattali
-  reddit: gregologynet    # eg. daattali
-  linkedin: gregology  # eg. daattali
-  stackoverflow: 1142113/gregology  # eg. "3943160/daattali"
-  instagram: gregology # eg. daattali
-  youtube: gregologynet   # eg. user/daattali or channel/daattali
+  facebook: gregology
+  github: gregology
+  twitter: gregologynet
+  reddit: gregologynet
+  linkedin: gregology
+  stackoverflow: 1142113/gregology
+  instagram: gregology
+  youtube: gregologynet
+  stackoverflow: 1142113/gregology
+  wikipedia: gregology
+  imgur: gregology
+  flickr: gregologynet
+  skype: gregory.clarke
 
-# Select which links to show in the footer
+social:
+  name: Gregology
+  links:
+    - https://www.facebook.com/gregology
+    - https://github.com/gregology
+    - https://twitter.com/gregologynet
+    - https://www.reddit.com/user/gregologynet
+    - https://linkedin.com/in/gregology
+    - https://www.youtube.com/gregologynet
+    - https://www.instagram.com/gregology/
+    - https://en.wikipedia.org/wiki/User:Gregology
+    - https://imgur.com/user/gregology
+    - https://stackoverflow.com/users/1142113/gregology
+
 footer-links-active:
   rss: false
   facebook: true
@@ -85,43 +75,20 @@ footer-links-active:
   spotify: false
   telephone: false
 
-# Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
   google: false
   linkedin: false
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "Gregology.net"  # eg. "deanattali.com/beautiful-jekyll"
-
-# --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+url-pretty: "Gregology.net"
 disqus: "gregology"
-
-# Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-23771948-1"
-
 lucky_orange: "38409"
 
-# Google Tag Manager ID
-#gtm: ""
-
-# Facebook App ID
-# fb_app_id: ""
-
-# Excerpt Word Length
-# Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
-
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
 title-separator: "-"
 
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
@@ -132,7 +99,6 @@ post_limit: 10
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
 defaults:
   -
     scope:
@@ -140,19 +106,17 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: true
+      social-share: true
   -
     scope:
-      path: "" # all files
+      path: ""
     values:
       layout: "page"
       show-avatar: true
 
-# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
 
-# Exclude these files from production site
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -161,7 +125,6 @@ exclude:
   - CNAME
   - Vagrantfile
 
-# prose.io config
 prose:
   rooturl: '_posts'
   media: 'img'
@@ -218,20 +181,3 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
-# Social usernames/URLs
-twitter_username: gregologynet
-github_username:  gregology
-linkedin_link: https://ca.linkedin.com/in/gregology
-stackoverflow_link: http://stackoverflow.com/users/1142113/gregology
-instagram_username: gregology
-facebook_username: gregology
-wikipedia_username: gregology
-imgur_username: gregology
-reddit_username: gregologynet
-youtube_username: gregologynet
-flickr_username: gregologynet
-skype_username: gregory.clarke
