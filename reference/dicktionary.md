@@ -5,8 +5,10 @@ redirect_from:
   - /reference/Dicktionary/
   - /Reference/Dicktionary/
   - /reference/dictionary/
-  - /dictionary
+  - /dicktionary
   - /Dicktionary
+  - /dictionary
+  - /Dictionary
 related:
   - vagitionary
   - menstruationary
