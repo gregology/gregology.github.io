@@ -215,5 +215,5 @@ Subconscious reactions that I have noticed;
 - Some humans will be amortal (unable to die from disease or age)
 - Self replicating general purpose robots will:
   - Allow huge infrastructure projects like intercontinental tunnels, space elevators, & cleaning up the environment
-  - Cause human labour as a commodity will be worthless
+  - Cause human labour as a commodity to become worthless
   - Unfortunately cause citizens to be less important to politicians & leaders
