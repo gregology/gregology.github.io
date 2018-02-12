@@ -10,7 +10,7 @@ Some packages that Greg maintains.
 # Python
 
 
-## Biased Stop words
+### Biased Stop words
 
 Lists of biased stop words from various genres
 
@@ -22,7 +22,7 @@ Lists of biased stop words from various genres
 [![GitHub stars](https://img.shields.io/github/stars/gregology/biased-stop-words.svg?style=social&label=Star)](https://github.com/gregology/biased-stop-words)
 
 
-## Spot SDK
+### Spot SDK
 
 An SDK for the Find Me Spot
 
@@ -37,7 +37,7 @@ An SDK for the Find Me Spot
 # Node
 
 
-## Signalk Overboard Notifications
+### Signalk Overboard Notifications
 
 A Signal K Node Server app that notifies when a device goes overboard (or stops providing location updates)
 
@@ -49,7 +49,7 @@ A Signal K Node Server app that notifies when a device goes overboard (or stops 
 [![GitHub stars](https://img.shields.io/github/stars/gregology/signalk-overboard-notifications.svg?style=social&label=Star)](https://github.com/gregology/signalk-overboard-notifications)
 
 
-## LCARS
+### LCARS
 
 A Signal K Node Server app that notifies when a device goes overboard (or stops providing location updates)
 
@@ -64,7 +64,7 @@ A Signal K Node Server app that notifies when a device goes overboard (or stops 
 # Ruby
 
 
-## gstatsat
+### gstatsat
 
 A Ruby Gem for calculating bearings of geostationary satellites
 
@@ -79,7 +79,7 @@ A Ruby Gem for calculating bearings of geostationary satellites
 # GIS
 
 
-## Territorial Timezones
+### Territorial Timezones
 
 Territorial timezone shapefiles
 
