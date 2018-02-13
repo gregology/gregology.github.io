@@ -38,14 +38,15 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - I am ignorant
 - My emotions are my responsibility
 - My senses can easily be fooled, I experience the world though my senses
-- I may not believe tomorrow what I believe today
+- My beliefs should & will change
 - I learn more from failure then success
-- The most foolish risk I can take is no risk as all
+- No risk is a big risk
 - I have an ego & insecurities
 - I am optimistic
 - I am not the same person I was 5 years ago
 - I hopefully will not be the same person in 5 years
 - Practicing mindfulness helps me act consciously
+- My memory is fallible
 - I make mistakes
 
 
@@ -55,11 +56,11 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Human's genes & memes have evolved to be selfish
 - Humans are not special, sentience is
 - A person is smart, people are dumb
-- Souls do not exist as separate from the physical body
+- Humans are physical
 - Humans created God
 - Today's humanity will appear ludicrous to future generations
-- Plants & animals domesticated humans
-- No human changes the world alone & every humans changes the world at least a little
+- Plants & animals also domesticated humans
+- Humans memory is fallible
 - Humans make mistakes
 
 
@@ -71,8 +72,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Friendship is the best way to overcome bigotry
 - Soldiers generally have more in common with the people they fight then with the leaders that send them to fight
 - Nations give meaning to wars after the fact
-- Armies & governments win & lose in war, civilians & soldiers only lose in war
-- Terrorism is a mental health problem
+- Ruling elites win & lose in war, civilians & soldiers only lose wars
+- Terrorism is an economic, educational, & health problem
 
 
 ### Beliefs about Science
@@ -81,14 +82,14 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - AI alone is not a threat to humanity
 - Humans misusing AI is a threat to humanity
 - Google search can confirm any position
-- As AI evolves, we must be careful to measure sentience by intelligence not obedience
+- As deep AI evolves, we must be careful to measure sentience by intelligence not obedience
 - All scientific models are wrong but some are useful
 
 
 ### Beliefs about the Universe
 
 - In a casual universe, nobody is irrational
-- We share the universe with other intelligent life
+- Humans share the universe with other intelligent life
 - There are intelligent collective consciousnesses that we do not understand
 - Humans have no cosmic significance, other than that the cosmos is significant & humans are part of it
 - There is no universal purpose of life, we must make our own
@@ -101,6 +102,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - I have a slight automatic preference for people that look like me
 - I am susceptible to many cognitive biases & logical fallacies
 - It is my responsibility to continue to identify my biases & challenge my perceptions
+- I perceive a fraction of my surroundings
 
 
 ### Beliefs about my Privilege
@@ -143,12 +145,12 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Remain objective & open minded
 - Be effective not busy
 - Find opposing views & ideas
-- Discuss ideas to reason not rationalize
+- Reason ideas, don't rationalize them
 - Withhold judgement of others
 - Understand people's intentions
 - Maximise Sentience fulfilment
-- Do not harbour hate or resentment
 - Minimise Sentience distress
+- Do not harbour hate or resentment
 - Own mistakes & achievements
 - Identify & control ego
 - Take risks & stay uncomfortable

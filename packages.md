@@ -51,7 +51,7 @@ A Signal K Node Server app that notifies when a device goes overboard (or stops 
 
 ### LCARS
 
-A Signal K Node Server app that notifies when a device goes overboard (or stops providing location updates)
+A Star Trek inspired display for Signal K boat data
 
 [![Package](https://img.shields.io/npm/v/signalk-lcars.svg?style=flat)](https://www.npmjs.com/package/signalk-lcars)
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/spot-sdk/blob/master/LICENSE)

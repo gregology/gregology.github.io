@@ -8,7 +8,7 @@ licence: Creative Commons
 ## Experience
 
 * Start a company
-* Big sailing adventure
+* ~~Big sailing adventure~~
 * ~~Sail a tail ship~~
 * Bungee Jump
 * ~~Sky Diving~~
@@ -68,7 +68,6 @@ licence: Creative Commons
 * Consistent handstand
 * ~~Flat footed squat~~
 * ~~sub 10min 2.4km~~
-* Run a marathon
 * Become an acrobat
   * Solidly base these poses
     * ~~Bird~~
