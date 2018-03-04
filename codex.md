@@ -150,6 +150,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Understand people's intentions
 - Maximise Sentience fulfilment
 - Minimise Sentience distress
+- Have enough class not to make anyone feel small
 - Do not harbour hate or resentment
 - Own mistakes & achievements
 - Identify & control ego
@@ -211,6 +212,7 @@ Subconscious reactions that I have noticed;
 - Useful general purpose robots will be common
 - Humans will be augmented to the point that they refer to their tools in the first person
 - Vehicles will travel at 300+kph on Canadian Highways
+- Capital will no longer be the most powerful commodity
 
 ### Before 2050
 
@@ -219,3 +221,8 @@ Subconscious reactions that I have noticed;
   - Allow huge infrastructure projects like intercontinental tunnels, space elevators, & cleaning up the environment
   - Cause human labour as a commodity to become worthless
   - Unfortunately cause citizens to be less important to politicians & leaders
+
+### Before 2100
+
+- An extraterrestrial society will deem earthlings worthy and reveal themselves to us
+- Earthlings will travel to another solar system

@@ -35,6 +35,7 @@ licence: Creative Commons
 * Public speak in front of;
   * ~~100 people~~
   * 1000 people
+  * 10000 people
 * Act in a Bollywood movie
 * Go on a meditation retreat
 
