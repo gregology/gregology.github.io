@@ -13,12 +13,13 @@ Sep 2017 to Sep 2018, Canada, USA & The Bahamas
 * Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston Ontario to the Bahamas and back
 * Producing a [YouTube series](https://YouTube.com/SVCatsaway) documenting our adventure
 * Hacking on a few (mainly boat related) [projects](/packages) & [Memair](https://Memair.com)
+* Mainly working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), & [NodeJS](https://www.npmjs.com/~gregology) on Google Cloud & Heroku
 
 ### Data Engineer @ Shopify
 Sep 2013 to Sep 2017, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
-* Mainly working with [PySpark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](http://rubyonrails.org/)
+* Mainly working with [PySpark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
 
 ### Acroyoga Instructor @ Upward Dog Yoga Centre
 Jul 2014 to Aug 2017, Ottawa Canada
