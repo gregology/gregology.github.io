@@ -40,7 +40,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - My senses can easily be fooled, I experience the world though my senses
 - My beliefs should & will change
 - I learn more from failure then success
-- No risk is a big risk
+- Taking no risks is a big risk
 - I have an ego & insecurities
 - I am optimistic
 - I am not the same person I was 5 years ago
@@ -66,13 +66,13 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 ### Beliefs about Society
 
-- Race & ethnicity are social constructs
+- Race & ethnicity are unhelpful social constructs
 - Cultural traits exist, cultures do not
 - Verbal purity is not social change
 - Friendship is the best way to overcome bigotry
 - Soldiers generally have more in common with the people they fight then with the leaders that send them to fight
 - Nations give meaning to wars after the fact
-- Ruling elites win & lose in war, civilians & soldiers only lose wars
+- Nation's Rulers win & lose in war, civilians & soldiers only lose wars
 - Terrorism is an economic, educational, & health problem
 
 
@@ -112,7 +112,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I am the youngest in a loving & supporting family
   - my physical appearance & cultural traits are considered "normal" where I live
   - I natively speak english with a western accent
-  - of my citizenships & permanent residency
+  - of my citizenships, permanent residency, & visas
   - I have access to the internet
   - I understand & create technology
   - I have a warm dry place to sleep
@@ -148,8 +148,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Reason ideas, don't rationalize them
 - Withhold judgement of others
 - Understand people's intentions
-- Maximise Sentience fulfilment
-- Minimise Sentience distress
+- Maximise sentience fulfilment
+- Minimise sentience distress
 - Have enough class not to make anyone feel small
 - Do not harbour hate or resentment
 - Own mistakes & achievements
@@ -185,6 +185,7 @@ Subconscious reactions that I have noticed;
 - I will continue to be challenged & grow
 - We achieve a post scarcity economy & become a fulfilment focused society
 - Most items on my [bucket list](/bucket) will be crossed off
+- I will have an extraordinary life
 
 
 ## Predictions
