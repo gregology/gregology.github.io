@@ -38,6 +38,7 @@ licence: Creative Commons
   * 10000 people
 * Act in a Bollywood movie
 * Go on a meditation retreat
+* Have lived an extraordinary life
 
 
 ## Travel
