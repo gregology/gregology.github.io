@@ -8,7 +8,7 @@ title: Curriculum Vitae
 ## Work History
 
 ### Sailing Sabbatical
-Sep 2017 to Sep 2018, Canada, USA & The Bahamas
+Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
 
 * Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston Ontario to the Bahamas and back
 * Producing a [YouTube series](https://YouTube.com/SVCatsaway) documenting our adventure
