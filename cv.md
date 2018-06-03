@@ -10,9 +10,9 @@ title: Curriculum Vitae
 ### Sailing Sabbatical
 Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
 
-* Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston Ontario to the Bahamas and back
+* Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston, Ontario to the Bahamas and back
 * Producing a [YouTube series](https://YouTube.com/SVCatsaway) documenting our adventure
-* Hacking on a few (mainly boat related) [projects](/packages) & [Memair](https://Memair.com)
+* Hacking on a few (mostly boat related) [projects](/packages) & [Memair](https://Memair.com)
 * Mainly working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), & [NodeJS](https://www.npmjs.com/~gregology) on Google Cloud, Heroku, & Raspberry Pis
 
 ### Data Engineer @ Shopify
