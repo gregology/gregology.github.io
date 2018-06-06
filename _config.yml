@@ -7,7 +7,7 @@ navbar-links:
   About:
     - Bucket List: "bucket"
     - Codex Vitae: "codex"
-    - Curriculum Vitae: "cv"
+    - Resume: "resume"
     - Timeline: "timeline"
     - Feedback: "feedback"
     - Secure Communication: "secure"

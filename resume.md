@@ -1,8 +1,11 @@
 ---
 layout: page
+redirect_from:
+  - /cv
+  - /résumé
 comments: False
 licence: Creative Commons
-title: Curriculum Vitae
+title: Résumé
 ---
 
 ## Work History
