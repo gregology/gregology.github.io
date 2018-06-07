@@ -1,7 +1,9 @@
 ---
 layout: page
 redirect_from:
+  - /cv/
   - /cv
+  - /résumé/
   - /résumé
 comments: False
 licence: Creative Commons
