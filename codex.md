@@ -20,6 +20,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - [Beliefs about Perceptions](#beliefs-about-perceptions)
   - [Beliefs about my Privilege](#beliefs-about-my-privilege)
   - [Beliefs about my Responsibilities](#beliefs-about-my-responsibilities)
+- [Values](#values)
 - [Principles](#principles)
 - [Reactions](#reactions)
 - [Hopes and Desires](#hopes-and-desires)
@@ -139,23 +140,30 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 *Work in progress*
 
 
-## Principles
+## Values
 
+- Sentience is special (not humans)
+- Sentience or States can not own sentience (Parents do not own their children, humans do not own their dogs)
+- Sentience or States can be responsible for sentience (Parents are responsible for their children, humans are responsible for their dogs)
+- Maximise sentience fulfilment
+- Minimise sentience distress
 - Think critically
 - Remain objective & open minded
-- Be effective not busy
 - Find opposing views & ideas
+- Update or reenforce opinions when presented with new reliable information
+
+
+## Principles
+
+- Be effective not busy
 - Reason ideas, don't rationalize them
 - Withhold judgement of others
 - Understand people's intentions
-- Maximise sentience fulfilment
-- Minimise sentience distress
 - Have enough class not to make anyone feel small
 - Do not harbour hate or resentment
 - Own mistakes & achievements
 - Identify & control ego
 - Take risks & stay uncomfortable
-- Update or reenforce opinions when presented with new reliable information
 
 
 ## Reactions
