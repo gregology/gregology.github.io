@@ -593,6 +593,7 @@ The largest list of penis euphemisms
   * Hercules
   * Herman the one-eyed German
   * Herman von Longschlongstein
+  * Herpetogaster
   * Hidden treasure
   * Hieny hobbit
   * High pressure vein cane
