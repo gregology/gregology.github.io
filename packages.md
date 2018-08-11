@@ -22,6 +22,20 @@ Lists of biased stop words from various genres
 [![GitHub stars](https://img.shields.io/github/stars/gregology/biased-stop-words.svg?style=social&label=Star)](https://github.com/gregology/biased-stop-words)
 
 
+
+### Facebook ETL
+
+Extracts, transforms, and loads your Facebook data from the Download Your Information tool
+
+[![Package](https://badge.fury.io/py/fbetl.svg)](https://pypi.python.org/pypi/fbetl)
+[![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/fbetl/blob/master/LICENSE)
+[![Status](https://img.shields.io/pypi/status/fbetl.svg)](https://pypi.python.org/pypi/fbetl/commits/master)
+[![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/fbetl)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![GitHub stars](https://img.shields.io/github/stars/gregology/fbetl.svg?style=social&label=Star)](https://github.com/gregology/fbetl)
+
+
+
 ### Spot SDK
 
 An SDK for the Find Me Spot
