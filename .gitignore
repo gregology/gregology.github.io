@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 .sass-cache
 links.txt
+_creds.yml
