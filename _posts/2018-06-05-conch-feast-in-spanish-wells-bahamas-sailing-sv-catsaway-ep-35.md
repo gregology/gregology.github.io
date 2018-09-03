@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='DP6zeiOAGuc' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 We left Hatchet Bay and traverse Current Cut on our way to Spanish Wells.  Current cut is aptly named, as the current can be fierce through the cut - up to 10 knots.  Ideally we would have traversed it at slack tide with an opposing current to assist steering, but we were still limited in our use of the engine, so we sailed through on a downwind run.  Even though we were only going 2 knots through the water, our speed over ground was over 6 knots; we had 4 knots of current with us.  We timed slack tide off of Nassau’s tide table and added a couple of hours (it’s stated in Active Captain).  However, because we had scrubbed the bottom in the previous episode, Catsaway flew along - and we reached the cut too quickly!  It all ended well, however. :)
 
@@ -42,4 +42,3 @@ Bahamas Sotheby's International Realty - https://youtu.be/brSPDF1EkSU
 
 “Swipesy Cakewalk” by E’s Jammy Jams
 “Everybody’s Game” by Kara Keith
-

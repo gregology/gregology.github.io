@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='oFVUEMeEpFc' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 A typical day on the ICW (Intracoastal Waterway):
 

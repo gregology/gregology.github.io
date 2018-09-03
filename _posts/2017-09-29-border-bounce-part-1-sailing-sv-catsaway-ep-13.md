@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='KPe1ulydD7s' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we move onto the boat, travel to Oswego and get bounced back to Canada.
 

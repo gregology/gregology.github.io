@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='0TWpclmCl-M' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we leave Long Island and Hercie gets sick.
 

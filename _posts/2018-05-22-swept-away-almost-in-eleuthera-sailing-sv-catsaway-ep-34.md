@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='5WjaNW2XBK8' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we decided to take advantage of uncooperative winds and played tourist!
 

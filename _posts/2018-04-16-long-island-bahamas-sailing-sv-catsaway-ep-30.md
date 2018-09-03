@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='i4u-ghQEer4' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we explore Long Island, Bahamas.
 

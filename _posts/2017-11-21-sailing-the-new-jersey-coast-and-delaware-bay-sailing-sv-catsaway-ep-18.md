@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='Bm4xdu6ObTc' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we leave New York Harbour and travel down the New Jersey coast and up Delaware Bay.
 

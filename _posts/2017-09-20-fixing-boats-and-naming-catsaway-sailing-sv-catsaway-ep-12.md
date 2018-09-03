@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='TyTEc23UXFk' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we welcome our friend Charles back, fix the hole in the floor, rename the boat and prepare for becoming liveaboards.
 

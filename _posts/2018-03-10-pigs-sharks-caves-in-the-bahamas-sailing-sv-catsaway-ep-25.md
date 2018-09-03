@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='BEzJSZVGtLs' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week the crew of SV Catsaway explore Big Majors Island and Staniel Cay.
 

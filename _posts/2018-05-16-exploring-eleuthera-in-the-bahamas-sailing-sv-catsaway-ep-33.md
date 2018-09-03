@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='QiWKLdSTHrs' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week, we leave Cat Island and travel to Eleuthera.
 

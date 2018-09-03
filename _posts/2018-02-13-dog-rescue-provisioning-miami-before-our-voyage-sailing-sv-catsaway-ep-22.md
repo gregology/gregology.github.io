@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='yV8A5xpaCHo' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 Catsaway rescues a dog!
 We arrived in Miami and had a great time exploring South Beach and visiting with friends.  After several days anchored by the Venetian Causeway, we moved to a mooring ball

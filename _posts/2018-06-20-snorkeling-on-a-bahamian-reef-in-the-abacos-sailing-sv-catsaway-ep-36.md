@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='XwyPVoIk0y8' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 Credits: 
 "Maps" by Kara Keith

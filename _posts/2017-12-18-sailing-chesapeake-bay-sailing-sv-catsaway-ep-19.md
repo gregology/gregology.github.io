@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='hAto7D_eyKI' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This episode we leave Chesapeake City and continue heading south.
 

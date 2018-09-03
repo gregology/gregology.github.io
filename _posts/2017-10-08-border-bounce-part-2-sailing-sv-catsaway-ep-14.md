@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='GwqPuvvEevc' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This episode, the crew of Catsaway spends their time back in Canada to get more prepared for their border crossing.
 

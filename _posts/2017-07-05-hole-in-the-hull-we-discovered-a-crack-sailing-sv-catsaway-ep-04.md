@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='5Zoppo5A7mg' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This episode follows the delivery of our boat from Cape Cod, MA to Chaumont, NY.  When the boat was picked up from Cape Cod, a 6 inch crack was discovered in the hull.  By the time it was transported to the Chaumont Yacht Club, the crack had widened to 16 inches.  We repaired the crack with a lot of help and guidance from our friend Charles.  A big thanks also to the Chaumont Yacht Club, for lending us tools and supplies, and for being helpful and encouraging.  
 

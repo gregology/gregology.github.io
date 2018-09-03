@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='4xRv2S3Y0PY' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 SV Catsaway finally made it to the Bahamas!!
 

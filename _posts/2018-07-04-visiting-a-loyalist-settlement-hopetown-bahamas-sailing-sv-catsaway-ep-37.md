@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='hKUQMcLPJCk' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we explore Hopetown in the Abacos!
 

@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='yuenuFP2kPc' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we enjoy the Georgetown Cruisers Regatta!
 

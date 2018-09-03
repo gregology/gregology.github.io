@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='W0lhlPdo0mw' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This is the beginning of our sailing adventure with two people & two cats.
 

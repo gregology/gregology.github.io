@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='sZrZ2F94xJg' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week Diana’s parents came to visit us in Kingston, Ontario.  We took them on a brief sail (the winds were light and later died), and then later enrolled them to help us remove the old name from the hull.  Finding out what worked for our boat was helpfully fueled by the marina community.  What seemed to work best was a combination of using a heat gun, a razor scraper, goo gone and some rubbing compound.  
 

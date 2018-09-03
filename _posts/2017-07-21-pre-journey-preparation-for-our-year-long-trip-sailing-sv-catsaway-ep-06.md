@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='XH8Fqu5w5ks' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we continue to prepare for our journey by:
 

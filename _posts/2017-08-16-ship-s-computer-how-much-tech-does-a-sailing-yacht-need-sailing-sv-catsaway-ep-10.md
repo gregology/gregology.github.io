@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='BNAhKCLrpio' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 We updated the ship’s technology including;
  - Raspberry Pi running a Rails app as the Ship’s Computer

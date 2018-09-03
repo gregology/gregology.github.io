@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='jbpi2YTC_uM' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week SV Catsaway travels to Rudder Cut Cay.
 

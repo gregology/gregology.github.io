@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='gQhlw6F603o' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 Life is what happens while you’re busy making plans but this is our attempt. We’re looking forward to adventure, new experiences, and learning new skills (including video editing). We’d appreciate feedback, ideas, and thoughts on our plan :)
  

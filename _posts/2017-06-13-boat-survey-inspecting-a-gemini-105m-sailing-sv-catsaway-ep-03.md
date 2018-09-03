@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='avIjWNpeZZY' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 The humans of the crew of SV Catsaway travel to Cape Cod, Massachusetts to complete the boat survey on "Rhapsody" (the original name of SV Catsaway).  
  

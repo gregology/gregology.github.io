@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='LE_yy0Z3_w0' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week the crew of SV Catsaway leaves the comfort of the Erie Canal, and starts their journey down the Hudson River.
 

@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='_Cavnv7VLlk' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 In this episode, Catsaway gets her mast stepped and journeys to her temporary home in Kingston, Ontario.
 

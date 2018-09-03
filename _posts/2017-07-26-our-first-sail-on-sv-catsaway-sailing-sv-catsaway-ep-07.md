@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='eXsoy7ydG4w' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we managed to adjust our rigging, set up our sails and finally get Catsaway sailing on the water. 
 

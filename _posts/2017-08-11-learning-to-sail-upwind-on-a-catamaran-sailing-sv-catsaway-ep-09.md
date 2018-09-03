@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='mHHihyLrSzs' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week we become temporary liveabords (if that even makes sense)!  Some things on our list of work to be done included changing the oil and filter, find out how to successfully sail upwind, and rebedding one of our front hatches.  
 

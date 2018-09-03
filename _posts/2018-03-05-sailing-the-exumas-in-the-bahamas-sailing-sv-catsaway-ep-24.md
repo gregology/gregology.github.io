@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='njxfGEQOvpI' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 This week Catsaway sails through the upper Exumas!
 

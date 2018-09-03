@@ -14,8 +14,8 @@ tags:
 
 {% include youtube_player.html id='3fyYaY5cy4o' %}
 
-Catsaway is for sale - https://SVCatsaway.com/forsale
-Live map - https://SVCatsaway.com/map
+
+
 
 We start to get ready for our crossing back to the US!
 
