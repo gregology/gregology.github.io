@@ -53,8 +53,8 @@ The ultimate goal :)
 
  [2]: http://www.ardevcamp.org/wiki/index.php?title=ARDevCamp_Sydney_2011_resources "ARDevCamp Sydney 2011 Resources"
  [3]: https://mozillademos.org/demos/remixingreality/demo.html
- [4]: http://www.youtube.com/watch?v=_8B9_lHYQNc
+ [4]: https://www.youtube.com/watch?v=_8B9_lHYQNc
  [5]: https://github.com/cedricpinson/osgjs/tree/master/examples "OSG JS examples"
  [6]: http://gotgastro.com
- [7]: http://www.data.gov.au
+ [7]: https://www.data.gov.au
  [8]: http://buildar.com

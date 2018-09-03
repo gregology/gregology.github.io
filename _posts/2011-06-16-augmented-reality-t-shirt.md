@@ -46,7 +46,7 @@ Step five: screen print
 Step six: play with cool AndAR Screen printed t-shirt
 
  [1]: /wp-content/uploads/2011/06/IMAG0518.jpg
- [2]: http://code.google.com/p/andar/
+ [2]: https://code.google.com/p/andar/
  [3]: /wp-content/uploads/2011/06/IMAG0011.jpg
  [4]: /wp-content/uploads/2011/06/AndARScreenshot1307920519644.png
  [5]: /wp-content/uploads/2011/06/IMAG0016.jpg

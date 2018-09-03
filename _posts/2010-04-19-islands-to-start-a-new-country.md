@@ -117,5 +117,5 @@ Some other interesting blogs which may be useful in creating a country
  [8]: /wp-content/uploads/2010/04/DucieISS002-E-10044.png
  [9]: /wp-content/uploads/2010/04/300px-Egypt_location_map.svg_.png
  [10]: http://strangemaps.wordpress.com/2009/06/28/396-you-take-it-no-you-take-it-the-bir-tawil-trapezoid/trackback
- [11]: http://en.wikipedia.org/wiki/List_of_uninhabited_regions
+ [11]: https://en.wikipedia.org/wiki/List_of_uninhabited_regions
  [12]: http://matadortrips.com/8-more-strange-places-on-planet-earth

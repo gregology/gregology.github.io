@@ -31,7 +31,7 @@ You can see where I&#8217;ve chosen to invest my money [here][3]. Ideally I woul
 FYI This is an F chord on a Ukulele :) but I still don&#8217;t have a mic :(  
 [<img class="aligncenter size-full wp-image-438" title="F chord" src="/wp-content/uploads/2010/06/2010-06-29-213650.jpg" alt="" width="640" height="480" />][4]
 
- [1]: http://www.kiva.org
- [2]: http://en.wikipedia.org/wiki/Micro_finance
- [3]: http://www.kiva.org/lender/gregology
+ [1]: https://www.kiva.org
+ [2]: https://en.wikipedia.org/wiki/Micro_finance
+ [3]: https://www.kiva.org/lender/gregology
  [4]: /wp-content/uploads/2010/06/2010-06-29-213650.jpg

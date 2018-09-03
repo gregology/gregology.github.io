@@ -65,6 +65,6 @@ I recognise gay marriage even if my government doesn&#8217;t. On the up side,
   * Mr Wilkie
   * Mr Crean
 
- [1]: http://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=spla/bill%20marriage/survey.htm
- [2]: http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4749%22
+ [1]: https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=spla/bill%20marriage/survey.htm
+ [2]: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4749%22
  [3]: https://www.google.com/fusiontables/DataSource?docid=1KNh9Nj1SKU2uidyzFHZwg9fN-5K19vgG6wb3KR4#map:id=4

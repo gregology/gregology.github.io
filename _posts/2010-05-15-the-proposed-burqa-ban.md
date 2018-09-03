@@ -32,11 +32,11 @@ I [gimped][4] this scene to illustrate my point.
 [<img src="/wp-content/uploads/2010/05/Burqa_and_Guy_England_small1.jpg" alt="" title="Burqa_and_Guy_England_small" width="495" height="256" class="alignnone size-full wp-image-385" />][5]  
 Who is the dodgy one? There are 6 anonymous people in this scene, Mr Guy Fawkes, the helmet clad woman, the burqa clad woman, the child with the pixelled face, the baby under the cover, and whoever is watching them all on the security cameras. It&#8217;s funny how governments and the media focus on the form of anonymity that best suits their agendas. It&#8217;s a great way to distract us from the issues that will actually affect us like [peak oil][6] and [unsustainable population growth][7]. I&#8217;m not pro islam, I think their imaginary friend is as crazy as that of any other religion, but I don&#8217;t think we&#8217;re in a position to throw stones. Our indecency exposure laws forbid women from exposing their chests in public yet men are free to do so. My solution is walking around naked with an [electronic burqa][8] (infrared LEDs on a head band which blind security cameras), that way I can piss off everyone but not get caught by the fashion police :)
 
- [1]: http://www.abc.net.au/news/stories/2010/02/07/2812378.htm
+ [1]: https://www.abc.net.au/news/stories/2010/02/07/2812378.htm
  [2]: /wp-content/uploads/2010/05/no-helmets.jpeg
  [3]: /wp-content/uploads/2010/05/robbery_sign.jpg
- [4]: http://www.gimp.org/
+ [4]: https://www.gimp.org/
  [5]: /wp-content/uploads/2010/05/Burqa_and_Guy_England_small1.jpg
- [6]: http://en.wikipedia.org/wiki/Peak_oil
+ [6]: https://en.wikipedia.org/wiki/Peak_oil
  [7]: http://socialissues.wiseto.com/Articles/FO3020630104/
  [8]: http://www.oberwelt.de/projects/2008/Filo%20art.htm

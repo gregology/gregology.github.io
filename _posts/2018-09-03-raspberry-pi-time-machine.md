@@ -117,7 +117,7 @@ Install prerequisites
 
 Download the latest version to Netatalk (at time of writing it is 3.1.11)
 
-`pi@timemachine:~ $ wget http://prdownloads.sourceforge.net/netatalk/netatalk-3.1.11.tar.gz && tar -xf netatalk-3.1.11.tar.gz && cd netatalk-3.1.11`
+`pi@timemachine:~ $ wget https://prdownloads.sourceforge.net/netatalk/netatalk-3.1.11.tar.gz && tar -xf netatalk-3.1.11.tar.gz && cd netatalk-3.1.11`
 
 Create config
 

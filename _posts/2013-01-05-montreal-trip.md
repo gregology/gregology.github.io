@@ -24,5 +24,5 @@ There was an audio visual piece at the Montreal Museum of Fine Arts about som
 <img class="alignnone size-large wp-image-1338" alt="Riot_aftermath_Vancouver" src="/wp-content/uploads/2013/01/Riot_aftermath_Vancouver.jpg" width="100%" height="auto" />
 
  [1]: https://www.google.ca/maps/@45.514665,-73.5974903,14z/data=!4m2!6m1!1szWQoaquoja_k.kslOO6Nhrybk?hl=en "Montreal"
- [2]: http://www.imdb.com/title/tt0842926/
- [3]: http://en.wikipedia.org/wiki/2011_Vancouver_Stanley_Cup_riot
+ [2]: https://www.imdb.com/title/tt0842926/
+ [3]: https://en.wikipedia.org/wiki/2011_Vancouver_Stanley_Cup_riot
