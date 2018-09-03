@@ -1,0 +1,46 @@
+---
+title: "Sailing Chesapeake Bay! (Sailing SV Catsaway) - Ep. 19"
+author: Greg
+layout: post
+permalink: /2017/12/sailing-chesapeake-bay-sailing-sv-catsaway-ep-19
+published_at: 2017-12-18 06:04:02 UTC
+comments: True
+licence: Creative Commons
+categories:
+  - YouTube
+tags:
+  - sailing
+---
+
+{% include youtube_player.html id='hAto7D_eyKI' %}
+
+Catsaway is for sale - https://SVCatsaway.com/forsale
+Live map - https://SVCatsaway.com/map
+
+This episode we leave Chesapeake City and continue heading south.
+
+Our first destination was Annapolis - we had heard many great things about the city that was known as the sailing capital of North America.  We had a great motor sail down the Chesapeake with our buddy boat Bandera.  We anchored in the Severn River and took the dinghy in to get tokens from the Harbourmaster (we desperately needed to do laundry and have showers).  Unfortunately we arrived too late to buy tokens, but a nice lady on a neighboring yacht let us borrow some of hers.  
+
+The next day we headed to Fawcett’s Boat Supplies to buy a sail repair kit, as our genoa had sustained damage in our rough sail between Atlantic City and Cape May.  We also took the opportunity to provision and check out the many sailing yachts that are kept in Back Creek.  We stopped by Helly Hansen to enhance our rain gear (Greg bought a jacket, Diana bought waterproof pants) and wandered around downtown Annapolis.  We treated ourselves to an all you can eat seafood and raw buffet - it was delicious!
+
+We left Annapolis and traveled to St. Michaels, on the recommendation of a viewer.  It was a short sail over in light winds, and the weather was sunny and beautiful.  On the way over, we noticed we were out of propane, so our first priority upon reaching St. Michaels was to fill our tank.  Luckily Greg managed to find a place to fill it and we were back in business.  St. Michaels is a beautiful little town, with a lot to see and do.  We followed the crab walk, read up on some history, shopped and visited the winery.  The chocolate zinfandel is amazing! 
+
+We left St. Michaels early the next morning and headed towards Solomons.  We anchored near our buddy boat Bandera, who had arrived there earlier in the day.  We replaced our outhaul in preparation for a longer sail the next day.
+
+From Solomons, we had a great weather window to head south so we decided to try to make as much distance as possible.  We left early in the morning, surrounded by about 20 other sailing vessels.  Catsaway does her best sailing at a beam reach, broad reach and downwind, so she quickly left the sailing group behind and shot ahead.  We managed to do 62 nautical miles, even though we we fighting the current.  
+
+From Deltaville, we motored to Norfolk, where we were awed by the amount of aircraft carriers.  Our friends in Bandera ended up too close to the navy boats and were chased after by the friendly navy police.  We docked at the free docks in Norfolk and went ashore to celebrate our four year anniversary.
+
+We had hoped to get to Elizabeth City the next day, but we were delayed at the lock (45 minutes!) and then again when we had to stop to clean out our strainer.  Michael from Bandera was kind enough to show us how to access our strainer.  We rafted up next to Alberta Crewed and had a great night meeting with one of our viewers, Tom.  
+
+The following day we continued our journey to Elizabeth City.  We repaired our sail with the help of a friendly local gentleman, provisioned, and enjoyed the free docks and cheese and wine party that the city provided.  
+
+Next episode we travel down the ICW and start heading to Florida.
+
+Credits:
+“Secret Conversations” by the 126ers
+“One More Chance” by Otis McDonald
+“Ukulele Beach” by Doug Maxwell
+“Every Cowboy” by Cellophone Sam
+“Sewing Song” from Junior on the Job
+

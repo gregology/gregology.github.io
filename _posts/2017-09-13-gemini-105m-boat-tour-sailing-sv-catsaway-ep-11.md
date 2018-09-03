@@ -1,0 +1,53 @@
+---
+title: "Gemini 105M Boat Tour (Sailing SV Catsaway) - Ep. 11"
+author: Greg
+layout: post
+permalink: /2017/09/gemini-105m-boat-tour-sailing-sv-catsaway-ep-11
+published_at: 2017-09-13 21:20:55 UTC
+comments: True
+licence: Creative Commons
+categories:
+  - YouTube
+tags:
+  - sailing
+---
+
+{% include youtube_player.html id='Sq11ikePBmU' %}
+
+Catsaway is for sale - https://SVCatsaway.com/forsale
+Live map - https://SVCatsaway.com/map
+
+Welcome to our home for the next year!
+
+We live on a 1998 Gemini 105M (Hull 605) named Catsaway.   She is 34 feet long (10.21m) and has a 14 foot beam (4.27m).  She weights about 4 tons, but only sits about 1.5 feet (0.46m) deep in the water.  The 105M is the predecessor to the Gemini 105MD.
+
+She has three bunks - two aft bunks in each hull, plus a large master in the forward section of the boat.  Each aft bunk fits a small double mattress, while the master is somewhere between a large queen or a small king size bed.  The master bedroom has forward looking windows that are great for letting the sun in during sunrise, or stargazing at night.  It also has a hatch to keep air flowing.
+
+The main seating area is spacious and well planned out.  We can comfortably sit 4 people, but can easily squish in 6-7.  Our table folds out for extra space.  We have two hatches in here that let in a lot of light and air.  There are also two windows between the seating area and the master bunks.  Our kitties like to jump in and out of these windows to get from room to room, so we have learned to close them at night if we don’t want a cat landing on our faces!
+
+The head is located in the port hull.  Our batteries are also on this side, including two large house batteries that hold 5kwh.  We had to relocate the house batteries into the closet of our port aft bunk.  There are storage lockers on both sides of this hull, so we keep tools in one side and cleaning supplies in the other.
+
+The galley is located in the starboard hull.  It has two propane burners, a small oven and a small double sink.  Beside the sink there is a storage locker which is huge (we put all our canned goods in there to try to offset the weight of the batteries in the opposite hull).  We also have storage on the other side for our pots and pans.
+
+Our centreboards are accessed through a nut in each hull.
+
+The cockpit is square and has two levels of seating.  Our captain’s chair fits two (as long as you like each other), and is padded and comfortable for long hauls.  Behind the cockpit, we have our dinghy davits, on top of which sits a 315W Canadian Solar panel.
+
+At first when we started sailing our Gemini, we weren’t thrilled with the visibility from the cockpit.  However, over time, we have really appreciated the sheltered nature of the hard bimini and not having wind and sun in our faces all the time.
+
+We hope this gives you an idea of our boat!
+
+We have created a live map for you guys for follow us at:
+https://www.SVCatsaway.com
+
+***Our thoughts and well wishes are with everyone who was affected by Hurricane Irma***
+
+https://instagram.com/SVCatsaway
+https://facebook.com/SVCatsaway
+https://twitter.com/SVCatsaway
+
+Music credits:Jump to 
+Daily Beetle by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500025
+Artist: http://incompetech.com/`
+

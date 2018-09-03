@@ -1,0 +1,57 @@
+---
+title: "Sailing to the Exumas in the Bahamas (Sailing SV Catsaway) - Ep. 23"
+author: Greg
+layout: post
+permalink: /2018/02/sailing-to-the-exumas-in-the-bahamas-sailing-sv-catsaway-ep-23
+published_at: 2018-02-23 21:32:00 UTC
+comments: True
+licence: Creative Commons
+categories:
+  - YouTube
+tags:
+  - sailing
+---
+
+{% include youtube_player.html id='4xRv2S3Y0PY' %}
+
+Catsaway is for sale - https://SVCatsaway.com/forsale
+Live map - https://SVCatsaway.com/map
+
+SV Catsaway finally made it to the Bahamas!!
+
+After a few weeks away from the boat, we finished provisioning and preparing for the crossing.  We waited for an ideal weather window - light winds and definitely nothing coming the North.  We checked multiple weather sources, including a meteorologist friend.  The day was forecasted to be winds of 10-15 knots coming from the east.  It would be blowing directly against us, but we went with it anyways.
+
+We left Dinner Key Marina with buddy boats Bandera and Be As You Are at 3:00am.  Crossing Biscayne Bay was dark and quiet.  Going out the inlet was a strange experience - swells that are close together and gradually getting bigger that you can’t see - you can only feel.  We headed south for the first part of our journey, as the Gulf Stream would be gradually pushing us north.  It was clear when we got into the stream; our southern motion stopped being so extreme and started showing in the charts as an easterly heading.
+
+Even though we had waited a couple of days to let the stream die down, it was still choppy and confused.  There was no regularity to the swell and wave pattern, which gave us the feeling of being in a washing machine.  Both of us became seasick, but managed to shake it off as the journey continued.  Catching 3 tuna certainly helped perk us up!
+
+After about 13 hours of motoring, we pulled into the Blue Water Marina in Bimini.  Greg went off the boat to customs while Diana cleaned up.  Everything went smoothly and when Greg came back, we celebrated by raising the Bahamian courtesy flag, and eating our fresh fish.  The cats also enjoyed dinner!
+
+The next day, we anchored north of the marina and explored Bimini.  We also went to BTC to get our data plans sorted out, and stopped at the local liquor store to buy some cheap rum.  Surprise surprise - our one tank of propane ran out, so we went to get it filled up.  Figures!
+
+We wanted to stay in Bimini longer, but the perfect weather window was opening to cross the banks.  We left the next morning at 7am to meet buddy boats Bandera, Be As You Are, and Jennabird.  While leaving the marina, Bandera had issues with the prop.  We offered to wait while Michael dove on the prop, but they told us to go ahead.  Unfortunately we had to part ways as it was discovered that Bandera needed an entire new propeller shaft.  
+
+We continued across the banks with Jennabird and Be As You Are.  At first the winds were against us, but they eventually clocked around to a close reach and we put up full sail and stopped the engine.  The 15-20 knot winds continued, switching to a beam reach and then a broad reach - and Catsaway took off.  She rewarded us with over 8 knots of speed and we had an exhilarating sail to Northwest Point, where we anchored for the night.
+
+We woke up to our anchor alarm going off - we were dragging anchor!  However, our anchor was normally good at resetting itself, so we increased the radius and went back to sleep.  Unfortunately the anchor had other ideas and we reluctantly pulled ourselves out of bed to properly reset the anchor.  Second time was great, and we quickly fell back asleep.
+
+Dawn came bright and early with calm winds.  On the way to Chub Cay, winds picked up from the west, which gave us a nice downwind sail.  It had been a while since we had properly sailed and it felt wonderful.  
+
+Chub Cay is a privately owned island that boasts a marina and a couple of restaurants.  Our friends on Be As You Are organized a group dinner at the only local restaurant on the cay.  We were picked up in an extended golf cart, and enjoyed cracked conch, lobster tail, peas and rice and salad.  We also enjoyed a strong cocktail called a Smooth Sailing - we were all hoping to leave the next day for New Providence, so we had our fingers crossed that the cocktail would equal the weather for the following day.
+
+Alas it was not to be - we left Chub Cay to north winds forecasted between 10-15 knots.  The sea state gradually built as we sailed further from land and we ended up with swells of 9 feet and apparent winds of 28 knots.  We reefed the sails, and still got over 9 knots of speed.  Catsaway was sailing on a broad reach towards Rose Island and we attained a new top speed of 13 knots surfing a wave!  We pulled onto the lee side of Rose Island to calm waters and a quiet anchorage.  Phew!
+
+After a couple of days enjoying Rose Island, we again had an excellent weather window to cotninue to Highbourne Cay.  North winds of 12-18 knots were forecasted and held true.  We reached Highbourne Cay in a few hours and were greeted by nurse sharks and crystal clear waters.  We had finally reached the Exumas!
+
+Credits:
+Ukulele Beach - Doug Maxwell
+
+
+Social Media:
+instagram.com/svcatsaway
+facebook.com/svcatsaway
+twitter.com/svcatsaway
+
+Need Cat Stuff? 
+https://SVCatsaway.com
+
