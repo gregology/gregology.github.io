@@ -18,7 +18,7 @@ Lists of biased stop words from various genres
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/biased-stop-words/blob/master/LICENSE)
 [![Status](https://img.shields.io/pypi/status/biased-stop-words.svg)](https://pypi.python.org/pypi/biased-stop-words)
 [![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/biased-stop-words)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/biased-stop-words.svg?style=social&label=Star)](https://github.com/gregology/biased-stop-words)
 
 
@@ -31,7 +31,7 @@ Extracts, transforms, and loads your Facebook data from the Download Your Inform
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/fbetl/blob/master/LICENSE)
 [![Status](https://img.shields.io/pypi/status/fbetl.svg)](https://pypi.python.org/pypi/fbetl/commits/master)
 [![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/fbetl)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/fbetl.svg?style=social&label=Star)](https://github.com/gregology/fbetl)
 
 
@@ -44,7 +44,7 @@ An SDK for the Find Me Spot
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/spot-sdk/blob/master/LICENSE)
 [![Status](https://img.shields.io/pypi/status/spot-sdk.svg)](https://pypi.python.org/pypi/spot-sdk/commits/master)
 [![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/spot-sdk)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/spot-sdk.svg?style=social&label=Star)](https://github.com/gregology/spot-sdk)
 
 
@@ -59,7 +59,7 @@ A Signal K Node Server app that notifies when a device goes overboard (or stops 
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/spot-sdk/blob/master/LICENSE)
 [![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/signalk-overboard-notifications/commits/master)
 [![Downloads](https://img.shields.io/npm/dt/signalk-overboard-notifications.svg?style=flat)](https://www.npmjs.com/package/signalk-overboard-notifications)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/signalk-overboard-notifications.svg?style=social&label=Star)](https://github.com/gregology/signalk-overboard-notifications)
 
 
@@ -71,7 +71,7 @@ A Star Trek inspired display for Signal K boat data
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/spot-sdk/blob/master/LICENSE)
 [![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/LCARS/commits/master)
 [![Downloads](https://img.shields.io/npm/dt/signalk-lcars.svg?style=flat)](https://www.npmjs.com/package/signalk-lcars)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/LCARS.svg?style=social&label=Star)](https://github.com/gregology/LCARS)
 
 
@@ -86,7 +86,7 @@ A Ruby Gem for calculating bearings of geostationary satellites
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/gstatsat/blob/master/LICENSE)
 [![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/biased-stop-words/commits/master)
 [![Downloads](https://img.shields.io/gem/dt/gstatsat.svg?style=flat)](http://rubygems.org/gems/gstatsat)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/gstatsat.svg?style=social&label=Star)](https://github.com/gregology/gstatsat)
 
 
@@ -99,5 +99,5 @@ Territorial timezone shapefiles
 
 [![License](http://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/gstatsat/blob/master/LICENSE)
 [![Development](https://img.shields.io/badge/development-maintaince-yellow.svg)](https://github.com/gregology/territorial-timezones/commits/master)
-[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](http://gregology.net/contact/)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
 [![GitHub stars](https://img.shields.io/github/stars/gregology/territorial-timezones.svg?style=social&label=Star)](https://github.com/gregology/territorial-timezones)
