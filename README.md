@@ -1,6 +1,6 @@
 # Gregology
 
-A simple Jekyll blog for [Gregology.net](http://gregology.net).
+A simple Jekyll blog for [Gregology.net](https://gregology.net).
 
 ## Theme
 Base theme [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) created by [@daattali](https://github.com/daattali).

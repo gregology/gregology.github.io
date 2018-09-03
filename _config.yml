@@ -14,9 +14,10 @@ navbar-links:
   Posts: "posts"
   Projects:
     - Memair: "https://Memair.com"
+    - Oasis DNS: "https://github.com/gregology/oasis_dns"
     - Smiley Om: "https://SmileyOm.com"
     - SV Catsaway: "https://SVCatsaway.com"
-    - Acroyoga Ottawa: "http://AcroyogaOttawa.com"
+    - Acroyoga Ottawa: "https://AcroyogaOttawa.com"
     - Acro Roulette: "https://play.google.com/store/apps/details?id=st.gho.acro_roulette"
     - Packages: "packages"
     - Deprecated: "deprecated"
