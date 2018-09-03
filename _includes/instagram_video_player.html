@@ -9,13 +9,13 @@ Usage
 <p id="demo"></p>
 
 <script type="text/javascript">
-var myvideourl="http://instagram.com/p/{{ include.id }}/"
+var myvideourl="https://instagram.com/p/{{ include.id }}/"
 $.ajaxSetup({
     scriptCharset: "utf-8",
     contentType: "application/json; charset=utf-8"
 });
 
-$.getJSON('http://whateverorigin.org/get?url=' +
+$.getJSON('https://whateverorigin.org/get?url=' +
     encodeURIComponent(myvideourl) + '&callback=?',
     function(data) {
 
