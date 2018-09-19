@@ -122,8 +122,9 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have free time
   - I have the freedom to travel to most places on earth
   - I have savings
-  - I am a veteran
+  - I am a military veteran of a western country
   - I am able bodied
+  - I have recognised expertise in various fields
 - Humans are privileged because:
   - we are self aware
   - we are intelligent
