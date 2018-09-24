@@ -108,6 +108,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 ### Beliefs about my Privilege
 
+*Note: a few of my privileges I earned with hard work & risk taking, some with dumb luck, and most with a bit of both*
+
 - I am privileged because:
   - I am human
   - I am the youngest in a loving & supporting family
@@ -125,6 +127,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I am a military veteran of a western country
   - I am able bodied
   - I have recognised expertise in various fields
+  - I have good relationships with influential people
 - Humans are privileged because:
   - we are self aware
   - we are intelligent
