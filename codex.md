@@ -127,6 +127,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I am a military veteran of a western country
   - I am able bodied
   - I have recognised expertise in various fields
+  - I have in demand & lucrative skillsets
+  - I do not have to worry about being physically or sexually assaulted
   - I have good relationships with influential people
 - Humans are privileged because:
   - we are self aware
