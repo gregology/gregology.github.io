@@ -14,6 +14,7 @@ licence: Creative Commons
 * ~~Sky Diving~~
 * ~~Fly a Plane~~
 * Write a book
+* Publish a paper
 * ~~Learn a partner dance~~
 * ~~Learn a musical instrument~~
 * ~~Live in a megacity~~
@@ -63,6 +64,8 @@ licence: Creative Commons
   * ~~Atlantic set~~
   * Indian rise
   * ~~Indian set~~
+  * Arctic rise
+  * Arctic set
 
 
 ## Physical
