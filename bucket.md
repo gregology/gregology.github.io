@@ -7,7 +7,7 @@ licence: Creative Commons
 
 ## Experience
 
-* Start a company
+* ~~Start a company~~
 * ~~Big sailing adventure~~
 * ~~Sail a tail ship~~
 * Bungee Jump
