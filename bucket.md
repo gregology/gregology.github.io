@@ -44,7 +44,6 @@ licence: Creative Commons
 
 ## Travel
 
-* Set sail with no predetermined destination
 * Sail an ocean crossing
 * Visit every major continent
   * ~~Eurasia~~
