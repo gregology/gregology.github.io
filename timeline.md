@@ -7,7 +7,22 @@ licence: Creative Commons
 
 A brief history of milestones from my life *(Work in Progress)*
 
+## 2018
+
+### November
+
+🧠 Incorporated my first company
+
+### September
+
+🇨🇦 Arrived back in Ottawa after a year sailing
+🧠 Decided to work full time on [Memair](https://memair.com), previously a side project
+
 ## 2017
+
+### December
+
+💏 Best man at Scott Mc's wedding
 
 ### September
 
@@ -140,6 +155,7 @@ A brief history of milestones from my life *(Work in Progress)*
 ### November
 
 🇸🇧 Deployed to the Solomon Islands
+💏 Best man at my brother's wedding on Clark Island in Sydney Harbour
 
 ### September
 
