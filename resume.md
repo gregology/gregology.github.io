@@ -12,13 +12,19 @@ title: Résumé
 
 ## Work History
 
+### Developer & CEO @ Memair
+Nov 2018 to present, Ottawa Canadian
+
+* Developing [quantified self tools](https://memair.com) for humans
+* Learning business stuff
+* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud
+
 ### Sailing Sabbatical
 Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
 
 * Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston, Ontario to the Bahamas and back
 * Producing a [YouTube series](https://YouTube.com/SVCatsaway) documenting our adventure
-* Hacking on a few (mostly boat related) [projects](/packages) & [Memair](https://Memair.com)
-* Mainly working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), & [NodeJS](https://www.npmjs.com/~gregology) on Google Cloud, Heroku, & Raspberry Pis
+* Hacking on a few (mostly boat related) [projects](/packages)
 
 ### Data Engineer @ Shopify
 Sep 2013 to Sep 2017, Ottawa Canada
