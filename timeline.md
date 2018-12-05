@@ -15,8 +15,8 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ### September
 
-🇨🇦 Arrived back in Ottawa after a year sailing
-🧠 Decided to work full time on [Memair](https://memair.com), previously a side project
+🇨🇦 Arrived back in Ottawa after a year sailing  
+🧠 Decided to work full time on [Memair](https://memair.com), previously a side project  
 
 ## 2017
 
@@ -26,7 +26,7 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ### September
 
-⛵️ Left on a year long sailing adventure with Diana and our cats. We sailed from Canada to the Tropics
+⛵️ Left on a year long sailing adventure with Diana and our cats. We sailed from Canada to the Tropics  
 🛍 Quit Shopify after 4 amazing years  
 
 ### May
@@ -144,7 +144,7 @@ A brief history of milestones from my life *(Work in Progress)*
 ### April
 
 🇦🇺 Returned to Australia from the Solomon Islands  
-🏠 Moved back in with Stu and Janell
+🏠 Moved back in with Stu and Janell  
 
 ### February
 
@@ -154,8 +154,8 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ### November
 
-🇸🇧 Deployed to the Solomon Islands
-💏 Best man at my brother's wedding on Clark Island in Sydney Harbour
+🇸🇧 Deployed to the Solomon Islands  
+💏 Best man at my brother's wedding on Clark Island in Sydney Harbour  
 
 ### September
 
