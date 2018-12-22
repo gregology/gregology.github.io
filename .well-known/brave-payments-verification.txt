@@ -1,4 +1,0 @@
-This is a Brave Payments publisher verification file.
-
-Domain: gregology.net
-Token: 7524ea82ffbcca717a5bbe3494bc06cc2df2d64b9aa8b4e0b4274403cfd17f1c
