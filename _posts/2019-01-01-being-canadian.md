@@ -16,7 +16,7 @@ tags:
   - philosophy
 ---
 
-Canada has been my home for 5 years now. As an Australian, it was an easy cultural transition. After a couple of vocabulary changes, I felt like I comfortably fit in. Recently, I had a rare unpleasant experience while selling our boat on Kijiji and it felt very un-Canadian.
+Canada has been my wonderful home for 5 years now. As an Australian, it was an easy cultural transition. After a couple of vocabulary changes, I felt like I comfortably fit in. Recently, I had a rare unpleasant experience while selling our boat on Kijiji and it felt very un-Canadian.
 
 ![Kijiji Chat](/wp-content/uploads/2019/01/2019-01-01 kijiji screenshot.png "Kijiji Chat"){:height="45%" width="45%"}
 
@@ -26,6 +26,6 @@ In general I've found that liberals concern themselves with *impact* while conse
 
 A jerk is a person that expects others to judge them on their intent while simultaneously judging others on their impact. For instance, the driver that gets annoyed when they get cut off and also annoyed when others won't let them aggressively merge.
 
-In my experience, most Canadians are the exact opposite of a jerk. Canadians focus on the *intent* when receiving and *impact* when delivering. Canadian communication manifests itself in interesting ways. For instance, Canadians commonly say "happy holidays" but wouldn't be insulted if someone said "merry christmas" no matter their religious persuasion. Canadian communication makes it difficult to insult a Canadian or be insulted by one, no matter what your communication style. While this trait isn't universally or uniquely Canadian, I've found it very common here.
+In my experience Canadians are wonderful, the exact opposite of jerks. Canadians focus on the *intent* when receiving and *impact* when delivering. Canadian communication manifests itself in interesting ways. For instance, Canadians commonly say "happy holidays" but wouldn't be insulted if someone said "merry christmas" no matter their religious persuasion. Canadian communication makes it difficult to insult a Canadian or be insulted by one, no matter what your communication style. While this trait isn't universally or uniquely Canadian, I've found it very common here.
 
-I'm interested if others share this view of Canada. Leave a comment below with your Canadian experience; please include your origin and where in Canada you were.
+My experiences are from Ottawa so I'm interested if others share this view of Canada. Leave a comment below with your Canadian experience; please include your origin and where in Canada you were.
