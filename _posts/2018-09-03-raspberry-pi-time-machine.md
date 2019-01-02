@@ -117,9 +117,9 @@ Install prerequisites
 
 `pi@timemachine:~ $ sudo apt-get install build-essential libevent-dev libssl-dev libgcrypt11-dev libkrb5-dev libpam0g-dev libwrap0-dev libdb-dev libtdb-dev libmariadbclient-dev avahi-daemon libavahi-client-dev libacl1-dev libldap2-dev libcrack2-dev systemtap-sdt-dev libdbus-1-dev libdbus-glib-1-dev libglib2.0-dev libio-socket-inet6-perl tracker libtracker-sparql-1.0-dev libtracker-miner-1.0-dev`
 
-Download the latest version to Netatalk (at time of writing it is 3.1.11)
+Download the latest version to Netatalk (at time of writing it is 3.1.12)
 
-`pi@timemachine:~ $ wget https://prdownloads.sourceforge.net/netatalk/netatalk-3.1.11.tar.gz && tar -xf netatalk-3.1.11.tar.gz && cd netatalk-3.1.11`
+`pi@timemachine:~ $ wget https://prdownloads.sourceforge.net/netatalk/netatalk-3.1.12.tar.gz && tar -xf netatalk-3.1.12.tar.gz && cd netatalk-3.1.12`
 
 Create config
 
