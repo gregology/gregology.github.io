@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi Time Machine"
+title: "Raspberry Pi Time Machine (2019 update)"
 author: Greg
 layout: post
 permalink: /2018/09/raspberry-pi-time-machine/
@@ -16,6 +16,8 @@ tags:
   - OSx
   - Time Machine
 ---
+
+***2019-01-02 Updated after comments from Guy. Please comment below if you have any new issues***
 
 ## Prerequisites
 
@@ -177,31 +179,6 @@ ethers:         db files
 rpc:            db files
 
 netgroup:       nis
-```
-
-*Note: this will allow the time machine to show up in Finder's sidebar*
-
-Edit afpd.service
-
-`pi@timemachine:~ $ sudo nano /etc/avahi/services/afpd.service`
-
-and paste in
-
-```
-<?xml version="1.0" standalone='no'?><!--*-nxml-*-->
-<!DOCTYPE service-group SYSTEM "avahi-service.dtd">
-<service-group>
-    <name replace-wildcards="yes">%h</name>
-    <service>
-        <type>_afpovertcp._tcp</type>
-        <port>548</port>
-    </service>
-    <service>
-        <type>_device-info._tcp</type>
-        <port>0</port>
-        <txt-record>model=TimeCapsule</txt-record>
-    </service>
-</service-group>
 ```
 
 Finally edit afp.conf
