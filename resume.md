@@ -30,7 +30,7 @@ Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
 Sep 2013 to Sep 2017, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
-* Mainly working in Python & Ruby with [PySpark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
+* Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
 
 ### Acroyoga Instructor @ Upward Dog Yoga Centre
 Jul 2014 to present, Ottawa Canada
