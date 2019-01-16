@@ -13,7 +13,7 @@ title: Résumé
 ## Work History
 
 ### Developer & CEO @ Memair
-Nov 2018 to present, Ottawa Canadian
+Nov 2018 to present, Ottawa Canada
 
 * Developing [quantified self tools](https://memair.com) for humans
 * Learning business stuff
@@ -30,10 +30,10 @@ Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
 Sep 2013 to Sep 2017, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
-* Mainly working with [PySpark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
+* Mainly working in Python & Ruby with [PySpark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
 
 ### Acroyoga Instructor @ Upward Dog Yoga Centre
-Jul 2014 to Aug 2017, Ottawa Canada
+Jul 2014 to present, Ottawa Canada
 
 * Teaching Acroyoga as part of [SmileyOm](https://smileyom.com)
 
@@ -47,7 +47,7 @@ Mar 2012 to Sep 2013, Sydney Australia & Ottawa Canada
 Jul 2004 to Nov 2012, Australia
 
 * Peace making tour in Afghanistan
-* Pease keeping tour in Solomon Islands
+* Peace keeping tour in Solomon Islands
 
 ## Education
 
