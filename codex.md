@@ -62,6 +62,12 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Today's humanity will appear ludicrous to future generations
 - Plants & animals also domesticated humans
 - Humans memory is fallible
+- Humans are made up of symbionts including;
+  - a consciousness
+  - a primate
+  - trillions of bacteria, fungi, & viruses
+  - thousands of mites
+  - many creatures yet to be discovered
 - Humans make mistakes
 
 
