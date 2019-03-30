@@ -14,13 +14,13 @@ tags:
   - vpn
 ---
 
-Russia has recently threatened to block popular VPN services unless they join a state IT system that contains a registry of banned websites[¹](https://www.themoscowtimes.com/2019/03/29/russia-threatens-to-block-popular-vpn-services-to-prevent-website-access-a65007). In response, here is a quick tutorial on how to setup a personal VPN for $1 a month. Personal VPNs have advantages over shared VPN services because they are harder to block & you do not share an ip address with possible nefarious users so you get less annoying "Are you a robot" questions.
+Russia has recently threatened to block popular VPN services unless they join a state IT system that contains a registry of banned websites[¹](https://www.themoscowtimes.com/2019/03/29/russia-threatens-to-block-popular-vpn-services-to-prevent-website-access-a65007). In response, here is a quick tutorial on how to setup a personal VPN for $1 a month. Personal VPNs have advantages over shared VPN services because they are harder for governments to block & you do not share an ip address with possible nefarious users so you get less annoying "Are you a robot" questions.
 
-Prerequisites: comfortable in shell (feel free to reach out in the comments below if you have any issues)
+Prerequisites: being comfort in shell (feel free to reach out in the comments below if you have any issues)
 
 ### 1) Setup a Virtual Private Server
 
-There are a few providers that offer $1 Virtual Private Servers. I chose [FDC Servers](https://fdcservers.net) (no affiliation) because they offered european locations. You don't get much for $1 but we're just creating a glorified web router so 1990's specs are fine. Once I signed up I was provisioned a VPS running Ubuntu with 5Mbps unmetered connection, 128MB RAM, 10GB SSD, 1 external IP, & 1 CPU Core. It took a couple of hours for the box to get spun up.
+There are a few providers that offer $1 Virtual Private Servers. I chose [FDC Servers](https://fdcservers.net) (no affiliation) because they offered european locations. You don't get much for $1 but we're just creating a glorified web router so 1990's specs are fine. Once I signed up I was provisioned a VPS running Ubuntu with a 5Mbps unmetered connection, 128MB RAM, 10GB SSD, 1 external IP, & 1 CPU Core. It took a couple of hours for the box to get spun up.
 
 ```
 greg ~ $ssh root@198.16.x.x
@@ -52,9 +52,9 @@ Mem:           112        102          9          0         31         29
 Swap:         1023          9       1014
 ```
 
-Because of the incredibly low specs, the server was provisioned with Ubuntu 12.04.5 LTS. It's not ideal to run a end of life cycle version of Ubuntu but for $1 & my purposes, it's ok.
+Because of the incredibly low specs, the server was provisioned with Ubuntu 12.04.5 LTS. It's not ideal to run an end of life version of Ubuntu. However for $1 & my purposes, it's ok.
 
-For some reason the server didn't have it's DNS name servers set. So I added them to network interfaces;
+For some reason the server didn't have it's DNS name servers set. If you use another service you probably won't have this issue. I quickly added dns-nameservers to network interfaces;
 
 Edit `/etc/network/interfaces` with
 
@@ -68,11 +68,11 @@ Then I was able to run an update (this may take a while).
 
 ### 2) Setup OpenVPN server
 
-[Nyr](https://github.com/Nyr/openvpn-install) has created an awesome script that takes care of all the hard work of configuration for OpenVPN. All we have to do is run this command and answer some questions.
+[Nyr](https://github.com/Nyr/openvpn-install) has created an awesome script that takes care of all the hard work of configuring OpenVPN. All we have to do is download & run Nyr's script and then answer some questions.
 
 `wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh`
 
-To make it more difficult to block access to our new VPN we will leave the hostname blank. Instead we will connect via an ip address so that our VPN can't be blocked at the DNS level. We will also choose the TCP on port 443. https uses TCP on 443 making it hard to distinguish your traffic from regular web traffic.
+To make it more difficult to block access to our personal VPN we will leave the hostname blank. Instead we will connect via an ip address so that our VPN can't be blocked at the DNS level. We will also choose TCP on port 443. https uses TCP on 443 making it hard to distinguish your traffic from regular web traffic.
 
 ```
 Welcome to this OpenVPN "road warrior" installer!
@@ -238,7 +238,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ=
 </tls-auth>
 ```
 
-Install an OpenVPN client on your [Mac](https://tunnelbrick.net), Android, Windows, or iOS device and add the `client.ovpn` file.
+Install an OpenVPN client on your [Mac](https://tunnelbrick.net), [Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn), Windows, or [iOS](https://itunes.apple.com/ca/app/openvpn-connect/id590379981) device and add the `client.ovpn` file.
 
 ### 4) Browse freely!
 
