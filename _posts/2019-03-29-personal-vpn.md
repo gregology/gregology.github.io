@@ -1,8 +1,8 @@
 ---
-title: "Personal VPN"
+title: "$1 a Month Personal VPN"
 author: Greg
 layout: post
-permalink: /2019/03/vpn/
+permalink: /2019/03/personal-vpn/
 date: 2019-03-29 16:12:44 -0400
 comments: True
 licence: Creative Commons
@@ -20,7 +20,7 @@ Prerequisites: being comfort in shell (feel free to reach out in the comments be
 
 ### 1) Setup a Virtual Private Server
 
-There are a few providers that offer $1 Virtual Private Servers. I chose [FDC Servers](https://fdcservers.net) (no affiliation) because they offered european locations. You don't get much for $1 but we're just creating a glorified web router so 1990's specs are fine. Once I signed up I was provisioned a VPS running Ubuntu with a 5Mbps unmetered connection, 128MB RAM, 10GB SSD, 1 external IP, & 1 CPU Core. It took a couple of hours for the box to get spun up.
+There are a few providers that offer $1 Virtual Private Servers. I chose [FDC Servers](https://fdcservers.net) (no affiliation) because they offered servers located in Spain. You don't get much for $1 but we're just creating a glorified web router so 1990's specs are fine. Once I signed up I was provisioned a VPS running Ubuntu with a 5Mbps unmetered connection, 128MB RAM, 10GB SSD, 1 external IP, & 1 CPU Core. It took a couple of hours for them to spin up the box.
 
 ```
 greg ~ $ssh root@198.16.x.x
@@ -52,7 +52,7 @@ Mem:           112        102          9          0         31         29
 Swap:         1023          9       1014
 ```
 
-Because of the incredibly low specs, the server was provisioned with Ubuntu 12.04.5 LTS. It's not ideal to run an end of life version of Ubuntu. However for $1 & my purposes, it's ok.
+Because of the incredibly low specs, the server was provisioned with Ubuntu 12.04.5 LTS. It's not ideal to run an end of life version of Ubuntu. However for $1 & for the purpose of a VPN, it's ok.
 
 For some reason the server didn't have it's DNS name servers set. If you use another service you probably won't have this issue. I quickly added dns-nameservers to network interfaces;
 
@@ -112,7 +112,6 @@ Press any key to continue...
 ```
 
 The script will do some magic and create a file called `client.ovpn` (or whatever you choose as your client name).
-
 
 #### Optional
 
@@ -242,4 +241,4 @@ Install an OpenVPN client on your [Mac](https://tunnelbrick.net), [Android](http
 
 ### 4) Browse freely!
 
-You can ensure you're safely connected to your VPN by visiting [iplocation.net](https://iplocation.net) or running `$ curl ip.gho.st` from your local terminal (it should show the ip address of your VPN server).
+You can ensure you're safely connected to your VPN by visiting [ipleak.net](https://ipleak.net/) and checking for DNS leaks. Leaks occur when DNS requests are not tunnelled through the VPN. If you identify leaks, ensure that DNS settings are not manually set in your network settings.
