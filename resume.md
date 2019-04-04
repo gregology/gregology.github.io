@@ -16,8 +16,8 @@ title: Résumé
 Nov 2018 to present, Ottawa Canada
 
 * Developing [quantified self tools](https://memair.com) for humans
-* Learning business stuff
-* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud
+* Contracting & consulting
+* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), [Flutter](https://flutter.dev/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud
 
 ### Sailing Sabbatical
 Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
@@ -54,4 +54,11 @@ Jul 2004 to Nov 2012, Australia
 ### Bachelor's degree @ Murdoch University
 Feb 2008 to Mar 2011, by correspondence
 
-* Terrorism, Counterterrorism, and Security
+* Terrorism, counter-terrorism, and security
+
+## Security Clearance
+
+Government of Canada Security Clearance<br>
+**Level:** Enhanced Reliability<br>
+**File Number:** 96200871-0002397761<br>
+**Expiry Date:** April 4, 2029<br>
