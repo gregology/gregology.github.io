@@ -15,9 +15,9 @@ title: Résumé
 ### Developer & CEO @ Memair
 Nov 2018 to present, Ottawa Canada
 
-* Developing [quantified self tools](https://memair.com) for humans
+* Using data science & business analytics techniques on human data
 * Contracting & consulting
-* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), [Flutter](https://flutter.dev/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud
+* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), [GraphQL](https://memair.com/graphiql), [React](https://memair.com/player), [Flutter](https://flutter.dev/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud, Heroku, & physical servers
 
 ### Sailing Sabbatical
 Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
