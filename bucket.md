@@ -29,7 +29,7 @@ licence: Creative Commons
   * Orca
   * Humpback
   * Moose
-  * Wolf
+  * ~~Wolf or coyote~~
   * Koala
 * ~~Be a mentor~~
 * ~~Fly in a hot air balloon~~
