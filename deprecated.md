@@ -5,9 +5,7 @@ licence: Creative Commons
 title: Deprecated Projects
 ---
 
-
 ### [Oasis DNS](https://github.com/gregology/oasis_dns)
-
 A DNS service to help you disconnect from Social Media. Replaced by [Memair DNS](https://memair.com/dns)
 
 ### [Handy Signs](http://handysigns.github.io/)

@@ -48,7 +48,6 @@ author:
 social:
   name: Gregology
   links:
-    - https://www.facebook.com/gregology
     - https://github.com/gregology
     - https://twitter.com/gregologynet
     - https://www.reddit.com/user/gregologynet
@@ -61,7 +60,6 @@ social:
 
 footer-links-active:
   rss: false
-  facebook: true
   email: true
   twitter: true
   google-plus: false
