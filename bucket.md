@@ -29,9 +29,9 @@ licence: Creative Commons
   * Orca
   * Humpback
   * Moose
-  * Wolf
+  * ~~Wolf or coyote~~
   * Koala
-* Be a mentor
+* ~~Be a mentor~~
 * ~~Fly in a hot air balloon~~
 * Public speak in front of;
   * ~~100 people~~
