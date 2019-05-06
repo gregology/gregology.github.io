@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /stats.json
+---
+{"latest_post_at": "{% for post in site.posts limit: 1 %}{{ post.date }}{% endfor %}"}
