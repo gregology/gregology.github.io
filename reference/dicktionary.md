@@ -86,6 +86,7 @@ The largest list of penis euphemisms
   * Bald-headed yogurt slinger
   * Baldy-headed spunk-juice dispens
   * Ball buddy
+  * Ballon knot
   * Baloney pony
   * Banana
   * Baptizer
@@ -171,6 +172,7 @@ The largest list of penis euphemisms
   * Boneless beef
   * Boneless fish
   * Boner
+  * Bonercoaster
   * Boney cannelloni
   * Boom stick
   * Bop gun
@@ -203,6 +205,7 @@ The largest list of penis euphemisms
 
 **[C](#C)**
 
+  * Caliburn
   * Camel rider
   * Candy cane
   * Canelo
@@ -249,6 +252,7 @@ The largest list of penis euphemisms
   * Chum
   * Chunder thunder
   * Chunk 'o' love
+  * Christabelle, The
   * Cigar
   * Circus boy
   * Clam digger
@@ -1367,6 +1371,7 @@ The largest list of penis euphemisms
   * Shaft
   * Shaft of Cupid
   * shagged
+  * Shama-lama-ding-dong
   * Shape shifter
   * Sheep shank
   * Sheep shifter
@@ -1438,6 +1443,7 @@ The largest list of penis euphemisms
   * Spermin' Herman
   * Sperminator
   * Spigot
+  * Spike
   * Spikebit
   * Spit
   * Spitting python
@@ -1507,6 +1513,7 @@ The largest list of penis euphemisms
   * Tasmanian devil
   * Tassle
   * Teeter
+  * Telescope
   * Telingana Black Snake
   * Tennessee throatwarmer
   * Tent peg
@@ -1746,7 +1753,7 @@ The largest list of penis euphemisms
 
 **[X](#X)**
 
-  * Xcaliber
+  * Xiao Didi
   * XTC Stick
 
 **[Y](#Y)**

@@ -55,6 +55,7 @@ layout: page
 
 **[C](#C)**
 
+  * Casual encounters
   * Chimney
   * Churning butter
   * Clean her pipes
@@ -186,6 +187,7 @@ layout: page
   * Hit it
   * Hokey-pokey
   * Hop on the good foot and do the bad thing
+  * Horizontal
   * Horizontal exercises
   * Horizontal hula
   * Horizontal hustle
@@ -272,6 +274,7 @@ layout: page
   * Peel your best end
   * Phallicize someone
   * Pick the Cherry
+  * Pickle tuna position
   * Picnic in the lawn
   * Pink
   * Pink pony
