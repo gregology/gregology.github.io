@@ -18,7 +18,7 @@ Self experimentation helps me become the best version of me. Declaring my experi
   <img width="75%" height="75%" src="/wp-content/uploads/2019/05/experiment.gif" alt="Experiment GIF" title="Experiment GIF">
 </p>
 
-### Social Media's affect on my self reported happiness
+### Social Media's effect on my self reported happiness
 
 **Hypothesis**
 
