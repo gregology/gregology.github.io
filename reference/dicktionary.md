@@ -2,6 +2,9 @@
 title: Dicktionary
 layout: page
 redirect_from:
+  - /reference/Dicktionary
+  - /Reference/Dicktionary
+  - /reference/dictionary
   - /reference/Dicktionary/
   - /Reference/Dicktionary/
   - /reference/dictionary/
@@ -13,6 +16,10 @@ redirect_from:
   - /entertainment/dicktionary
   - /Entertainment/Dictionary
   - /entertainment/dictionary
+  - /Entertainment/Dicktionary/
+  - /entertainment/dicktionary/
+  - /Entertainment/Dictionary/
+  - /entertainment/dictionary/
 related:
   - vagitionary
   - menstruationary
