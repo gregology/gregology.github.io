@@ -9,6 +9,10 @@ redirect_from:
   - /Dicktionary
   - /dictionary
   - /Dictionary
+  - /Entertainment/Dicktionary
+  - /entertainment/dicktionary
+  - /Entertainment/Dictionary
+  - /entertainment/dictionary
 related:
   - vagitionary
   - menstruationary
