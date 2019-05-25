@@ -62,7 +62,6 @@ footer-links-active:
   rss: false
   email: true
   twitter: true
-  google-plus: false
   github: true
   reddit: true
   linkedin: true
@@ -77,13 +76,11 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
-  linkedin: false
+  linkedin: true
 
 url-pretty: "Gregology.net"
 disqus: "gregology"
 google_analytics: "UA-23771948-1"
-lucky_orange: "38409"
 
 excerpt_length: 50
 title-separator: "-"
