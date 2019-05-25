@@ -9,7 +9,7 @@ licence: Creative Commons
 categories:
   - travel
 tags:
-  - san francisco
+  - San Francisco
 images:
   - image: /wp-content/uploads/2019/05/san-francisco-trip/IMG_20190523_122734.jpg
     description: I had an interview in San Francisco so I took a day to explore
