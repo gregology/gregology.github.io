@@ -7,16 +7,11 @@ title: Secure Communication
 
 [Page History](https://github.com/gregology/gregology.github.io/commits/master/secure.md)
 
-### Adium Fingerprint
-
-```
-1F2D5CC8 BC8FE677 2C2D48FB 4D05E734 EAE0091C
-```
 
 ### ssh-rsa public key
 
 ```
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+MocxNtn0EDmTVLUubHLEIMqPp4Gi8wVZtyw9ctgcZ93Ffjj75+/qHX4kcWAvSIv8DCQydG6DPYOam73TNW0bFTihbJ2easA9/TxozjjJPy9UkAtZ+jvHBGYF3AznahsocnVnC7I4TKNZi/L6TeYy4kAHFXHJg6T7sbKGY3Bzo9GehjJvOZT2g3sVMKBahv9rgVhy8wR5mmAK7lvYvU99m1QSF7Kgb95k6hx/5/EWmol151afwMN0LmdKh1f277lf8QPZrDnSLN7CEcF2htDWYFpsNLkA7kqqroq7sQm5JLRvbS3RY8WQF4HcOP+0TaqdgaMkOGCC8OWXAe2oomOZ greg@Gregs-MBP.local
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDX2ZMVC10zRGr8OfBagjk0s94Hh7sDosWGy4Tmunddzd1b6NzZiPNbYZ4FbV8Uzv6Wrs9qSWAAtz8ovbMofQwCOEkRbYPV7NrqeupYIV2DebyP56udm8kD06hZ4O9C86ab+1AESa6JtDk4suQxpOwr2TorilVrSZgULn3b4iwW3wYiavPmpE1qq5poaQcRSPIsd9twx/Gzavcy6ic8kEN5QPg1X6fK22gsYcRGdXeIYKSMz7b4mltNtB++tNRW8dqQNjLmIDYkPBS3s9qJZxWl0vr/eVAFfF80CMr8WKh44RNnJoWVyyfgFswvUkvNo/RQQWCqw/pLUD0gy2evmvJz greg@Gregs-MBP.local
 ```
 
 ### GPG Keychain
