@@ -7,9 +7,9 @@ date: 2019-05-12 11:55:03 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - category
+  - quantified self
 tags:
-  - tag
+  - experiments
 ---
 
 Self experimentation helps me become the best version of me. Declaring my experiments before seeing the results keeps me honest. This is the first of many planned self experiments.
