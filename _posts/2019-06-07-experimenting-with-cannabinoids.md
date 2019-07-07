@@ -12,7 +12,7 @@ tags:
   - experiments
 ---
 
-I don't mean to brag but I used to be really good a sleeping.
+I don't mean to brag but I used to be really good at sleeping.
 
 <p align="center">
   <img width="75%" height="75%" src="/wp-content/uploads/2019/06/greg_sleep.jpg" alt="Greg Sleeping" title="Greg Sleeping">
@@ -32,7 +32,7 @@ I have no trouble getting to sleep however I struggle to stay asleep. Often I wa
 
 These insomnia spells often occur in sequence and I start to struggle by the third day of poor sleep. I want to fix my sleep.
 
-This experiment will help me determine if low doses of cannabinoids assists my sleeping. As with my [previous experiment](/2019/05/self-experimentation-with-social-media/), I am declaring the experiment before seeing the results to keep my honest.
+This experiment will help me determine if low doses of cannabinoids assists my sleeping. As with my [previous experiment](/2019/05/self-experimentation-with-social-media/), I am declaring the experiment before seeing the results to keep me honest.
 
 ### Cannabinoid effect on Sleep
 
