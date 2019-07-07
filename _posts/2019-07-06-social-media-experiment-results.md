@@ -15,7 +15,7 @@ tags:
 
 > If we had hard metrics relating the impact of [using social media] on bottom line, our current technopoly would likely crumble. - Deep Work by Cal Newport.
 
-This is an interesting concept that deserves testing. I created [Memair DNS](https://memair.com/dns) in order to test the effect of social media. In my [first experiment](/2019/05/self-experimentation-with-social-media/) I tested self reported happiness for 60 days. The results were alarming.
+Cal Newport raises an interesting concept that deserves testing. I created [Memair DNS](https://memair.com/dns) in order to test the effect of social media. In my [first experiment](/2019/05/self-experimentation-with-social-media/) I tested self reported happiness for 60 days. The results were alarming.
 
 <p align="center">
   <img width="100%" height="100%" src="/wp-content/uploads/2019/07/2019-07-02_social_media_experiment_results.png" alt="Social Media Experiment Results" title="Social Media Experiment Results">
