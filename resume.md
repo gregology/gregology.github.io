@@ -12,8 +12,14 @@ title: Résumé
 
 ## Work History
 
+### Senior Data Scientist @ Shopify
+Jul 2019 to present, Ottawa Canada
+
+* Data modelling, reporting, experimenting, & machine learning
+* Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
+
 ### Developer & CEO @ Memair
-Nov 2018 to present, Ottawa Canada
+Nov 2018 to Jul 2019, Ottawa Canada
 
 * Empowering humans by using business analytics & data science techniques on their own data
 * Learning how to business
@@ -29,7 +35,7 @@ Sep 2017 to Sep 2018, Canada, USA, & The Bahamas
 ### Data Engineer @ Shopify
 Sep 2013 to Sep 2017, Ottawa Canada
 
-* Data modelling, reporting, experimenting, & machine learning
+* Data modeling, reporting, experimenting, & machine learning
 * Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
 
 ### Acroyoga Instructor @ Upward Dog Yoga Centre
