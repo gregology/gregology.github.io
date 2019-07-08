@@ -7,11 +7,17 @@ licence: Creative Commons
 
 A brief history of milestones from my life *(Work in Progress)*
 
+## 2019
+
+### July
+
+🛍 Put [Memair](https://memair.com) on the back burner and returned to Shopify as a Data Scientist  
+
 ## 2018
 
 ### November
 
-🧠 Incorporated my first company
+🧠 Incorporated my first company, [Memair](https://memair.com)
 
 ### September
 
