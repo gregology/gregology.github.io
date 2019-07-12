@@ -48,6 +48,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - I hopefully will not be the same person in 5 years
 - Practicing mindfulness helps me act consciously
 - My memory is fallible
+- My first impressions of people are normally wrong
 - I make mistakes
 
 
