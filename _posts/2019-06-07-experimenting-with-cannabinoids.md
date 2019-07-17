@@ -38,7 +38,7 @@ This experiment will help me determine if low doses of cannabinoids assists my s
 
 **Hypothesis**
 
-Low dose Cannabidiol (CBD) & Tetrahydrocannabinol (THC) taken orally before bed will increase sleep quality as measured by a Mi Bank 3 using the Mi Fit sleep points metric.
+Low dose Cannabidiol (CBD) & Tetrahydrocannabinol (THC) taken orally before bed will increase sleep quality as measured by a Mi Band 3 using the Mi Fit sleep points metric.
 
 **Experiment**
 
