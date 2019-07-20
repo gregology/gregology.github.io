@@ -115,36 +115,7 @@ should show a line like `/dev/sda2       699G  300M  668G  0% /media/tm`
 
 Install prerequisites
 
-`pi@timemachine:~ $ sudo apt-get install build-essential libevent-dev libssl-dev libgcrypt11-dev libkrb5-dev libpam0g-dev libwrap0-dev libdb-dev libtdb-dev libmariadbclient-dev avahi-daemon libavahi-client-dev libacl1-dev libldap2-dev libcrack2-dev systemtap-sdt-dev libdbus-1-dev libdbus-glib-1-dev libglib2.0-dev libio-socket-inet6-perl tracker libtracker-sparql-1.0-dev libtracker-miner-1.0-dev`
-
-Download the latest version to Netatalk (at time of writing it is 3.1.12)
-
-`pi@timemachine:~ $ wget https://prdownloads.sourceforge.net/netatalk/netatalk-3.1.12.tar.gz && tar -xf netatalk-3.1.12.tar.gz && cd netatalk-3.1.12`
-
-Create config
-
-```
-./configure \
-        --with-init-style=debian-systemd \
-        --without-libevent \
-        --without-tdb \
-        --with-cracklib \
-        --enable-krbV-uam \
-        --with-pam-confdir=/etc/pam.d \
-        --with-dbus-daemon=/usr/bin/dbus-daemon \
-        --with-dbus-sysconf-dir=/etc/dbus-1/system.d \
-        --with-tracker-pkgconfig-version=1.0
-```
-
-and make
-
-`pi@timemachine:~ $ make`
-
-*Note: this will take a while. Might I suggest checking out my [Sailing YouTube Channel](https://www.youtube.com/SVCatsaway) to pass the time*
-
-finally make install
-
-`pi@timemachine:~ $ sudo make install`
+`pi@timemachine:~ $ sudo apt-get install netatalk -y`
 
 and ensure everything worked
 
@@ -183,7 +154,7 @@ netgroup:       nis
 
 Finally edit afp.conf
 
-`pi@timemachine:~ $ sudo nano /usr/local/etc/afp.conf`
+`pi@timemachine:~ $ sudo nano /etc/netatalk/afp.conf`
 
 and append
 
