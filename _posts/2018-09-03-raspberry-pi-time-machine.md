@@ -27,7 +27,7 @@ tags:
 
 ## Setup Pi with Raspbian
 
-Install [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) on the SD card. Follow the instructions on the [Installing images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) tutorial on the Raspberry Pi site. Then [enable SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/). Insert the SD card into the Pi, plug in the USB hard drive, plug in a network cable, and power on the Pi.
+Install [Raspbian Buster Lite](https://www.raspberrypi.org/downloads/raspbian/) on the SD card. Follow the instructions on the [Installing images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) tutorial on the Raspberry Pi site. Then [enable SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/). Insert the SD card into the Pi, plug in the USB hard drive, plug in a network cable, and power on the Pi.
 
 Next set a static IP address for your Raspberry Pi. Depending on your setup, you can either set the Pi to have a [manual ip address](https://www.raspberrypi.org/learning/networking-lessons/rpi-static-ip-address/) or have your router assign a static IP address.
 
@@ -119,7 +119,37 @@ Install prerequisites
 
 and ensure everything worked
 
-`pi@timemachine:~ $ netatalk -V`
+```
+pi@timemachine:~ $ netatalk -V
+netatalk 3.1.12 - Netatalk AFP server service controller daemon
+
+This program is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation; either version 2 of the License, or (at your option) any later
+version. Please see the file COPYING for further information and details.
+
+netatalk has been compiled with support for these features:
+
+      Zeroconf support:
+Avahi
+     Spotlight support:
+Yes
+
+                  afpd:
+/usr/sbin/afpd
+            cnid_metad:
+/usr/sbin/cnid_metad
+       tracker manager:
+/usr/bin/tracker daemon
+           dbus-daemon:
+/usr/bin/dbus-daemon
+              afp.conf:
+/etc/netatalk/afp.conf
+     dbus-session.conf:
+/etc/netatalk/dbus-session.conf
+    netatalk lock file:
+/var/lock/netatalk
+```
 
 ## Configure Netatalk
 
