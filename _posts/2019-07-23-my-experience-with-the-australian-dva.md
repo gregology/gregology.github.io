@@ -15,7 +15,7 @@ tags:
   - Army
 ---
 
-In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have a [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veterans services. On March 19th, 2019, I decided to seek help from the DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience.
+In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have a [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veterans services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
 #### Early March, 2019
 
@@ -426,3 +426,70 @@ The Australian Department of Veteran Affairs has failed me and is failing many o
  - Improved systems so veterans will still be informed about their treatment if DVA staff are sick
  - Better communications between DVA Australia and their international counterparts. There is no point in having reciprocal services if they are inaccessible
  - And finally, treatment for my insomnia (ideally with a Veterans Affairs Canada card)
+
+
+### Updates
+
+#### 23rd of July, 2019
+
+I really want to get some help so I emailed Darren Chester, the Minister responsible for the operations of Veterans' Affairs. I also cc'd GeneralEnquiries@dva.gov.au to give them a heads up.
+
+>Dear Hon Darren Chester MP,
+>
+>I am an Australian Army veteran that served in Afghanistan & the Solomon Islands. I migrated to Canada in 2012 and have been seeking help from the Australian DVA for my service induced insomnia. It's not going well even though there is a reciprocal relationship between the Australian Department of Veteran Affairs and the Canadian Veterans Affairs.
+>
+>I have documented my experience so far in a blog post -> https://gregology.net/2019/07/my-experience-with-the-australian-dva/
+>
+>I would really appreciate if you could assist in any way possible.
+>
+>Regards,
+>
+>Greg Clarke.
+
+I received an automated reponse
+
+>Office of the Hon Darren Chester MP
+>
+>Minister for Veterans and Defence Personnel
+>Deputy Leader of the House
+>Federal Member for Gippsland
+>
+>Thank you for your email to the Office of the Hon Darren Chester MP.
+>
+>As you would appreciate, Minister Chester receives a considerable amount of correspondence each day and, while all emails will be read and actioned, some may not receive a formal response.
+>
+>Thank you for taking the time to contact the Minister.
+
+I have not received any more responses or follow ups from this email.
+
+#### 29th of July, 2019
+
+After getting no human response from the Minister for Veterans and Defence Personnel, I decided to reach out to the shadow minister for help.
+
+>Dear Honourable Amanda Rishworth MP,
+>
+>I am an Australian Army veteran that served in Afghanistan & the Solomon Islands. For the last few months I've been trying to get assistance from the DVA for my service induced insomnia. I'm at my wits’ end trying to get support from the DVA. 
+>
+>I have documented my communications with the DVA here -> https://gregology.net/2019/07/my-experience-with-the-australian-dva/
+>
+>It's been over 4 months since I initially reached out for help and I'm no closer to treatment.
+>
+>I was hoping that you, as a psychologist and the Shadow Minister for Veterans' Affairs could help me. Is there anything you can do to help me get treatment?
+>
+>I would appreciate any assistance or direction you can give me,
+>
+>Regards,
+>
+>Greg.
+
+Clearly my details were out of date and I received this reponse
+
+>Dear Mr Clarke
+>
+>Thank you for our email.
+>
+>Amanda is no longer the Shadow Minister for Veterans’ Affairs.  The new Shadow Minister if Shayne Neumann MP.  I have forwarded your email to his office.
+>
+>Kind regards – Ethné
+
+I have not received any more responses or follow ups from this email.
