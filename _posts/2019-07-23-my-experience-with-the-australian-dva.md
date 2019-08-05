@@ -15,9 +15,9 @@ tags:
   - Army
 ---
 
-In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have a [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veterans services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
+In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veterans services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
-#### Early March, 2019
+#### 19th of March, 2019
 
 After years of dealing with insomnia, I decided to reach out for help. I called Veterans Affairs Canada and was informed that I would have to initiate the process though DVA Australia.
 
@@ -82,7 +82,7 @@ and responded
 >
 >Thanks again for looking into this, it helps put my mind at ease knowing that these matters are taken seriously.
 
-I haven't received another response from David
+As of July 24th, I still haven't received a response from David
 
 #### 22nd of March, 2019
 
@@ -146,7 +146,7 @@ Received an update a month later that the DVA was still trying to setup the appo
 
 Received this email about my claim.
 
->Good morning Mr ███████,
+>Good morning Mr Clarke,
 >
 >My name is Hugh Craill, from the Department of Veterans’ Affairs.
 >
@@ -161,6 +161,8 @@ Received this email about my claim.
 >Department of Veterans’ Affairs | www.dva.gov.au
 
 #### 31st of May, 2019
+
+Received this follow up email about an appointment.
 
 >Good Afternoon Greg,
 >
@@ -290,7 +292,7 @@ A week prior to the appointment and I hadn't recived any more details about the 
 >
 >Greg.
 
-I looked up the Dr. Ken Suddaby to try and find his address myself. All I found was his [RateMDs profile](https://www.ratemds.com/doctor-ratings/886965/Dr-Ken-Suddaby-Ottawa-ON.html), he has a 2.5 stars with over 30 reviews.
+I looked up the Dr. Ken Suddaby to try and find his address myself. All I found was his [RateMDs profile](https://www.ratemds.com/doctor-ratings/886965/Dr-Ken-Suddaby-Ottawa-ON.html), he is one of the lowest rated psychiatrists in Ottawa with a 2.53 star rating and 32 reviews.
 
 #### 4th of July, 2019
 
