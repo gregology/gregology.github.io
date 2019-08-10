@@ -495,3 +495,23 @@ Clearly my details were out of date and I received this reponse
 >Kind regards – Ethné
 
 I have not received any more responses or follow ups from this email.
+
+#### August 6th, 2019
+
+I received an address for my assessment appointment!
+
+>Good Morning Greg,
+>
+>Please find correspondence attached which refers to your upcoming appointment with Dr Ken Suddaby on 04 September 2019.
+>
+>Please allow between 2-3 hours for the duration of this appointment.
+>
+>Please bring along two forms of identification to the appointment, with one of those being a photo ID.
+>
+>With Kind Regards,
+>
+>Vijayata
+
+Responded
+
+>Confirmed, thank you.
