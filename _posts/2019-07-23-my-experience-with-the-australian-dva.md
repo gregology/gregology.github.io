@@ -515,3 +515,39 @@ I received an address for my assessment appointment!
 Responded
 
 >Confirmed, thank you.
+
+
+#### August 27th, 2019
+
+I received another confirmation from a new Senior Delegate
+
+>Dear Mr Clarke,
+>
+>I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health’.
+>
+>This is to advise you that this claim has now been reassigned to me and I wanted to confirm that an appointment has been organised for you on 4 September 2019 at 10am as per follows:
+>
+>Dr Ken Suddaby (Consultant Psychiatrist)
+>555 Legget Drive
+>Tower A, Suite 304 TTC (The Corporate Centre)O
+>Ottawa, ON, K2K 2X3
+>
+>Please do not hesitate to contact me if you have any enquiries regarding this matter.
+>
+>Kind Regards
+>
+>Anita (62210884)
+>Senior Delegate, MRCA Liability
+>Processing Team 2 | Sydney Office |Clients’ Benefits 
+>Department of Veterans’ Affairs
+>Phone: 1800 555 254 Ext: 412353
+
+Responded
+
+>Hello Anita,
+>
+>It's a pleasure to meet you. I'm looking forward to the appointment and getting some help.
+>
+>Cheers,
+>
+>Greg.
