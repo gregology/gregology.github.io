@@ -28,7 +28,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 
 #### Changelog
-- [history of changes to this document](https://github.com/gregology/gregology.github.io/commits/master/codex.md)
+- [history of changes](https://github.com/gregology/gregology.github.io/commits/master/codex.md)
+- [Git blame](https://github.com/gregology/gregology.github.io/blame/master/codex.md)
 
 
 ## Beliefs
@@ -119,7 +120,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 - I am privileged because:
   - I am human
-  - I am the youngest in a loving & supporting family
+  - I grew up as the youngest in a loving & supporting family
+  - I have a loving and supportive partner (Diana)
   - my physical appearance & cultural traits are considered "normal" where I live
   - I natively speak english with a western accent
   - of my citizenships, permanent residency, & visas
