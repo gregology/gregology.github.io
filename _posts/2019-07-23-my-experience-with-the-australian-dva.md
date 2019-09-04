@@ -15,7 +15,7 @@ tags:
   - Army
 ---
 
-In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veterans services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
+In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
 #### 19th of March, 2019
 
@@ -536,10 +536,10 @@ I received another confirmation from a new Senior Delegate
 >
 >Kind Regards
 >
->Anita (62210884)
->Senior Delegate, MRCA Liability
->Processing Team 2 | Sydney Office |Clients’ Benefits 
->Department of Veterans’ Affairs
+>Anita (62210884) 
+>Senior Delegate, MRCA Liability 
+>Processing Team 2 | Sydney Office | Clients’ Benefits 
+>Department of Veterans’ Affairs 
 >Phone: 1800 555 254 Ext: 412353
 
 Responded
@@ -551,3 +551,33 @@ Responded
 >Cheers,
 >
 >Greg.
+
+
+#### September 4th, 2019
+
+Today I met with Dr. Ken Suddaby for my appointment. Dr. Suddaby politely declined my request to record the meeting. He would not allow me to take any notes during the meeting as it would be distracting. Dr. Suddaby also denied my request for a copy of the report or his notes from the session. The assessment was thorough taking 2hrs and 40mins. We discussed my service history, symptoms, previous treatments, life history, & current situation. It was a very draining experience that aggravated some scars.
+
+Dr. Suddaby asked me why I didn't seek treatment earlier. This was a painful question. Since leaving the Australian army, I have spent thousands of dollars out of my own pocket for service related treatment because the DVA previously refused to help me. Had the DVA given me assistance when I first requested it, my treatment would have begun 4 years ago. Getting this far into the process with the DVA and then being asked by *I* didn't seek treatment earlier was very frustrating.
+
+At the end of the assessment, Dr. Suddaby made some recommendations for seeking help through OHIP (Ontario Health Insurance Plan) or my work insurance plan. I gathered from his recommendations that my application would be rejected but I appreciated him giving me direction to find help elsewhere.
+
+Dr. Suddaby will finish his report within a week. The report will then go to MLCOA, an insurance company that helps the DVA reject claims. I should get my rejection letter from the DVA within 3 months.
+
+I submitted a Freedom of Information request to the DVA so that I can calculate how much this whole experience has cost the DVA in MLCOA fees alone.
+
+> Hello,
+>
+>I am formally requesting;
+>
+>1) The names of other organisations used by DVA to write reports (other than MLCOA) and the percentage of the total number of reports written by MLCOA.
+>2) The average amount DVA pays MLCOA doctors for their reports.
+>3) The number of complaints DVA has received from veterans against doctors engaged by DVA for medico-legal service.
+>4) Documents outlining any training material, directions or correspondence provided to MLCOA doctors when dealing with veterans.
+>
+>Similar to Disclosure Log Number 87 from https://www.dva.gov.au/about-dva/freedom-information/foi-disclosure-log
+>
+>Regards,
+>
+>Greg Clarke.
+
+I await their response.
