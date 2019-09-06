@@ -39,6 +39,7 @@ licence: Creative Commons
   * 10000 people
 * Act in a Bollywood movie
 * Go on a meditation retreat
+* Get elected to a government position
 * Have lived an extraordinary life
 
 
