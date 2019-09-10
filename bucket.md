@@ -57,7 +57,9 @@ licence: Creative Commons
   * Antarctica
 * Experience Northern or Southern Lights
 * ~~Visit an igloo~~
-* Trans-Siberian Express
+* Trans-Siberian Express or Trans-Canadian train trip
+* Explore Northern Canada
+* Visit [Miniatur Wunderland](https://www.miniatur-wunderland.com/)
 * See the sun rise and set on every ocean
   * ~~Pacific rise~~
   * ~~Pacific set~~
