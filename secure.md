@@ -5,7 +5,9 @@ licence: Creative Commons
 title: Secure Communication
 ---
 
-[Page History](https://github.com/gregology/gregology.github.io/commits/master/secure.md)
+### Page History
+
+[GitHub](https://github.com/gregology/gregology.github.io/commits/master/secure.md) - [Wayback Machine](http://web.archive.org/web/2018*/https://gregology.net/secure/) - [Google Cache](http://webcache.googleusercontent.com/search?q=cache:https://gregology.net/secure/)
 
 
 ### ssh-rsa public key
