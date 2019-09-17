@@ -462,7 +462,7 @@ I received an automated reponse
 >
 >Thank you for taking the time to contact the Minister.
 
-I have not received any more responses or follow ups from this email.
+I received a response on the 17th of September (posted below)
 
 #### 29th of July, 2019
 
@@ -581,3 +581,25 @@ I submitted a Freedom of Information request to the DVA so that I can calculate 
 >Greg Clarke.
 
 I await their response.
+
+#### September 17th, 2019
+
+Today I received a response from the Minister of Veterans and Defence Personnel, Darren Chester. The message was detailed and they had clearly taken my grievances seriously which I appreciated.
+
+> Dear Mr Clarke
+>
+> Thank you for your correspondence on the 24 July 2019 to the Minister of Veterans and Defence Personnel, the Hon Darren Chester MP regarding your dealings with the Department of Veterans' Affairs (DVA). The Minister has asked me to respond on his behalf.
+>
+> I apologise for the miscommunications in arranging your medical appointment. I understand this has been raised with the staff member with advice provided on appropriate future escalation processes. I am further advised that the business area has cross checked all of the escalation processes for persons living overseas in an effort to have future calls routed to the appropriate area.
+>
+> I understand the mater has now been resolved and you attended an appointment with Dr Suddaby on 4 September 2019. DVA will be able to assess and finalise your claim, once the medical report from Sr Suddaby has been received.
+>
+> Should you have any further queries about this matter, please contact Karen on 1800 555 xxx and request extension xxxxxx.
+>
+> Thank you for taking the time to write.
+>
+> Yours sincerely
+>
+> Robert Curtin
+>
+> Chief of Staff
