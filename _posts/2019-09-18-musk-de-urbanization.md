@@ -72,6 +72,7 @@ Canadian winters are hard on road infrastructure. If Musk can make tunnel boring
  - Properties in small villages with basic socialising services like cafes etc will increase in value*
  - Construction of condos and their value* will decrease
  - Suburban houses will decrease in value*
+ - De-urbanization will initially a privilege of the wealthy
 
 Full disclosure, I'm a techno optimist. I believe that if Elon Musk doesn't solve these problems, someone else will.
 
