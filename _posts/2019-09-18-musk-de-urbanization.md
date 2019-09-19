@@ -72,7 +72,7 @@ Canadian winters are hard on road infrastructure. If Musk can make tunnel boring
  - Property in small villages with basic socialising services like cafes etc will increase in value<small>*</small>
  - Construction of condos and their value<small>*</small> will decrease
  - Urban housing will decrease in value<small>*</small>
- - De-urbanization will initially a privilege of the wealthy
+ - De-urbanization will initially be a privilege of the wealthy
 
  <small>*When compared to the average canadian property value</small>
 
