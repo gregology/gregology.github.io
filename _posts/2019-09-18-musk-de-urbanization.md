@@ -25,7 +25,7 @@ Admiral Elon Musk with his fleet of companies will de-urbanize Canada. Cities ar
 
 ## Utilities
 
-People need electricity, internet, & water to live comfortably. These utilize are easily accessible in cities. Elon Musk is solving two of those problems in a distributed way, electricity & internet. Distributed water in the form of well water is already a solved problem in Canada. 
+People need electricity, internet, & water to live comfortably. These utilities are easily accessible in cities. Elon Musk is solving two of those problems in a distributed way, electricity & internet. Distributed water in the form of well water is already a solved problem in Canada. 
 
 SolarCity is a subsidiary of Tesla that specializes in solar energy services. Paired with Tesla's battery technology, every house has the potential to be off the grid or grid positive. You only need enough solar panels to get you through winter solstice, the shortest day of the year. And while being north means short days in winter, most Canadians don't live very far north. Parts of Canada are at the same latitude as Northern Greece and Toronto is at the same latitude as southern France.
 
