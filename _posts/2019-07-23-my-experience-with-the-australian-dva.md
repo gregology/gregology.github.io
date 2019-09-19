@@ -603,3 +603,7 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 > Robert Curtin
 >
 > Chief of Staff
+
+#### September 19th, 2019
+
+It's been 6 months since I first reached out to the DVA for help. I still have had no treatment provided by the DVA.
