@@ -33,7 +33,7 @@ SolarCity is a subsidiary of Tesla that specializes in solar energy services. Pa
   <img width="100%" height="100%" src="/wp-content/uploads/2019/09/canada_vs_europe.png" alt="Canada vs Europe latitude" title="Canada vs Europe latitude">
 </p>
 
-Starlink is a satellite constellation development project underway by Musk's SpaceX company, to develop low-cost, high-performance internet connections. SpaceX plans to deploy nearly 12,000 satellites in three orbital shells by the mid-2020s. Satellites will initially have 20Gbps bandwidth with the ground and that will likely increase with new versions. The satellites will communicate with each other using lasers so the network will not be limited by their ground communication bandwidth.
+Starlink is a satellite constellation development project underway by Musk's SpaceX company, to develop low-cost, high-performance internet connections. SpaceX plans to deploy nearly 12,000 satellites in three orbital shells by the mid-2020s. Satellites will initially have 20Gbps bandwidth with the ground and that will likely increase with new versions. The satellites will communicate with each other using lasers so the inter-satellite network will not be limited by their ground communication bandwidth.
 
 <p align="center">
   <img width="80%" height="80%" src="/wp-content/uploads/2019/09/starlink.jpg" alt="Starlink Satellite Constellation" title="Starlink Satellite Constellation">
