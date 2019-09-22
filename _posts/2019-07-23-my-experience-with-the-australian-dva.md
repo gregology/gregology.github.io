@@ -417,7 +417,7 @@ Vijayata responded.
 
 #### Next steps
 
-My next appointment (which I still don't have an address for) is scheduled for Wednesday the 4th of September, nearly 6 months since I reached out to DVA Australia for help. Note, September 6th isn't when treatment will begin, it's the initial appointment to investigate if I'm eligible for help. I will edit this blog post with future communications and updates.
+My next appointment (which I still don't have an address for) is scheduled for Wednesday the 4th of September, nearly 6 months since I reached out to DVA Australia for help. Note, September 4th isn't when treatment will begin, it's the initial appointment to investigate if I'm eligible for help. I will edit this blog post with future communications and updates.
 
 The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be 4 months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have commited suicide. I honestly believe that they might still be here if the DVA didn't exist.
 
