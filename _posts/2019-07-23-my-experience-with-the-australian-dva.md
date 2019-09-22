@@ -580,7 +580,9 @@ I submitted a Freedom of Information request to the DVA so that I can calculate 
 >
 >Greg Clarke.
 
-I await their response.
+They responded and I should receive a response in the next few months. 
+
+> In accordance with section 15(5)(b) of the FOI Act, the due date for a decision on your request is 7 October 2019.`
 
 #### September 17th, 2019
 
