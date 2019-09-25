@@ -611,3 +611,37 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 #### September 19th, 2019
 
 It's been 6 months since I first reached out to the DVA for help. I still have had no treatment provided by the DVA.
+
+#### September 24th, 2019
+
+Frustrated with waiting, I reached out to my DVA contact. I also requested the report that Dr. Suddaby had prepared on me.
+
+> Hello Anita,
+>
+> it's been 3 weeks since my assessment and over 6 months since I reached out for help. Is there any word on when the DVA might provide me with treatment? Also, can I please get a copy of Dr. Suddaby's report for my own records.
+>
+> Thank you,
+>
+> Greg.
+
+Anita sent me a prompt response which was appreciated
+
+> Dear Mr Clarke,
+>
+> Thank you for your email.
+>
+> I have not received the report from Dr Suddaby as yet, I did receive an email from the medico-legal company (MLCOA) yesterday that they are following up on this.
+>
+> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr Suddaby’s report with my decision letter.
+>
+> Please do not hesitate to contact me if you have any further queries regarding this matter.
+>
+> Kind Regards
+>
+> Anita (62210884)
+>
+> Senior Delegate, MRCA Liability
+>
+> Processing Team 2 | Sydney Office |Clients’ Benefits 
+>
+> Department of Veterans’ Affairs
