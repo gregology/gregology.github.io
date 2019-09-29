@@ -9,9 +9,13 @@ A brief history of milestones from my life *(Work in Progress)*
 
 ## 2019
 
+### September
+
+⛵️ Sold our boat because we weren't using her. We had 3 summers, 1 year long adventure, and thousands of great memories on her
+
 ### July
 
-🛍 Put [Memair](https://memair.com) on the back burner and returned to Shopify as a Data Scientist  
+🛍 Put [Memair](https://memair.com) on the back burner and returned to Shopify as a Data Scientist
 
 ## 2018
 
