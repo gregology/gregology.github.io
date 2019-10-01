@@ -59,7 +59,7 @@ I also made a complaint with the DVA about my call with Mary:
 >
 >Greg.
 
-I recieved a response the same day
+I received a response the same day
 
 >Hi Greg
 >
@@ -272,7 +272,7 @@ Received another email requesting that I confirm the same appointment again.
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
-I quickly confirmed that I was still avaliable
+I quickly confirmed that I was still available
 
 >Hello,
 >
@@ -388,7 +388,7 @@ Emailed Vijayata again to find out why I hadn't received any news for a few week
 
 >Why is my appointment taking so long to organize? Why haven't I heard anything from you for weeks? What's going on?
 
-I recieved a response.
+I received a response.
 
 >Good Morning Greg,
 >
@@ -433,7 +433,7 @@ I really want to get some help so I emailed Darren Chester, the Minister respons
 >
 >Greg Clarke.
 
-I received an automated reponse
+I received an automated response
 
 >Office of the Hon Darren Chester MP
 >
@@ -469,7 +469,7 @@ After getting no human response from the Minister for Veterans and Defence Perso
 >
 >Greg.
 
-Clearly my details were out of date and I received this reponse
+Clearly my details were out of date and I received this response
 
 >Dear Mr Clarke
 >
@@ -624,7 +624,7 @@ Anita sent me a prompt response which was appreciated
 
 #### September 30th, 2019
 
-The DVA responded to my fredom of information request. All my questions were answered with `Following a reasonable search, this information could not be found`. I was hoping to calculate how much this delaying and refusal tactic had cost the Australia tax payers so far. Clearly it's something the DVA is not eager to share.
+The DVA responded to my freedom of information request. All my questions were answered with `Following a reasonable search, this information could not be found`. I was hoping to calculate how much this delaying and refusal tactic had cost the Australia tax payers so far. Clearly it's something the DVA is not eager to share.
 
 > Document created in accordance with section 17 of the Freedom of Information Act 1982 (Cth)  
 > FOI reference number: 30760
@@ -660,7 +660,7 @@ The DVA responded to my fredom of information request. All my questions were ans
 
 #### Next steps
 
-The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have commited suicide. I honestly believe that they might still be here if the DVA didn't exist.
+The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
 
 ### What I want
 
