@@ -417,23 +417,6 @@ Vijayata responded.
 >
 >Once again, I do apologise for the delay in arranging this appointment for you.
 
-#### Next steps
-
-My next appointment (which I still don't have an address for) is scheduled for Wednesday the 4th of September, nearly 6 months since I reached out to DVA Australia for help. Note, September 4th isn't when treatment will begin, it's the initial appointment to investigate if I'm eligible for help. I will edit this blog post with future communications and updates.
-
-The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be 4 months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have commited suicide. I honestly believe that they might still be here if the DVA didn't exist.
-
-### What I want
-
- - Accurate assessments on treatment schedules so that veterans can make informed decisions as to whether they should proceed with the DVA or get help elsewhere
- - Better training of DVA staff
- - Improved systems so veterans will still be informed about their treatment if DVA staff are sick
- - Better communications between DVA Australia and their international counterparts. There is no point in having reciprocal services if they are inaccessible
- - And finally, **treatment for my service induced insomnia** (ideally with a Veterans Affairs Canada card)
-
-
-### Updates
-
 #### 23rd of July, 2019
 
 I really want to get some help so I emailed Darren Chester, the Minister responsible for the operations of Veterans' Affairs. I also cc'd GeneralEnquiries@dva.gov.au to give them a heads up.
@@ -674,3 +657,20 @@ The DVA responded to my fredom of information request. All my questions were ans
 > 
 > 7. The average amount DVA pays MLCOA doctors for their reports from outside of Australia...”  
 > Following a reasonable search, this information could not be found.
+
+#### Next steps
+
+The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have commited suicide. I honestly believe that they might still be here if the DVA didn't exist.
+
+### What I want
+
+ - Either for the Australian DVA to be disolved
+
+  OR
+
+ - Accurate assessments on treatment schedules so that veterans can make informed decisions as to whether they should proceed with the DVA or get help elsewhere
+ - Better training of DVA staff
+ - Improved communications between DVA staff and veterans
+ - Improved communications between DVA staff and their international counterparts (inaccessible reciprocal services are not reciprocal)
+ - And finally, **treatment for my service induced insomnia** (ideally through Veterans Affairs Canada)
+
