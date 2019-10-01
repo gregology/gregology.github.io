@@ -1,5 +1,5 @@
 ---
-title: "My Experience with the Australian Department of Veteran Affairs"
+title: "My Experience with the Australian DVA"
 author: Greg
 layout: post
 permalink: /2019/07/my-experience-with-the-australian-dva/
@@ -19,17 +19,17 @@ tags:
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
-#### 19th of March, 2019
+#### 19th of March, 2019 (Day 0)
 
 After years of dealing with insomnia, I decided to reach out for help. I called Veterans Affairs Canada and was informed that I would have to initiate the process though DVA Australia.
 
-#### 20th of March, 2019
+#### 20th of March, 2019 (Day 1)
 
 Called DVA Australia - Mary told me the reciprocal relationship was only one way and that I would not be eligible for treatment. Here is the complete conversation including 4 minutes of been told that Australia and Canada have a one way reciprocal relationship.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9b4f_kR4wc?start=490" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### 21st of March, 2019
+#### 21st of March, 2019 (Day 2)
 
 Obviously I was not happy with the initial response from the DVA. I registered with [My Service](https://www.dva.gov.au/myservice/) and made my insomnia claim online. 
 
@@ -86,7 +86,7 @@ and responded
 
 As of October 2019, I still haven't received a response from David
 
-#### 22nd of March, 2019
+#### 22nd of March, 2019 (Day 3)
 
 Received confirmation that my application had been received and was being processed.
 
@@ -102,7 +102,7 @@ Received confirmation that my application had been received and was being proces
 >Department of Veterans' Affairs  
 >Health Approvals & Home Care
 
-#### 11th of April, 2019
+#### 11th of April, 2019 (Day 23)
 
 Received an email saying my claim was being investigated. I was feeling positive that DVA Australia aims to finialise 50% of their cases within 100 days of lodgement.
 
@@ -127,7 +127,7 @@ Received an email saying my claim was being investigated. I was feeling positive
 
 There were a couple of emails back and forth that day, and we settled on having an assessment from a local psychiatrist.
 
-#### 16th of May, 2019
+#### 16th of May, 2019 (Day 58)
 
 Received an update a month later that the DVA was still trying to setup the appointment
 
@@ -144,7 +144,7 @@ Received an update a month later that the DVA was still trying to setup the appo
 >Primary Claims | Clients’ Benefits | Sydney Office  
 >Department of Veterans’ Affairs
 
-#### 20th of May, 2019
+#### 20th of May, 2019 (Day 62)
 
 Received this email about my claim.
 
@@ -162,7 +162,7 @@ Received this email about my claim.
 >Digital Client Experience  
 >Department of Veterans’ Affairs | www.dva.gov.au
 
-#### 31st of May, 2019
+#### 31st of May, 2019 (Day 73)
 
 Received this follow up email about an appointment.
 
@@ -185,7 +185,7 @@ Received this follow up email about an appointment.
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
-#### 1st of June, 2019
+#### 1st of June, 2019 (Day 74)
 
 I confirmed and clarified the date (as the 5th July 2019 isn't a Wednesday).
 
@@ -197,7 +197,7 @@ I confirmed and clarified the date (as the 5th July 2019 isn't a Wednesday).
 >
 >Greg.
 
-#### 2nd of June, 2019
+#### 2nd of June, 2019 (Day 75)
 
 Received another email with the incorrect date.
 
@@ -220,7 +220,7 @@ Received another email with the incorrect date.
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
-#### 3rd of June, 2019
+#### 3rd of June, 2019 (Day 76)
 
 Again, I tried to confirm the correct date.
 
@@ -232,7 +232,7 @@ Again, I tried to confirm the correct date.
 >
 >Greg.
 
-#### 3rd of June, 2019
+#### 3rd of June, 2019 (Day 76)
 
 Correct date was confirmed.
 
@@ -249,7 +249,7 @@ Correct date was confirmed.
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
-#### 11th of June, 2019
+#### 11th of June, 2019 (Day 84)
 
 Received another email requesting that I confirm the same appointment again.
 
@@ -282,7 +282,7 @@ I quickly confirmed that I was still available
 >
 >Greg.
 
-#### 25th of June, 2019
+#### 25th of June, 2019 (Day 98)
 
 A week prior to the appointment and I hadn't recived any more details about the appointment, like it's location. So I emailed asking for those details.
 
@@ -296,13 +296,13 @@ A week prior to the appointment and I hadn't recived any more details about the 
 
 I looked up the Dr. Ken Suddaby to try and find his address myself. All I found was his [RateMDs profile](https://www.ratemds.com/doctor-ratings/886965/Dr-Ken-Suddaby-Ottawa-ON.html), he is one of the lowest rated psychiatrists in Ottawa with a 2.53 star rating and 32 reviews.
 
-#### 4th of July, 2019
+#### 4th of July, 2019 (Day 107)
 
 I hadn't received any reply to my previous message and still didn't have a location for the appointment. I reached out again.
 
 >When will I receive the address or any other details about this appointment?
 
-#### 6th of July, 2019
+#### 6th of July, 2019 (Day 109)
 
 I hadn't heard from anyone in weeks and had missed my appointment because I was never given the details so I emailed GeneralEnquiries@dva.gov.au & Vijayata again.
 
@@ -316,7 +316,7 @@ I hadn't heard from anyone in weeks and had missed my appointment because I was 
 >
 >I expect a response within 5 days with a clear resolution.
 
-#### 8th of July, 2019
+#### 8th of July, 2019 (Day 111)
 
 Received an apology with no explanation.
 
@@ -335,7 +335,7 @@ Received an apology with no explanation.
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
-#### 9th of July, 2019
+#### 9th of July, 2019 (Day 112)
 
 I asked if my messages were being received.
 
@@ -364,7 +364,7 @@ Vijayata confirmed they were.
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
-#### 11th of July, 2019
+#### 11th of July, 2019 (Day 114)
 
 Received a generic response from the General Enquiries.
 
@@ -382,7 +382,7 @@ Received a generic response from the General Enquiries.
 >Ph. 1800 555 254  
 >All Mail: DVA, GPO Box 9998, BRISBANE QLD 4001 
 
-#### 22nd of July, 2019
+#### 22nd of July, 2019 (Day 125)
 
 Emailed Vijayata again to find out why I hadn't received any news for a few weeks.
 
@@ -417,7 +417,7 @@ Vijayata responded.
 >
 >Once again, I do apologise for the delay in arranging this appointment for you.
 
-#### 23rd of July, 2019
+#### 23rd of July, 2019 (Day 126)
 
 I really want to get some help so I emailed Darren Chester, the Minister responsible for the operations of Veterans' Affairs. I also cc'd GeneralEnquiries@dva.gov.au to give them a heads up.
 
@@ -449,7 +449,7 @@ I received an automated response
 
 I received a response on the 17th of September (posted below)
 
-#### 29th of July, 2019
+#### 29th of July, 2019 (Day 132)
 
 After getting no human response from the Minister for Veterans and Defence Personnel, I decided to reach out to the shadow minister for help.
 
@@ -481,7 +481,7 @@ Clearly my details were out of date and I received this response
 
 I have not received any more responses or follow ups from this email.
 
-#### August 6th, 2019
+#### August 6th, 2019 (Day 140)
 
 I received an address for my assessment appointment!
 
@@ -502,7 +502,7 @@ Responded
 >Confirmed, thank you.
 
 
-#### August 27th, 2019
+#### August 27th, 2019 (Day 161)
 
 I received another confirmation from a new Senior Delegate
 
@@ -537,7 +537,7 @@ Responded
 >Greg.
 
 
-#### September 4th, 2019
+#### September 4th, 2019 (Day 169)
 
 Today I met with Dr. Ken Suddaby for my appointment. Dr. Suddaby politely declined my request to record the meeting. He would not allow me to take any notes during the meeting as it would be distracting. Dr. Suddaby also denied my request for a copy of the report or his notes from the session. The assessment was thorough taking 2hrs and 40mins. We discussed my service history, symptoms, previous treatments, life history, & current situation. It was a very draining experience that aggravated some scars.
 
@@ -567,7 +567,7 @@ They responded and I should receive a response in the next few months.
 
 > In accordance with section 15(5)(b) of the FOI Act, the due date for a decision on your request is 7 October 2019.`
 
-#### September 17th, 2019
+#### September 17th, 2019 (Day 182)
 
 Today I received a response from the Minister of Veterans and Defence Personnel, Darren Chester. The message was detailed and they had clearly taken my grievances seriously which I appreciated.
 
@@ -587,11 +587,11 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 > Robert Curtin  
 > Chief of Staff
 
-#### September 19th, 2019
+#### September 19th, 2019 (Day 184)
 
 It's been 6 months since I first reached out to the DVA for help. I still have had no treatment provided by the DVA.
 
-#### September 24th, 2019
+#### September 24th, 2019 (Day 189)
 
 Frustrated with waiting, I reached out to my DVA contact. I also requested the report that Dr. Suddaby had prepared on me.
 
@@ -622,7 +622,7 @@ Anita sent me a prompt response which was appreciated
 > Processing Team 2 | Sydney Office |Clients’ Benefits  
 > Department of Veterans’ Affairs
 
-#### September 30th, 2019
+#### September 30th, 2019 (Day 195)
 
 The DVA responded to my freedom of information request. All my questions were answered with `Following a reasonable search, this information could not be found`. I was hoping to calculate how much this delaying and refusal tactic had cost the Australia tax payers so far. Clearly it's something the DVA is not eager to share.
 
@@ -664,7 +664,7 @@ The Australian Department of Veteran Affairs has failed me and is failing many o
 
 ### What I want
 
- - Either for the Australian DVA to be disolved
+ - For the Australian DVA to be disolved so that diggers can get help instead of jumping through hoops
 
   OR
 
@@ -674,3 +674,8 @@ The Australian Department of Veteran Affairs has failed me and is failing many o
  - Improved communications between DVA staff and their international counterparts (inaccessible reciprocal services are not reciprocal)
  - And finally, **treatment for my service induced insomnia** (ideally through Veterans Affairs Canada)
 
+<!--
+  # Python days calculation
+  from datetime import date
+  date(2019,10,1) - date(2019,3,19)
+-->
