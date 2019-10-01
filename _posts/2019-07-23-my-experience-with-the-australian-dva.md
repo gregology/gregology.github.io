@@ -84,7 +84,7 @@ and responded
 >
 >Thanks again for looking into this, it helps put my mind at ease knowing that these matters are taken seriously.
 
-As of July 24th, I still haven't received a response from David
+As of October 2019, I still haven't received a response from David
 
 #### 22nd of March, 2019
 
