@@ -72,8 +72,8 @@ I recieved a response the same day
 >regards
 >David
 >
->David Wilks
->Feedback Management Officer
+>David Wilks  
+>Feedback Management Officer  
 >Department of Veterans’ Affairs
 
 and responded
@@ -96,10 +96,10 @@ Received confirmation that my application had been received and was being proces
 >
 >I will update you once I have more information. They have advised that you check you my service account regularly as they will be communicating with you there regarding your claims.
 >
->Thankyou &
->Kind regards,
->Karen
->Department of Veterans' Affairs
+>Thankyou &  
+>Kind regards,  
+>Karen  
+>Department of Veterans' Affairs  
 >Health Approvals & Home Care
 
 #### 11th of April, 2019
@@ -120,9 +120,9 @@ Received an email saying my claim was being investigated. I was feeling positive
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Primary Claims | Clients’ Benefits | Sydney Office
+>Vijayata  
+>Delegate, Liability  
+>Primary Claims | Clients’ Benefits | Sydney Office  
 >Department of Veterans’ Affairs
 
 There were a couple of emails back and forth that day, and we settled on having an assessment from a local psychiatrist.
@@ -139,9 +139,9 @@ Received an update a month later that the DVA was still trying to setup the appo
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Primary Claims | Clients’ Benefits | Sydney Office
+>Vijayata  
+>Delegate, Liability  
+>Primary Claims | Clients’ Benefits | Sydney Office  
 >Department of Veterans’ Affairs
 
 #### 20th of May, 2019
@@ -158,8 +158,8 @@ Received this email about my claim.
 >
 >Regards,
 >
->Hugh Craill | Administration Officer
->Digital Client Experience
+>Hugh Craill | Administration Officer  
+>Digital Client Experience  
 >Department of Veterans’ Affairs | www.dva.gov.au
 
 #### 31st of May, 2019
@@ -180,9 +180,9 @@ Received this follow up email about an appointment.
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Vijayata  
+>Delegate, Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 #### 1st of June, 2019
@@ -215,9 +215,9 @@ Received another email with the incorrect date.
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Vijayata  
+>Delegate, Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 #### 3rd of June, 2019
@@ -244,9 +244,9 @@ Correct date was confirmed.
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Vijayata  
+>Delegate, Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 #### 11th of June, 2019
@@ -259,17 +259,17 @@ Received another email requesting that I confirm the same appointment again.
 >
 >Could you please advise as soon as possible as to whether you are available for this appointment.
 >
->For your information:
->Dr Ken Suddaby
->MD, FRCPC
->Location: Ottawa, Canada
->Speciality: Psychiatrist
+>For your information:  
+>Dr Ken Suddaby  
+>MD, FRCPC  
+>Location: Ottawa, Canada  
+>Speciality: Psychiatrist  
 >
 >Kind regards,
 >
->Alicen
->Senior Delegate - Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Alicen  
+>Senior Delegate - Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 I quickly confirmed that I was still avaliable
@@ -330,9 +330,9 @@ Received an apology with no explanation.
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Vijayata  
+>Delegate, Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 #### 9th of July, 2019
@@ -359,9 +359,9 @@ Vijayata confirmed they were.
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Vijayata  
+>Delegate, Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 #### 11th of July, 2019
@@ -376,10 +376,10 @@ Received a generic response from the General Enquiries.
 >
 >If you have any additional questions, feel free to contact us via email or on the phone numbers below to speak directly to a DVA staff member.
 >
->Brendan Robertson
->Client Contact Victoria / Client Channels
->Department of Veterans' Affairs 
->Ph. 1800 555 254 
+>Brendan Robertson  
+>Client Contact Victoria / Client Channels  
+>Department of Veterans' Affairs  
+>Ph. 1800 555 254  
 >All Mail: DVA, GPO Box 9998, BRISBANE QLD 4001 
 
 #### 22nd of July, 2019
@@ -400,15 +400,15 @@ I recieved a response.
 >
 >With Kind Regards,
 >
->Vijayata
->Delegate, Liability
->Processing Team 2 | Sydney Office | Clients’ Benefits
+>Vijayata  
+>Delegate, Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs
 
 I sympathize with Vijayata getting sick. That's awful, but the DVA should have systems in place to deal with people getting sick. I responded.
 
->Cheers Vijayata, I hope you're feeling better now. I'm looking forward to my appointment, I'll block it off in my calendar.
->Thanks again,
+>Cheers Vijayata, I hope you're feeling better now. I'm looking forward to my appointment, I'll block it off in my calendar.  
+>Thanks again,  
 >Greg.
 
 Vijayata responded.
@@ -454,9 +454,9 @@ I received an automated reponse
 
 >Office of the Hon Darren Chester MP
 >
->Minister for Veterans and Defence Personnel
->Deputy Leader of the House
->Federal Member for Gippsland
+>Minister for Veterans and Defence Personnel  
+>Deputy Leader of the House  
+>Federal Member for Gippsland  
 >
 >Thank you for your email to the Office of the Hon Darren Chester MP.
 >
@@ -529,19 +529,19 @@ I received another confirmation from a new Senior Delegate
 >
 >This is to advise you that this claim has now been reassigned to me and I wanted to confirm that an appointment has been organised for you on 4 September 2019 at 10am as per follows:
 >
->Dr Ken Suddaby (Consultant Psychiatrist)
->555 Legget Drive
->Tower A, Suite 304 TTC (The Corporate Centre)O
+>Dr Ken Suddaby (Consultant Psychiatrist)  
+>555 Legget Drive  
+>Tower A, Suite 304 TTC (The Corporate Centre)  
 >Ottawa, ON, K2K 2X3
 >
 >Please do not hesitate to contact me if you have any enquiries regarding this matter.
 >
 >Kind Regards
 >
->Anita (62210884) 
->Senior Delegate, MRCA Liability 
->Processing Team 2 | Sydney Office | Clients’ Benefits 
->Department of Veterans’ Affairs 
+>Anita (62210884)  
+>Senior Delegate, MRCA Liability  
+>Processing Team 2 | Sydney Office | Clients’ Benefits  
+>Department of Veterans’ Affairs  
 >Phone: 1800 555 254 Ext: 412353
 
 Responded
@@ -550,8 +550,7 @@ Responded
 >
 >It's a pleasure to meet you. I'm looking forward to the appointment and getting some help.
 >
->Cheers,
->
+>Cheers,  
 >Greg.
 
 
@@ -578,8 +577,7 @@ I submitted a Freedom of Information request to the DVA so that I can calculate 
 >
 >Similar to Disclosure Log Number 87 from https://www.dva.gov.au/about-dva/freedom-information/foi-disclosure-log
 >
->Regards,
->
+>Regards,  
 >Greg Clarke.
 
 They responded and I should receive a response in the next few months. 
@@ -602,10 +600,8 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 >
 > Thank you for taking the time to write.
 >
-> Yours sincerely
->
-> Robert Curtin
->
+> Yours sincerely  
+> Robert Curtin  
 > Chief of Staff
 
 #### September 19th, 2019
@@ -638,10 +634,43 @@ Anita sent me a prompt response which was appreciated
 >
 > Kind Regards
 >
-> Anita (62210884)
->
-> Senior Delegate, MRCA Liability
->
-> Processing Team 2 | Sydney Office |Clients’ Benefits 
->
+> Anita (62210884)  
+> Senior Delegate, MRCA Liability  
+> Processing Team 2 | Sydney Office |Clients’ Benefits  
 > Department of Veterans’ Affairs
+
+#### September 30th, 2019
+
+The DVA responded to my fredom of information request. All my questions were answered with `Following a reasonable search, this information could not be found`. I was hoping to calculate how much this delaying and refusal tactic had cost the Australia tax payers so far. Clearly it's something the DVA is not eager to share.
+
+> Document created in accordance with section 17 of the Freedom of Information Act 1982 (Cth)  
+> FOI reference number: 30760
+>
+> Request details:  
+> 1. The names of other organisations used by DVA to write reports (other than MLCOA).
+>
+> * Australian Medico-Legal Group;
+> * E_Reports;
+> * IMO Pty Ltd;
+> * Medico Legal Opinions;
+> * Medico Legal Reporting Services of Australia
+> * Red Health Independent Medical Assessments;
+> * Specialist Onion Group
+> 
+> 2. The percentage of the total number of reports written by MLCOA.  
+> Following a reasonable search, this information could not be found.
+> 
+> 3. The average amount DVA pays MLCOA doctors for their reports.  
+> Following a reasonable search, this information could not be found.
+> 
+> 4. The number of complaints DVA has received from veterans against doctors engaged by DVA for medico-legal service.  
+> Following a reasonable search, this information could not be found.
+> 
+> 5. Documents outlining any training material, directions or correspondence provided to MLCOA doctors when dealing with veterans  
+> An overview of DVA Compensation and Benefits was presented to MLCOA Doctors in May 2019. See Document 2.
+> 
+> 6. The average amount DVA pays MLCOA doctors for their reports from Canada.  
+> Following a reasonable search, this information could not be found.
+> 
+> 7. The average amount DVA pays MLCOA doctors for their reports from outside of Australia...”  
+> Following a reasonable search, this information could not be found.
