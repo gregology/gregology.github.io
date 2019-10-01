@@ -15,7 +15,7 @@ tags:
   - Army
 ---
 
-**tl;dr** Veteran with service induced insomnia gets no help from the Australian DVA.
+**tl;dr** Veteran reaches out to the Australian DVA for help in March 2019 with service induced insomnia. Through a mix of bureaucracy & incompetence, the DVA still hasn't provided assistance over 6 months later.
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
