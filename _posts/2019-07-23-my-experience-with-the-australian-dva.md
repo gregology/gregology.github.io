@@ -553,10 +553,10 @@ I submitted a Freedom of Information request to the DVA so that I can calculate 
 >
 >I am formally requesting;
 >
->1) The names of other organisations used by DVA to write reports (other than MLCOA) and the percentage of the total number of reports written by MLCOA.
->2) The average amount DVA pays MLCOA doctors for their reports.
->3) The number of complaints DVA has received from veterans against doctors engaged by DVA for medico-legal service.
->4) Documents outlining any training material, directions or correspondence provided to MLCOA doctors when dealing with veterans.
+>1) The names of other organisations used by DVA to write reports (other than MLCOA) and the percentage of the total number of reports written by MLCOA.  
+>2) The average amount DVA pays MLCOA doctors for their reports.  
+>3) The number of complaints DVA has received from veterans against doctors engaged by DVA for medico-legal service.  
+>4) Documents outlining any training material, directions or correspondence provided to MLCOA doctors when dealing with veterans.  
 >
 >Similar to Disclosure Log Number 87 from https://www.dva.gov.au/about-dva/freedom-information/foi-disclosure-log
 >
