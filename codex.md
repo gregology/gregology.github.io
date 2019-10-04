@@ -130,11 +130,17 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have a warm dry place to sleep
   - I have access to healthcare & counselling
   - I have learned tools to deal with stress
+  - I am healthy
   - I have free time
   - I have the freedom to travel to most places on earth
+  - I live below my means
   - I have savings
+  - I choose to work
+  - I could retire and live frugally (in a developing nation) on my savings
   - I am a military veteran of a western country
   - I am able bodied
+  - I am 182cm tall
+  - I am physically strong
   - I have recognised expertise in various fields
   - I have in demand & lucrative skillsets
   - I do not have to worry about being physically or sexually assaulted
