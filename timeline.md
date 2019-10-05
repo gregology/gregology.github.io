@@ -7,6 +7,27 @@ licence: Creative Commons
 
 A brief history of milestones from my life *(Work in Progress)*
 
+
+<div id='seconds-counter'> </div>
+
+<script type = "text/javascript" > 
+  var seconds = Math.round((Date.now() - Date.UTC(1983,4,3,5,5))/1000);
+  var el = document.getElementById('seconds-counter');
+
+  function incrementSeconds() {
+      seconds += 1;
+      minutes = Math.round(seconds / 60)
+      hours = Math.round(seconds / (60 * 60))
+      days = Math.round(seconds / (60 * 60 * 24))
+      weeks = Math.round(seconds / (60 * 60 * 24 * 7))
+      months = (seconds / (60 * 60 * 24 * 30.44)).toFixed(1)
+      years = (seconds / (60 * 60 * 24 * 365.26)).toFixed(2)
+      el.innerText = "Greg has been alive for " + seconds + " seconds, " + minutes + " miuntes, " + hours + " hours, " + days + " days, " + weeks + " weeks, " + months + " months, and " + years + " years.";
+  }
+
+  var cancel = setInterval(incrementSeconds, 1000);
+</script>
+
 ## 2019
 
 ### September
