@@ -663,13 +663,24 @@ The DVA responded to my freedom of information request. All my questions were an
 > 7. The average amount DVA pays MLCOA doctors for their reports from outside of Australia...”  
 > Following a reasonable search, this information could not be found.
 
+#### October 6th, 2019 (Day 201)
+
+As my previous freedom of information requests were rejected on the ground that `Following a reasonable search, this information could not be found`, I decided to make it really simple for the DVA.
+
+> Hello,
+>
+> I arm formally requesting;  
+> 1) The amount paid to MLCOA for the assessment of myself (Gregory Clarke).  
+> Regards,  
+> Greg Clarke.
+
 #### Next steps
 
 The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
 
 ### What I want
 
- - For the Australian DVA to be disolved so that diggers can get help instead of jumping through hoops
+ - The Australian DVA to be disolved so that diggers can get help instead of jumping through hoops
 
   OR
 
@@ -682,5 +693,5 @@ The Australian Department of Veteran Affairs has failed me and is failing many o
 <!--
   # Python days calculation
   from datetime import date
-  date(2019,10,1) - date(2019,3,19)
+  date(2019,10,6) - date(2019,3,19)
 -->
