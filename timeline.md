@@ -7,7 +7,6 @@ licence: Creative Commons
 
 A brief history of milestones from my life *(Work in Progress)*
 
-
 <div id='seconds-counter'> </div>
 
 <script type = "text/javascript" > 
@@ -15,14 +14,15 @@ A brief history of milestones from my life *(Work in Progress)*
 
   function incrementSeconds() {
       seconds = Math.round((Date.now() - Date.UTC(1983,4,3,5,5))/1000);
-      minutes = Math.round(seconds / 60)
-      hours = Math.round(seconds / (60 * 60))
-      days = Math.round(seconds / (60 * 60 * 24))
-      weeks = Math.round(seconds / (60 * 60 * 24 * 7))
+      minutes = (seconds / 60).toFixed(0)
+      hours = (seconds / (60 * 60)).toFixed(0)
+      days = (seconds / (60 * 60 * 24)).toFixed(1)
+      weeks = (seconds / (60 * 60 * 24 * 7)).toFixed(1)
       months = (seconds / (60 * 60 * 24 * 30.44)).toFixed(1)
       years = (seconds / (60 * 60 * 24 * 365.26)).toFixed(3)
       el.innerText = "Greg has been alive for " + seconds + " seconds, " + minutes + " miuntes, " + hours + " hours, " + days + " days, " + weeks + " weeks, " + months + " months, and " + years + " years.";
   }
+  incrementSeconds();
 
   var cancel = setInterval(incrementSeconds, 1000);
 </script>
