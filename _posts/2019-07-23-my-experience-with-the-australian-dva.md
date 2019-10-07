@@ -674,6 +674,21 @@ As my previous freedom of information requests were rejected on the ground that 
 > Regards,  
 > Greg Clarke.
 
+#### October 7th, 2019 (Day 202)
+
+I received a prompt response with clarifying questions which I responsed to.
+
+> Good Morning
+>
+> Thank you for the below email.
+>
+> In order for us to action your request we need more information in order to identify you on our database.
+>
+> Could you please provide your date of birth and your Veterans Affair file number please.
+>
+> Kind Regards  
+> Arthur Bulloch
+
 #### Next steps
 
 The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
