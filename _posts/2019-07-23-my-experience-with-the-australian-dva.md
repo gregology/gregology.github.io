@@ -19,7 +19,7 @@ tags:
   var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
   
   //To display the final_result value 
-  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help from the DVA."); 
+  document.write("<b>tl;dr</b> The Australian DVA is failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help from the DVA."); 
 </script> 
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
@@ -530,7 +530,7 @@ I received another confirmation from a new Senior Delegate
 >Senior Delegate, MRCA Liability  
 >Processing Team 2 | Sydney Office | Clients’ Benefits  
 >Department of Veterans’ Affairs  
->Phone: 1800 555 254 Ext: 412353
+>Phone: 1800 555 254  
 
 Responded
 
@@ -688,6 +688,39 @@ I received a prompt response with clarifying questions which I responsed to.
 >
 > Kind Regards  
 > Arthur Bulloch
+
+#### October 9th, 2019 (Day 204)
+
+My claim has been accepted
+
+> Dear Mr Clarke,
+>
+> I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health’.
+>
+> I received the report from Dr Suddaby yesterday and I have now finalised this claim and my decision letter is attached for your perusal.
+>
+> As requested by you, I have also attached Dr Suddaby’s report for your records.
+>
+> Please do not hesitate to contact me if you have any queries regarding this matter.
+>
+> Kind Regards
+> 
+> Anita (62210884)  
+> Senior Delegate, MRCA Liability  
+> Processing Team 2 | Sydney Office |Clients’ Benefits  
+> Department of Veterans’ Affairs  
+> Phone: 1800 555 254  
+> Email: rcg.sydney.liability@dva.gov.au
+
+tl;dr of attached letter
+
+> DECISION SUMMARY  
+> I have accepted your claim for:  
+> * Specified Trauma or Stressor Related Disorder with effect from 30 April 2011  
+> * Adjustment Disorder with Mixed Mood with effect from 30 April 2011  
+> *  Chronic Insomnia Disorder with effect from 30 April 2011  
+
+Hopefully I can start treatment soon
 
 #### Next steps
 
