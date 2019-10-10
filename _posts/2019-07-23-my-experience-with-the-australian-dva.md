@@ -550,7 +550,7 @@ Dr. Suddaby asked me why I didn't seek treatment earlier. This was a painful que
 
 At the end of the assessment, Dr. Suddaby made some recommendations for seeking help through OHIP (Ontario Health Insurance Plan) or my work insurance plan. I gathered from his recommendations that my application would be rejected but I appreciated him giving me direction to find help elsewhere.
 
-Dr. Suddaby will finish his report within a week. The report will then go to MLCOA, an insurance company that helps the DVA reject claims. I should get my rejection letter from the DVA within 3 months.
+Dr. Suddaby will finish his report within a week. The report will then go to MLCOA, an insurance company that helps the DVA assess claims.
 
 I submitted a Freedom of Information request to the DVA so that I can calculate how much this whole experience has cost the DVA in MLCOA fees alone.
 
@@ -722,9 +722,17 @@ tl;dr of attached letter
 
 Hopefully I can start treatment soon
 
+#### October 10th, 2019 (Day 205)
+
+Haivng my claim accepted was validating and a huge relief. It may still be months before I start treatment but this was the first time I felt like the DVA were actually supporting me. I responded to Anita.
+
+> Thank you Anita, this is great news. I'll wait to hear from the delegate and organize some rehabilitation locally.  
+> Thank you again for your help,  
+> Greg
+
 #### Next steps
 
-The Australian Department of Veteran Affairs has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organized help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this inept organisation. Asking for help is the hardest step and the Australian DVA's promise of help with no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
+For the most part, the Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
 
 ### What I want
 
