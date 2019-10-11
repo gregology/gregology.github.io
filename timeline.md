@@ -1,30 +1,41 @@
 ---
 title: Timeline
+subtitle: A brief history of milestones from my life
 layout: page
 comments: True
 licence: Creative Commons
 ---
 
-A brief history of milestones from my life *(Work in Progress)*
-
-<div id='seconds-counter'> </div>
+<div id='time-alive'> </div>
 
 <script type = "text/javascript" > 
-  var el = document.getElementById('seconds-counter');
+  var timeAlive = document.getElementById('time-alive');
+  
+  function calculateTimeAlive() {
+      secondsAlive = (Date.now() - Date.UTC(1983,4,3,5,5))/1000;
+      minutesAlive = (secondsAlive / 60).toFixed(0)
+      hoursAlive = (secondsAlive / (60 * 60)).toFixed(0)
+      daysAlive = (secondsAlive / (60 * 60 * 24)).toFixed(1)
+      weeksAlive = (secondsAlive / (60 * 60 * 24 * 7)).toFixed(1)
+      monthsAlive = (secondsAlive / (60 * 60 * 24 * 30.44)).toFixed(1)
+      yearsAlive = (secondsAlive / (60 * 60 * 24 * 365.26)).toFixed(3)
 
-  function incrementSeconds() {
-      seconds = Math.round((Date.now() - Date.UTC(1983,4,3,5,5))/1000);
-      minutes = (seconds / 60).toFixed(0)
-      hours = (seconds / (60 * 60)).toFixed(0)
-      days = (seconds / (60 * 60 * 24)).toFixed(1)
-      weeks = (seconds / (60 * 60 * 24 * 7)).toFixed(1)
-      months = (seconds / (60 * 60 * 24 * 30.44)).toFixed(1)
-      years = (seconds / (60 * 60 * 24 * 365.26)).toFixed(3)
-      el.innerText = "Greg has been alive for " + seconds + " seconds, " + minutes + " miuntes, " + hours + " hours, " + days + " days, " + weeks + " weeks, " + months + " months, and " + years + " years.";
+      lifeExpectancySeconds = {{ site.author.life_expectancy_years }} * 365.26 * 24 * 60 * 60;
+      secondsLeft = lifeExpectancySeconds - secondsAlive;
+      minutesLeft = (secondsLeft / 60).toFixed(0)
+      hoursLeft = (secondsLeft / (60 * 60)).toFixed(0)
+      daysLeft = (secondsLeft / (60 * 60 * 24)).toFixed(1)
+      weeksLeft = (secondsLeft / (60 * 60 * 24 * 7)).toFixed(1)
+      monthsLeft = (secondsLeft / (60 * 60 * 24 * 30.44)).toFixed(1)
+      yearsLeft = (secondsLeft / (60 * 60 * 24 * 365.26)).toFixed(3)
+
+      lifePercentage = ((secondsAlive / lifeExpectancySeconds) * 100).toFixed(8)
+
+      timeAlive.innerHTML = "<h3>Greg's Clock 🕔</h3>Greg is <b>" + lifePercentage + "%</b> through his expected life span<a href='{{ site.author.life_expectancy_source }}' target='_blank'>¹</a>.<br><table style='width:100%'><tr><th>Time</th><th>Seconds</th><th>Minutes</th><th>Hours</th><th>Days</th><th>Weeks</th><th>Months</th><th>Years</th></tr><tr><th>Spent</th><td>" + secondsAlive.toFixed(0) + "</td><td>" + minutesAlive + "</td><td>" + hoursAlive + "</td><td>" + daysAlive + "</td><td>" + weeksAlive + "</td><td>" + monthsAlive + "</td><td>" + yearsAlive + "</td></tr><tr><th>Left</th><td>" + secondsLeft.toFixed(0) + "</td><td>" + minutesLeft + "</td><td>" + hoursLeft + "</td><td>" + daysLeft + "</td><td>" + weeksLeft + "</td><td>" + monthsLeft + "</td><td>" + yearsLeft + "</td></tr></table>";
   }
-  incrementSeconds();
+  calculateTimeAlive();
 
-  var cancel = setInterval(incrementSeconds, 1000);
+  var cancel = setInterval(calculateTimeAlive, 50);
 </script>
 
 ## 2019

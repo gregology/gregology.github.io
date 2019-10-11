@@ -5,6 +5,24 @@ comments: True
 licence: Creative Commons
 ---
 
+<div id='time-alive'> </div>
+
+<script type = "text/javascript" > 
+  var timeAlive = document.getElementById('time-alive');
+  
+  function calculateTimeAlive() {
+      secondsAlive = (Date.now() - Date.UTC(1983,4,3,5,5))/1000;
+      lifeExpectancySeconds = {{ site.author.life_expectancy_years }} * 365.26 * 24 * 60 * 60;
+      secondsLeft = lifeExpectancySeconds - secondsAlive;
+      lifePercentage = ((secondsAlive / lifeExpectancySeconds) * 100).toFixed(8)
+
+      timeAlive.innerHTML = "Greg is approximately <b>" + lifePercentage + "%</b> through his expected life span<a href='{{ site.author.life_expectancy_source }}' target='_blank'>¹</a>";
+  }
+  calculateTimeAlive();
+
+  var cancel = setInterval(calculateTimeAlive, 50);
+</script>
+
 ## Experience
 
 * ~~Start a company~~
@@ -15,6 +33,7 @@ licence: Creative Commons
 * ~~Fly a Plane~~
 * Write a book
 * Publish a paper
+* Create a patent
 * ~~Learn a partner dance~~
 * ~~Learn a musical instrument~~
 * ~~Live in a megacity~~
@@ -46,6 +65,7 @@ licence: Creative Commons
 ## Travel
 
 * Sail an ocean crossing
+* Sail in northern Canada
 * Visit every major continent
   * ~~Eurasia~~
   * ~~Australia~~
