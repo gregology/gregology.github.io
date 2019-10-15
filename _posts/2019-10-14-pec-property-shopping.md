@@ -1,0 +1,22 @@
+---
+title: "Prince Edward County Property Shopping"
+author: Greg
+layout: post
+permalink: /2019/10/pec-property-shopping/
+date: 2019-10-14 20:39:25 -0400
+comments: True
+licence: Creative Commons
+categories:
+  - tech
+  - travel
+tags:
+  - tech
+---
+
+Recently I wrote about my [theories on the impending de-urbanization of Canada](/2019/09/musk-de-urbanization/). This weekend, I decided to put my money where my mouth is. Diana and I visited Prince Edward County to look at real estate. The ideal investment for us is a 3-6 acre rural residential waterfront property close (15 mins) to the 401. There were a few options including a cabin previously owned by authour Farley Mowat. Unfortunately, none of the properties we visited were the one for us. We are in no rush and have a strong [BATNA](https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement).
+
+We were backed up on our real estate adventure with Diana's parents who have some experience house shopping. Diana booked us an entire bungalow described as peaceful and quiet for the four of us via AirBnB. After visiting some wineries we arrived at 4pm to find a large house with many cars parked in the drive way. Once checked in we realized that we would be sharing the bungalow with the owners, not a big deal. The rooms were large and oddly shaped as is expected with AirBnB rentals. We were settling in to our room and then around 4:30 we heard loud feedback like someone was tuning a mic system. Shortly after the singing started and we realized that there were other AirBnB guests staying on the property and they were having a karaoke party in the basement below our room. It was loud enough that we needed to speak in a raised voice to hear each other. I measured the noise at 70db in our room, the same level as a vacuum cleaner. We raised the issue with the host and she said they would be quiet at 11pm. This was clearly not what we had agreed to and after some discussion the host offered us a refund. Our next AirBnB, [Loyalist Lofts](https://www.loyalistlofts.ca/), was accurately described and perfect. Loyalist Lofts have apartments in Bloomfield, Picton, & Wellington. The apartments are cheaper if you don't book though AirBnB.
+
+Once we were settled in to the new space, we initiated a refund with the original host however AirBnB kept a $60 service fee. We reached out to AirBnB support and even after we explained the situation they still objected to giving us the full refund. We pressed the issue and were eventually refunded the service fee but given no compensation for our hassle, time, and the cost of the second late booking.
+
+Previously my experiences with AirBnB had been positive and I was really disappointed that my first grievance with them was handled so poorly. After googling the issue I found that their poor treatment was common. For example banning people for [reviewing outside the app](https://medium.com/@jacksoncunningham/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba) or [making legitimate chargebacks](https://www.reddit.com/r/AirBnB/comments/6brjh5/can_i_chargeback_a_fraudulent_listing/). Why do companies that rely on the reputation economy like AirBnB & Uber, care so little about upholding their own reputations? Especially given that the majority of their tech can easily be replicated. The only unique thing these companies own *is* their reputation. Uber's first year since going public should be a warning to other tech companies.
