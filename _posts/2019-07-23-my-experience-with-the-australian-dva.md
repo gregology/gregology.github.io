@@ -724,7 +724,7 @@ Hopefully I can start treatment soon
 
 #### October 10th, 2019 (Day 205)
 
-Haivng my claim accepted was validating and a huge relief. It may still be months before I start treatment but this was the first time I felt like the DVA were actually supporting me. I responded to Anita.
+Having my claim accepted was validating and a huge relief. It may still be months before I start treatment but this was the first time I felt like the DVA were actually supporting me. I responded to Anita.
 
 > Thank you Anita, this is great news. I'll wait to hear from the delegate and organize some rehabilitation locally.  
 > Thank you again for your help,  
