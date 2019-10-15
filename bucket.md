@@ -26,7 +26,6 @@ licence: Creative Commons
 ## Experience
 
 * ~~Start a company~~
-* ~~Big sailing adventure~~
 * ~~Sail a tail ship~~
 * Bungee Jump
 * ~~Sky Diving~~
@@ -50,6 +49,8 @@ licence: Creative Commons
   * Moose
   * ~~Wolf or coyote~~
   * Koala
+  * Beaver
+  * Big cat
 * ~~Be a mentor~~
 * ~~Fly in a hot air balloon~~
 * Public speak in front of;
@@ -57,6 +58,7 @@ licence: Creative Commons
   * 1000 people
   * 10000 people
 * Act in a Bollywood movie
+* Become a parent
 * Go on a meditation retreat
 * Get elected to a government position
 * Have lived an extraordinary life
@@ -65,7 +67,8 @@ licence: Creative Commons
 ## Travel
 
 * Sail an ocean crossing
-* Sail in northern Canada
+* Sail Northern Canada
+* ~~Big sailing adventure~~
 * Visit every major continent
   * ~~Eurasia~~
   * ~~Australia~~
