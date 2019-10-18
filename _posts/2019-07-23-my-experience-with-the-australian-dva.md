@@ -15,12 +15,7 @@ tags:
   - Army
 ---
 
-<script type = "text/javascript" > 
-  var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
-  
-  //To display the final_result value 
-  document.write("<b>tl;dr</b> The Australian DVA is failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help from the DVA."); 
-</script> 
+**tl;dr** It took 212 days to start receiving help for service induced insomnia from the Australian DVA.
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
@@ -77,7 +72,7 @@ I received a response the same day
 >regards
 >David
 >
->David Wilks  
+>David ******  
 >Feedback Management Officer  
 >Department of Veterans’ Affairs
 
@@ -155,7 +150,7 @@ Received this email about my claim.
 
 >Good morning Mr Clarke,
 >
->My name is Hugh Craill, from the Department of Veterans’ Affairs.
+>My name is Hugh ******, from the Department of Veterans’ Affairs.
 >
 >I’m contacting you today as part of the MyService team to inform you that your claim, submitted 10/04/2019, had been stalled as a result of a technical issue on our end. This issue has since been identified and resolved, so your claim has moved on to being processed as a priority.
 >
@@ -163,7 +158,7 @@ Received this email about my claim.
 >
 >Regards,
 >
->Hugh Craill | Administration Officer  
+>Hugh ****** | Administration Officer  
 >Digital Client Experience  
 >Department of Veterans’ Affairs | www.dva.gov.au
 
@@ -260,12 +255,12 @@ Received another email requesting that I confirm the same appointment again.
 
 >Good morning Greg
 >
->A tentative appointment has been scheduled for you to meet with Dr Suddaby on Friday 5th July 2019 at 10am to assist with the investigation of your outstanding claim with DVA.
+>A tentative appointment has been scheduled for you to meet with Dr ******, on Friday 5th July 2019 at 10am to assist with the investigation of your outstanding claim with DVA.
 >
 >Could you please advise as soon as possible as to whether you are available for this appointment.
 >
 >For your information:  
->Dr Ken Suddaby  
+>Dr Ken ******,  
 >MD, FRCPC  
 >Location: Ottawa, Canada  
 >Speciality: Psychiatrist  
@@ -289,7 +284,7 @@ I quickly confirmed that I was still available
 
 #### 25th of June, 2019 (Day 98)
 
-A week prior to the appointment and I hadn't recived any more details about the appointment, like it's location. So I emailed asking for those details.
+A week prior to the appointment and I hadn't received any more details about the appointment, like it's location. So I emailed asking for those details.
 
 >Hello Team,
 >
@@ -298,8 +293,6 @@ A week prior to the appointment and I hadn't recived any more details about the 
 >Thank you,
 >
 >Greg.
-
-I looked up the Dr. Ken Suddaby to try and find his address myself. All I found was his [RateMDs profile](https://www.ratemds.com/doctor-ratings/886965/Dr-Ken-Suddaby-Ottawa-ON.html), he is one of the lowest rated psychiatrists in Ottawa with a 2.53 star rating and 32 reviews.
 
 #### 4th of July, 2019 (Day 107)
 
@@ -313,7 +306,7 @@ I hadn't heard from anyone in weeks and had missed my appointment because I was 
 
 >Hello Vijayata,
 >
->I replied to both of your confirmation emails regarding my appointment on the 5th of July with Dr Suddaby in Ottawa, Canada. I sent a third email asking for the address last week as I had no details on the location and I hadn't heard back from you. I still haven't received a response from you or anyone on your team. You made me wait weeks for this appointment and then you didn't even send me the details. I have insomnia and it affects my life. If the DVA is incapable of helping me either because of lack of resources or lack of competence, please let me know so I can get help elsewhere. This level of incompetence unacceptable. Every interaction I have with the Australia DVA is a disappointment.
+>I replied to both of your confirmation emails regarding my appointment on the 5th of July with Dr ******, in Ottawa, Canada. I sent a third email asking for the address last week as I had no details on the location and I hadn't heard back from you. I still haven't received a response from you or anyone on your team. You made me wait weeks for this appointment and then you didn't even send me the details. I have insomnia and it affects my life. If the DVA is incapable of helping me either because of lack of resources or lack of competence, please let me know so I can get help elsewhere. This level of incompetence unacceptable. Every interaction I have with the Australia DVA is a disappointment.
 >
 >Please just either help me or admit that you're not going to help me so I don't have to suffer though more months of insomnia.
 >
@@ -381,7 +374,7 @@ Received a generic response from the General Enquiries.
 >
 >If you have any additional questions, feel free to contact us via email or on the phone numbers below to speak directly to a DVA staff member.
 >
->Brendan Robertson  
+>Brendan ******,  
 >Client Contact Victoria / Client Channels  
 >Department of Veterans' Affairs  
 >Ph. 1800 555 254  
@@ -517,7 +510,7 @@ I received another confirmation from a new Senior Delegate
 >
 >This is to advise you that this claim has now been reassigned to me and I wanted to confirm that an appointment has been organised for you on 4 September 2019 at 10am as per follows:
 >
->Dr Ken Suddaby (Consultant Psychiatrist)  
+>Dr Ken ******, (Consultant Psychiatrist)  
 >555 Legget Drive  
 >Tower A, Suite 304 TTC (The Corporate Centre)  
 >Ottawa, ON, K2K 2X3
@@ -544,13 +537,13 @@ Responded
 
 #### September 4th, 2019 (Day 169)
 
-Today I met with Dr. Ken Suddaby for my appointment. Dr. Suddaby politely declined my request to record the meeting. He would not allow me to take any notes during the meeting as it would be distracting. Dr. Suddaby also denied my request for a copy of the report or his notes from the session. The assessment was thorough taking 2hrs and 40mins. We discussed my service history, symptoms, previous treatments, life history, & current situation. It was a very draining experience that aggravated some scars.
+Today I met with Dr. Ken ******, for my appointment. Dr. Ken politely declined my request to record the meeting. He would not allow me to take any notes during the meeting as it would be distracting. Dr. Ken also denied my request for a copy of the report or his notes from the session. The assessment was thorough taking 2hrs and 40mins. We discussed my service history, symptoms, previous treatments, life history, & current situation. It was a very draining experience that aggravated some scars.
 
-Dr. Suddaby asked me why I didn't seek treatment earlier. This was a painful question. Since leaving the Australian army, I have spent thousands of dollars out of my own pocket for service related treatment because the DVA previously refused to help me. Had the DVA given me assistance when I first requested it, my treatment would have begun 4 years ago. Getting this far into the process with the DVA and then being asked by *I* didn't seek treatment earlier was very frustrating.
+Dr. Ken asked me why I didn't seek treatment earlier. This was a painful question. Since leaving the Australian army, I have spent thousands of dollars out of my own pocket for service related treatment because the DVA previously refused to help me. Had the DVA given me assistance when I first requested it, my treatment would have begun 4 years ago. Getting this far into the process with the DVA and then being asked by *I* didn't seek treatment earlier was very frustrating.
 
-At the end of the assessment, Dr. Suddaby made some recommendations for seeking help through OHIP (Ontario Health Insurance Plan) or my work insurance plan. I gathered from his recommendations that my application would be rejected but I appreciated him giving me direction to find help elsewhere.
+At the end of the assessment, Dr. Ken made some recommendations for seeking help through OHIP (Ontario Health Insurance Plan) or my work insurance plan. I gathered from his recommendations that my application would be rejected but I appreciated him giving me direction to find help elsewhere.
 
-Dr. Suddaby will finish his report within a week. The report will then go to MLCOA, an insurance company that helps the DVA assess claims.
+Dr. Ken will finish his report within a week. The report will then go to MLCOA, an insurance company that helps the DVA assess claims.
 
 I submitted a Freedom of Information request to the DVA so that I can calculate how much this whole experience has cost the DVA in MLCOA fees alone.
 
@@ -589,7 +582,7 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 > Thank you for taking the time to write.
 >
 > Yours sincerely  
-> Robert Curtin  
+> Robert ******,  
 > Chief of Staff
 
 #### September 19th, 2019 (Day 184)
@@ -687,7 +680,7 @@ I received a prompt response with clarifying questions which I responsed to.
 > Could you please provide your date of birth and your Veterans Affair file number please.
 >
 > Kind Regards  
-> Arthur Bulloch
+> Arthur ******,
 
 #### October 9th, 2019 (Day 204)
 
@@ -730,6 +723,18 @@ Having my claim accepted was validating and a huge relief. It may still be month
 > Thank you again for your help,  
 > Greg
 
+#### October 14th, 2018 (Day 209)
+
+Mitch from the DVA reached out offering incapacity payments. I declined the offer, all I want is treatment. But it was nice knowing that they were taking my condition seriously.
+
+#### October 15th, 2018 (Day 210)
+
+Rochelle from Incite Solutions Group reached out or organise an initial assessment. She promptly setup a Skype chat for for Thursday night my time.
+
+#### October 17th, 2018 (Day 212)
+
+A weight that had been centered in my chest has disappeared. After an hour long chat with Giorgia & Rochelle from Incite Solutions Group, I finally feel like I will receive treatment soon. It's been a long journey
+
 #### Next steps
 
 For the most part, the Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
@@ -744,7 +749,7 @@ For the most part, the Australian DVA staff are great however the organisation h
  - Better training of DVA staff
  - Improved communications between DVA staff and veterans
  - Improved communications between DVA staff and their international counterparts (inaccessible reciprocal services are not reciprocal)
- - And finally, **treatment for my service induced insomnia** (ideally through Veterans Affairs Canada)
+ - And finally, **treatment for my service induced insomnia**
 
 <!--
   # Python days calculation
