@@ -49,7 +49,7 @@ licence: Creative Commons
   * Moose
   * ~~Wolf or coyote~~
   * Koala
-  * Beaver
+  * ~~Beaver~~
   * Big cat
 * ~~Be a mentor~~
 * ~~Fly in a hot air balloon~~
