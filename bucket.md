@@ -83,6 +83,7 @@ licence: Creative Commons
 * Trans-Siberian Express or Trans-Canadian train trip
 * Explore Northern Canada
 * Visit [Miniatur Wunderland](https://www.miniatur-wunderland.com/)
+* Visit [The Tank Museum](https://www.tankmuseum.org)
 * See the sun rise and set on every ocean
   * ~~Pacific rise~~
   * ~~Pacific set~~
