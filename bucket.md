@@ -100,6 +100,7 @@ licence: Creative Commons
 * Consistent handstand
 * ~~Flat footed squat~~
 * ~~sub 10min 2.4km~~
+* Climb a mountain
 * Become an acrobat
   * Solidly base these poses
     * ~~Bird~~
