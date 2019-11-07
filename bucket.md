@@ -49,7 +49,7 @@ licence: Creative Commons
   * Moose
   * ~~Wolf or coyote~~
   * Koala
-  * Beaver
+  * ~~Beaver~~
   * Big cat
 * ~~Be a mentor~~
 * ~~Fly in a hot air balloon~~
@@ -83,6 +83,7 @@ licence: Creative Commons
 * Trans-Siberian Express or Trans-Canadian train trip
 * Explore Northern Canada
 * Visit [Miniatur Wunderland](https://www.miniatur-wunderland.com/)
+* Visit [The Tank Museum](https://www.tankmuseum.org)
 * See the sun rise and set on every ocean
   * ~~Pacific rise~~
   * ~~Pacific set~~
@@ -99,6 +100,7 @@ licence: Creative Commons
 * Consistent handstand
 * ~~Flat footed squat~~
 * ~~sub 10min 2.4km~~
+* Climb a mountain
 * Become an acrobat
   * Solidly base these poses
     * ~~Bird~~
