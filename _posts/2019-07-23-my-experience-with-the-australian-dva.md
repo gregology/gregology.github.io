@@ -669,7 +669,7 @@ As my previous freedom of information requests were rejected on the ground that 
 
 #### October 7th, 2019 (Day 202)
 
-I received a prompt response with clarifying questions which I responsed to.
+I received a prompt response with clarifying questions which I responded to.
 
 > Good Morning
 >
@@ -723,25 +723,32 @@ Having my claim accepted was validating and a huge relief. It may still be month
 > Thank you again for your help,  
 > Greg
 
-#### October 14th, 2018 (Day 209)
+#### October 14th, 2019 (Day 209)
 
 Mitch from the DVA reached out offering incapacity payments. I declined the offer, all I want is treatment. But it was nice knowing that they were taking my condition seriously.
 
-#### October 15th, 2018 (Day 210)
+#### October 15th, 2019 (Day 210)
 
 Rochelle from Incite Solutions Group reached out or organise an initial assessment. She promptly setup a Skype chat for for Thursday night my time.
 
-#### October 17th, 2018 (Day 212)
+#### October 17th, 2019 (Day 212)
 
 A weight that had been centered in my chest has disappeared. After an hour long chat with Giorgia & Rochelle from Incite Solutions Group, I finally feel like I will receive treatment soon. It's been a long journey
 
+#### November 6th, 2019 (Day 232)
+
+I received yet another rejection for my Freedom of Information request.
+
+> Decision  
+> I have made a decision to refuse one document in full in accordance with section 47G of the FOI Act.
+
 #### Next steps
 
-For the most part, the Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunatly I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
+For the most part, the Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
 
 ### What I want
 
- - The Australian DVA to be disolved so that diggers can get help instead of jumping through hoops
+ - The Australian DVA to be dissolved so that diggers can get help instead of jumping through hoops
 
   OR
 
@@ -754,5 +761,5 @@ For the most part, the Australian DVA staff are great however the organisation h
 <!--
   # Python days calculation
   from datetime import date
-  date(2019,10,6) - date(2019,3,19)
+  date(2019,11,6) - date(2019,3,19)
 -->
