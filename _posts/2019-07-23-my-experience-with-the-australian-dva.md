@@ -15,7 +15,12 @@ tags:
   - Army
 ---
 
-**tl;dr** It took 212 days to start receiving help for service induced insomnia from the Australian DVA.
+<script type = "text/javascript" > 
+  var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
+  
+  //To display the final_result value 
+  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help from the DVA."); 
+</script> 
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
@@ -733,7 +738,11 @@ Rochelle from Incite Solutions Group reached out or organise an initial assessme
 
 #### October 17th, 2019 (Day 212)
 
-A weight that had been centered in my chest has disappeared. After an hour long chat with Giorgia & Rochelle from Incite Solutions Group, I finally feel like I will receive treatment soon. It's been a long journey
+A weight that had been centered in my chest has disappeared. After an hour long chat with Giorgia & Rochelle from Incite Solutions Group, I finally feel like I will receive treatment soon. It's been a long journey. I received an email from Giorgia requesting some additional paperwork.
+
+#### October 22nd, 2019 (Day 217)
+
+I returned 3 of the 4 documents, `Return to Work Rehabilitation Rights and Obligations`, `Life Satisfaction Indicators`, & `CONSENT TO RELEASE AND OBTAIN INFORMATION`. The 4th document required a doctor to fill it out. I booked an appointment to see my doctor at the earliest appointment, the 12th of November.
 
 #### November 6th, 2019 (Day 232)
 
@@ -741,6 +750,34 @@ I received yet another rejection for my Freedom of Information request.
 
 > Decision  
 > I have made a decision to refuse one document in full in accordance with section 47G of the FOI Act.
+
+#### November 12th, 2019 (Day 244)
+
+I visited my doctor and she helpfully filled out the confusing document `Medical Certification - Ability to Work`. To be clear, I have never claimed that I am unable to work. I want to get support so that I can remain employed. As soon as I returned home I scanned the document and sent them off to Giorgia.
+
+#### November 13th, 2019 (Day 245)
+
+It turns out that my doctor didn't tick a box on the confusing `Medical Certification - Ability to Work` document. That meant I have to return to my doctor to get the box ticked and initialled.
+
+> Hi Greg,
+>
+> Thank you for sending that through. I have reviewed the Medical Certification and noticed that Dr Saliba has crossed out the vocational rehabilitation box, which would indicate you are not fit to engage in vocational rehabilitation with Incite Solutions.
+> 
+> In order you to participate in vocational rehabilitation services with us and for us to provide support, Dr Saliba would need to tick you have some capacity in
+> ‘Part B – Rehabilitation – Question 7’ i.e. at least 1-2 hours per week to come on to Programme with us. Apologies if that was not clear, it mentions activities such as online learning and work-trials, which are not relevant for you as you are currently working full-time. However, the Rehab plan we came up with for the medical, psychosocial and vocational goals are what we would be supporting with from a vocational rehabilitation perspective and from an employment perspective, we would be supporting with employment monitoring (i.e. your vocational goal to lessen occasions of lateness to work).
+> 
+> Would you be able to book another appointment with Dr Saliba or alternatively call the practice and ask her to make an amendment and initial this with her signature on the previously completed Med Cert – indicating you have some capacity for vocational rehabilitation in Part B – Rehabilitation – Question 7?
+> 
+> Could you please let me know when this may be possible, as I need to update DVA and request an extension until we are able to obtain the updated Medical Certificate.
+> 
+> Let me know if you any of that doesn’t make sense.
+> 
+> Warm regards, 
+> Giorgia
+
+I really thought that I was past DVA bureaucracy and hoop jumping now that I was dealing directly with Incite Solutions. Unfortunately I was wrong. I have booked a the earliest available follow up appointment with my doctor on the 5th of December.
+
+> I've booked another appointment with my doctor on the 5th of December. In the meantime, can I please get some help.
 
 #### Next steps
 
