@@ -15,12 +15,12 @@ tags:
   - Army
 ---
 
-<script type = "text/javascript" > 
+<script type = "text/javascript" >
   var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
   
   //To display the final_result value 
-  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help from the DVA."); 
-</script> 
+  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help or treatment from the DVA."); 
+</script>
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
@@ -311,7 +311,7 @@ I hadn't heard from anyone in weeks and had missed my appointment because I was 
 
 >Hello Vijayata,
 >
->I replied to both of your confirmation emails regarding my appointment on the 5th of July with Dr ******, in Ottawa, Canada. I sent a third email asking for the address last week as I had no details on the location and I hadn't heard back from you. I still haven't received a response from you or anyone on your team. You made me wait weeks for this appointment and then you didn't even send me the details. I have insomnia and it affects my life. If the DVA is incapable of helping me either because of lack of resources or lack of competence, please let me know so I can get help elsewhere. This level of incompetence unacceptable. Every interaction I have with the Australia DVA is a disappointment.
+>I replied to both of your confirmation emails regarding my appointment on the 5th of July with Dr ******, in Ottawa, Canada. I sent a third email asking for the address last week as I had no details on the location and I hadn't heard back from you. I still haven't received a response from you or anyone on your team. You made me wait weeks for this appointment and then you didn't even send me the details. I have insomnia and it affects my life. If the DVA is incapable of helping me either because of lack of resources or lack of competence, please let me know so I can get help elsewhere. This level of incompetence unacceptable. Every interaction I have with the Australian DVA is a disappointment.
 >
 >Please just either help me or admit that you're not going to help me so I don't have to suffer though more months of insomnia.
 >
@@ -751,22 +751,22 @@ I received yet another rejection for my Freedom of Information request.
 > Decision  
 > I have made a decision to refuse one document in full in accordance with section 47G of the FOI Act.
 
-#### November 12th, 2019 (Day 244)
+#### November 12th, 2019 (Day 238)
 
 I visited my doctor and she helpfully filled out the confusing document `Medical Certification - Ability to Work`. To be clear, I have never claimed that I am unable to work. I want to get support so that I can remain employed. As soon as I returned home I scanned the document and sent them off to Giorgia.
 
-#### November 13th, 2019 (Day 245)
+#### November 13th, 2019 (Day 239)
 
 It turns out that my doctor didn't tick a box on the confusing `Medical Certification - Ability to Work` document. That meant I have to return to my doctor to get the box ticked and initialled.
 
 > Hi Greg,
 >
-> Thank you for sending that through. I have reviewed the Medical Certification and noticed that Dr Saliba has crossed out the vocational rehabilitation box, which would indicate you are not fit to engage in vocational rehabilitation with Incite Solutions.
+> Thank you for sending that through. I have reviewed the Medical Certification and noticed that Dr S has crossed out the vocational rehabilitation box, which would indicate you are not fit to engage in vocational rehabilitation with Incite Solutions.
 > 
-> In order you to participate in vocational rehabilitation services with us and for us to provide support, Dr Saliba would need to tick you have some capacity in
+> In order you to participate in vocational rehabilitation services with us and for us to provide support, Dr S would need to tick you have some capacity in
 > ‘Part B – Rehabilitation – Question 7’ i.e. at least 1-2 hours per week to come on to Programme with us. Apologies if that was not clear, it mentions activities such as online learning and work-trials, which are not relevant for you as you are currently working full-time. However, the Rehab plan we came up with for the medical, psychosocial and vocational goals are what we would be supporting with from a vocational rehabilitation perspective and from an employment perspective, we would be supporting with employment monitoring (i.e. your vocational goal to lessen occasions of lateness to work).
 > 
-> Would you be able to book another appointment with Dr Saliba or alternatively call the practice and ask her to make an amendment and initial this with her signature on the previously completed Med Cert – indicating you have some capacity for vocational rehabilitation in Part B – Rehabilitation – Question 7?
+> Would you be able to book another appointment with Dr S or alternatively call the practice and ask her to make an amendment and initial this with her signature on the previously completed Med Cert – indicating you have some capacity for vocational rehabilitation in Part B – Rehabilitation – Question 7?
 > 
 > Could you please let me know when this may be possible, as I need to update DVA and request an extension until we are able to obtain the updated Medical Certificate.
 > 
@@ -778,6 +778,35 @@ It turns out that my doctor didn't tick a box on the confusing `Medical Certific
 I really thought that I was past DVA bureaucracy and hoop jumping now that I was dealing directly with Incite Solutions. Unfortunately I was wrong. I have booked a the earliest available follow up appointment with my doctor on the 5th of December.
 
 > I've booked another appointment with my doctor on the 5th of December. In the meantime, can I please get some help.
+
+#### November 14th, 2019 (Day 240)
+
+Giorgia tried to push back on the DVA and got nowhere. She offered to chase the paperwork directly to save me another visit to the doctor. After 8 months of getting nowhere, I was really running out of energy dealing with the DVA so I appreciated Giorgia's efforts.
+
+> Hi Greg,
+> 
+> I have spoken to DVA and unfortunately they require an updated medical certificate that reflects you are fit for vocational rehabilitation before we can submit the Initial Assessment and commence you on program. I apologise for the trouble. I am going to organise for a fax to be sent to Dr S as she only needs to amend the ‘Part B – Rehabilitation – Question 7’ section and I am hopeful she may be able to complete this before December 5th so you don’t have to wait for another appointment. Let me know your thoughts and whether you think she would respond to the fax from us?
+> 
+> Warm regards, 
+> Giorgia
+
+#### November 15th, 2019 (Day 241)
+
+I responded thanking Giorgia
+
+> Thanks Giorgia, I appreciate your help. I don't blame you, I know this is dva bureaucracy. And yes please, reach out to Dr S directly, that would be great.
+> 
+> Thanks again, and have a great weekend, 
+> Greg.
+
+Giorgia again apologised for the DVA making me jump though hoops
+
+> I really do apologise for the run around Greg and appreciate your understanding. I will give you an update as soon as I get something back from Dr S. Once we have everything submitted to DVA, we can hopefully organise a time to Skype again so we can discuss next steps for the program.
+> 
+> Hope you have a great weekend as well.
+> 
+> Warm regards, 
+> Giorgia
 
 #### Next steps
 
