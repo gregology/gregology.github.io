@@ -44,6 +44,7 @@ author:
   imgur: gregology
   flickr: gregologynet
   skype: gregory.clarke
+  tiktok: gregology
   life_expectancy_years: 81.5
   life_expectancy_source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3910000701&pickMembers%5B0%5D=1.7&pickMembers%5B1%5D=3.2&pickMembers%5B2%5D=4.23
 
@@ -59,6 +60,7 @@ social:
     - https://en.wikipedia.org/wiki/User:Gregology
     - https://imgur.com/user/gregology
     - https://stackoverflow.com/users/1142113/gregology
+    - https://www.tiktok.com/@gregology
 
 footer-links-active:
   rss: false
@@ -74,6 +76,7 @@ footer-links-active:
   youtube: true
   spotify: false
   telephone: false
+  tiktok: true
 
 share-links-active:
   twitter: true
