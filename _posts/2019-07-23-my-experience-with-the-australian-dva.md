@@ -77,7 +77,7 @@ I received a response the same day
 >regards
 >David
 >
->David ******  
+>David ██████  
 >Feedback Management Officer  
 >Department of Veterans’ Affairs
 
@@ -155,7 +155,7 @@ Received this email about my claim.
 
 >Good morning Mr Clarke,
 >
->My name is Hugh ******, from the Department of Veterans’ Affairs.
+>My name is Hugh ██████, from the Department of Veterans’ Affairs.
 >
 >I’m contacting you today as part of the MyService team to inform you that your claim, submitted 10/04/2019, had been stalled as a result of a technical issue on our end. This issue has since been identified and resolved, so your claim has moved on to being processed as a priority.
 >
@@ -163,7 +163,7 @@ Received this email about my claim.
 >
 >Regards,
 >
->Hugh ****** | Administration Officer  
+>Hugh ██████ | Administration Officer  
 >Digital Client Experience  
 >Department of Veterans’ Affairs | www.dva.gov.au
 
@@ -175,7 +175,7 @@ Received this follow up email about an appointment.
 >
 >I have heard back from MLCOA. They have provided an appointment for you on Wednesday 5th July 2019 at 10am.
 >
->This appointment will be with Dr Ken ******* MD, FRCPC
+>This appointment will be with Dr Ken ██████ MD, FRCPC
 >
 >Location: Ottawa, Canada
 >
@@ -210,7 +210,7 @@ Received another email with the incorrect date.
 >
 >The email I received from MLCOA read:
 >
->“Our sister company have advised that Dr ******* is happy to accept this referral and has offered an appointment on Wednesday 5th July 2019 at 10am.
+>“Our sister company have advised that Dr ██████ is happy to accept this referral and has offered an appointment on Wednesday 5th July 2019 at 10am.
 >
 >Can you please liaise with Mr Clarke to see if he is available to attend this appointment?”
 >
@@ -260,12 +260,12 @@ Received another email requesting that I confirm the same appointment again.
 
 >Good morning Greg
 >
->A tentative appointment has been scheduled for you to meet with Dr ******, on Friday 5th July 2019 at 10am to assist with the investigation of your outstanding claim with DVA.
+>A tentative appointment has been scheduled for you to meet with Dr ██████, on Friday 5th July 2019 at 10am to assist with the investigation of your outstanding claim with DVA.
 >
 >Could you please advise as soon as possible as to whether you are available for this appointment.
 >
 >For your information:  
->Dr Ken ******,  
+>Dr Ken ██████,  
 >MD, FRCPC  
 >Location: Ottawa, Canada  
 >Speciality: Psychiatrist  
@@ -311,7 +311,7 @@ I hadn't heard from anyone in weeks and had missed my appointment because I was 
 
 >Hello Vijayata,
 >
->I replied to both of your confirmation emails regarding my appointment on the 5th of July with Dr ******, in Ottawa, Canada. I sent a third email asking for the address last week as I had no details on the location and I hadn't heard back from you. I still haven't received a response from you or anyone on your team. You made me wait weeks for this appointment and then you didn't even send me the details. I have insomnia and it affects my life. If the DVA is incapable of helping me either because of lack of resources or lack of competence, please let me know so I can get help elsewhere. This level of incompetence unacceptable. Every interaction I have with the Australian DVA is a disappointment.
+>I replied to both of your confirmation emails regarding my appointment on the 5th of July with Dr ██████, in Ottawa, Canada. I sent a third email asking for the address last week as I had no details on the location and I hadn't heard back from you. I still haven't received a response from you or anyone on your team. You made me wait weeks for this appointment and then you didn't even send me the details. I have insomnia and it affects my life. If the DVA is incapable of helping me either because of lack of resources or lack of competence, please let me know so I can get help elsewhere. This level of incompetence unacceptable. Every interaction I have with the Australian DVA is a disappointment.
 >
 >Please just either help me or admit that you're not going to help me so I don't have to suffer though more months of insomnia.
 >
@@ -379,7 +379,7 @@ Received a generic response from the General Enquiries.
 >
 >If you have any additional questions, feel free to contact us via email or on the phone numbers below to speak directly to a DVA staff member.
 >
->Brendan ******,  
+>Brendan ██████,  
 >Client Contact Victoria / Client Channels  
 >Department of Veterans' Affairs  
 >Ph. 1800 555 254  
@@ -490,7 +490,7 @@ I received an address for my assessment appointment!
 
 >Good Morning Greg,
 >
->Please find correspondence attached which refers to your upcoming appointment with Dr Ken ******* on 04 September 2019.
+>Please find correspondence attached which refers to your upcoming appointment with Dr Ken ██████ on 04 September 2019.
 >
 >Please allow between 2-3 hours for the duration of this appointment.
 >
@@ -515,7 +515,7 @@ I received another confirmation from a new Senior Delegate
 >
 >This is to advise you that this claim has now been reassigned to me and I wanted to confirm that an appointment has been organised for you on 4 September 2019 at 10am as per follows:
 >
->Dr Ken ******, (Consultant Psychiatrist)  
+>Dr Ken ██████, (Consultant Psychiatrist)  
 >555 Legget Drive  
 >Tower A, Suite 304 TTC (The Corporate Centre)  
 >Ottawa, ON, K2K 2X3
@@ -542,7 +542,7 @@ Responded
 
 #### September 4th, 2019 (Day 169)
 
-Today I met with Dr. Ken ******, for my appointment. Dr. Ken politely declined my request to record the meeting. He would not allow me to take any notes during the meeting as it would be distracting. Dr. Ken also denied my request for a copy of the report or his notes from the session. The assessment was thorough taking 2hrs and 40mins. We discussed my service history, symptoms, previous treatments, life history, & current situation. It was a very draining experience that aggravated some scars.
+Today I met with Dr. Ken ██████, for my appointment. Dr. Ken politely declined my request to record the meeting. He would not allow me to take any notes during the meeting as it would be distracting. Dr. Ken also denied my request for a copy of the report or his notes from the session. The assessment was thorough taking 2hrs and 40mins. We discussed my service history, symptoms, previous treatments, life history, & current situation. It was a very draining experience that aggravated some scars.
 
 Dr. Ken asked me why I didn't seek treatment earlier. This was a painful question. Since leaving the Australian army, I have spent thousands of dollars out of my own pocket for service related treatment because the DVA previously refused to help me. Had the DVA given me assistance when I first requested it, my treatment would have begun 4 years ago. Getting this far into the process with the DVA and then being asked by *I* didn't seek treatment earlier was very frustrating.
 
@@ -580,14 +580,14 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 >
 > I apologise for the miscommunications in arranging your medical appointment. I understand this has been raised with the staff member with advice provided on appropriate future escalation processes. I am further advised that the business area has cross checked all of the escalation processes for persons living overseas in an effort to have future calls routed to the appropriate area.
 >
-> I understand the mater has now been resolved and you attended an appointment with Dr ******* on 4 September 2019. DVA will be able to assess and finalise your claim, once the medical report from Dr ******* has been received.
+> I understand the mater has now been resolved and you attended an appointment with Dr ██████ on 4 September 2019. DVA will be able to assess and finalise your claim, once the medical report from Dr ██████ has been received.
 >
 > Should you have any further queries about this matter, please contact Karen on 1800 555 xxx and request extension xxxxxx.
 >
 > Thank you for taking the time to write.
 >
 > Yours sincerely  
-> Robert ******,  
+> Robert ██████,  
 > Chief of Staff
 
 #### September 19th, 2019 (Day 184)
@@ -600,7 +600,7 @@ Frustrated with waiting, I reached out to my DVA contact. I also requested the r
 
 > Hello Anita,
 >
-> it's been 3 weeks since my assessment and over 6 months since I reached out for help. Is there any word on when the DVA might provide me with treatment? Also, can I please get a copy of Dr. *******'s report for my own records.
+> it's been 3 weeks since my assessment and over 6 months since I reached out for help. Is there any word on when the DVA might provide me with treatment? Also, can I please get a copy of Dr. ██████'s report for my own records.
 >
 > Thank you,
 >
@@ -612,9 +612,9 @@ Anita sent me a prompt response which was appreciated
 >
 > Thank you for your email.
 >
-> I have not received the report from Dr ******* as yet, I did receive an email from the medico-legal company (MLCOA) yesterday that they are following up on this.
+> I have not received the report from Dr ██████ as yet, I did receive an email from the medico-legal company (MLCOA) yesterday that they are following up on this.
 >
-> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr *******’s report with my decision letter.
+> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr ██████’s report with my decision letter.
 >
 > Please do not hesitate to contact me if you have any further queries regarding this matter.
 >
@@ -685,7 +685,7 @@ I received a prompt response with clarifying questions which I responded to.
 > Could you please provide your date of birth and your Veterans Affair file number please.
 >
 > Kind Regards  
-> Arthur ******,
+> Arthur ██████,
 
 #### October 9th, 2019 (Day 204)
 
@@ -695,9 +695,9 @@ My claim has been accepted
 >
 > I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health’.
 >
-> I received the report from Dr ******* yesterday and I have now finalised this claim and my decision letter is attached for your perusal.
+> I received the report from Dr ██████ yesterday and I have now finalised this claim and my decision letter is attached for your perusal.
 >
-> As requested by you, I have also attached Dr *******’s report for your records.
+> As requested by you, I have also attached Dr ██████’s report for your records.
 >
 > Please do not hesitate to contact me if you have any queries regarding this matter.
 >
