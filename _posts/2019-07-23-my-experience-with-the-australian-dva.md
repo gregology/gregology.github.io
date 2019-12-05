@@ -914,7 +914,14 @@ After nearly 9 months, I give up. I emailed Giorgia thanking her for her efforts
 > I doubt the DVA will contribute to the cost of my psychology treatment and after nearly 9 months, I don't have the energy to fight to get the help I need. I don't believe that the DVA is willing or capable of helping me. I will continue seeking help as if the DVA doesn't exist and I will book psychology treatments that I can afford out of pocket.
 Thank you again for your help, this is a systemic problem with the DVA not Incite Solutions or your efforts. I appreciate all you've done for me.
 > 
-> Cheers,Greg.
+> Cheers, Greg.
+
+#### December 5th, 2019 (Day 261)
+
+Last ditch attempt, I tried tweeting to someone who might be able to help me
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/DVAAus?ref_src=twsrc%5Etfw">@DVAAus</a>, <a href="https://twitter.com/DVACommissioner?ref_src=twsrc%5Etfw">@DVACommissioner</a>, <a href="https://twitter.com/DeptDefence?ref_src=twsrc%5Etfw">@DeptDefence</a>, &amp; <a href="https://twitter.com/lindareynoldswa?ref_src=twsrc%5Etfw">@lindareynoldswa</a> can I trade my medals in for treatment?<a href="https://t.co/fM4eEoYkZ9">https://t.co/fM4eEoYkZ9</a></p>&mdash; Greg Clarke 🇬🇧🇦🇺🇨🇦 (@Gregologynet) <a href="https://twitter.com/Gregologynet/status/1202391784355246082?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 #### Next steps
 
