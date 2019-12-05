@@ -19,7 +19,7 @@ tags:
   var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
   
   //To display the final_result value 
-  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia as a result of my time in Afghanistan. So far I have not received any help or treatment from the DVA."); 
+  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia & depression as a result of my time in Afghanistan. So far I have not received any help or treatment from the DVA."); 
 </script>
 
 In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
