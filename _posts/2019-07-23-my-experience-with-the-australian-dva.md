@@ -175,7 +175,7 @@ Received this follow up email about an appointment.
 >
 >I have heard back from MLCOA. They have provided an appointment for you on Wednesday 5th July 2019 at 10am.
 >
->This appointment will be with Dr Ken Suddaby MD, FRCPC
+>This appointment will be with Dr Ken ******* MD, FRCPC
 >
 >Location: Ottawa, Canada
 >
@@ -210,7 +210,7 @@ Received another email with the incorrect date.
 >
 >The email I received from MLCOA read:
 >
->“Our sister company have advised that Dr Suddaby is happy to accept this referral and has offered an appointment on Wednesday 5th July 2019 at 10am.
+>“Our sister company have advised that Dr ******* is happy to accept this referral and has offered an appointment on Wednesday 5th July 2019 at 10am.
 >
 >Can you please liaise with Mr Clarke to see if he is available to attend this appointment?”
 >
@@ -490,7 +490,7 @@ I received an address for my assessment appointment!
 
 >Good Morning Greg,
 >
->Please find correspondence attached which refers to your upcoming appointment with Dr Ken Suddaby on 04 September 2019.
+>Please find correspondence attached which refers to your upcoming appointment with Dr Ken ******* on 04 September 2019.
 >
 >Please allow between 2-3 hours for the duration of this appointment.
 >
@@ -580,7 +580,7 @@ Today I received a response from the Minister of Veterans and Defence Personnel,
 >
 > I apologise for the miscommunications in arranging your medical appointment. I understand this has been raised with the staff member with advice provided on appropriate future escalation processes. I am further advised that the business area has cross checked all of the escalation processes for persons living overseas in an effort to have future calls routed to the appropriate area.
 >
-> I understand the mater has now been resolved and you attended an appointment with Dr Suddaby on 4 September 2019. DVA will be able to assess and finalise your claim, once the medical report from Sr Suddaby has been received.
+> I understand the mater has now been resolved and you attended an appointment with Dr ******* on 4 September 2019. DVA will be able to assess and finalise your claim, once the medical report from Dr ******* has been received.
 >
 > Should you have any further queries about this matter, please contact Karen on 1800 555 xxx and request extension xxxxxx.
 >
@@ -596,11 +596,11 @@ It's been 6 months since I first reached out to the DVA for help. I still have h
 
 #### September 24th, 2019 (Day 189)
 
-Frustrated with waiting, I reached out to my DVA contact. I also requested the report that Dr. Suddaby had prepared on me.
+Frustrated with waiting, I reached out to my DVA contact. I also requested the report that Dr Ken had prepared on me.
 
 > Hello Anita,
 >
-> it's been 3 weeks since my assessment and over 6 months since I reached out for help. Is there any word on when the DVA might provide me with treatment? Also, can I please get a copy of Dr. Suddaby's report for my own records.
+> it's been 3 weeks since my assessment and over 6 months since I reached out for help. Is there any word on when the DVA might provide me with treatment? Also, can I please get a copy of Dr. *******'s report for my own records.
 >
 > Thank you,
 >
@@ -612,9 +612,9 @@ Anita sent me a prompt response which was appreciated
 >
 > Thank you for your email.
 >
-> I have not received the report from Dr Suddaby as yet, I did receive an email from the medico-legal company (MLCOA) yesterday that they are following up on this.
+> I have not received the report from Dr ******* as yet, I did receive an email from the medico-legal company (MLCOA) yesterday that they are following up on this.
 >
-> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr Suddaby’s report with my decision letter.
+> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr *******’s report with my decision letter.
 >
 > Please do not hesitate to contact me if you have any further queries regarding this matter.
 >
@@ -695,9 +695,9 @@ My claim has been accepted
 >
 > I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health’.
 >
-> I received the report from Dr Suddaby yesterday and I have now finalised this claim and my decision letter is attached for your perusal.
+> I received the report from Dr ******* yesterday and I have now finalised this claim and my decision letter is attached for your perusal.
 >
-> As requested by you, I have also attached Dr Suddaby’s report for your records.
+> As requested by you, I have also attached Dr *******’s report for your records.
 >
 > Please do not hesitate to contact me if you have any queries regarding this matter.
 >
