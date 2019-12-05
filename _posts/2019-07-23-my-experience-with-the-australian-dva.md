@@ -899,7 +899,7 @@ I received a follow up from Giorgia. She was really helpful and we exchanged a f
 
 #### December 4th, 2019 (Day 260)
 
-It's been a rough few days. I really thought I was close to getting support but it's becoming clear that the DVA's purpose isn't to help veterans.
+It's been a rough few days. I went to my doctor and asked for sleeping tablets, I feel defeated treating the symptom. I really thought I was close to getting support but it's becoming clear that the DVA's purpose isn't to help veterans.
 
 The quote from the parents of [Jesse Bird](https://www.abc.net.au/news/2017-10-14/jesse-bird-veteran-affairs-inquiry-finds-failings/9050594) sum up the situation succinctly
 
