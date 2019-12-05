@@ -716,7 +716,7 @@ tl;dr of attached letter
 > I have accepted your claim for:  
 > * Specified Trauma or Stressor Related Disorder with effect from 30 April 2011  
 > * Adjustment Disorder with Mixed Mood with effect from 30 April 2011  
-> *  Chronic Insomnia Disorder with effect from 30 April 2011  
+> * Chronic Insomnia Disorder with effect from 30 April 2011  
 
 Hopefully I can start treatment soon
 
@@ -738,7 +738,7 @@ Rochelle from Incite Solutions Group reached out or organise an initial assessme
 
 #### October 17th, 2019 (Day 212)
 
-A weight that had been centered in my chest has disappeared. After an hour long chat with Giorgia & Rochelle from Incite Solutions Group, I finally feel like I will receive treatment soon. It's been a long journey. I received an email from Giorgia requesting some additional paperwork.
+A weight that had been centered in my chest has disappeared. After an hour long chat with Giorgia & Rochelle from Incite Solutions Group, I finally feel like I will receive treatment soon. It's been a long journey. I received an email from Giorgia requesting some additional paperwork. During the conversation they recommended that I do a course of interest that the DVA would fund to help me be social. I suggested improv and they agreed that it would be suitable for the purpose.
 
 #### October 22nd, 2019 (Day 217)
 
@@ -763,7 +763,7 @@ It turns out that my doctor didn't tick a box on the confusing `Medical Certific
 >
 > Thank you for sending that through. I have reviewed the Medical Certification and noticed that Dr S has crossed out the vocational rehabilitation box, which would indicate you are not fit to engage in vocational rehabilitation with Incite Solutions.
 > 
-> In order you to participate in vocational rehabilitation services with us and for us to provide support, Dr S would need to tick you have some capacity in
+> In order you to participate in vocational rehabilitation services with us and for us to provide support, Dr S would need to tick you have some capacity in  
 > ‘Part B – Rehabilitation – Question 7’ i.e. at least 1-2 hours per week to come on to Programme with us. Apologies if that was not clear, it mentions activities such as online learning and work-trials, which are not relevant for you as you are currently working full-time. However, the Rehab plan we came up with for the medical, psychosocial and vocational goals are what we would be supporting with from a vocational rehabilitation perspective and from an employment perspective, we would be supporting with employment monitoring (i.e. your vocational goal to lessen occasions of lateness to work).
 > 
 > Would you be able to book another appointment with Dr S or alternatively call the practice and ask her to make an amendment and initial this with her signature on the previously completed Med Cert – indicating you have some capacity for vocational rehabilitation in Part B – Rehabilitation – Question 7?
@@ -772,7 +772,7 @@ It turns out that my doctor didn't tick a box on the confusing `Medical Certific
 > 
 > Let me know if you any of that doesn’t make sense.
 > 
-> Warm regards, 
+> Warm regards,  
 > Giorgia
 
 I really thought that I was past DVA bureaucracy and hoop jumping now that I was dealing directly with Incite Solutions. Unfortunately I was wrong. I have booked a the earliest available follow up appointment with my doctor on the 5th of December.
@@ -787,7 +787,7 @@ Giorgia tried to push back on the DVA and got nowhere. She offered to chase the 
 > 
 > I have spoken to DVA and unfortunately they require an updated medical certificate that reflects you are fit for vocational rehabilitation before we can submit the Initial Assessment and commence you on program. I apologise for the trouble. I am going to organise for a fax to be sent to Dr S as she only needs to amend the ‘Part B – Rehabilitation – Question 7’ section and I am hopeful she may be able to complete this before December 5th so you don’t have to wait for another appointment. Let me know your thoughts and whether you think she would respond to the fax from us?
 > 
-> Warm regards, 
+> Warm regards,  
 > Giorgia
 
 #### November 15th, 2019 (Day 241)
@@ -805,12 +805,120 @@ Giorgia again apologised for the DVA making me jump though hoops
 > 
 > Hope you have a great weekend as well.
 > 
-> Warm regards, 
+> Warm regards,  
 > Giorgia
+
+#### November 28th, 2019 (Day 254)
+
+Received an email from Incite Solutions confirming my Initial Assessment Report had been submitted to the DVA
+
+> Dear Gregory,
+> 
+> Please find attached for your records our Initial Assessment Report which was submitted to DVA in support of your Rehabilitation Plan with Incite Solutions Group.
+> 
+> If you have any questions in respect to this report please feel free to contact Giorgia on 9414 1800.
+> 
+> Regards
+> 
+> Felicity  
+> Senior Administration Officer
+
+#### November 28th, 2019 (Day 254)
+
+Giorgia emailed letting me know that the DVA had approved the plan
+
+> Hi Greg,
+> 
+> How are you going?
+> 
+> We have received your approved plan back from DVA, which means that we can now commence your program. Could you please sign and return it at your earliest convenience so that I can send it back to DVA.
+> 
+> I was wondering if you wanted to link in over Skype to discuss next steps? I am free next Monday 2nd December or Tuesday 3rd December, I would be able to come in to the office at around 7am Perth time if either of those evenings would work for you?
+> 
+> Looking forward to chatting further
+> 
+> Warm regards,
+> 
+> Giorgia  
+
+#### December 2nd, 2019 (Day 258)
+
+I had a chat with Giorgia from Incite Solutions about treatment. Giorgia informed me that the DVA would require written permission from my doctor before they would permit me to do improv. Giorgia and Incite Solutions have been wonderful and I thought that once I was dealing with them that I would no longer have to deal with the ludicrous bureaucracy of the DVA. unfortunately I was wrong.
+
+We chatted and I started doing some research on local psychologists that I could see.
+
+#### December 3rd, 2019 (Day 259)
+
+My FOI act to try to try to calculate how much the DVA had spent denying me treatment had cost was denied
+
+> Dear Mr Clarke,
+> 
+> I refer to your FOI request for access to the following:
+>
+>    …The amount paid to MLCOA for the assessment of myself (Gregory Clarke)…
+>
+> I also refer to your request for an Internal Review of the primary decision, specifically noting:
+>
+>    …I would like to challenge this refusal. Your letter said “I have enclosed information about your rights of review under the FOI Act at Attachment A”, however there was no attachment A…
+> 
+> Please find attached the statement of reasons of the Internal Review conducted and one (1) document falling within the scope of your request.
+> 
+> Kind regards
+> 
+> Dylan
+
+#### December 3rd, 2019 (Day 259)
+
+I received a follow up from Giorgia. She was really helpful and we exchanged a few message trying to find me a local psychologist with experience helping veterans.
+
+> Hi Greg,
+> 
+> Thanks for your time today.
+> 
+> I spoke with Rochelle and she has clarified the process for international clients. Apologies for not touching base with her beforehand, if you need me to clarify anything further, please let me know. It may be easier to have it all in writing below so you can refer back to this email.
+> 
+> Essentially as we discussed you would go to your GP and get a referral to a Psychologist, however international clients pay for the cost of their medical appointments upfront and then claim this back from DVA.
+> 
+> I have attached a DVA form called ‘Application for Refund or Payment of Medical Expenses Privately Incurred.’ Clients need to request a receipt from the psychologist, complete the attached form and send this back to DVA.
+> 
+> The receipt from the Psychologist will need to:
+> 
+> Clearly state the patient name and medical condition(s) that were treated;  
+>  * Be signed by the health provider;  
+>  * Be itemised and include details of the treatment provided including the number of visits, dates of treatment, and, if an in-patient, the period spent in hospital;  
+>  * Include the name, dosage and cost of any pharmaceutical item dispensed;  
+>  * Be accompanied by original receipts;  
+>  * Be accompanied by the health provider’s certification that the treatment was provided in an emergency, if relevant;  
+> Additionally as you are not on incapacity payments, I also wanted to let you know that rehabilitation program is a voluntary process. I am here to assist, therefore, if you prefer, you can send the receipt through to me and I can complete the Application for Refund or Payment form and submit this to DVA if that makes things a little easier. 
+> 
+> I am happy to organise another Skype call if you want to chat about this further. Let me know how your appointment with Dr Sarah goes and I will do some research to try and identify some appropriate Psychologists in your area.
+> 
+> Warm regards,
+> 
+> Giorgia
+
+#### December 4th, 2019 (Day 260)
+
+It's been a rough few days. I really thought I was close to getting support but it's becoming clear that the DVA's purpose isn't to help veterans.
+
+The quote from the parents of [Jesse Bird](https://www.abc.net.au/news/2017-10-14/jesse-bird-veteran-affairs-inquiry-finds-failings/9050594) sum up the situation succinctly
+
+> it seems to him and us that the level of bureaucracy is intentionally obstructionist and unedifying. The jungle of paperwork, the lack of follow-up and the non-existent support has contributed to his deteriorating mental health.
+
+After nearly 9 months, I give up. I emailed Giorgia thanking her for her efforts
+
+> Hello Giorgia,
+>  
+> I'm no longer expecting to receive any help from the DVA. It's been 8.5 months since I reached out to them. I've invested much time and energy into getting help from the DVA but it's a sunk cost. Everytime I think I'm close to getting help (actually seeing a psychologist for treatment), it's a false peak. I wish they had just told me at the start that they weren't going to help me. If they had, I would be 8 months into treatment. All the DVA has done is slow me down from getting help. I am in a worse state because of the DVA.
+>
+> I doubt the DVA will contribute to the cost of my psychology treatment and after nearly 9 months, I don't have the energy to fight to get the help I need. I don't believe that the DVA is willing or capable of helping me. I will continue seeking help as if the DVA doesn't exist and I will book psychology treatments that I can afford out of pocket.
+Thank you again for your help, this is a systemic problem with the DVA not Incite Solutions or your efforts. I appreciate all you've done for me.
+> 
+> Cheers,Greg.
 
 #### Next steps
 
-For the most part, the Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 6 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
+Some Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 9 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
 
 ### What I want
 
@@ -822,7 +930,7 @@ For the most part, the Australian DVA staff are great however the organisation h
  - Better training of DVA staff
  - Improved communications between DVA staff and veterans
  - Improved communications between DVA staff and their international counterparts (inaccessible reciprocal services are not reciprocal)
- - And finally, **treatment for my service induced insomnia**
+ - And finally, **treatment for my service induced insomnia & depression**
 
 <!--
   # Python days calculation
