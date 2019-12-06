@@ -12,8 +12,7 @@ redirect_from:
 ---
 ### A Gazillion
 
-How much is a Gazillion? Lets first break down the word Gazillion. Etymology of `llion`
-From million, from Latin mille, thousand, plus augmentative suffix -ion or -on (literally big thousand)
+How much is a Gazillion? Etymology of `illion`, from Latin mille, thousand, plus augmentative suffix -ion or -on (literally big thousand)
 
   * Million has 6 zeros
   * Billion has 9 zeros
