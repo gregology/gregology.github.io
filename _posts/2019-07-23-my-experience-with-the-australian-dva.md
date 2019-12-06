@@ -897,9 +897,31 @@ I received a follow up from Giorgia. She was really helpful and we exchanged a f
 > 
 > Giorgia
 
+I responded wondering how the DVA would reimburse me for my treatment
+
+> Thanks for the info Giorgia. How will the DVA refund me the money? As in, how will they send it to me?
+
+As I expected, it was going to be another hurdle
+
+> Not a problem Greg.
+> 
+> Do you have an Australian bank account? If so, if you can please provide your details I can make sure that DVA have this to refund the medical expenses. If you don’t have an Australian bank account, please let me know as I will need to contact DVA to request some further paperwork for international bank transactions.
+> 
+> Thanks,  
+> Giorgia
+
+I let Giorgia know that I no longer have an active Australian bank account
+
+> Hey Giorgia, unfortunately I don't have an active Australian bank account
+
+Giorgia's response was no surprise, more paperwork
+
+> Hi Greg,  
+> Thanks for letting me know. Given you don’t have an active Australian bank account, I will have to contact DVA to request some additional paperwork for this. Once I have this, I will send it through to you.
+
 #### December 4th, 2019 (Day 260)
 
-It's been a rough few days. I went to my doctor and asked for sleeping tablets, I feel defeated treating the symptom. I really thought I was close to getting support but it's becoming clear that the DVA's purpose isn't to help veterans.
+It's been a rough few days. I went to my doctor and asked for sleeping tablets, I feel defeated treating the symptom and not the root cause. I really thought I was close to getting support but it's becoming clear that the DVA's purpose isn't to help veterans.
 
 The quote from the parents of [Jesse Bird](https://www.abc.net.au/news/2017-10-14/jesse-bird-veteran-affairs-inquiry-finds-failings/9050594) sum up the situation succinctly
 
@@ -911,8 +933,8 @@ After nearly 9 months, I give up. I emailed Giorgia thanking her for her efforts
 >  
 > I'm no longer expecting to receive any help from the DVA. It's been 8.5 months since I reached out to them. I've invested much time and energy into getting help from the DVA but it's a sunk cost. Everytime I think I'm close to getting help (actually seeing a psychologist for treatment), it's a false peak. I wish they had just told me at the start that they weren't going to help me. If they had, I would be 8 months into treatment. All the DVA has done is slow me down from getting help. I am in a worse state because of the DVA.
 >
-> I doubt the DVA will contribute to the cost of my psychology treatment and after nearly 9 months, I don't have the energy to fight to get the help I need. I don't believe that the DVA is willing or capable of helping me. I will continue seeking help as if the DVA doesn't exist and I will book psychology treatments that I can afford out of pocket.
-Thank you again for your help, this is a systemic problem with the DVA not Incite Solutions or your efforts. I appreciate all you've done for me.
+> I doubt the DVA will contribute to the cost of my psychology treatment and after nearly 9 months, I don't have the energy to fight them to get the help I need. I don't believe that the DVA is willing or capable of helping me. I will continue seeking help as if the DVA doesn't exist and I will book psychology treatments that I can afford out of pocket.  
+> Thank you again for your help, this is a systemic problem with the DVA not Incite Solutions or your efforts. I appreciate all you've done for me.
 > 
 > Cheers, Greg.
 
@@ -922,6 +944,7 @@ Last ditch attempt, I tried tweeting to someone who might be able to help me
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/DVAAus?ref_src=twsrc%5Etfw">@DVAAus</a>, <a href="https://twitter.com/DVACommissioner?ref_src=twsrc%5Etfw">@DVACommissioner</a>, <a href="https://twitter.com/DeptDefence?ref_src=twsrc%5Etfw">@DeptDefence</a>, &amp; <a href="https://twitter.com/lindareynoldswa?ref_src=twsrc%5Etfw">@lindareynoldswa</a> can I trade my medals in for treatment?<a href="https://t.co/fM4eEoYkZ9">https://t.co/fM4eEoYkZ9</a></p>&mdash; Greg Clarke 🇬🇧🇦🇺🇨🇦 (@Gregologynet) <a href="https://twitter.com/Gregologynet/status/1202391784355246082?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+I received no responses from the DVA, the DVA Commissioner, The Australian Department of Defence, or Linda Reynolds (The Minister of Defence). I did hear from a few mates which was really appreciated.
 
 #### Next steps
 
