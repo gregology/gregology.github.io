@@ -816,7 +816,7 @@ Received an email from Incite Solutions confirming my Initial Assessment Report 
 > 
 > Please find attached for your records our Initial Assessment Report which was submitted to DVA in support of your Rehabilitation Plan with Incite Solutions Group.
 > 
-> If you have any questions in respect to this report please feel free to contact Giorgia on 9414 1800.
+> If you have any questions in respect to this report please feel free to contact Giorgia on 9414 ████.
 > 
 > Regards
 > 
