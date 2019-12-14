@@ -55,7 +55,7 @@ Format USB hard drive to hfsplus. This will erase all data on the USB hard drive
 
 Create mount point
 
-`pi@timemachine:~ $ sudo mkdir /media/tm && sudo chmod -R 777 /media/tm`
+`pi@timemachine:~ $ sudo mkdir /media/tm && sudo chmod -R 777 /media/tm && sudo chown pi:pi /media/tm`
 
 Determine the UUID of your USB hard drive (sda2)
 
