@@ -21,6 +21,8 @@ tags:
 
 ***2019-07-21 Updated after comments from Bastiaan***
 
+***2019-12-14 Updated after comments from AlexWiseman & Nick***
+
 ## Prerequisites
 
 * Raspberry Pi (tested with a Raspberry Pi 2 Model B)
@@ -232,3 +234,15 @@ Open the Time Machine settings and you should see your new network time machine 
 ![Open Time Machine](/wp-content/uploads/2018/09/raspberry-pi-time-machine-time-machine.png "Time Machine"){:height="90%" width="90%"}
 
 References: this is an updated version of a [How to Geek](https://www.howtogeek.com/276468/how-to-use-a-raspberry-pi-as-a-networked-time-machine-drive-for-your-mac/) article with some tweaks for flaky USB hard drives and updates for the latest packages.
+
+## Troubleshooting
+
+### Read only drive
+
+If your drive becomes read only you can try either changing the permissions of the directory
+
+`sudo chown pi:pi /media/tm`
+
+or forcing fsck.hfsplus to check and repair journaled HFS+ file systems
+
+`sudo fsck.hfsplus -f /dev/sda1`
