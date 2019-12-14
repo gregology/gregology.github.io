@@ -17,11 +17,9 @@ tags:
   - Time Machine
 ---
 
-***2019-01-02 Updated after comments from Guy***
-
-***2019-07-21 Updated after comments from Bastiaan***
-
-***2019-12-14 Updated after comments from AlexWiseman & Nick***
+***2019-01-02 Updated after comments from Guy***  
+***2019-07-21 Updated after comments from Bastiaan***  
+***2019-12-14 Updated after comments from AlexWiseman & Nick***  
 
 ## Prerequisites
 
