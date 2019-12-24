@@ -967,7 +967,7 @@ I also tried one last time to calculate how much the DVA has spent delaying my t
 
 #### December 6th, 2019 (Day 262)
 
-Giorgia & I sent half a dozen emails back and forth. The tl;dr was that I not will to delay treatment any further while waiting for the DVA & Giorgia would find out what paperwork I would need to fill out if I did want to attempt to be reimbursed by the DVA. We setup a Skype chat to discuss in person.
+Giorgia & I sent half a dozen emails back and forth. The tl;dr was that I was not willing to delay treatment any further while waiting for the DVA & Giorgia would find out what paperwork I would need to fill out if I did want to attempt to be reimbursed by the DVA. We setup a Skype chat to discuss in person.
 
 #### December 9th, 2019 (Day 265)
 
