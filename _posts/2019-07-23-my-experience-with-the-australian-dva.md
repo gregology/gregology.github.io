@@ -19,10 +19,10 @@ tags:
   var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
   
   //To display the final_result value 
-  document.write("<b>tl;dr</b> The Australian DVA is bureaucratic, incompetent, and failing veterans. It's been " + days + " days since I reached out for help with insomnia & depression as a result of my time in Afghanistan. So far I have not received any help or treatment from the DVA."); 
+  document.write("<b>tl;dr</b> " + days + " days ago I reached out to the Australian DVA for help with service induced insomnia & depression. The DVA have so far paid 3rd parties $8,782.40 for my treatment. I have not yet seen a psychologist or received any other form of treatment. 20 sessions with a psychologist would cost a fraction of what the DVA have paid so far. The $8,782.40 does not include additional expenses like DVA staffing, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments."); 
 </script>
 
-In 2010 I deployed to Afghanistan with the Australian Army. We worked in shifts - 8 hours on, 8 hours off - for months. Humans were not designed for 16 hour sleep cycles. Since returning home in 2011 I have suffered insomnia. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
+In 2010 I deployed to Afghanistan with the Australian Army. Since returning home in 2011 I have suffered insomnia and had mild PTSD. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
 
 #### 19th of March, 2019 (Day 0)
 
@@ -869,7 +869,7 @@ My FOI act to try to try to calculate how much the DVA had spent denying me trea
 
 #### December 3rd, 2019 (Day 259)
 
-I received a follow up from Giorgia. She was really helpful and we exchanged a few message trying to find me a local psychologist with experience helping veterans.
+I received a follow up from Giorgia. We exchanged a few message trying to find me a local psychologist with experience helping veterans.
 
 > Hi Greg,
 > 
@@ -897,6 +897,8 @@ I received a follow up from Giorgia. She was really helpful and we exchanged a f
 > 
 > Giorgia
 
+The requirement to get yet another referral from my GP in order to get reimbursed by the DVA was confusing and annoying. It takes 2 weeks to get an appointment with my doctor and isn't required in order to get psychology treatment in Canada. It was just a requirement of the DVA even though the DVA had recently put me though a full 2.5hr psych assessment.
+
 I responded wondering how the DVA would reimburse me for my treatment
 
 > Thanks for the info Giorgia. How will the DVA refund me the money? As in, how will they send it to me?
@@ -921,22 +923,24 @@ Giorgia's response was no surprise, more paperwork
 
 #### December 4th, 2019 (Day 260)
 
-It's been a rough few days. I went to my doctor and asked for sleeping tablets, I feel defeated treating the symptom and not the root cause. I really thought I was close to getting support but it's becoming clear that the DVA's purpose isn't to help veterans.
+It's been a rough few days. I went to my doctor and asked for sleeping tablets, I felt defeated treating the symptom and not the root cause. I really thought I was close to getting support but it's becoming clear that the DVA is incapable of helping most veterans.
 
 The quote from the parents of [Jesse Bird](https://www.abc.net.au/news/2017-10-14/jesse-bird-veteran-affairs-inquiry-finds-failings/9050594) sum up the situation succinctly
 
 > it seems to him and us that the level of bureaucracy is intentionally obstructionist and unedifying. The jungle of paperwork, the lack of follow-up and the non-existent support has contributed to his deteriorating mental health.
 
-After nearly 9 months, I give up. I emailed Giorgia thanking her for her efforts
+After nearly 9 months, I was defeated. I emailed Giorgia thanking her for her efforts
 
 > Hello Giorgia,
 >  
-> I'm no longer expecting to receive any help from the DVA. It's been 8.5 months since I reached out to them. I've invested much time and energy into getting help from the DVA but it's a sunk cost. Everytime I think I'm close to getting help (actually seeing a psychologist for treatment), it's a false peak. I wish they had just told me at the start that they weren't going to help me. If they had, I would be 8 months into treatment. All the DVA has done is slow me down from getting help. I am in a worse state because of the DVA.
+> I'm no longer expecting to receive any help from the DVA. It's been 8.5 months since I reached out to them. I've invested much time and energy into getting help from the DVA but it's a sunk cost. Every time I think I'm close to getting help (actually seeing a psychologist for treatment), it's a false peak. I wish they had just told me at the start that they weren't going to help me. If they had, I would be 8 months into treatment. All the DVA has done is slow me down from getting help. I am in a worse state because of the DVA.
 >
 > I doubt the DVA will contribute to the cost of my psychology treatment and after nearly 9 months, I don't have the energy to fight them to get the help I need. I don't believe that the DVA is willing or capable of helping me. I will continue seeking help as if the DVA doesn't exist and I will book psychology treatments that I can afford out of pocket.  
 > Thank you again for your help, this is a systemic problem with the DVA not Incite Solutions or your efforts. I appreciate all you've done for me.
 > 
 > Cheers, Greg.
+
+I reached out to 5 local psychologists so that I can begin treatment. I should be able to start treatment in the next couple of month. I will pay out of pocket for treatment.
 
 #### December 5th, 2019 (Day 261)
 
@@ -945,6 +949,80 @@ Last ditch attempt, I tried tweeting to someone who might be able to help me
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/DVAAus?ref_src=twsrc%5Etfw">@DVAAus</a>, <a href="https://twitter.com/DVACommissioner?ref_src=twsrc%5Etfw">@DVACommissioner</a>, <a href="https://twitter.com/DeptDefence?ref_src=twsrc%5Etfw">@DeptDefence</a>, &amp; <a href="https://twitter.com/lindareynoldswa?ref_src=twsrc%5Etfw">@lindareynoldswa</a> can I trade my medals in for treatment?<a href="https://t.co/fM4eEoYkZ9">https://t.co/fM4eEoYkZ9</a></p>&mdash; Greg Clarke 🇬🇧🇦🇺🇨🇦 (@Gregologynet) <a href="https://twitter.com/Gregologynet/status/1202391784355246082?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I received no responses from the DVA, the DVA Commissioner, The Australian Department of Defence, or Linda Reynolds (The Minister of Defence). I did hear from a few mates which was really appreciated.
+
+I also tried one last time to calculate how much the DVA has spent delaying my treatment
+
+> Hello,
+> 
+> I am formally requesting;
+> 
+> 1) The total amount the DVA has paid to 3rd parties for my treatment so far (Gregory Clarke).
+> 
+> My file number: TSM06858  
+> DOB: 03 MAY 1983
+> 
+> Regards,
+> 
+> Greg Clarke.
+
+#### December 6th, 2019 (Day 262)
+
+Giorgia & I sent half a dozen emails back and forth. The tl;dr was that I not will to delay treatment any further while waiting for the DVA & Giorgia would find out what paperwork I would need to fill out if I did want to attempt to be reimbursed by the DVA. We setup a Skype chat to discuss in person.
+
+#### December 9th, 2019 (Day 265)
+
+Had a skype chat with Giorgia from Incite Solutions Group. I explained my frustration with the DVA requiring me to get another GP referral in order to get treatment from a psychologist. To be clear, I do not need a GP referral to get treatment from a psychologist in Canada. This was a requirement of the DVA alone and would again delay my treatment as I would need to book an appointment with my doctor and take time to work. I told Giorgia that I had reached out to local psychologists to begin sessions. I told her I was not willing to delay my treatment any further just to satisfy DVA bureaucracy. I would rather pay for the sessions I can afford out of pocket. Giorgia was understanding.
+
+#### December 21st, 2019 (Day 278)
+
+I visited by GP for an unrelated issue and took the opportunity to get a psychotherapy referral as requested by the DVA.
+
+> Hey Giorgia,  
+> I hope you're enjoying your summer. I had to visit the doctor for another issue so I asked her for a psychology referral.
+>
+> I will be seeing her next year for my annual checkup. Please let me know if I need some other paperwork from her.
+>
+> Cheers,
+> 
+> Greg.
+
+#### December 23rd, 2019 (Day 280)
+
+Giorgia responded
+
+> Hey Greg,
+> 
+> Hope you are enjoying cooler weather than us. I hope all is okay? Thanks for sending the referral through.
+> 
+> I have liaised with DVA Health Approvals in regards to your Psychology treatment and received this response:
+> 
+> Thank you for your recent request for approval for the Department of Veterans’ Affairs (DVA) to fund treatment for Mr Gregory Clarke. The psychologist can submit a prior approval request with clinical information about the treatment and a quote – this way DVA seek confirmation that the client is eligible and create a guarantee of payment for the provider. They will then simply submit their invoice as per the letter instructions and the client will not be out of pocket.
+> 
+> Alternatively I have confirmed that it is ok if the client does not have an Australian bank account – the reimbursement team will submit owed payments into the clients international account when the details are supplied.
+> 
+> As you can see from the response highlighted, DVA have advised that there is an option for your Psychologist to complete a Prior Approval Request Form (which I have attached in this email) about the treatment and a quote of how much their sessions cost. The Psychologist would then need to submit an invoice to DVA and you won't have to pay out of pocket. So going down the route of a Prior Approval may be more ideal as this way you don't need to pay out of pocket.
+> 
+> I think it might be a good idea to link in over Skype in January next year before you see the Psychologist so we can run through how they need to complete the Prior Approval Form. I will be back at work on January 6th, so we could link in on Tuesday 7th at 8am my time, or alternatively on Friday 10th January same time.
+> 
+> Hope you have the opportunity to relax over Christmas and New Year.
+> 
+> Warm regards,
+>
+> Giorgia
+
+#### December 24th, 2019 (Day 281)
+
+The DVA responded to my Freedom of Information request for 3rd party treatment costs. The Australian DVA has so for far paid $8,782.40 to 3rd parties for my treatment however I have not yet received any treatment. This cost doesn't include DVA staffing, costs incurred by me directly, or costs incurred by Public Health Ontario for the required doctors appointments.
+
+> Document created in accordance with section 17 of the Freedom of Information Act 1982 (Cth)  
+> FOI reference number: FOI 33349  
+> Request details: The total amount the DVA has paid to 3rd parties for my treatment so far (Gregory Clarke)
+> 
+> Total Amount Paid (Incl. GST) $8,782.40
+
+[Original Document](/wp-content/uploads/2019/12/2019-12-24 FOI 33349 - Total amount DVA paid to 3rd parties for treatment so far.pdf)
+
+My treatment would have cost a fraction of $8,782.40
 
 #### Next steps
 
