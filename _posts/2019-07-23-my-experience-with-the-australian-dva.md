@@ -1030,10 +1030,6 @@ Some Australian DVA staff are great however the organisation has failed me and i
 
 ### What I want
 
- - The Australian DVA to be dissolved so that diggers can get help instead of jumping through hoops
-
-  OR
-
  - Accurate assessments on treatment schedules so that veterans can make informed decisions as to whether they should proceed with the DVA or get help elsewhere
  - Better training of DVA staff
  - Improved communications between DVA staff and veterans
