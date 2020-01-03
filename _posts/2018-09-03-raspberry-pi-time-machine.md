@@ -32,7 +32,7 @@ tags:
 
 Install [Raspbian Buster Lite](https://www.raspberrypi.org/downloads/raspbian/) on the SD card. Follow the instructions on the [Installing images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) tutorial on the Raspberry Pi site. Then [enable SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/). Insert the SD card into the Pi, plug in the USB hard drive, plug in a network cable, and power on the Pi.
 
-Next set a static IP address for your Raspberry Pi. Depending on your setup, you can either set the Pi to have a [manual ip address](https://www.raspberrypi.org/learning/networking-lessons/rpi-static-ip-address/) or have your router assign a static IP address.
+Next set a static IP address for your Raspberry Pi. Depending on your setup, you can either set the Pi to have a [manual ip address](https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address/74428#74428) or have your router assign a static IP address.
 
 Login to your Pi via [SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/) or old school with a keyboard & monitor. Run raspi-config to make any changes you want like changing hostname etc.
 
