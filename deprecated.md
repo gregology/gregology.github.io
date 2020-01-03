@@ -11,7 +11,7 @@ A DNS service to help you disconnect from Social Media. Replaced by [Memair DNS]
 ### [Handy Signs](http://handysigns.github.io/)
 A visual communications protocol using hand signals
 
-### [😄👻](http://smiley.gho.st/)
+### [😄👻](https://web.archive.org/web/20171207163336/http://smiley.gho.st/)
 Emoji only social network (hobby Heroku instance)
 
 ### [Dump Board](https://web.archive.org/web/20130814002750/http://dumpboard.com/)
