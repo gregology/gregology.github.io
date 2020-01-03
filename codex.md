@@ -221,6 +221,15 @@ Subconscious reactions that I have noticed;
 
 ### Before 2020
 
+- ~~Self driving vehicles will be common (1% of inner city traffic my home town of Ottawa)~~
+  - 🔴 Failed: It seems I was too optimistic in 2017 about the state of self driving technology
+- ~~Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)~~
+  - 🔴 Failed: When an accident occurs on the highway, myself and a small cohort of other traffic aware navigators take the last available exit before the accident, follow some country roads, and then rejoin the highway after accident. However the affect seems fairly limited as the vast majority of drivers still do not use traffic aware navigation
+- ~~Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)~~
+  - 🟠 Mostly failed: New language exists but it is not common
+
+### Before 2025
+
 - Self driving vehicles will be common (1% of inner city traffic my home town of Ottawa)
 - Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
 - Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)
