@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi Time Machine (2019 update)"
+title: "Raspberry Pi Time Machine (2020 update)"
 author: Greg
 layout: post
 permalink: /2018/09/raspberry-pi-time-machine/
@@ -20,6 +20,7 @@ tags:
 ***2019-01-02 Updated after comments from Guy***  
 ***2019-07-21 Updated after comments from Bastiaan***  
 ***2019-12-14 Updated after comments from AlexWiseman & Nick***  
+***2020-01-03 Updated after email from Ron***  
 
 ## Prerequisites
 
@@ -51,7 +52,7 @@ Format USB hard drive to hfsplus. This will erase all data on the USB hard drive
 
 *Note: this assumes your USB hard drive is sda2*
 
-`pi@timemachine:~ $ sudo mkfs.hfsplus /dev/sda2 -v timemachine`
+`pi@timemachine:~ $ sudo mkfs.hfsplus /dev/sda2 -v TimeMachine`
 
 Create mount point
 
