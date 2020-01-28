@@ -60,6 +60,9 @@ licence: Creative Commons
 * Act in a Bollywood movie
 * Become a parent
 * Go on a meditation retreat
+* Lead a team of;
+  * 10 people
+  * 100 people
 * Get elected to a government position
 * Have lived an extraordinary life
 
