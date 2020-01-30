@@ -19,7 +19,7 @@ tags:
   var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
   
   //To display the final_result value 
-  document.write("<b>tl;dr</b> " + days + " days ago I reached out to the Australian DVA for help with service induced insomnia & depression. The DVA have so far paid 3rd parties <a target='_blank' href='/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf'>$8,782.40</a> for my treatment. I have not yet begun treatment with a psychologist or received any other form of treatment. 20 sessions with a psychologist would cost a fraction of what the DVA have paid so far. The $8,782.40 does not include additional expenses like DVA staffing, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments."); 
+  document.write("<b>tl;dr</b> " + days + " days ago I reached out to the Australian DVA for help with service induced insomnia & depression. The DVA have so far paid 3rd parties <a target='_blank' href='/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf'>$8,782.40</a> (at 2019-12-24) for my treatment. I have not yet begun treatment with a psychologist or received any other form of treatment. 20 sessions with a psychologist would cost a fraction of what the DVA have paid so far. The $8,782.40 does not include additional expenses like DVA staffing, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments."); 
 </script>
 
 In 2010 I deployed to Afghanistan with the Australian Army. Since returning home in 2011 I have suffered insomnia and mild PTSD. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
@@ -923,7 +923,7 @@ Giorgia's response was no surprise, more paperwork
 
 #### December 4th, 2019 (Day 260)
 
-It's been a rough few days. I went to my doctor and asked for sleeping tablets, I felt defeated treating the symptom and not the root cause. I really thought I was close to getting support but it's becoming clear that the DVA is incapable of helping most veterans.
+It's been a rough few days. I went to my doctor and asked for sleeping tablets, I felt defeated treating the symptom and not the root cause. My doctor prescribed me 3.75-7.5mg Zopiclone. I really thought I was close to getting support but it's becoming clear that the DVA is incapable of helping most veterans.
 
 The quote from the parents of [Jesse Bird](https://www.abc.net.au/news/2017-10-14/jesse-bird-veteran-affairs-inquiry-finds-failings/9050594) sum up the situation succinctly
 
@@ -1024,6 +1024,40 @@ The DVA responded to my Freedom of Information request for 3rd party treatment c
 
 My treatment would have cost a fraction of $8,782.40
 
+#### January 5th, 2020 (Day 292)
+
+Georgia was attentive and let me know when she was back from her holidays
+
+> Hi Greg,
+>  
+> Hope you had a nice holiday period. I just wanted to advise that I am back from leave now.
+> 
+> Let me know if there is a morning this week or next week (other than Wednesdays) that works for you to link in?
+> 
+> Warm regards,
+> 
+> Giorgia
+
+#### January 7th, 2020 (Day 294)
+
+Georgia and I had a Skype catch up. Nothing much had changed, I'm still on some waiting lists to see a psychologist. It's a busy time of year for psychologists. I told Georgia about the techniques I had been trying and shared the limited success of the prescribed sleeping tables.
+
+#### January 22nd, 2020 (Day 309)
+
+Dr Sarah had prescribed me Zopiclone, (3.75-7.5mg). When medicated I would sleep for 5 hours but then I would wake up as normal. The sleep I had while using them wasn't restful sleep, I would still be tired in the morning even if I had slept through the night. I returned to Dr Sarah for other options. Unfortunately she said most medications only work for 5 hours. But we tried another type in case I had better luck. I took 50mg of Trazodone HCL two nights in a row. However, they had no obvious affect and I had two terrible nights sleep.
+
+#### January 28th, 2020 (Day 315)
+
+Reached out to another few psychologists to see if their wait lists had moved. No luck yet.
+
+#### January 29th, 2020 (Day 316)
+
+I had a really rough day. Lots of bad thoughts and it was a catalyst that I needed to get some help soon. I've been doing lots of mindfulness but it's not enough. I need to talk to someone. I had a look at the resources provided by my work and I emailed another few psychologists in my area. Something desperately needs to change.
+
+#### January 30th, 2020 (Day 317)
+
+One of the psychologists that I reached out to said she was full but referred me to her colleague who was currently accepting. I reached out and I have an appointment next Wednesday. I forwarded the psychologists details to Giorgia asking if the DVA would contribute. Either way I will pursue treatment and will pay out of pocket instead of waiting for the DVA to respond.
+
 #### Next steps
 
 Some Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 9 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
@@ -1039,5 +1073,5 @@ Some Australian DVA staff are great however the organisation has failed me and i
 <!--
   # Python days calculation
   from datetime import date
-  date(2019,11,6) - date(2019,3,19)
+  date(2020,1,7) - date(2019,3,19)
 -->
