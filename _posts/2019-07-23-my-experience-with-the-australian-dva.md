@@ -1058,6 +1058,22 @@ I had a really rough day. Lots of bad thoughts and it was a catalyst that I need
 
 One of the psychologists that I reached out to said she was full but referred me to her colleague who was currently accepting. I reached out and I have an appointment next Wednesday. I forwarded the psychologists details to Giorgia asking if the DVA would contribute. Either way I will pursue treatment and will pay out of pocket instead of waiting for the DVA to respond.
 
+In typical fashion, Giorgia quickly responded. She is dealing with the DVA for me.
+
+> Hi Greg,
+> 
+> Glad to hear you’ve been able to organise an appointment with Dr ███████.
+> 
+> I have just emailed her to discuss whether she would be happy for us to do a pre-approval for payments - this would mean DVA would directly pay for her fees without you paying out of pocket, but it can take some time for DVA to make payment, so I would just need to check if she is comfortable with this. If not, we could go down the reimbursement line and you can pay out of pocket and then DVA would reimburse you.
+> 
+> I will let you know once I hear from her with the time difference.
+> 
+> Hope you have a nice weekend.
+> 
+> Warm regards,
+> 
+> Giorgia
+
 #### Next steps
 
 Some Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 9 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
