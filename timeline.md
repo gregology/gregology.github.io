@@ -273,7 +273,7 @@ licence: Creative Commons
 
 ### November
 
-🎓 Graduated from TAFE with a score of 92.5  
+🎓 Graduated from TAFE with a grade of 92.5  
 🌏 Launched Gregology.net  
 
 ### July
@@ -370,6 +370,7 @@ licence: Creative Commons
 
 🎓 Moved to Forest High School because that's where Scott & Tim went  
 🌏 Created my first website, Jokes Cafe on Tripod, reaching 600 hits per day at it's peak  
+📧 Got my first email address, grules@hotmail.com  
 
 ## 1996
 
