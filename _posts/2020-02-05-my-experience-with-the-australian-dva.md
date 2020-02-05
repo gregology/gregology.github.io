@@ -2,8 +2,8 @@
 title: "My Experience with the Australian DVA"
 author: Greg
 layout: post
-permalink: /2019/07/my-experience-with-the-australian-dva/
-date: 2019-07-23 19:00:00 -0400
+permalink: /2020/02/my-experience-with-the-australian-dva/
+date: 2020-02-05 15:00:00 -0500
 comments: True
 licence: Creative Commons
 categories:
@@ -13,16 +13,14 @@ tags:
   - Department of Veterans Affairs
   - Australian Army
   - Army
+redirect_from:
+  - /2019/07/my-experience-with-the-australian-dva/
 ---
 
-<script type = "text/javascript" >
-  var days = ((new Date() - new Date(2019,2,19)) / (1000 * 60 * 60 * 24)).toFixed(0);
-  
-  //To display the final_result value 
-  document.write("<b>tl;dr</b> " + days + " days ago I reached out to the Australian DVA for help with service induced insomnia & depression. The DVA have so far paid 3rd parties <a target='_blank' href='/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf'>$8,782.40</a> (at 2019-12-24) for my treatment. I have not yet begun treatment with a psychologist or received any other form of treatment. 20 sessions with a psychologist would cost a fraction of what the DVA have paid so far. The $8,782.40 does not include additional expenses like DVA staffing, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments."); 
-</script>
+**tl;dr** It took 324 days to see a psychologist for treatment through the Australian DVA. The DVA paid 3rd parties [$8,782.40](/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf) (as of 2019-12-24) for assessments prior to the beginning of my treatment. My treatment will cost a small fraction of that. The $8,782.40 does not include additional expenses like DVA staffing, costs of treatment, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments. I am now receiving treatment.
 
-In 2010 I deployed to Afghanistan with the Australian Army. Since returning home in 2011 I have suffered insomnia and mild PTSD. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This is my unsuccessful journey for help from the Australia DVA so far.
+
+In 2010 I deployed to Afghanistan with the Australian Army. Since returning home in 2011 I have suffered insomnia and mild PTSD. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This was my journey.
 
 #### 19th of March, 2019 (Day 0)
 
@@ -1074,9 +1072,21 @@ In typical fashion, Giorgia quickly responded. She is dealing with the DVA for m
 > 
 > Giorgia
 
+#### February 5th, 2020 (Day 324)
+
+Today was the beginning of my treatment. Dr ███████ was kind and I spilled some of troubling memories that were floating in my head. I'll see her weekly and we'll churn up these memories that are slowing me down. I left Dr ███████'s office feeling light and hopeful. It's been a long journey. I am lucky and grateful to have had so many people help and support me. Diana, friends, family, DVA staff, & Giorgia from Incite Solutions, I can not thank you enough.
+
+> Hello Giorgia,  
+> The last couple of months have been really tough and I appreciate everything you've done to help me. It was such a relief to chat with Dr Dorota today. I was really struggling, a lot more than I wanted to admit. Today, with your help, I started dealing with my issues. I sincerely thank you, you've saved me.
+> 
+> Have a wonderful week Giorgia,
+> 
+> Greg.
+
+
 #### Next steps
 
-Some Australian DVA staff are great however the organisation has failed me and is failing many others. If I had known that it was going to take 9 months to be assessed for treatment, I would have organised help elsewhere and would be months into my treatment. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA didn't exist.
+Some Australian DVA staff are great however the organisation is failing veterans. If I had known that it was going to take nearly 11 months to be assessed for treatment, I would have organised help elsewhere and would be well into my treatment by now. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA had helped them.
 
 ### What I want
 
@@ -1084,7 +1094,6 @@ Some Australian DVA staff are great however the organisation has failed me and i
  - Better training of DVA staff
  - Improved communications between DVA staff and veterans
  - Improved communications between DVA staff and their international counterparts (inaccessible reciprocal services are not reciprocal)
- - And finally, **treatment for my service induced insomnia & depression**
 
 <!--
   # Python days calculation
