@@ -24,6 +24,7 @@ navbar-links:
     - Dicktionary: "reference/dicktionary/"
     - Gazillion: "reference/gazillion/"
     - Power of 2: "reference/power-of-2/"
+    - Binary Primes: "reference/primes/"
     - .bash_profile: "reference/bash_profile"
 
 avatar: "/avatars/greg.jpg"
