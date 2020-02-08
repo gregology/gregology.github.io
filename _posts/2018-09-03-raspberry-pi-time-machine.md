@@ -21,6 +21,7 @@ tags:
 ***2019-07-21 Updated after comments from Bastiaan***  
 ***2019-12-14 Updated after comments from AlexWiseman & Nick***  
 ***2020-01-03 Updated after email from Ron***  
+***2020-01-03 Updated after comment from Stefan***  
 
 ## Prerequisites
 
@@ -214,9 +215,9 @@ Edit crontab
 
 and append
 
-`@reboot sleep 30 && mount /media/tm && sleep 10 && service avahi-daemon start && service netatalk start`
+`@reboot sleep 30 && mount /media/tm && sleep 30 && umount /media/tm && sleep 30 && mount /media/tm && sleep 30 && service avahi-daemon start && service netatalk start`
 
-*Note: this will delay mounting the for 30 seconds giving the USB hard drive time to spin up. It will then start the avahi-daemon & netatalk services. That way the services won't start until the USB hard drive has been mounted.*
+*Note: this mount / unmount / mount flow is required as HFS+ partitions may become read only if unmounted incorrectly. The 30 second sleeps give the USB hard drive time to spin up and become mounted before the avahi-daemon & netatalk services start*
 
 ## Connect to Time Machine
 
