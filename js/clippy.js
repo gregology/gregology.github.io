@@ -875,7 +875,7 @@ Agent.prototype.resume = function resume () {
 };
 
 var load = function load (name, successCb, failCb, base_path) {
-    base_path = base_path || window.CLIPPY_CDN || 'https://gitcdn.xyz/repo/pi0/clippyjs/master/assets/agents/';
+    base_path = base_path || window.CLIPPY_CDN || '/agents/';
 
     var path = base_path + name;
     var mapDfd = load._loadMap(path);
@@ -1008,4 +1008,3 @@ if (typeof window !== 'undefined') {
 return clippy;
 
 })));
-//# sourceMappingURL=clippy.js.map
