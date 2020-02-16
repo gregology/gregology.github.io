@@ -28,6 +28,16 @@ kramdown:
   parse_block_html: true
 ---
 
+<script src="/js/jquery.min.js"></script>
+<script src="/js/clippy.js"></script>
+<script type="text/javascript">
+clippy.load('Clippy', function(agent){
+    agent.show();
+    setTimeout(function(){ agent.play('Wave'); agent.speak("It looks like you're writing a cover letter and need euphemisms for penis. May I suggest 'Leader of the sack'."); }, 1500);
+    setTimeout(function(){ agent.animate(); }, 10000);
+});
+</script>
+
 The largest list of penis euphemisms  
 
 {% include footionary.html type='dicktionary' submit_slogan='Submit your own dick!'%}
