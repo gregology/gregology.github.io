@@ -20,3 +20,15 @@ use-site-title: true
         <small><i><a href="{{ site.baseurl }}/posts/">more...</a></i></small>
     </li>
 </ul>
+
+<script src="/js/jquery.min.js"></script>
+
+<script src="/js/clippy.js"></script>
+
+<script type="text/javascript">
+clippy.load('Clippy', function(agent){
+    agent.show();
+    setTimeout(function(){ agent.play('Wave'); agent.speak('It looks like you are trying to stalk Greg. Check out his about links.'); }, 1500);
+    setTimeout(function(){ agent.animate(); }, 10000);
+});
+</script>
