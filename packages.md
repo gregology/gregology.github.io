@@ -10,6 +10,19 @@ Some packages that Greg maintains.
 # Python
 
 
+### Document Polluter
+
+Document Polluter replaces gendered words in documents to create test data for machine learning models in order to identify bias.
+
+[![Package](https://badge.fury.io/py/document-polluter.svg)](https://pypi.python.org/pypi/document-polluter)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](https://github.com/gregology/document-polluter/blob/master/LICENSE)
+[![Status](https://img.shields.io/pypi/status/document-polluter.svg)](https://pypi.python.org/pypi/document-polluter)
+[![Development](https://img.shields.io/badge/development-active-green.svg)](https://github.com/gregology/document-polluter)
+[![Gregology](https://img.shields.io/badge/contact-Gregology-blue.svg?style=flat)](https://gregology.net/contact/)
+[![GitHub stars](https://img.shields.io/github/stars/gregology/document-polluter.svg?style=social&label=Star)](https://github.com/gregology/document-polluter)
+
+
+
 ### Biased Stop words
 
 Lists of biased stop words from various genres
