@@ -110,6 +110,7 @@ defaults:
       layout: "post"
       comments: true
       social-share: true
+      clippy_help: false
   -
     scope:
       path: ""

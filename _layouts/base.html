@@ -23,7 +23,6 @@ common-js:
   {% seo %}
 
   <body>
-
     {% include gtm_body.html %}
 
     {% include nav.html %}
@@ -33,6 +32,18 @@ common-js:
     {% include footer.html %}
 
     {% include footer-scripts.html %}
+
+    {% if page.clippy_help %}
+      <script src="/js/jquery.min.js"></script>
+      <script src="/js/clippy.js"></script>
+      <script type="text/javascript">
+      clippy.load('Clippy', function(agent){
+          agent.show();
+          setTimeout(function(){ agent.play('Wave'); agent.speak("{{ page.clippy_help }}"); }, 1500);
+          setTimeout(function(){ agent.animate(); }, 10000);
+      });
+      </script>
+    {% endif %}
 
   </body>
 </html>
