@@ -126,13 +126,13 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have a loving and supportive partner (Diana)
   - my physical appearance & cultural traits are considered "normal" where I live
   - I natively speak english with a western accent
-  - of my citizenships, permanent residency, & visas
+  - I have multiple citizenships, permanent residency, & visas
   - I have access to the internet
   - I understand & create technology
   - I have a warm dry place to sleep
   - I have access to healthcare & counselling
   - I have learned tools to deal with stress
-  - I am healthy
+  - I am physically, mentally, and emotionally healthy
   - I have free time
   - I have the freedom to travel to most places on earth
   - I live below my means
@@ -143,8 +143,10 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I am able bodied
   - I am 183cm tall
   - I am physically strong
+  - I am confident
+  - I am comfortable expressing my sexual orientation
   - I have recognised expertise in various fields
-  - My skillsets are in demand & lucrative
+  - my skillsets are in demand & lucrative
   - I do not have to worry about being physically or sexually assaulted
   - I have good relationships with influential people
 - Humans are privileged because:
