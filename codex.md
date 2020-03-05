@@ -67,16 +67,18 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Humans are made up of symbionts including;
   - a consciousness
   - a primate
+  - accessible individualised data
   - trillions of bacteria, fungi, & viruses
   - thousands of mites
-  - many creatures yet to be discovered
+  - yet undiscovered creatures
+  - their environment
 - Humans make mistakes
 
 
 ### Beliefs about Society
 
 - Race & ethnicity are unhelpful social constructs
-- Cultural traits exist, cultures do not
+- Cultural traits & norms exist, cultures do not
 - Verbal purity is not social change
 - Friendship is the best way to overcome bigotry
 - Soldiers generally have more in common with the people they fight then with the leaders that send them to fight
@@ -97,9 +99,9 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 ### Beliefs about the Universe
 
-- In a casual universe, nobody is irrational
+- In a casual universe, everybody is rational
 - Humans share the universe with other intelligent life
-- There are intelligent collective consciousnesses that we do not understand
+- There are intelligent collective consciousnesses that we do not understand or know exist
 - Humans have no cosmic significance, other than that the cosmos is significant & humans are part of it
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
@@ -116,7 +118,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 ### Beliefs about my Privilege
 
-*Note: a few of my privileges I earned with hard work & risk taking, some with dumb luck, and most with a bit of both*
+*Note: a few of my privileges I earned with hard work & risk taking but most are the result of dumb luck*
 
 - I am privileged because:
   - I am human
@@ -124,13 +126,13 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have a loving and supportive partner (Diana)
   - my physical appearance & cultural traits are considered "normal" where I live
   - I natively speak english with a western accent
-  - of my citizenships, permanent residency, & visas
+  - I have multiple citizenships, permanent residency, & visas
   - I have access to the internet
   - I understand & create technology
   - I have a warm dry place to sleep
   - I have access to healthcare & counselling
   - I have learned tools to deal with stress
-  - I am healthy
+  - I am physically, mentally, and emotionally healthy
   - I have free time
   - I have the freedom to travel to most places on earth
   - I live below my means
@@ -139,10 +141,12 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I could retire and live frugally (in a developing nation) on my savings
   - I am a military veteran of a western country
   - I am able bodied
-  - I am 182cm tall
+  - I am 183cm tall
   - I am physically strong
+  - I am confident
+  - I am comfortable expressing my sexual orientation
   - I have recognised expertise in various fields
-  - I have in demand & lucrative skillsets
+  - my skillsets are in demand & lucrative
   - I do not have to worry about being physically or sexually assaulted
   - I have good relationships with influential people
 - Humans are privileged because:
@@ -182,7 +186,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Understand people's intentions
 - Have enough class not to make anyone feel small
 - Do not harbour hate or resentment
-- Own mistakes & achievements
+- Accept blame for mistakes & share credit for successes
 - Identify & control ego
 - Take risks & stay uncomfortable
 
@@ -227,6 +231,10 @@ Subconscious reactions that I have noticed;
   - 🔴 Failed: When an accident occurs on the highway, myself and a small cohort of other traffic aware navigators take the last available exit before the accident, follow some country roads, and then rejoin the highway after accident. However the affect seems fairly limited as the vast majority of drivers still do not use traffic aware navigation
 - ~~Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)~~
   - 🟠 Mostly failed: New language exists but it is not common
+
+### Before 2023
+
+- Fast satellite internet will be afordable in Canada (300Mbs⬆️⬇️for $150CAD per month)
 
 ### Before 2025
 
