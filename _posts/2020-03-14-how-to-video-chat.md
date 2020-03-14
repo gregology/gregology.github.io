@@ -69,7 +69,7 @@ Wear earbuds or headphones. Video chat programs will noise cancel to prevent mic
 
 ## Eye Contact
 
-My eyes are up here... When looking at a person's face during a video call it looks to them as though you are looking at their chest. 
+My eyes are up here... When looking at a person's face during a video call it appears to them as though you are looking at their chest. 
 
 <p align="center">
   <img width="75%" height="75%" src="/wp-content/uploads/2020/03/not your screen.jpg" alt="Look at me, not your screen" title="Look at me, not your screen">
