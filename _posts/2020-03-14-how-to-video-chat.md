@@ -3,7 +3,7 @@ title: "How to Video Chat"
 author: Greg
 layout: post
 permalink: /2020/03/how-to-video-chat/
-date: 2020-03-14 12:00:00 -0500
+date: 2020-03-14 12:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
