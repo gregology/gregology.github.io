@@ -15,7 +15,7 @@ tags:
   - tutorial
 ---
 
-We can be socially close while being physically distant. Here are my tips of having genuine video chats.
+We can be socially close while being physically distant. Here are my tips for having genuine video chats.
 
 ## Framing
 
