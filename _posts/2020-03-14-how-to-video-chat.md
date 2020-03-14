@@ -55,7 +55,7 @@ Video chat programs like Skype, Google Hangouts, & Zoom utilize [inter frame com
 
 ## Lighting
 
-Webcams become grainy in low light. Use scattered lighting like a window, or buy a cheap USB ring light to brighten your face. And don't be a shadow puppet. Make sure your background is less well lit than your face. You're not a whistle blower on 60 minutes.
+Webcams become grainy in low light. Use scattered lighting like a window, or buy a cheap USB ring light to brighten your face. And don't be a shadow puppet. Make sure your background is less well lit than your face.
 
 <p align="center">
   <img width="45%" height="45%" src="/wp-content/uploads/2020/03/shadow jazz.jpg" alt="Backlit image of a Cat" title="Shadow Cat">
