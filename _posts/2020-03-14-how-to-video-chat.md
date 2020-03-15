@@ -75,7 +75,7 @@ My eyes are up here... When looking at a person's face during a video call it ap
   <img width="75%" height="75%" src="/wp-content/uploads/2020/03/not your screen.jpg" alt="Look at me, not your screen" title="Look at me, not your screen">
 </p>
 
-Look directly at your webcam if you want the other person to feel connected through eye contact. Or move the window so that the person's face appears close to your webcam to make is closer to eye contact.
+Look directly at your webcam if you want the other person to feel connected through eye contact. Or move the window so that the person's face appears close to your webcam to make it closer to eye contact.
 
 <p align="center">
   <img width="100%" height="100%" src="/wp-content/uploads/2020/03/small window.png" alt="Chat windows close to webcam" title="Chat windows close to webcam">
