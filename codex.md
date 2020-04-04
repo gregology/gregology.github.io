@@ -170,7 +170,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Sentience is special (not humans)
 - Sentience or States can not own sentience (Parents do not own their children, humans do not own their dogs)
 - Sentience or States can be responsible for sentience (Parents are responsible for their children, humans are responsible for their dogs)
-- Maximise sentience fulfilment
+- Maximise sentience fulfillment
 - Minimise sentience distress
 - Think critically
 - Remain objective & open minded
@@ -202,7 +202,7 @@ Subconscious reactions that I have noticed;
   - *Emotional response:* anxiety & excitement followed by sadness
   - *Physical response:* increased heart rate, adrenaline, & tight chest
 - Sight or thought of blood
-  - *Physical response:* light headedness and occasional fainting
+  - *Physical response:* lightheadedness and occasional fainting
 - People interrupting to finish my sentiences
   - *Emotional response:* annoyed
   - *Conversational response:* become distracted & disengage
@@ -234,7 +234,7 @@ Subconscious reactions that I have noticed;
 
 ### Before 2023
 
-- Fast satellite internet will be afordable in Canada (300Mbs⬆️⬇️for $150CAD per month)
+- Fast satellite internet will be affordable in Canada (300Mbs⬆️⬇️for $150CAD per month)
 
 ### Before 2025
 
