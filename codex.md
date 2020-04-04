@@ -254,6 +254,7 @@ Subconscious reactions that I have noticed;
 
 ### Before 2040
 
+- The ML techniques of the 2010s will be considered our generation's version of asbestos (News recommended for you, auto complete messages, suggested friends etc)
 - Road rules will no longer be necessary
 - A human will step foot on Mars
 - Useful general purpose robots will be common
