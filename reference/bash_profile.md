@@ -33,4 +33,11 @@ alias brails='bundle exec rails'
 alias hrake='heroku run rake'
 alias hrails='heroku run rails'
 
+# Dev
+
+dcd() {
+  dev cd "$1"
+  code .
+}
+
 ```
