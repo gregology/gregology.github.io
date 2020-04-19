@@ -93,3 +93,43 @@ HTML
     end
   end
 end
+
+
+desc 'collect tweets'
+task :tweets do
+  require 'yaml'
+  require 'twitter'
+  creds = YAML.load_file('_creds.yml')
+  client = Twitter::REST::Client.new do |config|
+    config.consumer_key        = creds["twitter"]["api_key"]
+    config.consumer_secret     = creds["twitter"]["api_secret_key"]
+    config.access_token        = creds["twitter"]["access_token"]
+    config.access_token_secret = creds["twitter"]["access_token_secret"]
+  end
+
+  twitter_accounts = ['gregologynet', 'memairapp', 'smileyom', 'svcatsaway', 'wikijam', 'ghostisp']
+
+  tweets = []
+  twitter_accounts.each do |twitter_account|
+    puts "collecting tweets for #{twitter_account}"
+
+    max_id = 999999999999999999
+    max_tries = 20
+    max_tries.times do
+      new_tweets = client.user_timeline(twitter_account, count: 200, max_id: max_id)
+      break if new_tweets.empty?
+      tweets += new_tweets
+      max_id = new_tweets[-1].id
+    end
+  end
+
+  puts "collected #{tweets.count} tweets"
+
+  tweets = tweets.sort_by!(&:created_at)
+  tweets = tweets.map { |tweet| tweet.to_hash }
+
+  File.open('api/tweets.json', 'w+') do |file|
+    file.puts tweets.to_json
+  end
+
+end
