@@ -14,7 +14,7 @@ licence: Creative Commons
   function calculateTimeAlive() {
       secondsAlive = (Date.now() - Date.UTC(1983,4,3,5,5))/1000;
       minutesAlive = (secondsAlive / 60).toFixed(0)
-      hoursAlive = (secondsAlive / (60 * 60)).toFixed(0)
+      hoursAlive = (secondsAlive / (60 * 60)).toFixed(2)
       daysAlive = (secondsAlive / (60 * 60 * 24)).toFixed(1)
       weeksAlive = (secondsAlive / (60 * 60 * 24 * 7)).toFixed(1)
       monthsAlive = (secondsAlive / (60 * 60 * 24 * 30.44)).toFixed(1)
@@ -23,7 +23,7 @@ licence: Creative Commons
       lifeExpectancySeconds = {{ site.author.life_expectancy_years }} * 365.26 * 24 * 60 * 60;
       secondsLeft = lifeExpectancySeconds - secondsAlive;
       minutesLeft = (secondsLeft / 60).toFixed(0)
-      hoursLeft = (secondsLeft / (60 * 60)).toFixed(0)
+      hoursLeft = (secondsLeft / (60 * 60)).toFixed(2)
       daysLeft = (secondsLeft / (60 * 60 * 24)).toFixed(1)
       weeksLeft = (secondsLeft / (60 * 60 * 24 * 7)).toFixed(1)
       monthsLeft = (secondsLeft / (60 * 60 * 24 * 30.44)).toFixed(1)
