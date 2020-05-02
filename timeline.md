@@ -12,7 +12,7 @@ licence: Creative Commons
   var timeAlive = document.getElementById('time-alive');
   
   function calculateTimeAlive() {
-      secondsAlive = (Date.now() - Date.UTC(1983,4,3,5,5))/1000;
+      secondsAlive = (Date.now() - Date.UTC(1983,5,3,5,5))/1000;
       minutesAlive = (secondsAlive / 60).toFixed(0)
       hoursAlive = (secondsAlive / (60 * 60)).toFixed(2)
       daysAlive = (secondsAlive / (60 * 60 * 24)).toFixed(1)
