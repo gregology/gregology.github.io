@@ -19,7 +19,7 @@ licence: Creative Commons
       hoursAlive = (secondsAlive / (60 * 60)).toFixed(2)
       daysAlive = (secondsAlive / (60 * 60 * 24)).toFixed(2)
       weeksAlive = (secondsAlive / (60 * 60 * 24 * 7)).toFixed(1)
-      monthsAlive = (secondsAlive / (60 * 60 * 24 * 30.44)).toFixed(1)
+      monthsAlive = (secondsAlive / (60 * 60 * 24 * (365.2425 / 12))).toFixed(1)
       yearsAlive = (secondsAlive / (60 * 60 * 24 * 365.2425)).toFixed(2)
 
       lifeExpectancySeconds = {{ site.author.life_expectancy_years }} * 365.2425 * 24 * 60 * 60
@@ -28,7 +28,7 @@ licence: Creative Commons
       hoursLeft = (secondsLeft / (60 * 60)).toFixed(2)
       daysLeft = (secondsLeft / (60 * 60 * 24)).toFixed(1)
       weeksLeft = (secondsLeft / (60 * 60 * 24 * 7)).toFixed(1)
-      monthsLeft = (secondsLeft / (60 * 60 * 24 * 30.44)).toFixed(1)
+      monthsLeft = (secondsLeft / (60 * 60 * 24 * (365.2425 / 12))).toFixed(1)
       yearsLeft = (secondsLeft / (60 * 60 * 24 * 365.2425)).toFixed(2)
 
       lifePercentage = ((secondsAlive / lifeExpectancySeconds) * 100).toFixed(9)
