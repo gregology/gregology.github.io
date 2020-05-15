@@ -18,7 +18,7 @@ I need to turn off and on again. An IRL retreat is out of the question so this i
 ## Saturday
 
 08:00 [Gentle Yoga Flow](https://www.youtube.com/watch?v=g13nVd7OLYs)  
-08:30 Breakfast 
+08:30 Breakfast  
 09:30 Pack lunch, Walk to Beach and read  
 12:00 Lunch  
 14:00 [Guided Meditation](https://www.youtube.com/watch?v=hyg3abur5VI)  
