@@ -13,7 +13,7 @@ tags:
   - non-travel
 ---
 
-I need to turn off and on again. An IRL retreat is out of the question so this is the DIY approach. Starting Saturday morning, four days, no social/news media, lots of offline activities.
+I need to turn off and on again. An IRL retreat is out of the question so this is the DIY approach. Starting Saturday morning, four days, no social/news media, lots of lazy activities.
 
 ## Saturday
 
