@@ -47,7 +47,7 @@ I need to turn off and on again. An IRL retreat is out of the question so this i
 08:45 Breakfast  
 09:30 Pack a lunch and go for a hike  
 12:00 Lunch  
-15:00 Listen to [Don Mclean](https://www.youtube.com/watch?v=oxHnRfhDmrk&list=PL6F3D86FAD1C25BCA)  
+15:00 Listen to [Regina Spektor](https://www.youtube.com/watch?v=wSMwz0-39aY&list=OLAK5uy_mZkIcBeqj3eQ9ENXiylIlHp2Dbz7YW4WE&index=1)  
 16:30 Play my ukulele  
 18:00 Afternoon walk  
 19:00 [Restorative Yoga](https://www.youtube.com/watch?v=ifH3uFL3-YU)  
