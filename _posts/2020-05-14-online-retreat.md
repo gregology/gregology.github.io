@@ -51,6 +51,7 @@ I need to turn off and on again. An IRL retreat is out of the question so this i
 16:30 Play my ukulele  
 18:00 Afternoon walk  
 19:00 [Restorative Yoga](https://www.youtube.com/watch?v=ifH3uFL3-YU)  
+20:00 [Boardgames online](https://boardgamearena.com/) with my Mum  
 
 ## Tuesday
 
