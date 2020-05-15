@@ -32,7 +32,7 @@ I need to turn off and on again. An IRL retreat is out of the question so this i
 
 08:00 [Gentle Yoga](https://www.youtube.com/watch?v=IcLwsrx0tw0)  
 08:45 Breakfast  
-09:30 Walk to Experimental Farm and read  
+09:30 Ride to canal and sail my RC boat  
 12:00 Lunch  
 13:00 Give Diana a massage  
 14:00 Facemasks & bath
@@ -56,7 +56,7 @@ I need to turn off and on again. An IRL retreat is out of the question so this i
 
 08:00 [Gentle Yoga](https://www.youtube.com/watch?v=IcLwsrx0tw0)  
 08:45 Breakfast  
-09:30 Pack a lunch and go for a hike
+09:30 Walk to Experimental Farm and read 
 12:00 Lunch  
 14:00 [Earth Journey Meditation for Deep Relaxation](https://www.youtube.com/watch?v=1nPCTXAxBVo)  
 15:00 Listen to [Piano Man Album](https://www.youtube.com/watch?v=MKAHLHSGyrg&list=PLQI4c18AJDrjp3j2N4A1ZVHZRbsCnNJXG)  
