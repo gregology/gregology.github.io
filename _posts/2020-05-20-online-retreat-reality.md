@@ -2,7 +2,7 @@
 title: "Online Retreat Reality"
 author: Greg
 layout: post
-permalink: /2020/05/online-retreat/
+permalink: /2020/05/online-retreat-reality/
 date: 2020-05-20 20:00:00 -0400
 comments: True
 licence: Creative Commons
