@@ -7,7 +7,7 @@ navbar-links:
   About:
     - Codex Vitae: "codex"
     - Bucket List: "bucket"
-    - Greg's API: "api"
+    - Greg API: "api"
     - Timeline: "timeline"
     - Résumé: "resume"
     - Secure Communication: "secure"

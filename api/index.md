@@ -1,5 +1,5 @@
 ---
-title: Greg's API
+title: Greg API
 subtitle: My public social media data
 author: greg
 layout: page
