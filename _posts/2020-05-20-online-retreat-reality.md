@@ -3,7 +3,7 @@ title: "Online Retreat Reality"
 author: Greg
 layout: post
 permalink: /2020/05/online-retreat/
-date: 2020-05-14 20:03:44 -0400
+date: 2020-05-20 20:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
