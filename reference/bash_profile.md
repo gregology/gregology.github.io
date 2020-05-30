@@ -40,4 +40,5 @@ dcd() {
   code .
 }
 
+fortune | cowsay
 ```
