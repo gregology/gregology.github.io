@@ -5,10 +5,11 @@ description: "The world according to Greg Clarke. Plus links to my online self."
 
 navbar-links:
   About:
-    - Bucket List: "bucket"
     - Codex Vitae: "codex"
-    - Résumé: "resume"
+    - Bucket List: "bucket"
+    - Greg's API: "api"
     - Timeline: "timeline"
+    - Résumé: "resume"
     - Secure Communication: "secure"
   Posts: "posts"
   Projects:
