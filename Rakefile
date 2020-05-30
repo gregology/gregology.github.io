@@ -41,6 +41,7 @@ HTML
   system "code #{path}"
 end
 
+
 desc 'create YouTube channel video posts'
 task :ytvids do
   require 'yaml'
@@ -135,7 +136,7 @@ task :tweets do
 end
 
 
-desc 'collect wikipedia edits'
+desc 'collect Wikipedia edits'
 task :wikipedia do
   require 'json'
   require 'net/http'
@@ -159,5 +160,33 @@ task :wikipedia do
 
   File.open('api/wikipedia.json', 'w+') do |file|
     file.puts edits.to_json
+  end
+end
+
+
+desc 'collect Reddit posts'
+task :reddit do
+  require 'json'
+  require 'open-uri'
+
+  useragent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36'
+
+  posts = []
+  after = nil
+
+  max_tries = 50
+  max_tries.times do
+    url = "https://www.reddit.com/user/gregologynet.json" + (after.nil? ? '' : "?after=#{after}")
+    response = open(url, 'User-Agent' => useragent).read
+    new_posts = JSON.parse(response)
+
+    puts "collected #{new_posts['data']['children'].count} posts from #{url}"
+    posts += new_posts['data']['children']
+    after = new_posts['data']['after']
+    break unless after
+  end
+
+  File.open('api/reddit.json', 'w+') do |file|
+    file.puts posts.to_json
   end
 end

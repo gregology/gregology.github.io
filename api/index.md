@@ -6,4 +6,5 @@ layout: page
 ---
 
 * [Tweets](tweets.json)
-* [Wikipedia Edits](wikipedia.json)
+* [Reddit posts](reddit.json)
+* [Wikipedia edits](wikipedia.json)
