@@ -132,5 +132,32 @@ task :tweets do
   File.open('api/tweets.json', 'w+') do |file|
     file.puts tweets.to_json
   end
+end
 
+
+desc 'collect wikipedia edits'
+task :wikipedia do
+  require 'json'
+  require 'net/http'
+  require 'active_support/core_ext/hash'
+
+  edits = []
+
+  years = (2005..Time.new.year).to_a
+  years.each do | year |
+    puts "collecting wikipedia edits from #{year}"
+    url = "https://en.wikipedia.org/w/api.php?action=feedcontributions&user=gregology&year=#{year}"
+    s = Net::HTTP.get_response(URI.parse(url)).body
+    new_edits = Hash.from_xml(s)
+    edits += new_edits['rss']['channel']['item']
+  end
+
+  edits = edits.uniq
+  puts "#{edits.count} edits collected"
+  edits = edits.each {|edit| edit['pubDate'] = edit['pubDate'].to_datetime.to_s }
+  edits = edits.sort_by { |edit| edit['pubDate'] }
+
+  File.open('api/wikipedia.json', 'w+') do |file|
+    file.puts edits.to_json
+  end
 end

@@ -6,3 +6,4 @@ layout: page
 ---
 
 * [Tweets](tweets.json)
+* [Wikipedia Edits](wikipedia.json)
