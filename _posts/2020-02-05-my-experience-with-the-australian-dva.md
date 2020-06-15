@@ -1084,6 +1084,82 @@ Today was the beginning of my treatment. Dr ███████ was kind and I
 > Greg.
 
 
+#### June 9th, 2020
+
+I have had 10 treatments with my psychologist. Treatment wise, everything is going well and my sleep has greatly improved. I still have a long way to go however. Unfortunately it turns out that my psychologist still hasn't been paid and that continued treatment would be out of pocket.
+
+> Hi Greg,
+>
+> Apologies for all the emails.
+>
+> I wanted to flag I received a response back from Dr ███████ and she has not received payment for your sessions from Veterans' Affairs Canada (VAC) yet. I have directed her to call VAC to see if they are able to advise her on this matter, as when I have reached out to Australian Health Approvals, they have not been able to look into this as it sits with VAC.
+>
+> I wanted to check in and see whether you feel it would be financially viable to pay for sessions yourself if you felt you needed further treatment after the 12 sessions? It can take quite significant time for DVA to make payments and I am not sure on the exact arrangements with VAC on timeframes.
+>
+> I'm just wanting to confirm you would still be able to access sessions from a financial perspective, as I appreciate Dr ███████ may not be able to continue to provide sessions until she has received payment, unless you are paying yourself. Let me know your thoughts?
+>
+> Warm regards,
+> 
+> Giorgia
+
+I responded
+
+> Hello Giorgia,
+> yes, if necessary I will pay out of pocket. I've come pretty far and don't want to lapse :)
+> Cheers,
+> Greg.
+
+
+#### June 10th, 2020
+
+> Hi Greg,
+>
+> Thank you kindly for returning the signed closure report and confirming you would be able to pay out of pocket. I do hope that VAC are able to reimburse Dr ███████ soon.
+>
+> It has been lovely working with you over the past 6 months and I wanted to take another opportunity to reflect back on the progress you have been able to make since starting on program. It is great to hear that you feel you have come far and I hope you are able to continue on that journey.
+>
+> Of course, please feel welcome to reach out to DVA should your circumstances change or if you felt it would be beneficial to be re-referred to us.
+>
+> All the best and take care.
+>
+> Warm regards,
+>
+> Giorgia
+
+I responded
+
+> Cheers Giorgia, thanks for all your help :)
+
+#### June 15th, 2020
+
+> Hi Greg,
+>
+> Apologies for this back and forth. I was hoping Dr ███████ would be able to resolve payments with VAC.
+>
+> She advised she spoke with Veterans Affairs Canada (VAC) and they have indicated you need a VAC number, which is a 7 digit number starting with a K. We do not have this on our end and she was told that you would need to contact VAC to open up a file.
+>
+> Are you happy to call VAC to assist Dr ███████ with this?
+>
+> I have re-attached the original treatment approval letter from DVA should you need this and the email is fowarded below.
+>
+> Warm regards,
+>
+> Giorgia
+
+Veteran Affairs Canada is meant to facilitate the payments through a deal they have with the Australian Department of Veteran Affairs. Apparently I need a VAC number from Veteran Affairs Canada but their phone system doesn't work so they suggest using the secure chat. But you need a VAC number to use their secure chat.
+
+Now I fear I'm going to be out of pocket a couple of thousand. I emailed Veteran Affairs Canada to see if they can help.
+
+> Hello,
+>
+> I am an Australian Army veteran living in Canada. For the past few months I have been receiving treatment from a psychologist in Canada. My treatment plan was approved by the Australian Department of Veteran Affairs and payment to my psychologist is facilitated by Veteran Affairs Canada. My psychologist was told that I require a VAC number for Veteran Affairs Canada to process the payments. How do I get a VAC number? When I attempt to call there is no answer even though I am calling in office hours. The website says to use the secure chat however I do not have a file number etc to create an account to start a chat.
+>
+> Cheers,
+>
+> Greg.
+
+Unfortunately the saga continues...
+
 #### Next steps
 
 Some Australian DVA staff are great however the organisation is failing veterans. If I had known that it was going to take nearly 11 months to be assessed for treatment, I would have organised help elsewhere and would be well into my treatment by now. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA had helped them.
