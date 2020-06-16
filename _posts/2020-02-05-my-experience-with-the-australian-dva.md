@@ -1178,7 +1178,7 @@ It seems they responded without reading my email
 >
 > Sincerely,
 >
-> Carissa Peacock
+> Carissa ███████
 >
 > Veterans Affairs Canada
 > information@canada.ca
