@@ -1158,7 +1158,33 @@ Now I fear I'm going to be out of pocket a couple of thousand. I emailed Veteran
 >
 > Greg.
 
-Unfortunately the saga continues...
+It seems they responded without reading my email
+
+> Dear Greg Clarke,
+>
+> Thank you for your inquiry and for visiting the Veterans Affairs Canada web site. 
+>
+> The best way to inquire further about services, programs or benefits offered by Veterans Affairs Canada would be to contact Veterans Affairs by telephone at 1-866-522-2122.  
+>
+> If you are calling from outside of Canada our contact numbers are as follows:
+>
+> Toll-Free from the USA 1-888-996-2242
+> Toll-Free from United Kingdom, Germany, France, Belgium 00-800-996-22421
+> Collect from all other countries outside of Canada (613) 996-2242
+>
+> Staff at this number will be able to answer any questions you may have.
+>
+> Although we cannot control the content of e-mail messages sent to Veterans Affairs Canada, we do control the content of e-mail messages sent to external clients.  We do not transmit information that may qualify for an exemption or exclusion under the Access to Information Act or the Privacy Act.
+>
+> Sincerely,
+>
+> Carissa Peacock
+>
+> Veterans Affairs Canada
+> information@canada.ca
+> www.veterans.gc.ca
+
+I later received a letter in the mail which contained a file number. I used the file number to log into My VAC and I now have access to some more support.
 
 #### Next steps
 
