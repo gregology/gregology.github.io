@@ -1,0 +1,99 @@
+---
+title: "The Dangers of Turnkey Data Science"
+author: Greg
+layout: post
+permalink: /2020/06/turnkey-data-science/
+date: 2020-06-17 19:53:00 -0400
+comments: True
+licence: Creative Commons
+categories:
+  - category
+tags:
+  - tag
+---
+
+Data science affects our lives from trivial restaurant recommendations to life changing loan risk predictions. Data science has the ability to improve lives, but like any tool, when misused or misunderstood, it can cause damage.
+
+## The Dark Decade of Data Science
+
+During the 2010s, some of the greatest minds in data science were working at Facebook. Increasing user engagement was the success metric as it led to more eyeballs on ads. Facebook increased user engagement by surfacing content that kept users on the platform. An artifact of Facebook's approach was that users were not exposed to opposing ideas. This simple concept had horrific outcomes. In 2016 the [Rohingya genocide](https://en.wikipedia.org/wiki/Rohingya_genocide) began leading to the deaths of tens of thousands of people in Myanmar. Facebook was largely responsible for spreading and inciting the hatred towards the Rohingya people. Marzuki Darusman, the chairman for the U.N. Independent International Fact-Finding Mission on Myanmar stated that Facebook played a "determining role" in Myanmar[¹](https://www.reuters.com/article/us-myanmar-rohingya-facebook/u-n-investigators-cite-facebook-role-in-myanmar-crisis-idUSKCN1GO2PN).
+
+> "It has... substantively contributed to the level of acrimony and dissension and conflict, if you will, within the public. Hate speech is certainly of course a part of that. As far as the Myanmar situation is concerned, social media is Facebook, and Facebook is social media," -- Marzuki Darusman.
+
+Facebook has changed some policies but hasn't addressed the root cause. Facebook continues to make short term optimizations with little understanding of long term impacts. Consider notification fatigue:
+
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/06/notification fatigue.png" alt="notification fatigue" title="notification fatigue">
+</p>
+
+Again, this is the result of short term data driven decision. More notifications equals more engagement, no matter the relevance. This gambit works until users reach a saturation point.
+
+<p align="center">
+  <img width="75%" height="75%" src="/wp-content/uploads/2020/06/facebook nobody cares.png" alt="facebook notification fatigue" title="facebook notification fatigue">
+</p>
+
+Calling what we have now artificial intelligence is a little premature. If you ask a human librarian for advice on committing suicide, it's unlikely that they would blindly supply you with stats on techniques.
+
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/06/bing suicide search results.png" alt="bing suicide search results" title="bing suicide search results">
+</p>
+*Searched on 2020-06-14 using guest chrome account and a anon vpn*
+
+Data scientists continue to make mistakes with real world consequences. Turnkey data science now lets anyone make those mistakes.
+
+## Turnkey Data Science, the New Dark Decade of Data Science
+
+Turnkey data science refers to a suite of new tools developed by Google, AWS, Azure, etc to simplify the adoption of data science techniques. The people building these tools are still making mistakes and the people using these tools don't necessarily understand the risks.
+
+Consider Google Cloud Natural Language API which analyzes sentiment from text. An example use case would be monitoring employee morale without having to read every single feedback form. Google have great [tutorials](https://cloud.google.com/natural-language/docs/sentiment-tutorial) on implementing their natural language processor (NLP) however nowhere in their documentation could I find details about possible bias. So I tested their NLP:
+
+Even small samples revealed statistically significant gender bias.
+
+    statistics = 1002.000
+    p value    = 0.043
+    avg female sentiment = -0.12
+    avg male sentiment   = -0.23
+
+*Using Mann–Whitney U test, see [Jupyter notebook](https://github.com/gregology/document-polluter/blob/notebook/Google%20gendered%20driving%20sentiment%20analysis.ipynb) for more details*
+
+Bias exists in these tools because the people creating them and the data used to train them is biased. You wouldn't trust a sexist human to help you make objective decisions, so why do we trust sexist bots? Here is another example using Azure's NLP offering.
+
+Female terms
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/06/female.png" alt="azure gender bias female" title="azure gender bias female">
+</p>
+
+Male terms
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/06/male.png" alt="azure gender bias male" title="azure gender bias male">
+</p>
+
+### The Future
+
+Being complicit in a literal genocide wasn't enough to cause substantial change in the Data Science industry. Facebook hired some more human moderators to identify hate speech but ignored the root cause. The root cause was recommendation engines manipulating humans for short term goals, without regard or knowledge of long term effects. But there is hope.
+
+According to the Internet research company Pew Research Center, 62% of adults in the United States get news from social media[²](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424427/). Some news outlets have started writing articles for Facebook's accidentally genocidal algorithms instead of humans. The results are continued [filter bubbling](https://en.wikipedia.org/wiki/Filter_bubble) and more division. [Ground News](https://ground.news/) is a news comparison platform solving this problem. Users can see how a particular story is told across the political spectrum and around the world.
+
+<p align="center">
+  <img width="75%" height="75%" src="/wp-content/uploads/2020/06/political bias.png" alt="political bias reporting" title="political bias reporting">
+</p>
+
+Ground News also have a weekly [Blindspot](https://ground.news/blindspot-subscribe) email highlighting notability biased articles and how different media outlets describe the same event or person.
+
+<p align="center">
+  <img width="75%" height="75%" src="/wp-content/uploads/2020/06/split reporting.png" alt="split reporting" title="split reporting">
+</p>
+
+At Shopify, I created a [defensive patent](https://en.wikipedia.org/wiki/Defensive_patent_aggregation) to identify & remove bias from machine learning models.
+
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/06/document polluter.png" alt="Systems and Methods for Detecting Non-causal Dependencies in Machine Learning Models" title="Systems and Methods for Detecting Non-causal Dependencies in Machine Learning Models">
+</p>
+
+I have been working on a [Python package](https://pypi.org/project/document-polluter/) to implement the concept.
+
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/06/document polluter package.png" alt="Document polluter python package" title="Document polluter python package">
+</p>
+
+There are many in the data science community identifying and solving these problems. It's important that the public understand that data models are not inherently objective. And it's imperative that identified issues in data science are resolved at their source. Done right, data science can solve more problems then it creates.
