@@ -67,13 +67,13 @@ Feb 2008 to Mar 2011, by correspondence
 ## 🚨 Security Clearance
 
 🇨🇦 Government of Canada Security Clearance<br>
-**Level:** Enhanced Reliability<br>
-**File Number:** 96200871-0002397761<br>
-**Expiry Date:** April 4, 2029<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Level:** Enhanced Reliability<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**File Number:** 96200871-0002397761<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Expiry Date:** April 4, 2029<br>
 
 🇦🇺 Australian Government Security Clearance<br>
-**Level:** Top Secret Negative Vetting<br>
-**Status:** Lapsed<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Level:** Top Secret Negative Vetting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Status:** Lapsed<br>
 
 ## 🛂 Citizenship
 
