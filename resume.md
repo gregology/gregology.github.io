@@ -8,7 +8,7 @@ redirect_from:
 comments: False
 licence: Creative Commons
 title: Résumé
-clippy_help: It looks like you're trying to hire Greg. Consider making him CEO and paying him a billion dollars.
+clippy_help: It looks like you're trying to hire Greg. Consider paying him in cheese 🧀
 ---
 
 ## Work History
@@ -17,9 +17,10 @@ clippy_help: It looks like you're trying to hire Greg. Consider making him CEO a
 Jul 2019 to present, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
+* Leading an awesome team of three data scientists supporting the Shopify Kernel team
 * Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
 
-### Developer & CEO @ Memair
+### CEO & Founder @ Memair
 Nov 2018 to Jul 2019, Ottawa Canada
 
 * Empowering humans by using business analytics & data science techniques on their own data
@@ -69,3 +70,14 @@ Government of Canada Security Clearance<br>
 **Level:** Enhanced Reliability<br>
 **File Number:** 96200871-0002397761<br>
 **Expiry Date:** April 4, 2029<br>
+
+Australian Government Security Clearance<br>
+**Level:** Top Secret Negative Vetting<br>
+**Status:** Lapsed<br>
+
+## Citizenship / Work Status
+
+🇦🇺 Australia: Citizen<br>
+🇨🇦 Canada: Permanent Resident<br>
+🇮🇪 Ireland (EU): Eligible<br>
+🇬🇧 United Kingdom: Citizen<br>
