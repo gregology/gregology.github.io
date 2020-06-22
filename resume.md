@@ -54,8 +54,8 @@ Mar 2012 to Sep 2013, Sydney Australia & Ottawa Canada
 ### 📞 Communications Specialist @ Australian Army
 Jul 2004 to Nov 2012, Australia
 
-* 🇦🇫 Peace making tour in Afghanistan
-* 🇸🇧 Peace keeping tour in Solomon Islands
+🇦🇫 Peace making tour in Afghanistan<br>
+🇸🇧 Peace keeping tour in Solomon Islands<br>
 
 ## 📚 Education
 
