@@ -77,7 +77,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 ### Beliefs about Society
 
-- Race & ethnicity are unhelpful social constructs
+- Race & ethnicity are illegitimate & unhelpful social constructs
 - Cultural traits & norms exist, cultures do not
 - Verbal purity is not social change
 - Friendship is the best way to overcome bigotry
