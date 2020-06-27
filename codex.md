@@ -214,7 +214,7 @@ Subconscious reactions that I have noticed;
 ## Hopes and Desires
 
 - My life will be shared with many wonderful & interesting people
-- I will leave the universe in a better state then when I entered it
+- My existence will be a net positive for the universe
 - I will continue to be challenged & grow
 - We achieve a post scarcity economy & become a fulfilment focused society
 - Most items on my [bucket list](/bucket) will be crossed off
