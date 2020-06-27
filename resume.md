@@ -11,6 +11,14 @@ title: Résumé
 clippy_help: It looks like you're trying to hire Greg. Consider paying him in cheese 🧀
 ---
 
+## 🎯 Career Goals
+
+ * Improve the world in line with my [Codex Vitae](/codex)
+ * Use data to solve interesting problems
+ * Never be the smartest person in the room
+ * Lead great teams
+ * Grow and learn though my work
+
 ## 💼 Work History
 
 ### 🛍 Senior Data Scientist @ Shopify
@@ -54,8 +62,8 @@ Mar 2012 to Sep 2013, Sydney Australia & Ottawa Canada
 ### 📞 Communications Specialist @ Australian Army
 Jul 2004 to Nov 2012, Australia
 
-🇦🇫 Peace making tour in Afghanistan<br>
-🇸🇧 Peace keeping tour in Solomon Islands<br>
+ * Peace making tour in Afghanistan 🇦🇫<br>
+ * Peace keeping tour in Solomon Islands 🇸🇧<br>
 
 ## 📚 Education
 
