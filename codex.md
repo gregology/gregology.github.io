@@ -4,6 +4,12 @@ comments: True
 licence: Creative Commons
 title: Codex Vitae
 subtitle: An exercise in metacognition
+redirect_from:
+  - /blueprint
+  - /codexvitae
+  - /personalblueprint
+  - /Codex
+  - /Blueprint 
 ---
 
 By defining my beliefs & principles I can recognise when my actions misalign. When this inevitably occurs, I will *consciously* decide whether to alter my actions or my Codex Vitae. This public document is an invitation to others to hold me accountable to my commitments and to help me identify contradictions.
@@ -22,6 +28,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - [Beliefs about my Responsibilities](#beliefs-about-my-responsibilities)
 - [Values](#values)
 - [Principles](#principles)
+- [Responsibilities](#responsibilities)
 - [Reactions](#reactions)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
@@ -160,11 +167,6 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - we learn from others experience
 
 
-### Beliefs about my Responsibilities
-
-*Work in progress*
-
-
 ## Values
 
 - Sentience is special (not humans)
@@ -189,6 +191,11 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Accept blame for mistakes & share credit for successes
 - Identify & control ego
 - Take risks & stay uncomfortable
+
+
+### Responsibilities
+
+I am responsible to my values and principles as a sentient being. When I fail my values or principles, as I surely will, I am responsible to make amends.
 
 
 ## Reactions
