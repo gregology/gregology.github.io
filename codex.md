@@ -190,6 +190,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Do not harbour hate or resentment
 - Accept blame for mistakes & share credit for successes
 - Identify & control ego
+- Spend more time listening than speaking
+- Do not try to change people's positions without first understanding their perspectives
 - Take risks & stay uncomfortable
 
 
