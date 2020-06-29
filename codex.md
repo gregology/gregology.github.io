@@ -28,7 +28,6 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - [Beliefs about my Responsibilities](#beliefs-about-my-responsibilities)
 - [Values](#values)
 - [Principles](#principles)
-- [Responsibilities](#responsibilities)
 - [Reactions](#reactions)
 - [Hopes and Desires](#hopes-and-desires)
 - [Predictions](#predictions)
@@ -167,6 +166,11 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - we learn from others experience
 
 
+### Beliefs about my Responsibilities
+
+I am responsible to my values and principles as a sentient being. When I fail my values or principles, as I surely will, I am responsible to make amends.
+
+
 ## Values
 
 - Sentience is special (not humans)
@@ -193,11 +197,6 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Spend more time listening than speaking
 - Do not try to change people's positions without first understanding their perspectives
 - Take risks & stay uncomfortable
-
-
-### Responsibilities
-
-I am responsible to my values and principles as a sentient being. When I fail my values or principles, as I surely will, I am responsible to make amends.
 
 
 ## Reactions
