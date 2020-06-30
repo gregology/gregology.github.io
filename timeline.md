@@ -40,6 +40,12 @@ licence: Creative Commons
   var cancel = setInterval(calculateTimeAlive, 50);
 </script>
 
+## 2020
+
+### June
+
+🐱 Jazz passed away, she was purring to the last moment
+
 ## 2019
 
 ### September
@@ -86,7 +92,7 @@ licence: Creative Commons
 
 ### June
 
-🏠 Moved in with Diana in Ottawa
+🏠 Moved in with Diana, Jazz😸, & Hercie😺 in Ottawa
 
 ## 2014
 
