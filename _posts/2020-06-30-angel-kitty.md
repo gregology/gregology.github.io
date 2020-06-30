@@ -2,14 +2,16 @@
 title: "Angel Kitty"
 author: Greg
 layout: post
-permalink: /2020/06/rip-jazz/
+permalink: /2020/06/angel-kitty/
 date: 2020-06-30 18:27:41 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - category
+  - Cats
 tags:
-  - tag
+  - cat
+  - kitty
+  - Jazz
 ---
 
 Our beautiful old lady kitty passed away today :( We will miss you Jazz, you were purrrrfect. Thank you for all the cuddles.
