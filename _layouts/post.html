@@ -10,6 +10,9 @@ layout: base
 
       <article role="main" class="blog-post">
         {{ content }}
+        {% if page.gallery %}
+          {% include gallery.html %}
+        {% endif %}
       </article>
 
       {% if page.tags.size > 0 %}
