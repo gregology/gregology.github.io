@@ -1184,7 +1184,23 @@ It seems they responded without reading my email
 > information@canada.ca
 > www.veterans.gc.ca
 
-I later received a letter in the mail which contained a file number. I used the file number to log into My VAC and I now have access to some more support.
+I later received a letter in the mail which contained a file number. I used the file number to log into My VAC and I now have access to some more support. I also sent them requested proof of identity which they required to create my K number.
+
+#### July 2nd, 2020
+
+> Hi Mr. Clarke,
+>
+> I'm just writing to let you know that we have successfully created a file number, or K number, for you. It is ███████.
+>
+> I have forwarded the invoices from Dr. ███████ to Medavie Blue Cross for processing.
+>
+> Thank you, I hope all is well!
+>
+> Sheila ███████
+> Veterans Service Agent
+> Foreign Countries Operations
+
+Now my psychologist can start getting paid after waiting 5 months.
 
 #### Next steps
 
