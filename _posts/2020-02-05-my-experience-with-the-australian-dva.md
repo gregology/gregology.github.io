@@ -1213,6 +1213,10 @@ Some Australian DVA staff are great however the organisation is failing veterans
  - Improved communications between DVA staff and veterans
  - Improved communications between DVA staff and their international counterparts (inaccessible reciprocal services are not reciprocal)
 
+### Resources
+
+For Australian veterans in similar situations consider applying for [Non-Liability Health Care (NLHC)](https://clik.dva.gov.au/compensation-and-support-policy-library/part-7-common-allowances-and-benefits/72-treatment-under-non-liability-health-care-nlhc-arrangements). DVA pays for treatment for certain mental and physical health conditions without the need for the conditions to be accepted as related to service. It may result in quicker treatment.
+
 <!--
   # Python days calculation
   from datetime import date
