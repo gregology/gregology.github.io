@@ -1,9 +1,13 @@
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
-  data-link="{{page.gallery.url}}"
-  data-title="{{page.title}}"
+  data-link="{{ page.gallery.url }}"
+  data-title="{{ page.title }}"
   data-description="{{page.gallery.images.size}} new photos added to shared album">
   {% for image in page.gallery.images %}
     <object data="{{ image }}"></object>
   {% endfor %}
 </div>
+
+{% if page.gallery.url %}
+  <br><a href="{{ page.gallery.url }}"></a>link to album</a><br>
+{% endif %}
