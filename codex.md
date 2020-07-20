@@ -260,6 +260,7 @@ Subconscious reactions that I have noticed;
 - AI audits will rewrite history by discovering patterns in open & closed data
 - Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential & prevalence
 - Critical thinking skills will improve as legacy media fades (alternatively the world will be destroyed by trolls)
+- The Detroit Big Three (Ford, GM, & Chrysler) will fail to adapt and be acquired or go bankrupt
 
 ### Before 2040
 
