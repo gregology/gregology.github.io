@@ -1112,6 +1112,8 @@ I responded
 
 #### June 10th, 2020
 
+I'm not really sure how this happened but I am now in a position where I have to pay out of pocket for further treatment.
+
 > Hi Greg,
 >
 > Thank you kindly for returning the signed closure report and confirming you would be able to pay out of pocket. I do hope that VAC are able to reimburse Dr ███████ soon.
@@ -1201,6 +1203,24 @@ I later received a letter in the mail which contained a file number. I used the 
 > Foreign Countries Operations
 
 Now my psychologist can start getting paid after waiting 5 months.
+
+
+#### 15th of July, 2020
+
+My 12 sessions offered by the DVA have run out. There is an option to get more sessions but I'm unable to invest any more time or energy into getting further support from the DVA. Today was my first out of pocket treatment.
+
+#### July 28th, 2020
+
+My psychologist still hasn't been paid by VAC. So it turns out I will need to invest more time and energy into the DVA / VAC.
+
+> Good morning Greg,
+> 
+> I just called VAC to follow up and check on the payment status. The lady was unable to find you on the system (!). She suggested that I ask you to call them directly to check. She gave me a number for the National Contact Centre 866-522-2122, but perhaps you already have a number which you have called before. Could you please check on the status of the payment for me? My VAC provider number is █████.
+> Thank you very much in advance, Greg. 
+> 
+> Dr. ███████
+
+I called and a friendly staff member from VAC helped out. She was initially unclear on the process and said that I would need to organise this though the Australian DVA. I was a little frustrated. I spent 30 mins on the phone and now someone will email me with more details. The saga continues...
 
 #### Next steps
 
