@@ -195,6 +195,7 @@ I am responsible to my values and principles as a sentient being. When I fail my
 - Accept blame for mistakes & share credit for successes
 - Identify & control ego
 - Spend more time listening than speaking
+- Focus on impact when speaking and intent when listening
 - Do not try to change people's positions without first understanding their perspectives
 - Take risks & stay uncomfortable
 
