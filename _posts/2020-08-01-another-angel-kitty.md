@@ -43,7 +43,6 @@ gallery:
     - https://lh3.googleusercontent.com/zrc822sUIoW4GtELr8cvDMm0lrzzXXebPUSZE6YEEqxIVYCySkrKA_ijld6kMlLkzgkW0xDaIk_oTu1htH2mB4Cn83Z_l_16vyu52RRDlTzM2lZC3wdSiR-Af11w6JaAkxbS2i8atYs=w1920-h1080
     - https://lh3.googleusercontent.com/HIGzznEr4tOK8MkiKq3w_fCN9LYa6_t8QGlKffZ7bYKOTPCqewHEkSWfGc_nNderzJWa8vOzxNL-ir7bmLJLnXsCPQSh6oUfb0Z3tqO0MkUky9_q5ZdmK682wD7cWGoBT2d7OPHor14=w1920-h1080
     - https://lh3.googleusercontent.com/tg66dkIrB8PhnuiGXh9EzAPjz8yvA7YrR6daGVRLlG4oBbQDG5-HhQnhw2D7W3eD1tcL7bnboee7I0APLsmlotRirut0QXOTSi9T2F3Z-vDr37oNfRb9PzPBt7vRMtumZU8NYRA_G2U=w1920-h1080
-    - https://lh3.googleusercontent.com/QK_L8yEzFMjWdOE9QesxAxzgMTd3UXheQr9B04ujfykiTElR0h0KXwY7toCdhwebB9pcIc7b0hhemvO1KavDN36KlRubEybGSABo642x1DvZtuvV5G0GwHgEcQOEhuE80SXEXR9U1us=w1920-h1080
     - https://lh3.googleusercontent.com/8bZPy8eM1tq2qBhsFS1F7WL1z0-MFaXCuZg-BGkty1DlN086HhsFRdqYY1iT9ZAdgiO87d2ONcNZIektY4K1oCwzJe8Xc5O9UUrK32NBT8OdBH9NSwjPsgmVtfpLn8GsyPRrAW6DycE=w1920-h1080
     - https://lh3.googleusercontent.com/N5Eq8jAXCxW-Z0DDQf_w6p2ztZjKc-apQnq-k3z6iXtmTRz-lbnXXqEozBChQ8TuBVlgaI3q_nCA2OkhVbthquOnqtOl0Tdf6uBJqazBsGYIDe_RFBzEcLKCIrsu2qjKgr8Rhbjrr-U=w1920-h1080
     - https://lh3.googleusercontent.com/wJ-LIbdUAwNTKtelqn1RFg0xatrrUOdmLn5JwcoTB9ZUi0ehDD0QN3tY-Bg03w3vR9tgDtSINQYyoJFtK_v-ZYwLOnZshWvm43ydQ1pwDC1UZM9jFTxU86ubX9_xkwmruuu4D-u-mzU=w1920-h1080
