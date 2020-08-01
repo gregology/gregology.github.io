@@ -42,6 +42,10 @@ licence: Creative Commons
 
 ## 2020
 
+### August
+
+🐱 Hercie passed away, we were told that he would only have a couple of days to live in late June but he gave us another month of cuddles
+
 ### June
 
 🐱 Jazz passed away, she was purring to the last moment
