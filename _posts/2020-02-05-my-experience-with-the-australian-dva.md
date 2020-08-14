@@ -1205,7 +1205,7 @@ I later received a letter in the mail which contained a file number. I used the 
 Now my psychologist can start getting paid after waiting 5 months.
 
 
-#### 15th of July, 2020
+#### July 15th, 2020
 
 My 12 sessions offered by the DVA have run out. There is an option to get more sessions but I'm unable to invest any more time or energy into getting further support from the DVA. Today was my first out of pocket treatment.
 
@@ -1221,6 +1221,10 @@ My psychologist still hasn't been paid by VAC. So it turns out I will need to in
 > Dr. ███████
 
 I called and a friendly staff member from VAC helped out. She was initially unclear on the process and said that I would need to organise this though the Australian DVA. I was a little frustrated. I spent 30 mins on the phone and now someone will email me with more details. The saga continues...
+
+#### August 14th, 2020
+
+Today I received a think envelop from Medavie Blue Cross. The thought of filling out pages of new paperwork filled me with dread. However the contents surprised me. Inside was a Veterans Affairs Canada Services and Benefits booklet and my Veterans Affairs Canada card. It was a huge relief to receive this little piece of plastic. Thank you to everyone that has made this possible.
 
 #### Next steps
 
