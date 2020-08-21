@@ -12,6 +12,11 @@
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
 
+  {% if page.chart %}
+  <script src="/js/Chart.bundle.min.js"></script>
+  <script src="/js/chartjs-plugin-annotation.min.js"></script>
+  {% endif %}
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
   {% include gtm_head.html %}
