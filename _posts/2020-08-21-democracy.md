@@ -18,7 +18,7 @@ The [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is compiled
 The Democracy Index has identified a worrying trend in US politics, **the United States is becoming less democratic**. The slow demise of US democracy is observed in the terms of both Republican & Democratic presidents.
 
 ### US Democracy Indexes Over Time
-*A lower index means less democratic, see appendix below for index definitions*
+*A lower index means less democratic, see appendix below for sources & definitions*
 <canvas id="usDemocracyChart" width="400" height="200"></canvas>
 
 This disturbing trend isn't seen in the other [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes) countries. In fact, of Five Eyes countries, the US is the only country that has seen a consistent decrease since the Democracy Index began. Given the increasing cases of [voter suppression](https://en.wikipedia.org/wiki/Voter_suppression_in_the_United_States) in the US, this trend is likely to continue. 
