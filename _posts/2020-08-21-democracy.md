@@ -1,5 +1,5 @@
 ---
-title: "Democracy in the United States"
+title: "US Democracy Index Over Time"
 author: Greg
 layout: post
 permalink: /2020/08/democracy/
