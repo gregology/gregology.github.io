@@ -13,7 +13,7 @@ tags:
   - tag
 ---
 
-The [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is compiled by the [Economist Intelligence Unit](https://en.wikipedia.org/wiki/Economist_Intelligence_Unit). Using expert interviews, the index has measured the state of democracy around the world since 2006. The Democracy Index has been criticised for lacking transparency as it does not clarify who the experts are. However, the Economist Intelligence Unit is well respected and this is likely the best public dataset on democracy available.
+The [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is compiled by the [Economist Intelligence Unit](https://en.wikipedia.org/wiki/Economist_Intelligence_Unit). Using expert interviews, the index has measured the state of democracy around the world since 2006. The Democracy Index has been criticised for lacking transparency as it does not clarify who the experts are. However, the Economist Intelligence Unit is well respected and this is likely the best available dataset on democracy.
 
 The Democracy Index has identified a worrying trend in US politics, **the United States is becoming less democratic**. The slow demise of US democracy is observed in the terms of both Republican & Democratic presidents.
 
