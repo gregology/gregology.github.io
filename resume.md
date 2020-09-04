@@ -87,5 +87,5 @@ Feb 2008 to Mar 2011, by correspondence
 
 🇦🇺 Australia: Citizen<br>
 🇨🇦 Canada: Permanent Resident, citizenship application in process<br>
-🇮🇪 Ireland (EU): Citizenship application in process<br>
+🇮🇪 Ireland (EU): Citizen<br>
 🇬🇧 United Kingdom: Citizen<br>
