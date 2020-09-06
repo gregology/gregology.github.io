@@ -62,8 +62,8 @@ Mar 2012 to Sep 2013, Sydney Australia & Ottawa Canada
 ### Communications Specialist @ Australian Army
 Jul 2004 to Nov 2012, Australia
 
- * Peace making tour in Afghanistan 🇦🇫<br>
- * Peace keeping tour in Solomon Islands 🇸🇧<br>
+ * Peace making tour in Afghanistan 🇦🇫
+ * Peace keeping tour in Solomon Islands 🇸🇧
 
 ## Education
 
@@ -74,18 +74,18 @@ Feb 2008 to Mar 2011, by correspondence
 
 ## Security Clearance
 
-🇨🇦 Government of Canada Security Clearance<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Level:** Enhanced Reliability<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**File Number:** 96200871-0002397761<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Expiry Date:** April 4, 2029<br>
+🇨🇦 Government of Canada Security Clearance  
+&nbsp;&nbsp;&nbsp;&nbsp;**Level:** Enhanced Reliability  
+&nbsp;&nbsp;&nbsp;&nbsp;**File Number:** 96200871-0002397761  
+&nbsp;&nbsp;&nbsp;&nbsp;**Expiry Date:** April 4, 2029  
 
-🇦🇺 Australian Government Security Clearance<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Level:** Top Secret Negative Vetting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Status:** Lapsed<br>
+🇦🇺 Australian Government Security Clearance  
+&nbsp;&nbsp;&nbsp;&nbsp;**Level:** Top Secret Negative Vetting  
+&nbsp;&nbsp;&nbsp;&nbsp;**Status:** Lapsed  
 
 ## Citizenship
 
-🇦🇺 Australia: Citizen<br>
-🇨🇦 Canada: Permanent Resident, citizenship application in process<br>
-🇮🇪 Ireland (EU): Citizen<br>
-🇬🇧 United Kingdom: Citizen<br>
+🇦🇺 Australia: Citizen  
+🇨🇦 Canada: Permanent Resident, citizenship application in process  
+🇮🇪 Ireland (EU): Citizen  
+🇬🇧 United Kingdom: Citizen  
