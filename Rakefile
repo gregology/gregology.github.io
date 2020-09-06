@@ -127,8 +127,14 @@ task :tweets do
 
   puts "collected #{tweets.count} tweets"
 
+  def clean_tweet(raw_tweet)
+    tweet = raw_tweet.to_hash
+    tweet[:user] = tweet[:user].slice(:id,:name)
+    tweet
+  end
+
   tweets = tweets.sort_by!(&:created_at)
-  tweets = tweets.map { |tweet| tweet.to_hash }
+  tweets = tweets.map { |tweet| clean_tweet(tweet) }
 
   File.open('api/tweets.json', 'w+') do |file|
     file.puts tweets.to_json
