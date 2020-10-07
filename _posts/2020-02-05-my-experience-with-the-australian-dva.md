@@ -1288,11 +1288,19 @@ They responded a few days later
 > National Contact Centre Network Analyst  
 > Veterans Affairs Canada
 
-I called the number given (1-888-261-4033) but it didn't work. I called the phone number on the Blue Cross website (1-800-355-9133) but the assistant wasn't able to help with my account because it's federal. I called both phone numbers on my card (1-888-996-2242 & 1-613-996-2242) but got a message saying they closed and to contact them between 7am & 9pm Atlantic time, I was calling at 6pm Atlantic time. I also tried to contact them though their website but ran into this error when signing up for Blue Cross My Info.
+<a id="bluecross" style="display: none">Check</a>
 
-> Error:  
-> Registration Unsuccessful  
-> There is a problem with the coverage information entered
+I called the number given (1-888-261-4033) but got this error "You have dialed a number that cannot be reached from your dialing area". I called the phone number on the Blue Cross website (1-800-355-9133) but the assistant wasn't able to help with my account because it's federal. I called both phone numbers on my card (1-888-996-2242 & 1-613-996-2242) but got a message saying they closed and to contact them between 7am & 9pm Atlantic time, I was calling at 7pm Atlantic time.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lENcsHoGuwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I also tried to contact them though their website but ran into this error when signing up for Blue Cross My Info.
+
+<p align="center">
+  <img width="100%" height="100%" src="/wp-content/uploads/2020/10/Medvie Blue Cross.png" alt="Medive Blue Cross" title="Medive Blue Cross">
+</p>
+
+There is no other way to contact them.
 
 I can't believe that I'm still having to deal with this BS months after the DVA / VAC cut me off from treatment. I have wasted so many hours and so much energy getting "support" from the DVA / VAC. I truly regret asking them for help.
 
