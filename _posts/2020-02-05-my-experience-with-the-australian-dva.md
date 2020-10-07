@@ -1104,9 +1104,9 @@ I have had 10 treatments with my psychologist. Treatment wise, everything is goi
 
 I responded
 
-> Hello Giorgia,
-> yes, if necessary I will pay out of pocket. I've come pretty far and don't want to lapse :)
-> Cheers,
+> Hello Giorgia,  
+> yes, if necessary I will pay out of pocket. I've come pretty far and don't want to lapse :)  
+> Cheers,  
 > Greg.
 
 
@@ -1170,9 +1170,9 @@ It seems they responded without reading my email
 >
 > If you are calling from outside of Canada our contact numbers are as follows:
 >
-> Toll-Free from the USA 1-888-996-2242
-> Toll-Free from United Kingdom, Germany, France, Belgium 00-800-996-22421
-> Collect from all other countries outside of Canada (613) 996-2242
+> Toll-Free from the USA 1-888-996-2242  
+> Toll-Free from United Kingdom, Germany, France, Belgium 00-800-996-22421  
+> Collect from all other countries outside of Canada (613) 996-2242  
 >
 > Staff at this number will be able to answer any questions you may have.
 >
@@ -1182,9 +1182,9 @@ It seems they responded without reading my email
 >
 > Carissa ███████
 >
-> Veterans Affairs Canada
-> information@canada.ca
-> www.veterans.gc.ca
+> Veterans Affairs Canada  
+> information@canada.ca  
+> www.veterans.gc.ca  
 
 I later received a letter in the mail which contained a file number. I used the file number to log into My VAC and I now have access to some more support. I also sent them requested proof of identity which they required to create my K number.
 
@@ -1215,7 +1215,7 @@ My psychologist still hasn't been paid by VAC. So it turns out I will need to in
 
 > Good morning Greg,
 > 
-> I just called VAC to follow up and check on the payment status. The lady was unable to find you on the system (!). She suggested that I ask you to call them directly to check. She gave me a number for the National Contact Centre 866-522-2122, but perhaps you already have a number which you have called before. Could you please check on the status of the payment for me? My VAC provider number is █████.
+> I just called VAC to follow up and check on the payment status. The lady was unable to find you on the system (!). She suggested that I ask you to call them directly to check. She gave me a number for the National Contact Centre 866-522-2122, but perhaps you already have a number which you have called before. Could you please check on the status of the payment for me? My VAC provider number is █████.  
 > Thank you very much in advance, Greg. 
 > 
 > Dr. ███████
@@ -1225,6 +1225,76 @@ I called and a friendly staff member from VAC helped out. She was initially uncl
 #### August 14th, 2020
 
 Today I received a think envelop from Medavie Blue Cross. The thought of filling out pages of new paperwork filled me with dread. However the contents surprised me. Inside was a Veterans Affairs Canada Services and Benefits booklet and my Veterans Affairs Canada card. It was a huge relief to receive this little piece of plastic. Thank you to everyone that has made this possible.
+
+#### October 1st, 2020
+
+My psychologist still hasn't been paid for sessions dating back to April.
+
+> Hello Greg,
+> 
+> I hope you are doing well. I am following up to see if you could check in with Sheila about the remaining balance. I called about 3 weeks ago, spoke with someone who tried to reach her, and I did not get any answers as to the progress. I am still awaiting payment for the following 6 session dates:  
+> Apr 8, 15, 29, May 13, June 3 & 24, totalling $1170.  
+> Please let me know what you find out.  
+> Thank you.  
+> 
+> Dr. ███████
+
+I reached out to VAC to see if they could assist
+
+> Hey Team,
+> my psychologist is still waiting for $1170 of payments for 6 sessions dating back to April. The missing dates are Apr 8, 15, 29, May 13, June 3 & 24. Can someone please follow up on this and let me know when it's been actioned?
+> Cheers,
+> Greg.
+
+They responded a few days later
+
+> Dear Signalman (Ret'd) Greg Clarke,
+> 
+> Thank you for using My VAC Account and our secure email services.
+> 
+> In review of the information we have from Medavie Blue Cross (MBC), the only payment currently on file for Psychological Services is:
+> 
+> 11-08-2020  
+> $1,170.00  
+> Dr ███████ PSYCH. P.C. (███████, OTTAWA, ON, █████)  
+> 
+> For services dated:
+> 
+> - 05-02-2020  
+> - 13-02-2020  
+> - 05-03-2020  
+> - 25-03-2020  
+> - 01-04-2020  
+> 
+> (INVOICE #: 2020­02, 2020­03, 2020­04, 2020­05, 2020­06)
+> 
+> VAC is only able to see MBC's completed treatment benefit claims; if you would like to review the status of an in-progress claim, please contact MBC at 1-888-261-4033, or visit MBC's portal at www.medavie.bluecross.ca/MyInfo
+> 
+> MBC's portal allows you to:
+> 
+> - View your claim status, explanations, and claims archive;  
+> - Find a list of registered providers;  
+> - Find claim forms and other documents;  
+> - Find your coverage details; and  
+> - Request a replacement card (or print a temporary card).  
+> 
+> (Note: To access the above links, please copy and paste the URL into the address field at the top of your internet browser. Alternatively, you may highlight the URL, then right-click on it and select to go to that page.)
+> 
+> If you have any further questions or concerns, please contact us again via My VAC Account or our toll-free number, 1-866-522-2122.
+> 
+> Sincerely,
+> 
+> Melody ███████  
+> National Contact Centre Network Analyst  
+> Veterans Affairs Canada
+
+I called the number given (1-888-261-4033) but it didn't work. I called the phone number on the Blue Cross website (1-800-355-9133) but the assistant wasn't able to help with my account because it's federal. I called both phone numbers on my card (1-888-996-2242 & 1-613-996-2242) but got a message saying they closed and to contact them between 7am & 9pm Atlantic time, I was calling at 6pm Atlantic time. I also tried to contact them though their website but ran into this error when signing up for Blue Cross My Info.
+
+> Error:  
+> Registration Unsuccessful  
+> There is a problem with the coverage information entered
+
+I can't believe that I'm still having to deal with this BS months after the DVA / VAC cut me off from treatment. I have wasted so many hours and so much energy getting "support" from the DVA / VAC. I truly regret asking them for help.
 
 #### Next steps
 
