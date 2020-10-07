@@ -104,6 +104,10 @@ licence: Creative Commons
 
 ## 2014
 
+### September
+
+🐣 Became an uncle to Sammy O'Connor
+
 ### August
 
 🏠 Julie and I moved to the Golden Triangle in Ottawa
@@ -139,7 +143,8 @@ licence: Creative Commons
 
 ### November
 
-🇨🇦 With one weeks notice I left the Army and moved to Ottawa to work with the Canadian branch of Amnesty International
+🇨🇦 With one weeks notice I left the Army and moved to Ottawa to work with the Canadian branch of Amnesty International  
+🐣 Became an uncle to Archie O'Connor
 
 ### April
 
@@ -203,6 +208,10 @@ licence: Creative Commons
 🇦🇺 Returned to Australia from the Solomon Islands  
 🏠 Moved back in with Stu and Janell  
 
+### March
+
+🐣 Became an uncle to Zahli Sampson
+
 ### February
 
 💔 Nathalie and I broke up, I wasn't ready to settle down yet
@@ -228,6 +237,7 @@ licence: Creative Commons
 
 ### January
 
+🐣 Became an uncle to Zander Sampson  
 🎓 Started a Bachelor of Arts majoring in Terrorism, Counterterrorism, and Security through Open University. This course was by correspondence which worked well for with my vagrant lifestyle
 
 ## 2007
@@ -242,7 +252,7 @@ licence: Creative Commons
 
 ### July
 
-🐣 Became an uncle and loss my position as baby of the family. A fair trade for Oliver and later Zander, Zahli, Archie, Sammy, & Charlotte
+🐣 Became an uncle to Oliver O'Connor (and loss my position as baby of the family)
 
 ### June
 
