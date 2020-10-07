@@ -1224,7 +1224,7 @@ I called and a friendly staff member from VAC helped out. She was initially uncl
 
 #### August 14th, 2020
 
-Today I received a think envelop from Medavie Blue Cross. The thought of filling out pages of new paperwork filled me with dread. However the contents surprised me. Inside was a Veterans Affairs Canada Services and Benefits booklet and my Veterans Affairs Canada card. It was a huge relief to receive this little piece of plastic. Thank you to everyone that has made this possible.
+Today I received a thick envelope from Medavie Blue Cross. The thought of filling out pages of new paperwork filled me with dread. However the contents surprised me. Inside was a Veterans Affairs Canada Services and Benefits booklet and my Veterans Affairs Canada card. It was a huge relief to receive this little piece of plastic. Thank you to everyone that has made this possible.
 
 #### October 1st, 2020
 
