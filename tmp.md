@@ -5,9 +5,12 @@ comments: True
 licence: Creative Commons
 ---
 
-[tutorial](https://www.techdoctoruk.com/custom-launcher-on-amazon-4k-firestick-2nd-gen-cube-september-2020/)
+[tutorial](https://www.techdoctoruk.com/custom-launcher-on-all-amazon-devices-october-2020/)
 
-[TDUK-Launcher-Manager 1.0
-](https://www.techdoctoruk.com/sdm_downloads/tduk-launcher-manager/)
+[Amazon Settings (Install on your FireOS5 Device)
+](https://www.techdoctoruk.com/sdm_downloads/amazonsettings_1-0-1/)
 
 [Wolf Launcher (September Update)](https://www.techdoctoruk.com/sdm_downloads/wolf-launcher-sept-update/)
+
+[TDUK-FTV-Toolbox (Install on Phone / Tablet / Emulator)
+](https://www.techdoctoruk.com/sdm_downloads/firetvtoolbox_1-4-apk/)
