@@ -5,8 +5,9 @@ comments: True
 licence: Creative Commons
 ---
 
-[LauncherHijackV403](https://github.com/BaronKiko/LauncherHijack/releases/download/403/LauncherHijackV403.apk)
+[tutorial](https://www.techdoctoruk.com/custom-launcher-on-amazon-4k-firestick-2nd-gen-cube-september-2020/)
 
-[ATV launcher](https://github.com/esc0rtd3w/firestick-loader/raw/master/apps/home/atv-launcher.apk)
+[TDUK-Launcher-Manager 1.0
+](https://www.techdoctoruk.com/sdm_downloads/tduk-launcher-manager/)
 
-[FTVLaunchX-1.0.1.apk](https://github.com/codefaktor/FTVLaunchX/releases/download/v1.0.1/FTVLaunchX-1.0.1.apk)
+[Wolf Launcher (September Update)](https://www.techdoctoruk.com/sdm_downloads/wolf-launcher-sept-update/)
