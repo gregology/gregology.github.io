@@ -25,8 +25,8 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 Jul 2019 to present, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
-* Leading an awesome team of three data scientists supporting the Shopify Kernel team
-* Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
+* Leading the awesome Prodeng Data Science team
+* Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), [Druid](https://druid.apache.org/), & [Rails](https://rubyonrails.org/)
 
 ### CEO & Founder @ Memair
 Nov 2018 to Jul 2019, Ottawa Canada
@@ -72,6 +72,16 @@ Feb 2008 to Mar 2011, by correspondence
 
 * Terrorism, counter-terrorism, and security
 
+## Home Office
+
+Internet: 1.5Gbps Fibre  
+Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz5cgUcTg6)  
+Timezone: [Eastern Standard Time](https://time.is/EST) (UTC−05:00)  
+Workable hours:  
+&nbsp;&nbsp;&nbsp;&nbsp;**PST:** 05:00 - 15:30 PST  
+&nbsp;&nbsp;&nbsp;&nbsp;**EST:** 08:00 - 18:30 EST  
+&nbsp;&nbsp;&nbsp;&nbsp;**UTC:** 13:00 - 23:30 UTC  
+
 ## Security Clearance
 
 🇨🇦 Government of Canada Security Clearance  
@@ -86,6 +96,6 @@ Feb 2008 to Mar 2011, by correspondence
 ## Citizenship
 
 🇦🇺 Australia: Citizen  
-🇨🇦 Canada: Permanent Resident, citizenship application in process  
+🇨🇦 Canada: Permanent Resident (citizenship application processing...)  
 🇮🇪 Ireland (EU): Citizen  
 🇬🇧 United Kingdom: Citizen  
