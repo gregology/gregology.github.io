@@ -93,7 +93,7 @@ Workable hours:
 &nbsp;&nbsp;&nbsp;&nbsp;**Level:** Top Secret Negative Vetting  
 &nbsp;&nbsp;&nbsp;&nbsp;**Status:** Lapsed  
 
-## Citizenship
+## Citizenships
 
 🇦🇺 Australia: Citizen  
 🇨🇦 Canada: Permanent Resident (citizenship application processing...)  
