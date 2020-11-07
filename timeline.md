@@ -44,15 +44,24 @@ licence: Creative Commons
 
 ### September
 
-🇮🇪 Became an Irish citizen
+🏠 Closed on my first property investment in line with my [de-urbanization predictions](/2019/09/musk-de-urbanization/)
 
 ### August
 
+🇮🇪 Became an Irish citizen  
 🐱 Hercie passed away, we were told that he would only have a couple of days to live in late June but he gave us another month of cuddles
 
 ### June
 
 🐱 Jazz passed away, she was purring to the last moment
+
+### May
+
+🏠 Shopify went remote first so we put an offer on a place in the country
+
+### March
+
+😷 Started working remotely
 
 ## 2019
 
@@ -72,7 +81,7 @@ licence: Creative Commons
 
 ### September
 
-🇨🇦 Arrived back in Ottawa after a year sailing  
+🇨🇦 Arrived back in Ottawa after [a year sailing](https://www.youtube.com/channel/UCvxC2_BVnsAcaPEsIUcJx6A)  
 🧠 Decided to work full time on [Memair](https://memair.com), previously a side project  
 
 ## 2017
@@ -83,7 +92,7 @@ licence: Creative Commons
 
 ### September
 
-⛵️ Left on a year long sailing adventure with Diana and our cats. We sailed from Canada to the Tropics  
+⛵️ Left on [a year long sailing adventure](https://www.youtube.com/channel/UCvxC2_BVnsAcaPEsIUcJx6A) with Diana and our cats. We sailed from Canada to the Tropics and back  
 🛍 Quit Shopify after 4 amazing years  
 
 ### May
