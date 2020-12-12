@@ -46,7 +46,7 @@ Rule1
 Finally I enabled Rule 1.
 
 ```
-Rule 1
+Rule1 1
 ```
 
 I'll try this approach out for a while and if reboots become too frequent I will use the `USE_EXPRESSION`, & `SUPPORT_IF_STATEMENT` to check multiple sites before initiating a reboot.
