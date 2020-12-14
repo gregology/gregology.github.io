@@ -12,7 +12,7 @@ tags:
   - sign language
   - trampoline day
 ---
-[Trampoline Day][1] is a self organised event and today was the first time the event had been held in Sydney. It is a two way dialogue where anyone who wishes gets an opportunity to run a talk. Mine was on Open Source and I&#8217;ll upload the YouTube video shortly. Here are my notes from today.
+[Trampoline Day][1] is a self organised event and today was the first time the event had been held in Sydney. It is a two way dialogue where anyone who wishes gets an opportunity to run a talk. Mine was on Open Source and I'll upload the YouTube video shortly. Here are my notes from today.
 
 <img title="IMAG1466" src="/wp-content/uploads/2012/04/IMAG1466.jpg" alt="" width="100%" height="auto" />  
 Mornings talks
@@ -20,8 +20,8 @@ Mornings talks
 **Knowledge management** with Aprill @aprillarm  
 50% of execs are at retirement age  
 Knowledge management is a process  
-Everyone can write, but don&#8217;t use two words when one will do. Simple plan language.  
-Don&#8217;t need a fancy tool or template, it just needs to be organized.  
+Everyone can write, but don't use two words when one will do. Simple plan language.  
+Don't need a fancy tool or template, it just needs to be organized.  
 5 x W and a H.
 
 **Peerfunding** with Tom from [StartSomeGood][3] @tomjd  
@@ -47,7 +47,7 @@ Afternoon talks
 http://www.thebeehive.net.au
 
 **Growing from entrepreneur to big business** with Peter  
-Identify what you can&#8217;t do when you have the ability to get more people in an organization.  
+Identify what you can't do when you have the ability to get more people in an organization.  
 Fear of unknown not change, inform the people of the changes  
 Asone app  
 Keep some things similar to help people deal with change  
@@ -57,7 +57,7 @@ Dunbars number
 Bono with 35 million emails  
 Threats to non profits from social movements
 
-**Sign language** &#8211; Jen  
+**Sign language** - Jen  
 Talk with mouth full  
 200 active sign languages plus more dialects  
 Long history of signing, ancient greek references  

@@ -7,4 +7,4 @@ comments: True
 categories:
   - website
 ---
-I think I&#8217;ve set up my blog to link to facebook. After I post this we&#8217;ll see :)
+I think I've set up my blog to link to facebook. After I post this we'll see :)

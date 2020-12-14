@@ -19,15 +19,15 @@ tags:
   - zero gravity
   - zero gravity cooking
 ---
-Gravity is useful in keeping ingredients in mixing bowls but not very useful when trying to make a fluffy soufflé. Space chefs will be able to create deserts with densities which would normally collapse like the iron core of a red supergiant during supernova (I&#8217;m trying to use space references).
+Gravity is useful in keeping ingredients in mixing bowls but not very useful when trying to make a fluffy soufflé. Space chefs will be able to create deserts with densities which would normally collapse like the iron core of a red supergiant during supernova (I'm trying to use space references).
 
 This is my chocolate space soufflé recipe (note: some of the technology required for this recipe is yet to be invented)
 
 **Ingredients**
 
-  * 2 eggs separated (If we&#8217;ve stopped enslaving chickens use the menstrual extraction of another animal of an artificial substitute)
+  * 2 eggs separated (If we've stopped enslaving chickens use the menstrual extraction of another animal of an artificial substitute)
   * 1 egg white (as above)
-  * 90g dark chocolate (I&#8217;m sure we&#8217;ll still be enslaving poor people in far off places to make cheap chocolate)
+  * 90g dark chocolate (I'm sure we'll still be enslaving poor people in far off places to make cheap chocolate)
   * 75ml thickened cream (or the blood of an *Aliens* style android)
   * 1/2 tbs caster sugar
   * 20ml (1 tbs) brandy (or synthehol)
@@ -45,7 +45,7 @@ Melt chocolate and butter to 50°C in your arse (note: egg white coagulates at 6
 While the brown goo is rotating in your arse slowly add the eggs, cream, and brandy. Set the tractor beam in your arse to a rotational speed of 10rpm and reduce temperature to 35°C
 
 **Step 3**  
-After 5 minutes of mixing in your arse set the rotational speed to 3rpm and over 15 minutes lower the temperature to 3°C (if your arse doesn&#8217;t have a cooling function, place contents outside not in direct sunlight in pressurized container)
+After 5 minutes of mixing in your arse set the rotational speed to 3rpm and over 15 minutes lower the temperature to 3°C (if your arse doesn't have a cooling function, place contents outside not in direct sunlight in pressurized container)
 
 **Step 4**  
 Enjoy!

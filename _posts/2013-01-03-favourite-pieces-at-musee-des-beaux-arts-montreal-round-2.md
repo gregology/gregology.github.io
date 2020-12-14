@@ -23,13 +23,13 @@ tags:
   - museum
 ---
 <img class="alignnone" title="IMAG0183.jpg" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0183.jpg" width="100%" height="auto" />
-The King&#8217;s Beavers &#8211; Kent Monkman, 2011
+The King's Beavers - Kent Monkman, 2011
 
 <img class="alignnone" title="IMAG0184.jpg" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0184.jpg" width="100%" height="auto" />
-The Arrest of Christ &#8211; Antoine Plamondon, 1839
+The Arrest of Christ - Antoine Plamondon, 1839
 
 <img alt="2013-01-03 12.15.18" src="/wp-content/uploads/2013/01/2013-01-03-12.15.18.jpg" width="100%" height="auto" />
-Mile de Verchères &#8211; Louis-Pholilippe Hébert, ~1907
+Mile de Verchères - Louis-Pholilippe Hébert, ~1907
 
 {% include youtube_player.html id='FlXChZhZpR0' %}
-Wo bist De, Edison, &#8230;? Hanging Lamp &#8211; Ingo Maurer GmbH, 1997
+Wo bist De, Edison, ...? Hanging Lamp - Ingo Maurer GmbH, 1997

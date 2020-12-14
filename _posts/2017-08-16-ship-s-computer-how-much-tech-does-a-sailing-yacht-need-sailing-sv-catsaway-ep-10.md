@@ -17,14 +17,14 @@ tags:
 
 
 
-We updated the ship’s technology including;
- - Raspberry Pi running a Rails app as the Ship’s Computer
+We updated the ship's technology including;
+ - Raspberry Pi running a Rails app as the Ship's Computer
  - Outernet receiver for weather at sea
  - Find me Spot to report ships current location
- - vYacht to connect to the Ship’s instruments
+ - vYacht to connect to the Ship's instruments
  - And an EPIRB in case of emergency
 
-We attempted to create our own Seatalk cable in order to save some money. It worked for a little while but was constantly causing instrument errors when the boat moved. Diana and I are trekkies aso it was fun working on a Star Trek themed Ship’s Computer. I’ll enjoy continuing to work on that while we’re sailing at warp 0.00000000000001.
+We attempted to create our own Seatalk cable in order to save some money. It worked for a little while but was constantly causing instrument errors when the boat moved. Diana and I are trekkies aso it was fun working on a Star Trek themed Ship's Computer. I'll enjoy continuing to work on that while we're sailing at warp 0.00000000000001.
 
 https://github.com/ShipsComputer/ComputerCore
 https://outernet.is/
@@ -37,7 +37,7 @@ LCARS-SDK front end https://github.com/Aricwithana/LCARS-SDK
 Earth weather visualization https://github.com/cambecc/earth
 
 Credits:
-“Invisible” by Vibe Tracks
+"Invisible" by Vibe Tracks
 
 Social Media:
 instagram.com/svcatsaway

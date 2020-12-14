@@ -21,20 +21,20 @@ This week, we leave Cat Island and travel to Eleuthera.
 
 Due to light winds, we ended up stopping in Little San Salvador for one night.  We were trawling lines behind us and both lines went off at the same time; rewarding us with two bar jacks.  We gave the larger one to Jennabird and ate the smaller one + lobster that evening.  Delicious!  Little San Salvador is very commercialized; the cruise lines use it as a stop along the way.  Plastic huts line the shores, along with a bar that looks like a shipwreck.  Cruisers are asked to stay on their boats until the cruise ship has departed.  Cruisers are meant to ask permission before landing on shore and walking on the beaches.
 
-The next day we had a slow downwind sail to the southern tip of Eleuthera.  This was one of the most beautiful anchorages we had visited.  Crystal clear water surrounded by pink sand beaches and massive limestone caverns made for stunning surroundings.  We would have loved to stay there longer, except the winds weren’t quite in our favour and we were getting rolled beamside.  We left early the next morning for Rock Sound.
+The next day we had a slow downwind sail to the southern tip of Eleuthera.  This was one of the most beautiful anchorages we had visited.  Crystal clear water surrounded by pink sand beaches and massive limestone caverns made for stunning surroundings.  We would have loved to stay there longer, except the winds weren't quite in our favour and we were getting rolled beamside.  We left early the next morning for Rock Sound.
 
 The settlement of Rock Sound was very sweet.  The people are very friendly and the town offers several restaurants, grocery stores and most importantly - a laundromat!  Time to do laundry; we had only hand washed clothes for the previous 6 weeks.  Fresh sheets felt amazing!!  Rock Sound is also home to natural attractions such as the Ocean Hole and the Cathedral Cavern.  We met some new friends in Rock Sound and also were surprised by some older friends - Providence and Life of Chill.  We had a fun dinghy drift on our last evening there, before gathering for drinks on Providence.
 
-We left Rock Sound to visit Governor’s Harbour.   After a slow start, the wind finally picked up for us to fly into the anchorage.  After trying six times to anchor, we finally pulled back hard and thought our anchor was set.  Wrong!  Our friend Phil from Tanager dove on his anchor and informed us that our anchor was caught on an old mooring block.  Greg dove on it the next day and found a mess - anchor on a mooring block, chain just overtop of electrical cable, coral and underneath some sponges.  He ended up manually resetting the anchor before pulling back on it with our dinghy.  
+We left Rock Sound to visit Governor's Harbour.   After a slow start, the wind finally picked up for us to fly into the anchorage.  After trying six times to anchor, we finally pulled back hard and thought our anchor was set.  Wrong!  Our friend Phil from Tanager dove on his anchor and informed us that our anchor was caught on an old mooring block.  Greg dove on it the next day and found a mess - anchor on a mooring block, chain just overtop of electrical cable, coral and underneath some sponges.  He ended up manually resetting the anchor before pulling back on it with our dinghy.  
 
-We really enjoyed Governor’s Harbour, it was a beautiful area to explore.  Unfortunately some high winds were expected and we didn’t trust the holding there, so we departed for Hatchet Bay.  En route, we were visited by some friendly dolphins who were disappointed by our lack of speed.  Time to scrub the bottom!!
+We really enjoyed Governor's Harbour, it was a beautiful area to explore.  Unfortunately some high winds were expected and we didn't trust the holding there, so we departed for Hatchet Bay.  En route, we were visited by some friendly dolphins who were disappointed by our lack of speed.  Time to scrub the bottom!!
 
 Credits:
-“Conjuto Grande” by Biz Baz Studio
-“Splashing Around” by The Green Orbs
-“Entire” by Quincas Moreira
-“Natural” by Endless Love
-“Lazy River Rag” by Dan Lebowitz
+"Conjuto Grande" by Biz Baz Studio
+"Splashing Around" by The Green Orbs
+"Entire" by Quincas Moreira
+"Natural" by Endless Love
+"Lazy River Rag" by Dan Lebowitz
 
 Social Media:
 instagram.com/svcatsaway

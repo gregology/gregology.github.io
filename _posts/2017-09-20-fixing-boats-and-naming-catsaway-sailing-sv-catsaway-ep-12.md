@@ -39,7 +39,7 @@ https://facebook.com/SVCatsaway
 https://twitter.com/SVCatsaway
 
 Credits:
-“Coffee Stains” by Riot
-“Feeling Sunny” by Scott Holmes
-“Life of Riley” by Kevin MacLeod
+"Coffee Stains" by Riot
+"Feeling Sunny" by Scott Holmes
+"Life of Riley" by Kevin MacLeod
 

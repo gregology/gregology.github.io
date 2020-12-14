@@ -30,7 +30,7 @@ tags:
   Her bum kind of looked like Jesus.
   <img title="Jesus bum" src="/wp-content/uploads/2011/06/Jesus-bum.gif" alt="" width="100%" height="auto" />
 
-  I put up some &#8220;Puppy Found&#8221; notices and then I let her sleep in my bed.
+  I put up some "Puppy Found" notices and then I let her sleep in my bed.
   <img title="Puppy on Bed" src="/wp-content/uploads/2011/06/IMAG0160.jpg" alt="" width="100%" height="auto" />
 
   The next day I took her to the local vet and her owner picked her up.

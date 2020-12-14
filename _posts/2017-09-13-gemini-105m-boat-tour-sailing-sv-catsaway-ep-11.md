@@ -23,7 +23,7 @@ We live on a 1998 Gemini 105M (Hull 605) named Catsaway.   She is 34 feet long (
 
 She has three bunks - two aft bunks in each hull, plus a large master in the forward section of the boat.  Each aft bunk fits a small double mattress, while the master is somewhere between a large queen or a small king size bed.  The master bedroom has forward looking windows that are great for letting the sun in during sunrise, or stargazing at night.  It also has a hatch to keep air flowing.
 
-The main seating area is spacious and well planned out.  We can comfortably sit 4 people, but can easily squish in 6-7.  Our table folds out for extra space.  We have two hatches in here that let in a lot of light and air.  There are also two windows between the seating area and the master bunks.  Our kitties like to jump in and out of these windows to get from room to room, so we have learned to close them at night if we don’t want a cat landing on our faces!
+The main seating area is spacious and well planned out.  We can comfortably sit 4 people, but can easily squish in 6-7.  Our table folds out for extra space.  We have two hatches in here that let in a lot of light and air.  There are also two windows between the seating area and the master bunks.  Our kitties like to jump in and out of these windows to get from room to room, so we have learned to close them at night if we don't want a cat landing on our faces!
 
 The head is located in the port hull.  Our batteries are also on this side, including two large house batteries that hold 5kwh.  We had to relocate the house batteries into the closet of our port aft bunk.  There are storage lockers on both sides of this hull, so we keep tools in one side and cleaning supplies in the other.
 
@@ -31,9 +31,9 @@ The galley is located in the starboard hull.  It has two propane burners, a smal
 
 Our centreboards are accessed through a nut in each hull.
 
-The cockpit is square and has two levels of seating.  Our captain’s chair fits two (as long as you like each other), and is padded and comfortable for long hauls.  Behind the cockpit, we have our dinghy davits, on top of which sits a 315W Canadian Solar panel.
+The cockpit is square and has two levels of seating.  Our captain's chair fits two (as long as you like each other), and is padded and comfortable for long hauls.  Behind the cockpit, we have our dinghy davits, on top of which sits a 315W Canadian Solar panel.
 
-At first when we started sailing our Gemini, we weren’t thrilled with the visibility from the cockpit.  However, over time, we have really appreciated the sheltered nature of the hard bimini and not having wind and sun in our faces all the time.
+At first when we started sailing our Gemini, we weren't thrilled with the visibility from the cockpit.  However, over time, we have really appreciated the sheltered nature of the hard bimini and not having wind and sun in our faces all the time.
 
 We hope this gives you an idea of our boat!
 

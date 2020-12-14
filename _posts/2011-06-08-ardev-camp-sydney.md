@@ -1,5 +1,5 @@
 ---
-title: 'ARDEV Camp Sydney'
+title: "ARDEV Camp Sydney"
 author: Greg
 layout: post
 permalink: /2011/06/ardev-camp-sydney/
@@ -11,7 +11,7 @@ tags:
   - ardevcamp
   - augmented reality
 ---
-I&#8217;m currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I&#8217;ll edit this post during the day as new interesting things come up :)
+I'm currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I'll edit this post during the day as new interesting things come up :)
 
 **Links**
 

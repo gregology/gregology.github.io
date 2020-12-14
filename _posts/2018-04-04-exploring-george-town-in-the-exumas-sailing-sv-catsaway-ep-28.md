@@ -30,11 +30,11 @@ Our friends from Seas Life (for Good - check our their vlog!) and Intrepid helpe
 Special thanks to Harry and Alicia on Jennabird for video footage.
 
 Credits:
-“Despacito” cover by Brigit O’Regan https://youtu.be/0SEwUZzJhOc
+"Despacito" cover by Brigit O'Regan https://youtu.be/0SEwUZzJhOc
 Youtube: Brigit O'Regan
 Instagram: @brigitfiddle
 
-“Despacito” cover by Cats (Varieties of the world) https://youtu.be/vbDNYHG7NKg
+"Despacito" cover by Cats (Varieties of the world) https://youtu.be/vbDNYHG7NKg
 
-“Kick this City” by Kara Keith https://soundcloud.com/userkarakeith/kickthiscity?in=userkarakeith/sets/kkep_2007
+"Kick this City" by Kara Keith https://soundcloud.com/userkarakeith/kickthiscity?in=userkarakeith/sets/kkep_2007
 

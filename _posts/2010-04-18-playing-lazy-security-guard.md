@@ -14,13 +14,13 @@ tags:
   - spy
   - webcam
 ---
-Have you ever wanted to play lazy arse security guard? The kind that doesn&#8217;t even leave his chair? By googling *inurl:”viewerframe?mode=motion”* you can! *&#8220;viewerframe?mode=motion&#8221;* is used in the urls of a massive amount of controllable webcams and the *inurl:* query searches for urls which contain it. Google, science bless it, has found a lot of them. Here are my favourites:
+Have you ever wanted to play lazy arse security guard? The kind that doesn't even leave his chair? By googling *inurl:"viewerframe?mode=motion"* you can! *"viewerframe?mode=motion"* is used in the urls of a massive amount of controllable webcams and the *inurl:* query searches for urls which contain it. Google, science bless it, has found a lot of them. Here are my favourites:
 
-[South Club Marina][1] &#8211; You can watch the sunrise at a reasonable hour and zoom in on peoples boats.
+[South Club Marina][1] - You can watch the sunrise at a reasonable hour and zoom in on peoples boats.
 
-[Some Loch][2] &#8211; I&#8217;m pretty sure this is some sort of loch, I&#8217;ve seen trams in the back ground too.
+[Some Loch][2] - I'm pretty sure this is some sort of loch, I've seen trams in the back ground too.
 
-[Pretty cityscape][3] &#8211; I&#8217;m not sure where this is but it&#8217;s kind of pretty at night, this camera has crazy zooming abilities.
+[Pretty cityscape][3] - I'm not sure where this is but it's kind of pretty at night, this camera has crazy zooming abilities.
 
 If you find any other cool ones, drop me a line :)
 

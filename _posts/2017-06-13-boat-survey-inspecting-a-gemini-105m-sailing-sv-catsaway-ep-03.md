@@ -37,8 +37,8 @@ Thanks for watching!
 The crew of SV Catsaway (Diana, Greg, Jazz and Hercie)
  
 Credits:
-“Super Friendly” by Dave Depper
-“Lucky Me” by Scott Holmes
-“Summer Fun” by Scott Holmes
-Intro video “Waves In Sunset” from Videezy.com
+"Super Friendly" by Dave Depper
+"Lucky Me" by Scott Holmes
+"Summer Fun" by Scott Holmes
+Intro video "Waves In Sunset" from Videezy.com
 

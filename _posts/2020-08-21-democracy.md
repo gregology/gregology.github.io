@@ -58,7 +58,7 @@ Indexes are composed from the following indicators estimated by experts in each 
 5. Foreign powers and organisations do not determine important government functions or policies.
 6. Do special economic, religious or other powerful domestic groups exercise significant political power, parallel to democratic institutions?
 7. Are sufficient mechanisms and institutions in place for ensuring government accountability to the electorate in between elections?
-8. Does the government’s authority extend over the full territory of the country?
+8. Does the government's authority extend over the full territory of the country?
 9. Is the functioning of government open and transparent, with sufficient public access to information?
 10. How pervasive is corruption?
 11. Is the civil service willing to and capable of implementing government policy?
@@ -71,7 +71,7 @@ Indexes are composed from the following indicators estimated by experts in each 
 2. Do ethnic, religious and other minorities have a reasonable degree of autonomy and voice in the political process?
 3. Women in parliament.
 4. Extent of political participation. Membership of political parties and political non-governmental organisations.
-5. Citizens’ engagement with politics
+5. Citizens' engagement with politics
 6. The preparedness of population to take part in lawful demonstrations.
 7. Adult literacy
 8. Extent to which adult population shows an interest in and follows politics in the news.
@@ -103,25 +103,25 @@ Indexes are composed from the following indicators estimated by experts in each 
 13. Extent to which private property rights are protected and private business is free from undue government influence.
 14. Extent to which citizens enjoy personal freedoms. Consider gender equality, right to travel, choice of work and study.
 15. Popular perceptions on protection of human rights; proportion of the population that think that basic human rights are well-protected.
-16. There is no significant discrimination on the basis of people’s race, colour or religious beliefs.
+16. There is no significant discrimination on the basis of people's race, colour or religious beliefs.
 17. Extent to which the government invokes new risks and threats as an excuse for curbing civil liberties.
 
 Further details of the model are on page 55 of The Economist Intelligence Unit's [Democracy Index 2019](/wp-content/uploads/2020/08/Democracy-Index-2019.pdf) publication.
 
 ### Sources
 
- - [The Economist Intelligence Unit’s Democracy Index 2006](https://www.economist.com/media/pdf/DEMOCRACY_INDEX_2007_v3.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2008](http://graphics.eiu.com/pdf/democracy%20index%202008.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2010](https://graphics.eiu.com/PDF/Democracy_Index_2010_web.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2011](https://www.sida.se/globalassets/global/about-sida/sa-arbetar-vi/eiu_democracy_index_dec2011.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2012](https://archive.org/details/F6465DemocracyIndex2012/page/n0)
- - [The Economist Intelligence Unit’s Democracy Index 2013](https://siyosat.files.wordpress.com/2014/10/democracy_index_2013_web-2.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2014](https://www.sudestada.com.uy/Content/Articles/421a313a-d58f-462e-9b24-2504a37f6b56/Democracy-index-2014.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2015](https://www.yabiladi.com/img/content/EIU-Democracy-Index-2015.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2016](https://www.documentcloud.org/documents/3673454-Democracy-Index-2016.html)
- - [The Economist Intelligence Unit’s Democracy Index 2017](https://pages.eiu.com/rs/753-RIQ-438/images/Democracy_Index_2017.pdf)
- - [The Economist Intelligence Unit’s Democracy Index 2018](https://www.eiu.com/topic/democracy-index)
- - [The Economist Intelligence Unit’s Democracy Index 2019](http://www.eiu.com/Handlers/WhitepaperHandler.ashx?fi=Democracy-Index-2019.pdf&mode=wp&campaignid=democracyindex2019)
+ - [The Economist Intelligence Unit's Democracy Index 2006](https://www.economist.com/media/pdf/DEMOCRACY_INDEX_2007_v3.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2008](http://graphics.eiu.com/pdf/democracy%20index%202008.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2010](https://graphics.eiu.com/PDF/Democracy_Index_2010_web.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2011](https://www.sida.se/globalassets/global/about-sida/sa-arbetar-vi/eiu_democracy_index_dec2011.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2012](https://archive.org/details/F6465DemocracyIndex2012/page/n0)
+ - [The Economist Intelligence Unit's Democracy Index 2013](https://siyosat.files.wordpress.com/2014/10/democracy_index_2013_web-2.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2014](https://www.sudestada.com.uy/Content/Articles/421a313a-d58f-462e-9b24-2504a37f6b56/Democracy-index-2014.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2015](https://www.yabiladi.com/img/content/EIU-Democracy-Index-2015.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2016](https://www.documentcloud.org/documents/3673454-Democracy-Index-2016.html)
+ - [The Economist Intelligence Unit's Democracy Index 2017](https://pages.eiu.com/rs/753-RIQ-438/images/Democracy_Index_2017.pdf)
+ - [The Economist Intelligence Unit's Democracy Index 2018](https://www.eiu.com/topic/democracy-index)
+ - [The Economist Intelligence Unit's Democracy Index 2019](http://www.eiu.com/Handlers/WhitepaperHandler.ashx?fi=Democracy-Index-2019.pdf&mode=wp&campaignid=democracyindex2019)
 
 [EIU-Democracy Indices Dataset - v3 via Gapminder](https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE/edit#gid=935776888) ([mirror](https://docs.google.com/spreadsheets/d/1oBib9N6fJv-pWIqsShweCUFaZIiqhxqDnbGIZyDjNbs/edit?usp=sharing)) is a well organised Democracy Index dataset if you want to explore.
 

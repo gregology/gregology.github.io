@@ -7,4 +7,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-Adrian and i drove to his father&#8217;s holiday house in Lugano and Everlean trained down after work. It&#8217;s the &#8220;hot&#8221; part to Switzerland :)
+Adrian and i drove to his father's holiday house in Lugano and Everlean trained down after work. It's the "hot" part to Switzerland :)

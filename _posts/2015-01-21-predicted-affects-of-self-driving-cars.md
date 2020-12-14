@@ -33,7 +33,7 @@ As we move towards a [post-scarcity economy][4] prime land will be one of the f
 
 ### Humans are not feasible drivers
 
-Millions of humans make their living driving and because of that millions of humans also die. Approximately 1.24 million deaths occurred on the world’s roads in 2010 (WHO, ed., 2013), about 3400 a day. Lots of people will loose their jobs but lots of people will keep their lives.
+Millions of humans make their living driving and because of that millions of humans also die. Approximately 1.24 million deaths occurred on the world's roads in 2010 (WHO, ed., 2013), about 3400 a day. Lots of people will loose their jobs but lots of people will keep their lives.
 
 ### Insurance and risk
 
@@ -41,7 +41,7 @@ Insurance will be a key driving factor in the adoption of self driving cars. The
 
 <img class="alignnone size-large wp-image-1453" src="/wp-content/uploads/2015/01/knight-rider.jpg" alt="Kitt - Knight Rider" width="100%" height="auto" />
 
-WHO, ed. (2013). <a class="external text" href="http://www.who.int/iris/bitstream/10665/78256/1/9789241564564_eng.pdf" rel="nofollow">&#8220;Global Status Report on Road Safety 2013: supporting a decade of action&#8221;</a> (PDF) (official report). Geneva, Switzerland: World Health Organisation (WHO). pp. vii, 1–8, 53ff (countries), 244–251 (table A2), 296–303 (table A10). [ISBN][6] [978 92 4 156456 4][7]<span class="reference-accessdate">. Retrieved<span class="nowrap">2014-05-30</span></span>. <q>Tables A2 & A10, data from 2010</q>
+WHO, ed. (2013). <a class="external text" href="http://www.who.int/iris/bitstream/10665/78256/1/9789241564564_eng.pdf" rel="nofollow">"Global Status Report on Road Safety 2013: supporting a decade of action"</a> (PDF) (official report). Geneva, Switzerland: World Health Organisation (WHO). pp. vii, 1–8, 53ff (countries), 244–251 (table A2), 296–303 (table A10). [ISBN][6] [978 92 4 156456 4][7]<span class="reference-accessdate">. Retrieved<span class="nowrap">2014-05-30</span></span>. <q>Tables A2 & A10, data from 2010</q>
 
 <a class="external text" href="https://treaties.un.org/pages/showDetails.aspx?objid=08000002800fcf87" rel="nofollow"><i>Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs)</i></a>, from the IMO (The International Maritime Organisation). Retrieved 13 February 2006.
 

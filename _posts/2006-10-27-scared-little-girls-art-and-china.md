@@ -10,8 +10,8 @@ categories:
   - News
   - Work
 ---
-On my round today I came across a little girl standing next to a letter box. I rode up to her to give her the mail and maybe I was going a little fast but she cowered as I beard down on her. It made me feel like God, I fed on her fear, is that sick? Once I stopped she moved her hands away from her face and smiled. I gave her the mail and she then she decided to tell me all about her living arrangements. She was a little chubby so I didn’t believe her.
+On my round today I came across a little girl standing next to a letter box. I rode up to her to give her the mail and maybe I was going a little fast but she cowered as I beard down on her. It made me feel like God, I fed on her fear, is that sick? Once I stopped she moved her hands away from her face and smiled. I gave her the mail and she then she decided to tell me all about her living arrangements. She was a little chubby so I didn't believe her.
 
-My dad bought me an art work from China (He went there to see his fiancée, he’s going for number 3). It’s a hologram of a dog wearing glasses in a frame. I don’t really like it as the description my allude :( He doesn’t know me very well and I think art is quite personal. I think I’ll eBay it, am I a bad person? He offered to buy me some clothes. I quickly told him no thank you.
+My dad bought me an art work from China (He went there to see his fiancée, he's going for number 3). It's a hologram of a dog wearing glasses in a frame. I don't really like it as the description my allude :( He doesn't know me very well and I think art is quite personal. I think I'll eBay it, am I a bad person? He offered to buy me some clothes. I quickly told him no thank you.
 
-I found out today that when I get on my new beat I&#8217;ll be rostered to finish at 10:30 4 days a week 😀 YAY for me. Plus it&#8217;s a business beat so when Christmas comes round there will be hardly any mail so I&#8217;ll be able to finish very early and still get paid for my rostered hours :) Genius!
+I found out today that when I get on my new beat I'll be rostered to finish at 10:30 4 days a week 😀 YAY for me. Plus it's a business beat so when Christmas comes round there will be hardly any mail so I'll be able to finish very early and still get paid for my rostered hours :) Genius!

@@ -19,11 +19,11 @@ tags:
 
 This week we move onto the boat, travel to Oswego and get bounced back to Canada.
 
-The last couple weeks in Ottawa were a whirlwind of activity - getting the solar system installed on the boat, trying to get a renter for the house, finishing up work, packing the house away, saying goodbye to friends and family, cleaning up the house and setting up an AirBnb.  Finally the house was clean, thanks to a lot of help from Diana’s parents, Charles and Soph. :)  The kitties were distressed the entire time, as we think they suspected change was on the horizon.
+The last couple weeks in Ottawa were a whirlwind of activity - getting the solar system installed on the boat, trying to get a renter for the house, finishing up work, packing the house away, saying goodbye to friends and family, cleaning up the house and setting up an AirBnb.  Finally the house was clean, thanks to a lot of help from Diana's parents, Charles and Soph. :)  The kitties were distressed the entire time, as we think they suspected change was on the horizon.
 
-It was a cool and rainy day when we drove to the boat.  Diana’s parents helped us take a carload of things.  The cats took a while to settle down, as there were new smells and a lot of new noises to get used to.  The first couple of days on the boat happened to be very windy as well - so they had more than their fair share of halyards slapping and other noises.
+It was a cool and rainy day when we drove to the boat.  Diana's parents helped us take a carload of things.  The cats took a while to settle down, as there were new smells and a lot of new noises to get used to.  The first couple of days on the boat happened to be very windy as well - so they had more than their fair share of halyards slapping and other noises.
 
-After a few days, the cats were accustomed to their new surroundings and relaxed.  We decided to start the engine and drive to the gas dock - a short journey for their first time moving the boat.  Jazz didn’t like the engine starting (no surprise there!), but Hercie was fine.  Jazz came out of her blanket cocoon when we got to the gas dock.  
+After a few days, the cats were accustomed to their new surroundings and relaxed.  We decided to start the engine and drive to the gas dock - a short journey for their first time moving the boat.  Jazz didn't like the engine starting (no surprise there!), but Hercie was fine.  Jazz came out of her blanket cocoon when we got to the gas dock.  
 
 We had been checking the winds for several days to see when would be the best time to go to Oswego.  Thursday and Friday seemed like good winds, so we would get good speed.  Unfortunately, a storm system that was supposed to pass south of us ended up swinging north and gave us more than we had planned.  After motoring through a squall and having engine problems, we decided to duck into Henderson Bay until the system passed.
 
@@ -31,9 +31,9 @@ Henderson Bay was a great place to relax and tune out from the world.  Neither o
 
 A couple of days later, we left Henderson Bay for Oswego.  We checked into U.S. Customs on Saturday afternoon and were told that we had to call the Syracuse office for our cruising permit on Monday morning.  We got ready to unstep the mast by taking down the sails and boom, and loosening our baby stays.  Then we decided to explore Oswego!
 
-Oswego is a beautiful little city, overlooking Lake Ontario.  It hosts lovely architecture, parks and a picturesque downtown.  Known as the Port City of New York, it has mottos such as, “Where the Water Never Ends” and “Cool by Nature”.  We biked around visiting coffee shops, the canal, and Fort Ontario.
+Oswego is a beautiful little city, overlooking Lake Ontario.  It hosts lovely architecture, parks and a picturesque downtown.  Known as the Port City of New York, it has mottos such as, "Where the Water Never Ends" and "Cool by Nature".  We biked around visiting coffee shops, the canal, and Fort Ontario.
 
-We were also lucky enough to meet up with a Facebook friend.  Jillian and her family were so generous to us - they treated us to dinner and even lent us their car to go grocery shopping!  We were overwhelmed by their kindness.  If this is what we can expect from the cruising community going forward, we’re in excellent hands. :)
+We were also lucky enough to meet up with a Facebook friend.  Jillian and her family were so generous to us - they treated us to dinner and even lent us their car to go grocery shopping!  We were overwhelmed by their kindness.  If this is what we can expect from the cruising community going forward, we're in excellent hands. :)
 
 Bright and early on Monday morning, we docked the boat by the crane to unstep the mast.  It was at that moment that the Customs and Border Protection (CBP) Officers came to inspect our boat.  Though nothing was wrong with our boat, it seems that they wanted Greg to have a very specific visa (instead of a Nexus card and an I-94), before granting us our cruising permit.  In order to obtain the visa, we had to head back to Ottawa to apply at the American Embassy - back to Canada we went!
 
@@ -42,10 +42,10 @@ We had to rush to put our sails back up before heading out.  It was a good thing
 Next week - we hustle to get our documents in order!
 
 Credits:
-“Yesterday” by Jahzzar
+"Yesterday" by Jahzzar
 http://freemusicarchive.org/music/Jahzzar/Come/yesterday
 
-“Skip in my Step” by Scott Holmes
+"Skip in my Step" by Scott Holmes
 
 We now have a live map on our website!
 www.SVCatsaway.com

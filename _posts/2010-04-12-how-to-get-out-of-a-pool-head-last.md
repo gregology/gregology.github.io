@@ -17,7 +17,7 @@ tags:
 Step one: Position yourself with one hand on the rim of the pool, try to close your nostrils.
 
 <img src="/wp-content/uploads/2010/04/2.jpg" alt="Step 2" width="100%" height="auto"/></a>
-Step 2: Push your legs back as far as possible, don&#8217;t breathe in yet.
+Step 2: Push your legs back as far as possible, don't breathe in yet.
 
 <img src="/wp-content/uploads/2010/04/3.jpg" alt="Step 3" width="100%" height="auto" />
 Step 3: Straighten legs and clasp rim with other hand

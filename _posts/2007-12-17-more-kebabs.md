@@ -15,4 +15,4 @@ Georgios vroutos (1843-1909), cupid breaking his bow, marble, inv. No. 5276
 Leonidas drosis (1834-1882), penelope, 1873, marble, donation of the palace, inv. No. 508  
 Konstantinos parthenis (1878-1967), christ, c. 1900, donation of national bank of greece, inv. No. 522
 
-Next on my to do list was the national archaeological museum. There were some amazing pieces there and lots of accompanying English information to explain the view. I made sure I&#8217;d passed every piece to get my 3e worth then headed back to my dodge hostel via the corner store for another kebab, this time chicken.
+Next on my to do list was the national archaeological museum. There were some amazing pieces there and lots of accompanying English information to explain the view. I made sure I'd passed every piece to get my 3e worth then headed back to my dodge hostel via the corner store for another kebab, this time chicken.

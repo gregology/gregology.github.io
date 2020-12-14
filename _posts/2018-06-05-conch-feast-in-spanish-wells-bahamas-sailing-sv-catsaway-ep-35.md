@@ -17,7 +17,7 @@ tags:
 
 
 
-We left Hatchet Bay and traverse Current Cut on our way to Spanish Wells.  Current cut is aptly named, as the current can be fierce through the cut - up to 10 knots.  Ideally we would have traversed it at slack tide with an opposing current to assist steering, but we were still limited in our use of the engine, so we sailed through on a downwind run.  Even though we were only going 2 knots through the water, our speed over ground was over 6 knots; we had 4 knots of current with us.  We timed slack tide off of Nassau’s tide table and added a couple of hours (it’s stated in Active Captain).  However, because we had scrubbed the bottom in the previous episode, Catsaway flew along - and we reached the cut too quickly!  It all ended well, however. :)
+We left Hatchet Bay and traverse Current Cut on our way to Spanish Wells.  Current cut is aptly named, as the current can be fierce through the cut - up to 10 knots.  Ideally we would have traversed it at slack tide with an opposing current to assist steering, but we were still limited in our use of the engine, so we sailed through on a downwind run.  Even though we were only going 2 knots through the water, our speed over ground was over 6 knots; we had 4 knots of current with us.  We timed slack tide off of Nassau's tide table and added a couple of hours (it's stated in Active Captain).  However, because we had scrubbed the bottom in the previous episode, Catsaway flew along - and we reached the cut too quickly!  It all ended well, however. :)
 
 We turned north towards Spanish Wells and enjoyed some fantastic upwind sailing.  Winds were between 15-24 apparent and Catsaway flew along since the sea state was minimal.  We motored through the town and then anchored on the north east side of the island.  We were joined by friends on Jennabird, Laura Belle, St. Nick, and Barefoot Adventures.  Laura Belle unfortunately grounded making her way into the anchorage, but we were able to assist her by pulling the halyard until the boat heeled.
 
@@ -27,7 +27,7 @@ We were forecasted to get some heavy weather while we were there and for once, t
 
 We tried several methods of harvesting the conch without damaging the shell.  First was freezing the conch (which we had done in a previous episode).  This should have worked except that we were too eager when pulling the conch out and the claw ripped off.  We ended up using two forks to pry the rest of the animal out.  
 
-Next, we tried pouring vodka in the conch.  This method is supposed to relax the conch into releasing the foot.  Unfortunately it seemed to make them even stronger!  We resorted to the freezer method once again.  We tried a noose method, but the conch would just pull it’s claw out of the noose and fall to the floor.  Apparently you’re supposed to use a fish hook, but that seemed a little cruel.
+Next, we tried pouring vodka in the conch.  This method is supposed to relax the conch into releasing the foot.  Unfortunately it seemed to make them even stronger!  We resorted to the freezer method once again.  We tried a noose method, but the conch would just pull it's claw out of the noose and fall to the floor.  Apparently you're supposed to use a fish hook, but that seemed a little cruel.
 
 Once we had all the animals out, we had to clean and prepare the conch, which includes cutting off the foot and the head, and skinning the animal.  We then chopped it up into very fine pieces for the fritters.  We made a dipping sauce out of mayo, mustard, lemon juice, sriracha and spices and it was delicious with our golden brown fritters.  Thanks for the recipe, Gayle!
 
@@ -40,5 +40,5 @@ Drone Footage:
 Eleuthera Bahamas - https://youtu.be/BuSF7cUt6JU
 Bahamas Sotheby's International Realty - https://youtu.be/brSPDF1EkSU
 
-“Swipesy Cakewalk” by E’s Jammy Jams
-“Everybody’s Game” by Kara Keith
+"Swipesy Cakewalk" by E's Jammy Jams
+"Everybody's Game" by Kara Keith

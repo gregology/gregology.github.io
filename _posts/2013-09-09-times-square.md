@@ -11,9 +11,9 @@ tags:
   - travel
   - USA
 ---
-What is this madness? I&#8217;m standing in Times Square people watching in the glow of advertising waiting for something to happen. It&#8217;s then that I realised the advertising was the show. A conversation sparked with a lovely trio of Scots who were as bemused as me. Their genuine interest in me was refreshing. When we parted one of them motherly reached out and squeezed my hand. It made me feel less lonely here.
+What is this madness? I'm standing in Times Square people watching in the glow of advertising waiting for something to happen. It's then that I realised the advertising was the show. A conversation sparked with a lovely trio of Scots who were as bemused as me. Their genuine interest in me was refreshing. When we parted one of them motherly reached out and squeezed my hand. It made me feel less lonely here.
 
-Eleven hours of train and I&#8217;ve arrived in NYC from Montréal. As always I had a wonderful time in MTL, some acroyoga jamming at Ashtanga with acroyoga teacher training friends, then off to the Tam Tams where new friends we&#8217;re found. They invited me to a BBQ and I may have ruined Australia&#8217;s reputation as grill masters. But I had a wonderful time, some new Canadian beers, and met some really inspiring people.
+Eleven hours of train and I've arrived in NYC from Montréal. As always I had a wonderful time in MTL, some acroyoga jamming at Ashtanga with acroyoga teacher training friends, then off to the Tam Tams where new friends we're found. They invited me to a BBQ and I may have ruined Australia's reputation as grill masters. But I had a wonderful time, some new Canadian beers, and met some really inspiring people.
 
 It may be easier to scratch the surface of NYC once I lose this awkward backpack :)
 

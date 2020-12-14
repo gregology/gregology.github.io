@@ -7,4 +7,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-Transcend your physical body through your works. Da Vinci&#8217;s skills exists in the Mona Lisa, a part of him will exist while she does.
+Transcend your physical body through your works. Da Vinci's skills exists in the Mona Lisa, a part of him will exist while she does.

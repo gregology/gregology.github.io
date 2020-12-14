@@ -21,7 +21,7 @@ tags:
 [Chat Roulette][1] is a webcam chat site that matches you with a stranger. 25% of the time, the stranger is a guys waist but most of the time you get a face. I was getting bored with that so I decided to have a little bit of fun. I installed a virtual webcam ([Webcam Studio][2]) and downloaded webcam videos made by children on YouTube. Here are the results
 
 [<img title="chatroulettechild1" src="/wp-content/uploads/2010/04/child3.png" alt="" width="100%" height="auto"/>][3]  
-This guy asked if I was a virgin&#8230;
+This guy asked if I was a virgin...
 
 [<img title="chatroulettechild2" src="/wp-content/uploads/2010/04/child5.png" alt="" width="100%" height="auto"/>][4]  
 At least this guy kept his underwear on

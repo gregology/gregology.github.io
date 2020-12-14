@@ -10,7 +10,7 @@ tags:
   - canada
   - christmas
 ---
-Seven and a half weeks later, pretty much Canadian eh? Acro yoga, friendly work mates, and a lovely housemate have made settling in easy. Ottawa has a really nice outdoorsy vibe and now that I&#8217;m dressed appropriately I can enjoy it. Tomorrow I set off for Montréal for seven days staying at a hostel. Montréal is the acro yoga mecca and I&#8217;ll be meeting up for at least one class while I&#8217;m there. A picture tells a thousand words so here is 11 thousand words.
+Seven and a half weeks later, pretty much Canadian eh? Acro yoga, friendly work mates, and a lovely housemate have made settling in easy. Ottawa has a really nice outdoorsy vibe and now that I'm dressed appropriately I can enjoy it. Tomorrow I set off for Montréal for seven days staying at a hostel. Montréal is the acro yoga mecca and I'll be meeting up for at least one class while I'm there. A picture tells a thousand words so here is 11 thousand words.
 
 <div id='gallery-3' class='gallery galleryid-1241 gallery-columns-3 gallery-size-responsive-200'>
   <dl class='gallery-item'>

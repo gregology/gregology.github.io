@@ -21,7 +21,7 @@ This episode we leave Chesapeake City and continue heading south.
 
 Our first destination was Annapolis - we had heard many great things about the city that was known as the sailing capital of North America.  We had a great motor sail down the Chesapeake with our buddy boat Bandera.  We anchored in the Severn River and took the dinghy in to get tokens from the Harbourmaster (we desperately needed to do laundry and have showers).  Unfortunately we arrived too late to buy tokens, but a nice lady on a neighboring yacht let us borrow some of hers.  
 
-The next day we headed to Fawcett’s Boat Supplies to buy a sail repair kit, as our genoa had sustained damage in our rough sail between Atlantic City and Cape May.  We also took the opportunity to provision and check out the many sailing yachts that are kept in Back Creek.  We stopped by Helly Hansen to enhance our rain gear (Greg bought a jacket, Diana bought waterproof pants) and wandered around downtown Annapolis.  We treated ourselves to an all you can eat seafood and raw buffet - it was delicious!
+The next day we headed to Fawcett's Boat Supplies to buy a sail repair kit, as our genoa had sustained damage in our rough sail between Atlantic City and Cape May.  We also took the opportunity to provision and check out the many sailing yachts that are kept in Back Creek.  We stopped by Helly Hansen to enhance our rain gear (Greg bought a jacket, Diana bought waterproof pants) and wandered around downtown Annapolis.  We treated ourselves to an all you can eat seafood and raw buffet - it was delicious!
 
 We left Annapolis and traveled to St. Michaels, on the recommendation of a viewer.  It was a short sail over in light winds, and the weather was sunny and beautiful.  On the way over, we noticed we were out of propane, so our first priority upon reaching St. Michaels was to fill our tank.  Luckily Greg managed to find a place to fill it and we were back in business.  St. Michaels is a beautiful little town, with a lot to see and do.  We followed the crab walk, read up on some history, shopped and visited the winery.  The chocolate zinfandel is amazing! 
 
@@ -38,9 +38,9 @@ The following day we continued our journey to Elizabeth City.  We repaired our s
 Next episode we travel down the ICW and start heading to Florida.
 
 Credits:
-“Secret Conversations” by the 126ers
-“One More Chance” by Otis McDonald
-“Ukulele Beach” by Doug Maxwell
-“Every Cowboy” by Cellophone Sam
-“Sewing Song” from Junior on the Job
+"Secret Conversations" by the 126ers
+"One More Chance" by Otis McDonald
+"Ukulele Beach" by Doug Maxwell
+"Every Cowboy" by Cellophone Sam
+"Sewing Song" from Junior on the Job
 

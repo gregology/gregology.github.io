@@ -29,21 +29,21 @@ tags:
   - videos
   - YouTube
 ---
-Here are my favourite female artists I&#8217;ve found on YouTube.  
+Here are my favourite female artists I've found on YouTube.  
 The playlist:  
-1. Sia &#8211; You&#8217;ve Changed &#8211; USA (This is an awesome film clip so a good starting point)  
-2. Lisa Mitchell &#8211; Coin Laundry &#8211; Australia (I fell in love with Lisa after seeing this film clip, wow)  
-3. Carla Bruni &#8211; Quelqu&#8217;un m&#8217;a dit &#8211; France (She has some amazing songs and some amazing film clips)  
-4. Regina Spektor &#8211; On The Radio &#8211; USA (born in Russian SSR)  
-5. Soko &#8211; Dandy Cowboys &#8211; France (Soko really sums up crazy chicks, I love her. I really like the YouTube film clip too)  
-6. Alizée &#8211; J&#8217;en Ai Marre &#8211; France(wow, she&#8217;s very sexy but I&#8217;m still cultured by watching her because she&#8217;s French)  
-7. Peter, Bjorn & John &#8211; Young Folks &#8211; Sweden (I am aware the there is a male singer here too :) )  
-8. Camille &#8211; Ta Douleur &#8211; French (She mixes some really weird sounds)  
-9. Ladyhawke &#8211; Paris Is Burning &#8211; New Zealand (Pretty cool song)  
-10. Emilíana Torrini &#8211; Jungle Drum &#8211; Iceland (Good song, cool film clip)  
-11. Lily Allen &#8211; LDN &#8211; England (I find her really sexy for some reason, which I don&#8217;t understand because she&#8217;s not that attractive, she doesn&#8217;t hold her self well at all, and has an awful accent)  
-12. Katie Melua &#8211; Shy Boy &#8211; England (Born in Georgian SSR)
+1. Sia - You've Changed - USA (This is an awesome film clip so a good starting point)  
+2. Lisa Mitchell - Coin Laundry - Australia (I fell in love with Lisa after seeing this film clip, wow)  
+3. Carla Bruni - Quelqu'un m'a dit - France (She has some amazing songs and some amazing film clips)  
+4. Regina Spektor - On The Radio - USA (born in Russian SSR)  
+5. Soko - Dandy Cowboys - France (Soko really sums up crazy chicks, I love her. I really like the YouTube film clip too)  
+6. Alizée - J'en Ai Marre - France(wow, she's very sexy but I'm still cultured by watching her because she's French)  
+7. Peter, Bjorn & John - Young Folks - Sweden (I am aware the there is a male singer here too :) )  
+8. Camille - Ta Douleur - French (She mixes some really weird sounds)  
+9. Ladyhawke - Paris Is Burning - New Zealand (Pretty cool song)  
+10. Emilíana Torrini - Jungle Drum - Iceland (Good song, cool film clip)  
+11. Lily Allen - LDN - England (I find her really sexy for some reason, which I don't understand because she's not that attractive, she doesn't hold her self well at all, and has an awful accent)  
+12. Katie Melua - Shy Boy - England (Born in Georgian SSR)
 
-These are not in order of preference, just an order that I think will make them most enjoyable. These song are not necessarily my favourite song by each artist, again the song was chosen to fit into a playlist. Also, I&#8217;ve kept a few artists out of this list such as MIA, Blondie, Shakira, Lady Gaga, and Katy Perry because I didn&#8217;t want anyone knowing I was a fan :) If you know of any similar artists that I might like, please tell me in the comments.
+These are not in order of preference, just an order that I think will make them most enjoyable. These song are not necessarily my favourite song by each artist, again the song was chosen to fit into a playlist. Also, I've kept a few artists out of this list such as MIA, Blondie, Shakira, Lady Gaga, and Katy Perry because I didn't want anyone knowing I was a fan :) If you know of any similar artists that I might like, please tell me in the comments.
 
 Enjoy!

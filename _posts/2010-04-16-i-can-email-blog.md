@@ -9,4 +9,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-This is a test to see if I have setup the postie plugin correctly. If so I will be able to post via email. I won&#8217;t let anyone know what the email address for automatic posting is because that could be dangerous :)
+This is a test to see if I have setup the postie plugin correctly. If so I will be able to post via email. I won't let anyone know what the email address for automatic posting is because that could be dangerous :)

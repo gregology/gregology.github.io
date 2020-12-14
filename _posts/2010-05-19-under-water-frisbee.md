@@ -14,7 +14,7 @@ tags:
   - fun
   - sport
 ---
-FYI frisbee is yet another thing that doesn&#8217;t work under water :'(
+FYI frisbee is yet another thing that doesn't work under water :'(
 
 [<img src="/wp-content/uploads/2010/05/P1220067.resized.jpg" alt="" title="P1220067.resized" width="100%" height="auto" />][1]
 

@@ -7,4 +7,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-I&#8217;m sitting in a web cafe with 2 minutes left and I just wanted to say hello and left you know I&m safe and well :)
+I'm sitting in a web cafe with 2 minutes left and I just wanted to say hello and left you know I&m safe and well :)

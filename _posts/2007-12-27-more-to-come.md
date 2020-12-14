@@ -7,4 +7,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-I&#8217;ve been blogging from my pda on my travels so I have a lot of back logged blog entries to come :)
+I've been blogging from my pda on my travels so I have a lot of back logged blog entries to come :)

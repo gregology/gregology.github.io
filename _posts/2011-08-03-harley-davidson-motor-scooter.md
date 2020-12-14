@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    After a few hours in paint I had come up with this image &#8220;Harley-Davidson Motor Scooter&#8221;
+    After a few hours in paint I had come up with this image "Harley-Davidson Motor Scooter"
   </p>
 
   <p>
@@ -72,7 +72,7 @@ tags:
   </p>
 
   <p>
-    And when it&#8217;s dark it&#8217;s pretty hard to tell them apart. Other bikies have started nodding back, I&#8217;m like a real life bikie now
+    And when it's dark it's pretty hard to tell them apart. Other bikies have started nodding back, I'm like a real life bikie now
   </p>
 
   <p>

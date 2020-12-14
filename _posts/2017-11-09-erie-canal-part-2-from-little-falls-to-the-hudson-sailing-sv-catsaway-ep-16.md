@@ -21,7 +21,7 @@ This week the crew of SV Catsaway complete their journey on the Erie Canal.
 
 We left Little Falls and experienced the great lock 17, the highest lock on the Erie Canal.  With a descent of 40.5 feet, lock 17 took over from 5 older locks on the original Canal.  We felt like we were going down forever!  Also, this is the only lock to have a lifting door at the end - which means you get dripped on a bit. :/
 
-Our first stop was the village of Canajoharie.  The name of the village means, “The pot that washes itself” and was named after a natural phenomenon in the Canajoharie Gorge.  It looked like a hot tub that Mother Nature made.  Unfortunately there was no swimming; the gorge looked like a beautiful place to swim.  Canajoharie is also home to one of the only freestanding stop lights.
+Our first stop was the village of Canajoharie.  The name of the village means, "The pot that washes itself" and was named after a natural phenomenon in the Canajoharie Gorge.  It looked like a hot tub that Mother Nature made.  Unfortunately there was no swimming; the gorge looked like a beautiful place to swim.  Canajoharie is also home to one of the only freestanding stop lights.
 
 The city of Amsterdam is home to a beautiful new pedestrian bridge, and links up to lovely bike paths along the canal.  Follow the bike paths to experience Erie Canal history with original locks and the Schoharie Aqueduct.  It is wild to think that they built bridges for boats so many years ago, and that it was easier to build an aqueduct than traverse the rivers.  We were in Amsterdam during mid-autumn festival, so we ordered take out Chinese food to celebrate.  
 

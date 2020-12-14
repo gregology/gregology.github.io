@@ -39,7 +39,7 @@ Chief Petting Officer Jazz - A bulls eye tabby with a lot of spunk and fight in 
 Able SeaCat Hercules - An affectionate black kitty who loves unconditionally and is pretty chill about things - as long as his family is with him.
 
 Credits
-“Up In My Jam (All Of A Sudden)” by the talented Kubbi is licensed under a  Creative Commons License.
-“Waves and footprints” from opening scene is from the useful website Videezy.com
+"Up In My Jam (All Of A Sudden)" by the talented Kubbi is licensed under a  Creative Commons License.
+"Waves and footprints" from opening scene is from the useful website Videezy.com
 Special thanks to Ripple Training for the intro to Final Cut Pro - https://www.youtube.com/channel/UC-Qy-4esLdXmO1F6k5kz0Qg
 

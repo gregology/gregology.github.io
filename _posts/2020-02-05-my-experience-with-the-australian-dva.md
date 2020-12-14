@@ -71,18 +71,18 @@ I received a response the same day
 
 >Hi Greg
 >
->I’ve had a quick look into this (through your DVA file number, TSM06858) and unfortunately there’s no record in DVA logging systems of the ‘Mary’ you spoke with
+>I've had a quick look into this (through your DVA file number, TSM06858) and unfortunately there's no record in DVA logging systems of the ‘Mary' you spoke with
 >
 >Do you recall what area or section of DVA Mary was from?  It looks like you may have been assisted the second time by Bernadette of the Melbourne office?
 >
->I would like to pursue this matter on your behalf with Mary’s supervisor, but I need some more information I’m afraid as there are a lot of different Mary’s on staff (as you can imagine) …
+>I would like to pursue this matter on your behalf with Mary's supervisor, but I need some more information I'm afraid as there are a lot of different Mary's on staff (as you can imagine) …
 >
 >regards
 >David
 >
 >David ██████  
 >Feedback Management Officer  
->Department of Veterans’ Affairs
+>Department of Veterans' Affairs
 
 and responded
 
@@ -100,7 +100,7 @@ Received confirmation that my application had been received and was being proces
 
 >Dear Greg,
 >
->Thank you for your recent request to the Department of Veterans’ Affairs (DVA) for prior approval of treatment or services. Please log into your My Service Account as your letter has been sent to you.
+>Thank you for your recent request to the Department of Veterans' Affairs (DVA) for prior approval of treatment or services. Please log into your My Service Account as your letter has been sent to you.
 >
 >I will update you once I have more information. They have advised that you check you my service account regularly as they will be communicating with you there regarding your claims.
 >
@@ -120,7 +120,7 @@ Received an email saying my claim was being investigated. I was feeling positive
 >
 >DVA aims to finalise approximately 50% of cases within 100 days of lodgement, but it could also take longer, depending on the complexity of your claim.
 >
->(Please refer to link: https://www.dva.gov.au/about-dva/overview/dva-service-charter for more information regarding DVA’s Service Charter)
+>(Please refer to link: https://www.dva.gov.au/about-dva/overview/dva-service-charter for more information regarding DVA's Service Charter)
 >
 >Would you please be able to respond to this email to advise if you have seen or are currently seeing a Psychiatrist in regards to this claimed condition?
 >
@@ -130,8 +130,8 @@ Received an email saying my claim was being investigated. I was feeling positive
 >
 >Vijayata  
 >Delegate, Liability  
->Primary Claims | Clients’ Benefits | Sydney Office  
->Department of Veterans’ Affairs
+>Primary Claims | Clients' Benefits | Sydney Office  
+>Department of Veterans' Affairs
 
 There were a couple of emails back and forth that day, and we settled on having an assessment from a local psychiatrist.
 
@@ -141,16 +141,16 @@ Received an update a month later that the DVA was still trying to setup the appo
 
 >Good Morning Greg,
 >
->I’m just touching base to let you know that MLCOA is still in the process of liaising with their Canadian counterpart and arranging an appointment for you.
+>I'm just touching base to let you know that MLCOA is still in the process of liaising with their Canadian counterpart and arranging an appointment for you.
 >
->I’ll keep you updated.
+>I'll keep you updated.
 >
 >With Kind Regards,
 >
 >Vijayata  
 >Delegate, Liability  
->Primary Claims | Clients’ Benefits | Sydney Office  
->Department of Veterans’ Affairs
+>Primary Claims | Clients' Benefits | Sydney Office  
+>Department of Veterans' Affairs
 
 #### 20th of May, 2019 (Day 62)
 
@@ -158,9 +158,9 @@ Received this email about my claim.
 
 >Good morning Mr Clarke,
 >
->My name is Hugh ██████, from the Department of Veterans’ Affairs.
+>My name is Hugh ██████, from the Department of Veterans' Affairs.
 >
->I’m contacting you today as part of the MyService team to inform you that your claim, submitted 10/04/2019, had been stalled as a result of a technical issue on our end. This issue has since been identified and resolved, so your claim has moved on to being processed as a priority.
+>I'm contacting you today as part of the MyService team to inform you that your claim, submitted 10/04/2019, had been stalled as a result of a technical issue on our end. This issue has since been identified and resolved, so your claim has moved on to being processed as a priority.
 >
 >We apologise for any inconvenience in the delay.
 >
@@ -168,7 +168,7 @@ Received this email about my claim.
 >
 >Hugh ██████ | Administration Officer  
 >Digital Client Experience  
->Department of Veterans’ Affairs | www.dva.gov.au
+>Department of Veterans' Affairs | www.dva.gov.au
 
 #### 31st of May, 2019 (Day 73)
 
@@ -190,8 +190,8 @@ Received this follow up email about an appointment.
 >
 >Vijayata  
 >Delegate, Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 #### 1st of June, 2019 (Day 74)
 
@@ -213,9 +213,9 @@ Received another email with the incorrect date.
 >
 >The email I received from MLCOA read:
 >
->“Our sister company have advised that Dr ██████ is happy to accept this referral and has offered an appointment on Wednesday 5th July 2019 at 10am.
+>"Our sister company have advised that Dr ██████ is happy to accept this referral and has offered an appointment on Wednesday 5th July 2019 at 10am.
 >
->Can you please liaise with Mr Clarke to see if he is available to attend this appointment?”
+>Can you please liaise with Mr Clarke to see if he is available to attend this appointment?"
 >
 >The appointment would be 5th July 2019 at 10 am.
 >
@@ -225,8 +225,8 @@ Received another email with the incorrect date.
 >
 >Vijayata  
 >Delegate, Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 #### 3rd of June, 2019 (Day 76)
 
@@ -254,8 +254,8 @@ Correct date was confirmed.
 >
 >Vijayata  
 >Delegate, Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 #### 11th of June, 2019 (Day 84)
 
@@ -277,8 +277,8 @@ Received another email requesting that I confirm the same appointment again.
 >
 >Alicen  
 >Senior Delegate - Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 I quickly confirmed that I was still available
 
@@ -332,14 +332,14 @@ Received an apology with no explanation.
 >
 >I am liaising with MLCOA to get another appointment date for you.
 >
->I’ll keep you updated.
+>I'll keep you updated.
 >
 >With Kind Regards,
 >
 >Vijayata  
 >Delegate, Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 #### 9th of July, 2019 (Day 112)
 
@@ -367,8 +367,8 @@ Vijayata confirmed they were.
 >
 >Vijayata  
 >Delegate, Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 #### 11th of July, 2019 (Day 114)
 
@@ -408,8 +408,8 @@ I received a response.
 >
 >Vijayata  
 >Delegate, Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs
 
 I sympathize with Vijayata getting sick. That's awful, but the DVA should have systems in place to deal with people getting sick. I responded.
 
@@ -461,7 +461,7 @@ After getting no human response from the Minister for Veterans and Defence Perso
 
 >Dear Honourable Amanda Rishworth MP,
 >
->I am an Australian Army veteran that served in Afghanistan & the Solomon Islands. For the last few months I've been trying to get assistance from the DVA for my service induced insomnia. I'm at my wits’ end trying to get support from the DVA. 
+>I am an Australian Army veteran that served in Afghanistan & the Solomon Islands. For the last few months I've been trying to get assistance from the DVA for my service induced insomnia. I'm at my wits' end trying to get support from the DVA. 
 >
 >I have documented my communications with the DVA here -> https://gregology.net/2019/07/my-experience-with-the-australian-dva/
 >
@@ -481,7 +481,7 @@ Clearly my details were out of date and I received this response
 >
 >Thank you for our email.
 >
->Amanda is no longer the Shadow Minister for Veterans’ Affairs.  The new Shadow Minister if Shayne Neumann MP.  I have forwarded your email to his office.
+>Amanda is no longer the Shadow Minister for Veterans' Affairs.  The new Shadow Minister if Shayne Neumann MP.  I have forwarded your email to his office.
 >
 >Kind regards – Ethné
 
@@ -514,7 +514,7 @@ I received another confirmation from a new Senior Delegate
 
 >Dear Mr Clarke,
 >
->I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health’.
+>I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health'.
 >
 >This is to advise you that this claim has now been reassigned to me and I wanted to confirm that an appointment has been organised for you on 4 September 2019 at 10am as per follows:
 >
@@ -529,8 +529,8 @@ I received another confirmation from a new Senior Delegate
 >
 >Anita (62210884)  
 >Senior Delegate, MRCA Liability  
->Processing Team 2 | Sydney Office | Clients’ Benefits  
->Department of Veterans’ Affairs  
+>Processing Team 2 | Sydney Office | Clients' Benefits  
+>Department of Veterans' Affairs  
 >Phone: 1800 555 254  
 
 Responded
@@ -617,7 +617,7 @@ Anita sent me a prompt response which was appreciated
 >
 > I have not received the report from Dr ██████ as yet, I did receive an email from the medico-legal company (MLCOA) yesterday that they are following up on this.
 >
-> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr ██████’s report with my decision letter.
+> I will finalise your claim as soon as we get the report and, unless indicated otherwise by the doctor, I will forward you a copy of Dr ██████'s report with my decision letter.
 >
 > Please do not hesitate to contact me if you have any further queries regarding this matter.
 >
@@ -625,8 +625,8 @@ Anita sent me a prompt response which was appreciated
 >
 > Anita (62210884)  
 > Senior Delegate, MRCA Liability  
-> Processing Team 2 | Sydney Office |Clients’ Benefits  
-> Department of Veterans’ Affairs
+> Processing Team 2 | Sydney Office |Clients' Benefits  
+> Department of Veterans' Affairs
 
 #### September 30th, 2019 (Day 195)
 
@@ -661,7 +661,7 @@ The DVA responded to my freedom of information request. All my questions were an
 > 6. The average amount DVA pays MLCOA doctors for their reports from Canada.  
 > Following a reasonable search, this information could not be found.
 > 
-> 7. The average amount DVA pays MLCOA doctors for their reports from outside of Australia...”  
+> 7. The average amount DVA pays MLCOA doctors for their reports from outside of Australia..."  
 > Following a reasonable search, this information could not be found.
 
 #### October 6th, 2019 (Day 201)
@@ -696,11 +696,11 @@ My claim has been accepted
 
 > Dear Mr Clarke,
 >
-> I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health’.
+> I am writing to you about your claim for compensation for the conditions ‘Insomnia and Mental Health'.
 >
 > I received the report from Dr ██████ yesterday and I have now finalised this claim and my decision letter is attached for your perusal.
 >
-> As requested by you, I have also attached Dr ██████’s report for your records.
+> As requested by you, I have also attached Dr ██████'s report for your records.
 >
 > Please do not hesitate to contact me if you have any queries regarding this matter.
 >
@@ -708,8 +708,8 @@ My claim has been accepted
 > 
 > Anita (62210884)  
 > Senior Delegate, MRCA Liability  
-> Processing Team 2 | Sydney Office |Clients’ Benefits  
-> Department of Veterans’ Affairs  
+> Processing Team 2 | Sydney Office |Clients' Benefits  
+> Department of Veterans' Affairs  
 > Phone: 1800 555 254  
 > Email: rcg.sydney.liability@dva.gov.au
 
@@ -767,13 +767,13 @@ It turns out that my doctor didn't tick a box on the confusing `Medical Certific
 > Thank you for sending that through. I have reviewed the Medical Certification and noticed that Dr S has crossed out the vocational rehabilitation box, which would indicate you are not fit to engage in vocational rehabilitation with Incite Solutions.
 > 
 > In order you to participate in vocational rehabilitation services with us and for us to provide support, Dr S would need to tick you have some capacity in  
-> ‘Part B – Rehabilitation – Question 7’ i.e. at least 1-2 hours per week to come on to Programme with us. Apologies if that was not clear, it mentions activities such as online learning and work-trials, which are not relevant for you as you are currently working full-time. However, the Rehab plan we came up with for the medical, psychosocial and vocational goals are what we would be supporting with from a vocational rehabilitation perspective and from an employment perspective, we would be supporting with employment monitoring (i.e. your vocational goal to lessen occasions of lateness to work).
+> ‘Part B – Rehabilitation – Question 7' i.e. at least 1-2 hours per week to come on to Programme with us. Apologies if that was not clear, it mentions activities such as online learning and work-trials, which are not relevant for you as you are currently working full-time. However, the Rehab plan we came up with for the medical, psychosocial and vocational goals are what we would be supporting with from a vocational rehabilitation perspective and from an employment perspective, we would be supporting with employment monitoring (i.e. your vocational goal to lessen occasions of lateness to work).
 > 
 > Would you be able to book another appointment with Dr S or alternatively call the practice and ask her to make an amendment and initial this with her signature on the previously completed Med Cert – indicating you have some capacity for vocational rehabilitation in Part B – Rehabilitation – Question 7?
 > 
 > Could you please let me know when this may be possible, as I need to update DVA and request an extension until we are able to obtain the updated Medical Certificate.
 > 
-> Let me know if you any of that doesn’t make sense.
+> Let me know if you any of that doesn't make sense.
 > 
 > Warm regards,  
 > Giorgia
@@ -788,7 +788,7 @@ Giorgia tried to push back on the DVA and got nowhere. She offered to chase the 
 
 > Hi Greg,
 > 
-> I have spoken to DVA and unfortunately they require an updated medical certificate that reflects you are fit for vocational rehabilitation before we can submit the Initial Assessment and commence you on program. I apologise for the trouble. I am going to organise for a fax to be sent to Dr S as she only needs to amend the ‘Part B – Rehabilitation – Question 7’ section and I am hopeful she may be able to complete this before December 5th so you don’t have to wait for another appointment. Let me know your thoughts and whether you think she would respond to the fax from us?
+> I have spoken to DVA and unfortunately they require an updated medical certificate that reflects you are fit for vocational rehabilitation before we can submit the Initial Assessment and commence you on program. I apologise for the trouble. I am going to organise for a fax to be sent to Dr S as she only needs to amend the ‘Part B – Rehabilitation – Question 7' section and I am hopeful she may be able to complete this before December 5th so you don't have to wait for another appointment. Let me know your thoughts and whether you think she would respond to the fax from us?
 > 
 > Warm regards,  
 > Giorgia
@@ -862,7 +862,7 @@ My FOI act to try to try to calculate how much the DVA had spent denying me trea
 >
 > I also refer to your request for an Internal Review of the primary decision, specifically noting:
 >
->    …I would like to challenge this refusal. Your letter said “I have enclosed information about your rights of review under the FOI Act at Attachment A”, however there was no attachment A…
+>    …I would like to challenge this refusal. Your letter said "I have enclosed information about your rights of review under the FOI Act at Attachment A", however there was no attachment A…
 > 
 > Please find attached the statement of reasons of the Internal Review conducted and one (1) document falling within the scope of your request.
 > 
@@ -882,7 +882,7 @@ I received a follow up from Giorgia. We exchanged a few message trying to find m
 > 
 > Essentially as we discussed you would go to your GP and get a referral to a Psychologist, however international clients pay for the cost of their medical appointments upfront and then claim this back from DVA.
 > 
-> I have attached a DVA form called ‘Application for Refund or Payment of Medical Expenses Privately Incurred.’ Clients need to request a receipt from the psychologist, complete the attached form and send this back to DVA.
+> I have attached a DVA form called ‘Application for Refund or Payment of Medical Expenses Privately Incurred.' Clients need to request a receipt from the psychologist, complete the attached form and send this back to DVA.
 > 
 > The receipt from the Psychologist will need to:
 > 
@@ -891,7 +891,7 @@ I received a follow up from Giorgia. We exchanged a few message trying to find m
 >  * Be itemised and include details of the treatment provided including the number of visits, dates of treatment, and, if an in-patient, the period spent in hospital;  
 >  * Include the name, dosage and cost of any pharmaceutical item dispensed;  
 >  * Be accompanied by original receipts;  
->  * Be accompanied by the health provider’s certification that the treatment was provided in an emergency, if relevant;  
+>  * Be accompanied by the health provider's certification that the treatment was provided in an emergency, if relevant;  
 > Additionally as you are not on incapacity payments, I also wanted to let you know that rehabilitation program is a voluntary process. I am here to assist, therefore, if you prefer, you can send the receipt through to me and I can complete the Application for Refund or Payment form and submit this to DVA if that makes things a little easier. 
 > 
 > I am happy to organise another Skype call if you want to chat about this further. Let me know how your appointment with Dr Sarah goes and I will do some research to try and identify some appropriate Psychologists in your area.
@@ -910,7 +910,7 @@ As I expected, it was going to be another hurdle
 
 > Not a problem Greg.
 > 
-> Do you have an Australian bank account? If so, if you can please provide your details I can make sure that DVA have this to refund the medical expenses. If you don’t have an Australian bank account, please let me know as I will need to contact DVA to request some further paperwork for international bank transactions.
+> Do you have an Australian bank account? If so, if you can please provide your details I can make sure that DVA have this to refund the medical expenses. If you don't have an Australian bank account, please let me know as I will need to contact DVA to request some further paperwork for international bank transactions.
 > 
 > Thanks,  
 > Giorgia
@@ -922,7 +922,7 @@ I let Giorgia know that I no longer have an active Australian bank account
 Giorgia's response was no surprise, more paperwork
 
 > Hi Greg,  
-> Thanks for letting me know. Given you don’t have an active Australian bank account, I will have to contact DVA to request some additional paperwork for this. Once I have this, I will send it through to you.
+> Thanks for letting me know. Given you don't have an active Australian bank account, I will have to contact DVA to request some additional paperwork for this. Once I have this, I will send it through to you.
 
 #### December 4th, 2019 (Day 260)
 
@@ -999,7 +999,7 @@ Giorgia responded
 > 
 > I have liaised with DVA Health Approvals in regards to your Psychology treatment and received this response:
 > 
-> Thank you for your recent request for approval for the Department of Veterans’ Affairs (DVA) to fund treatment for Mr Gregory Clarke. The psychologist can submit a prior approval request with clinical information about the treatment and a quote – this way DVA seek confirmation that the client is eligible and create a guarantee of payment for the provider. They will then simply submit their invoice as per the letter instructions and the client will not be out of pocket.
+> Thank you for your recent request for approval for the Department of Veterans' Affairs (DVA) to fund treatment for Mr Gregory Clarke. The psychologist can submit a prior approval request with clinical information about the treatment and a quote – this way DVA seek confirmation that the client is eligible and create a guarantee of payment for the provider. They will then simply submit their invoice as per the letter instructions and the client will not be out of pocket.
 > 
 > Alternatively I have confirmed that it is ok if the client does not have an Australian bank account – the reimbursement team will submit owed payments into the clients international account when the details are supplied.
 > 
@@ -1065,7 +1065,7 @@ In typical fashion, Giorgia quickly responded. She is dealing with the DVA for m
 
 > Hi Greg,
 > 
-> Glad to hear you’ve been able to organise an appointment with Dr ███████.
+> Glad to hear you've been able to organise an appointment with Dr ███████.
 > 
 > I have just emailed her to discuss whether she would be happy for us to do a pre-approval for payments - this would mean DVA would directly pay for her fees without you paying out of pocket, but it can take some time for DVA to make payment, so I would just need to check if she is comfortable with this. If not, we could go down the reimbursement line and you can pay out of pocket and then DVA would reimburse you.
 > 

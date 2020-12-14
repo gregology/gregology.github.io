@@ -20,7 +20,7 @@ In early 2012 the House of Representatives conducted an [online survey][1] to pr
 
 Click [here][3] to see the full map.
 
-I recognise gay marriage even if my government doesn&#8217;t. On the up side, the following 42 members of parliament believe that two people who love each other should have the right to marry. Thank you for representing me even if you&#8217;re not my representative :)
+I recognise gay marriage even if my government doesn't. On the up side, the following 42 members of parliament believe that two people who love each other should have the right to marry. Thank you for representing me even if you're not my representative :)
 
   * Mr Albanese
   * Mr Bandt

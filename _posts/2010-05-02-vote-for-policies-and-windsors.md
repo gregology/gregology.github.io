@@ -19,7 +19,7 @@ tags:
 ---
 I came across an interesting site for the UK election. [Vote for Policies][1] suggests which party a user should vote for based on their selection of policies. The user selects issues that concern them, for instance Health, Education etc, and then is given a selection of the policies of the six major parties. The user does not know which policies belong to which party and at the end of the survey the website returns the party which best represents the users policy preference.
 
-Would anyone be interested in working with me to set up a similar site for the up coming federal election? If I did it by myself I&#8217;m sure it would become a platform for socialist propaganda or turn in to a rant about how our politicians can&#8217;t tie Windsor knots.
+Would anyone be interested in working with me to set up a similar site for the up coming federal election? If I did it by myself I'm sure it would become a platform for socialist propaganda or turn in to a rant about how our politicians can't tie Windsor knots.
 
 One of these two will be our next Prime minister and neither can tie a Windsor knot :(
 
@@ -31,7 +31,7 @@ Yet this guy, a chick, and a teddy bear (I think he cheated) seem to do it just 
 FYI Mr Rudd and Mr Abbott  
 [<img src="/wp-content/uploads/2010/05/Tying_the_Windsor_Knot.jpg" alt="" title="Tying_the_Windsor_Knot" width="300" height="244" class="alignnone size-medium wp-image-376" />][7]
 
-See, I knew that would happen&#8230;
+See, I knew that would happen...
 
  [1]: http://www.voteforpolicies.org.uk
  [2]: /wp-content/uploads/2010/05/Kevin_Rudd_by_UNDP.jpg

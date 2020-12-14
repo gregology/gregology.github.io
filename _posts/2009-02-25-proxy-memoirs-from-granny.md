@@ -9,13 +9,13 @@ categories:
 ---
 From Granny 2007
 
-Edward thompson (drumgivery farmer) &#8211; marry porter  
+Edward thompson (drumgivery farmer) - marry porter  
 Married in Parrish church, templemachury, county furmanny, clerk union, enniskillen, county fermanagh
 
 Children  
 William (canada, 2 factories), john(belfast), george(irvinastown), henery(edernay)
 
-Sarah (england dr), sydney(us), kathleen(irvinastown), mary(irvin&#8230;), jane(us?).
+Sarah (england dr), sydney(us), kathleen(irvinastown), mary(irvin...), jane(us?).
 
 And edward thompson who married norah mulchany in New york, flushing, st michael church, long island. 1910-12
 
@@ -30,13 +30,13 @@ Edward thompson (drumgivery farmer), sister that was doctor, northern ireland (F
 
 Ed thomp, married marry porter, Parrish church, templemachury, county furmanny, clerk union, enniskillen, county fermanagh  
 William (canada, 2 factories), john(belfast), george(irvinastown), henery(edernay)  
-Sarah (england dr), sydney(us), kathleen(irvinastown), mary(irvin&#8230;), jane(us?).
+Sarah (england dr), sydney(us), kathleen(irvinastown), mary(irvin...), jane(us?).
 
 2 newry, county down.
 
 Meet in america.
 
-Edwards mother dishonned him for marrying a prosident so they returned to ireland and settled in trim, county meath. When black boarded letters arrived signaling the deaths arrived for edward he would burn them commenting that it&#8217;s too late for all that. Edward was the only person in the village who could drive so when the hotel heard they sent for him and offered him a job.
+Edwards mother dishonned him for marrying a prosident so they returned to ireland and settled in trim, county meath. When black boarded letters arrived signaling the deaths arrived for edward he would burn them commenting that it's too late for all that. Edward was the only person in the village who could drive so when the hotel heard they sent for him and offered him a job.
 
 Edward and norah were married in New york, flushing, st michael church, long island. 1910-12
 

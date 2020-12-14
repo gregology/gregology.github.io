@@ -7,4 +7,4 @@ comments: True
 categories:
   - Uncategorized
 ---
-Arrived in Cahors, it&#8217;s wine country :)
+Arrived in Cahors, it's wine country :)

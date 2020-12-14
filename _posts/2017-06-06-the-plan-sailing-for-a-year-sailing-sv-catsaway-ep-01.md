@@ -17,7 +17,7 @@ tags:
 
 
 
-Life is what happens while you’re busy making plans but this is our attempt. We’re looking forward to adventure, new experiences, and learning new skills (including video editing). We’d appreciate feedback, ideas, and thoughts on our plan :)
+Life is what happens while you're busy making plans but this is our attempt. We're looking forward to adventure, new experiences, and learning new skills (including video editing). We'd appreciate feedback, ideas, and thoughts on our plan :)
  
 Crew:
  
@@ -30,7 +30,7 @@ Chief Petting Officer Jazz - A bulls eye tabby with a lot of spunk and fight in 
 SeaCat Hercules - An affectionate black kitty who loves unconditionally and is pretty chill about things - as long as his family is with him.
  
 Credits
-“Follow Your Dreams” by Scott Holmes via Free Music Archive
+"Follow Your Dreams" by Scott Holmes via Free Music Archive
 Drone footage by Carlo L. Mion - https://www.youtube.com/watch?v=O_HCKR0nmwE
 Opening & closing scenes from the useful website Videezy.com
 

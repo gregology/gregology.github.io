@@ -72,7 +72,7 @@ Currently claimed by: the United States
 Climate: Humid continental climate  
 Area: 2.5km^2  
 Location: Atlantic Ocean, off the coast of Massachusetts, USA, 41°15′18.00″N 70°48′54.00″W  
-No Man&#8217;s Land, pfft, this island was used as a practice bombing range for 50 odd years so there might be some unexploded ordnance, other than that it seems like a good candidate.
+No Man's Land, pfft, this island was used as a practice bombing range for 50 odd years so there might be some unexploded ordnance, other than that it seems like a good candidate.
 
 **Acteon Group**  
 [<img src="/wp-content/uploads/2010/04/Groupe_Acteon.png" alt="" title="Acteon Group" width="100%" height="auto"/>][7]  
@@ -81,7 +81,7 @@ Currently claimed by: France
 Climate: Temperate  
 Area: ~4km^2 spread over 4 atolls  
 Location: 21°22′59″S 136°34′59″W﻿  
-These atolls would be perfect for setting up a new country if they weren&#8217;t 230km away from the French nuclear testing site :(
+These atolls would be perfect for setting up a new country if they weren't 230km away from the French nuclear testing site :(
 
 **Ducie Island**  
 [<img src="/wp-content/uploads/2010/04/DucieISS002-E-10044.png" alt="" title="Ducie Island" width="100%" height="auto"/>][8]  
@@ -90,7 +90,7 @@ Currently claimed by: Pitcairn Islands, kind of part of the Commonwealth.
 Climate: Not too yucky  
 Area: 2km^2  
 Location: Middle of the Pacific Ocean, 24°41′S 124°47′W  
-This island is my favourite for conquering, it&#8217;s in the middle of nowhere and no one visits it. It has a lagoon to harbour ships and hopefully fresh water though a Ghyben-Herzberg Lens.
+This island is my favourite for conquering, it's in the middle of nowhere and no one visits it. It has a lagoon to harbour ships and hopefully fresh water though a Ghyben-Herzberg Lens.
 
 Although not an island **Bir Tawil** is also worth a mention.  
 [<img src="/wp-content/uploads/2010/04/300px-Egypt_location_map.svg_.png" alt="" title="Bir Tawil" width="100%" height="auto"/>][9]  
@@ -101,7 +101,7 @@ Area: 2,060 km^2
 Location: Border between Egypt and Sudan, 21°52′14″N 33°44′14″E  
 Neither country wants this land because it means giving up some other land. For a decent explanation check out [StrangeMaps][10].
 
-There are many possibilities, Wikipedia has a [page][11] on uninhabited regions which makes creating your own countries easier then ever! My country will be based on information anarchism; individuals will transcended their physical bodies and live forever through their works, much as Leonardo da Vinci has lived on though Lisa&#8217;s smile.
+There are many possibilities, Wikipedia has a [page][11] on uninhabited regions which makes creating your own countries easier then ever! My country will be based on information anarchism; individuals will transcended their physical bodies and live forever through their works, much as Leonardo da Vinci has lived on though Lisa's smile.
 
 Some other interesting blogs which may be useful in creating a country  
 [8 More Strange Places on Planet Earth][12]  

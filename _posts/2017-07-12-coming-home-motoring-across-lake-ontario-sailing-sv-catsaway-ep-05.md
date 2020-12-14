@@ -19,7 +19,7 @@ tags:
 
 In this episode, Catsaway gets her mast stepped and journeys to her temporary home in Kingston, Ontario.
 
-The crew at the Chaumont Yacht Club helped us step the mast.  Due to time constraints, we didn’t wait to finish setting up the rigging, but departed immediately because of thunderstorms approaching.  We lucked out with the weather - the lake was calm for the entire 8 hour trip, and the sun even came out about halfway through.
+The crew at the Chaumont Yacht Club helped us step the mast.  Due to time constraints, we didn't wait to finish setting up the rigging, but departed immediately because of thunderstorms approaching.  We lucked out with the weather - the lake was calm for the entire 8 hour trip, and the sun even came out about halfway through.
 
 Stable flies travel up to 120km and breed in rotting vegetable matter in the lake.  They swarm your boat and can bite through clothing.  We are normally peaceful to all living creatures, but after being incessantly attacked by hundreds of flies - we went on the warpath!
 
@@ -40,8 +40,8 @@ Need Cat Stuff?
 https://SVCatsaway.com
 
 Credits:
-“Brave Pirates” by Frievents Orchestra
-“Wholesome 05” by Scott Holmes
-“Epic Chase Music - Run” by Ross Bugden (https://www.youtube.com/watch?v=ujsCRw-eA0o)
-“Let’s Go Fishin’” by Karissa Hobbs
+"Brave Pirates" by Frievents Orchestra
+"Wholesome 05" by Scott Holmes
+"Epic Chase Music - Run" by Ross Bugden (https://www.youtube.com/watch?v=ujsCRw-eA0o)
+"Let's Go Fishin'" by Karissa Hobbs
 

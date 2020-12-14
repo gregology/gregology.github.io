@@ -19,7 +19,7 @@ tags:
 
 This week the crew of SV Catsaway explore Big Majors Island and Staniel Cay.
 
-Due to incoming strong northeast winds, we decided to anchor by Big Majors (pig beach), as it had good reviews for northeasterly protection.  We arrived on a calm day and dove on our anchor before the blow.  Being on a Gemini, we took advantage of our shallow draft to anchor close to shore for extra protection, but we wanted to make sure we wouldn’t drag.  After diving on our anchor and saying hi to our friends on Jennabird and Be As You Are, we swam directly from Catsaway to visit the pigs.
+Due to incoming strong northeast winds, we decided to anchor by Big Majors (pig beach), as it had good reviews for northeasterly protection.  We arrived on a calm day and dove on our anchor before the blow.  Being on a Gemini, we took advantage of our shallow draft to anchor close to shore for extra protection, but we wanted to make sure we wouldn't drag.  After diving on our anchor and saying hi to our friends on Jennabird and Be As You Are, we swam directly from Catsaway to visit the pigs.
 
 There are at least 30 pigs on Pig Island.  Some are more friendly and aggressive than others.  Visitors should remember to put food in the water for the pigs to eat and not on the sand - too much sands in their bellies is bad for their health (and unfortunately there have been pig deaths because of it).  The piglets are awfully cute and beg for food even though they are on a special diet.  There is a hut to offer shade and fresh water tanks for them.  They live a very happy life!
 
@@ -36,7 +36,7 @@ Tying up the sailbag securely
 Wrapping extra line around our roller furling in case of accidental deployment
 Drawing our jib sheets tight and securing them
 Creating a bridle (rope spliced to a ring that is tied to our rode with a rolling hitch.  Two lines lead from our front outside cleats)
-Tying off our boom to one side so that it wasn’t swinging back and forth
+Tying off our boom to one side so that it wasn't swinging back and forth
 Lifting our dinghy up on our davits instead of using a tow line
 
 Our preparations worked, as we did not drag in 40+ gusts of wind.  Thank goodness!
@@ -44,9 +44,9 @@ Our preparations worked, as we did not drag in 40+ gusts of wind.  Thank goodnes
 Credits:
 A big thank you to Harry from Jennabird for Grotto footage of us
 
-“Acoustic Folk Instrumental” by Hyde
+"Acoustic Folk Instrumental" by Hyde
 "Oink Oink Oink: by Julien Hoang
-“Release” Instrumental Version by Josh Woodward
+"Release" Instrumental Version by Josh Woodward
 
 Social Media:
 instagram.com/svcatsaway

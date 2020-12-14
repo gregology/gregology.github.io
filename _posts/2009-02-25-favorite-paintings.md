@@ -11,9 +11,9 @@ Pierre-narcisse guerin
 Francesco di cristofano bigi, franciabigio  
 Jacques gamelin, escarmouche de cavalerie  
 Salvator rosa, bataille heroique  
-Salvator rosa, l&#8217;ombre de samuel apparaissant a saul chez la pythonisse d&#8217;endor  
+Salvator rosa, l'ombre de samuel apparaissant a saul chez la pythonisse d'endor  
 Joseph vernet, la nuit; un port de mer au clair de lune  
-Pavel brazda, podobizna otce aka father&#8217;s portrait, 1967  
+Pavel brazda, podobizna otce aka father's portrait, 1967  
 Richard gerstl, Selbstbildnis als halbakt aka semi-nude self portrait, 1904/05 & bildnis des vaters emil gerstl aka portrait of the father emil gerstl 1907  
 Simone pignoni 1611-1698, allegory of music, georgios averoff bequest inv. No. 1181  
 Georgios vroutos (1843-1909), leda and the swan, marble, inv. No. 5274  
