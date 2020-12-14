@@ -1,5 +1,5 @@
 ---
-title: "My Experience with the Australian DVA & Canadian VAC"
+title: "My Experience with the Australian DVA"
 author: Greg
 layout: post
 permalink: /2020/02/my-experience-with-the-australian-dva/
@@ -11,14 +11,19 @@ categories:
 tags:
   - DVA
   - Department of Veterans Affairs
+  - VAC
+  - Veterans Affairs Canada
   - Australian Army
   - Army
 redirect_from:
   - /2019/07/my-experience-with-the-australian-dva/
 ---
 
-**tl;dr** It took 324 days to see a psychologist for treatment through the Australian DVA. The DVA paid 3rd parties [$8,782.40](/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf) (as of 2019-12-24) for assessments prior to the beginning of my treatment. My treatment will cost a small fraction of that. The $8,782.40 does not include additional expenses like DVA staffing, costs of treatment, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments. I am now receiving treatment.
+It took 324 days to see a psychologist for treatment through the Australian DVA. The DVA paid 3rd parties [$8,782.40](/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf) for assessments prior to the beginning of my treatment and had spent [$13,986.50](/wp-content/uploads/2020/12/FOI%2039313%20-%20Document%20created%20in%20accordance%20with%20section%2017%20of%20the%20FOI%20Act.pdf) on 3rd parties by the end of my treatment. My psychologist charged the DVA $2,433 for my 12 treatments.
 
+The $13,986.50 does not include additional expenses like DVA or VAC staffing, costs of treatment, costs incurred by me directly, or costs incurred by Public Health for the multiple required doctors appointments. As a tax payer I'm angry, as a veteran I'm devastated. My mates deserve and need better then this.
+
+Here is my journey trying to get help from the Australian DVA.
 
 In 2010 I deployed to Afghanistan with the Australian Army. Since returning home in 2011 I have suffered insomnia and mild PTSD. Canada has been my home since 2012 when I immigrated here for work. Luckily The Australian Department of Veteran Affairs (DVA) and Veterans Affairs Canada have [reciprocal relationships](https://www.veterans.gc.ca/eng/about-vac/legislation-policies/policies/document/1103) for veteran services. On March 19th, 2019, I decided to seek help from the Australian DVA. My encounters with the Australian DVA in the past have been awful so I decided to document my (not uncommon) experience. This was my journey.
 
@@ -956,7 +961,7 @@ I also tried one last time to calculate how much the DVA has spent delaying my t
 > 
 > 1) The total amount the DVA has paid to 3rd parties for my treatment so far (Gregory Clarke).
 > 
-> My file number: TSM06858  
+> My file number: TSM06858 
 > DOB: 03 MAY 1983
 > 
 > Regards,
@@ -1018,7 +1023,7 @@ The DVA responded to my Freedom of Information request for 3rd party treatment c
 > 
 > Total Amount Paid (Incl. GST) $8,782.40
 
-[Original Document](/wp-content/uploads/2019/12/2019-12-24 FOI 33349 - Total amount DVA paid to 3rd parties for treatment so far.pdf)
+[Original Document - FOI 33349](/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf)
 
 My treatment would have cost a fraction of $8,782.40
 
@@ -1133,7 +1138,7 @@ I responded
 > Cheers Giorgia, thanks for all your help :)
 
 #### June 15th, 2020
-
+  
 > Hi Greg,
 >
 > Apologies for this back and forth. I was hoping Dr ███████ would be able to resolve payments with VAC.
@@ -1189,7 +1194,7 @@ It seems they responded without reading my email
 I later received a letter in the mail which contained a file number. I used the file number to log into My VAC and I now have access to some more support. I also sent them requested proof of identity which they required to create my K number.
 
 #### July 2nd, 2020
-
+  
 > Hi Mr. Clarke,
 >
 > I'm just writing to let you know that we have successfully created a file number, or K number, for you. It is ███████.
@@ -1304,9 +1309,62 @@ There is no other way to contact them.
 
 I can't believe that I'm still having to deal with this BS months after the DVA / VAC cut me off from treatment. I have wasted so many hours and so much energy getting "support" from the DVA / VAC. I truly regret asking them for help.
 
+#### October 13th, 2020
+
+After a few emails back and forth, Sheila from VAC sorted it out for me. 
+
+> Hi Greg,
+>
+> I just got off the phone with Dr. ███████, and confirmed we have every invoice but June 24, 2020. She is going to forward that one to me, so we can get everything up to date. I've let her know I'm working on this.
+>
+> I've sent an urgent request to Medavie Blue Cross to review these outstanding invoices. I suspect that there was some confusion about where the invoices had to go, as they look like normal Canadian invoices but they need to be sent to the FCO section of Medavie. I've brought it to Medavie's attention that this seems to be the case, so that they can rectify the issue. I'll let you know if I receive any updates regarding this.
+>
+> I hope you had a great weekend, and are doing well!
+> Sheila
+
+#### October 14th, 2020
+
+Sheila was great and followed up which I really appreciated.
+
+> Good morning Greg,
+>
+> Just a quick email to let you know that yesterday morning I heard from two (!!) VAC reps - one of them Sheila. They seem to be on the ball now. I wonder if your post on social media contributed to that. Thank you for your help on this. 
+>
+> Dr. ███████
+
+#### November 13th, 2020
+
+I reached out again a few weeks later to confirm my psychologist has received their payments. Once confirmed, I made another freedom of information request to see how much the DVA had paid to 3rd parties for my treatment.
+
+> Hello,
+>
+> I am formally requesting;
+>
+> 1) The total amount the DVA has paid to 3rd parties for my treatment so far (Gregory Clarke).
+>
+> My file number: TSM06858
+> DOB: 03 MAY 1983
+>
+> Regards,
+>
+> Greg Clarke.
+
+#### December 13th, 2020
+
+DVA responded with $13,986.50AUD. This does not include internal costs incurred by either the DVA or the VAC.
+
+> Document created in accordance with section 17 of the Freedom of Information Act 1982 (Cth)
+> FOI reference number: FOI 39313
+> Request details: The total amount the DVA has paid to 3rd parties for my treatment so far (Gregory Clarke, TSM 06858).
+> Total amount paid (incl GST) $13,986.50
+
+[Original Document - FOI 39313](/wp-content/uploads/2020/12/FOI%2039313%20-%20Document%20created%20in%20accordance%20with%20section%2017%20of%20the%20FOI%20Act.pdf)
+
+My psychologist was paid $2,340CAD (~$2,433AUD). The DVA spent 5.7 times the cost of my treatment on 3rd party expenses for assessments etc that delayed my access to treatment. Again, this figure does not include internal costs incurred by either the DVA or the VAC. 
+
 #### Next steps
 
-Some Australian DVA staff are great however the organisation is failing veterans. If I had known that it was going to take nearly 11 months to be assessed for treatment, I would have organised help elsewhere and would be well into my treatment by now. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA had helped them.
+Most Australian DVA & VAC staff are great however the organisations are failing veterans. If I had known that it was going to take nearly 11 months to be assessed for treatment, I would have organised help elsewhere and would started treatment months earlier. It pains me knowing that my mates with more severe issues are having to deal with this level of service. Asking for help is the hardest step and the Australian DVA's promise of help with slow or no follow through is unbearable. Unfortunately I have veteran friends that have committed suicide. I honestly believe that they might still be here if the DVA had helped them.
 
 ### What I want
 
@@ -1317,7 +1375,7 @@ Some Australian DVA staff are great however the organisation is failing veterans
 
 ### Resources
 
-For Australian veterans in similar situations consider applying for [Non-Liability Health Care (NLHC)](https://clik.dva.gov.au/compensation-and-support-policy-library/part-7-common-allowances-and-benefits/72-treatment-under-non-liability-health-care-nlhc-arrangements). DVA pays for treatment for certain mental and physical health conditions without the need for the conditions to be accepted as related to service. It may result in quicker treatment.
+For Australian veterans in similar situations consider applying for [Non-Liability Health Care (NLHC)](https://clik.dva.gov.au/compensation-and-support-policy-library/part-7-common-allowances-and-benefits/72-treatment-under-non-liability-health-care-nlhc-arrangements). DVA pays for treatment for certain mental and physical health conditions without the need for the conditions to be accepted as related to service. It may result in quicker treatment. No one at the DVA told me about this option, someone on Reddit mentioned it.
 
 <!--
   # Python days calculation
