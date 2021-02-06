@@ -310,7 +310,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               t: new Date(2019, 1, 1),
               y: 75.0
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2020, 1, 1),
               y: 62.5
             }
           ],
@@ -673,7 +673,7 @@ var worldChartData = {
               t: new Date(2019, 1, 1),
               y: 85.20
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2020, 1, 1),
               y: 85.40
             }
           ],
