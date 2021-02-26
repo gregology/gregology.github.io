@@ -21,8 +21,8 @@ Bell Fibre Internet is awesome however the HomeHub 3000 router they provide is r
 
 Our home is smart so losing Internet while we're away caused a few problems;
  - The front door camera was not accessible to we couldn't check if packages had arrived
- - The thermostat was not accessible so we couldn't warm the house before our arrival
- - The Plex (self hosted Netflix) server went down we I had to read a book
+ - The thermostat was not accessible so we couldn't warm the house before we got home
+ - The Plex server (self hosted Netflix) went down and I had to read a book
  - We couldn't run the vacuum cleaner prior to our arrival or drive it around the house to check for post storm damage
 
 After a bit of research I decided on the [Watchdog for Wi-Fi router](https://tasmota.github.io/docs/Rules/#watchdog-for-wi-fi-router) approach with a few tweaks. I built a version of Tasmota with `USE_PING`, `USE_EXPRESSION`, & `SUPPORT_IF_STATEMENT` enabled. `USE_PING` allows me to write Tasmota Rules based on the response of network pings. `USE_EXPRESSION`, & `SUPPORT_IF_STATEMENT` were added in case more complex Rules were required later. For instance, adding the ability to ping multiple servers to check for network connection. I flashed a [Sonoff](https://www.itead.cc/smart-home/sonoff-wifi-wireless-switch.html) switch with [my build of Tasmota version 9.1.0](/wp-content/uploads/2020/12/tasmota-9.1.0-USE_PING-USE_EXPRESSION-SUPPORT_IF_STATEMENT.bin) using [Tasmotizer](https://github.com/tasmota/tasmotizer). Then connected the switch to my router's wifi network and in line power supply.
