@@ -285,7 +285,7 @@ The largest list of penis euphemisms
   * Colon cowboy
   * Colon crusader
   * Colossus
-  * Commando Snake Eyes
+  * Commando snake eye
   * Coral branch
   * Corndog
   * Cornholer
