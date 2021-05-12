@@ -96,6 +96,6 @@ Workable hours:
 ## Citizenships
 
 🇦🇺 Australia: Citizen  
-🇨🇦 Canada: Permanent Resident (citizenship application processing...)  
+🇨🇦 Canada: Citizen  
 🇮🇪 Ireland (EU): Citizen  
 🇬🇧 United Kingdom: Citizen  
