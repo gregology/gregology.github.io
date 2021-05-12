@@ -40,6 +40,17 @@ licence: Creative Commons
   var cancel = setInterval(calculateTimeAlive, 50);
 </script>
 
+
+## 2021
+
+### May
+
+🇨🇦 Became a Canadian citizen
+
+### March
+
+🥚
+
 ## 2020
 
 ### September
