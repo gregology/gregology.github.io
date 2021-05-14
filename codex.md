@@ -132,7 +132,9 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have a loving and supportive partner (Diana)
   - my physical appearance & cultural traits are considered "normal" where I live
   - I natively speak english with a western accent
-  - I have multiple citizenships, permanent residency, & visas
+  - I have multiple citizenships & visas
+  - my citizenships allow me to live and work in any of the top 10 countires on the [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)
+  - my citizenships & partner allow me to live and work in any of the top 10 countires on the [Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index)
   - I have access to the internet
   - I understand & create technology
   - I have a warm dry place to sleep
@@ -163,7 +165,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - we can control other creatures
   - we communicate & organise with each other
   - we can record & share ideas & concepts
-  - we learn from others experience
+  - we can learn from others experience
 
 
 ### Beliefs about my Responsibilities
@@ -261,6 +263,7 @@ Subconscious reactions that I have noticed;
 - AI audits will rewrite history by discovering patterns in open & closed data
 - Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential & prevalence
 - Critical thinking skills will improve as legacy media fades (alternatively the world will be destroyed by trolls)
+- Critical thinking skills will improve with [regulation of algorithms](https://en.wikipedia.org/wiki/Regulation_of_algorithms)
 - The Detroit Big Three (Ford, GM, & Chrysler) will fail to adapt and be acquired or go bankrupt
 
 ### Before 2040
