@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi Time Machine (2020 update)"
+title: "Raspberry Pi Time Machine (2021 update)"
 author: Greg
 layout: post
 permalink: /2018/09/raspberry-pi-time-machine/
@@ -22,6 +22,7 @@ tags:
 ***2019-12-14 Updated after comments from AlexWiseman & Nick***  
 ***2020-01-03 Updated after email from Ron***  
 ***2020-02-11 Updated after comment from Stefan***  
+***2021-06-03 Updated after comments from Pdnellius & Chris Smith***  
 
 ## Prerequisites
 
@@ -218,6 +219,10 @@ and append
 `@reboot sleep 30 && mount /media/tm && sleep 30 && umount /media/tm && sleep 30 && mount /media/tm && sleep 30 && service avahi-daemon start && service netatalk start`
 
 *Note: this mount / unmount / mount flow is required as HFS+ partitions may become read only if unmounted incorrectly. The 30 second sleeps give the USB hard drive time to spin up and become mounted before the avahi-daemon & netatalk services start*
+
+Reboot your pi
+
+`pi@timemachine:~ $ sudo reboot`
 
 ## Connect to Time Machine
 
