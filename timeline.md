@@ -43,13 +43,21 @@ licence: Creative Commons
 
 ## 2021
 
+### July
+
+🤰 We discovered the sex of our incoming little one
+
 ### May
 
 🇨🇦 Became a Canadian citizen
 
 ### March
 
-🥚
+🥚 Diana became pregnant
+
+### February
+
+🔥 Burned out at work at took 2 months off. Invested my time meditating, playing social online games, and working out. Shopify was great support.
 
 ## 2020
 
@@ -72,7 +80,7 @@ licence: Creative Commons
 
 ### March
 
-😷 Started working remotely
+🦠 Started working remotely
 
 ## 2019
 
