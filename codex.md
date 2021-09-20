@@ -47,7 +47,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - My emotions are my responsibility
 - My senses can easily be fooled, I experience the world though my senses
 - My beliefs should & will change
-- I learn more from failure then success
+- I learn more from failure than success
 - Taking no risks is a big risk
 - I have an ego & insecurities
 - I am optimistic
