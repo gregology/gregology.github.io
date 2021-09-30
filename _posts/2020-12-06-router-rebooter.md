@@ -1,5 +1,5 @@
 ---
-title: "Reboot Router on Lost Network Connection with Sonoff switch and Tasmota"
+title: "Automatically reboot router on lost Internet connection with Sonoff switch and Tasmota"
 author: Greg
 layout: post
 permalink: /2020/12/router-rebooter/
@@ -20,7 +20,7 @@ Bell Fibre Internet is awesome however the HomeHub 3000 router they provide is r
 </p>
 
 Our home is smart so losing Internet while we're away caused a few problems;
- - The front door camera was not accessible to we couldn't check if packages had arrived
+ - The front door camera was not accessible so we couldn't check if packages had arrived
  - The thermostat was not accessible so we couldn't warm the house before we got home
  - The Plex server (self hosted Netflix) went down and I had to read a book
  - We couldn't run the vacuum cleaner prior to our arrival or drive it around the house to check for post storm damage
