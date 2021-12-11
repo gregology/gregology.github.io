@@ -43,6 +43,10 @@ licence: Creative Commons
 
 ## 2021
 
+### December
+
+🐣 Diana and I became parents, Marisol Jasmine Lam Clarke was born at 2021-12-06 04:25EST
+
 ### July
 
 🤰 We discovered the sex of our incoming little one
