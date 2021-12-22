@@ -45,7 +45,7 @@ licence: Creative Commons
 
 ### December
 
-🐣 Diana and I became parents, Marisol Jasmine Lam Clarke was born at 2021-12-06 04:25EST
+🐣 Diana and I became parents, Marisol Jasmine Lam Clarke was born at 2021-12-06 04:25EST (3.560Kg/49.5cm)
 
 ### July
 
@@ -63,16 +63,22 @@ licence: Creative Commons
 
 🔥 Burned out at work at took 2 months off. Invested my time meditating, playing social online games, and working out. Shopify was great support.
 
+### January
+
+🏠 Diana, Koala, Panda, and I moved full time to Prince Edward County near Belliville
+
 ## 2020
 
 ### September
 
-🏠 Closed on my first property investment in line with my [de-urbanization predictions](/2019/09/musk-de-urbanization/)
+🏠 Closed on my first property investment in line with my [de-urbanization predictions](/2019/09/musk-de-urbanization/)  
+🐱 Adopted two of the kittens we were fostering, Koala and Panda. We found forever homes for all the other kitties too  
 
 ### August
 
+🐱 We started fostering cats. We took in a momma cat, her 6 kittens, and then another kitten from a different litter  
 🇮🇪 Became an Irish citizen  
-🐱 Hercie passed away, we were told that he would only have a couple of days to live in late June but he gave us another month of cuddles
+🐱 Hercie passed away, we were told that he would only have a couple of days to live in late June but he gave us another month of cuddles  
 
 ### June
 
