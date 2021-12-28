@@ -3,166 +3,159 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
-          {% if site.author.facebook and site.footer-links-active.facebook %}
-            <li>
-              <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.github and site.footer-links-active.github %}
-            <li>
-              <a href="https://github.com/{{ site.author.github }}" title="GitHub">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.twitter and site.footer-links-active.twitter %}
-            <li>
-              <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.reddit and site.footer-links-active.reddit %}
-            <li>
-              <a href="https://reddit.com/u/{{ site.author.reddit }}" title="Reddit">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.google-plus and site.footer-links-active.google-plus %}
-            <li>
-              <a href="https://plus.google.com/{{ site.author.google-plus }}" title="Google+">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.footer-links-active.email %}
-            <li>
-              <a href="/contact" title="Email me">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.linkedin and site.footer-links-active.linkedin %}
-            <li>
-              <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.xing and site.footer-links-active.xing %}
-            <li>
-              <a href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-xing fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
-            <li>
-              <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.tiktok and site.footer-links-active.tiktok %}
-            <li>
-              <a href="https://www.tiktok.com/@{{ site.author.tiktok }}" title="TikTok">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fas fa-music-alt fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.snapchat and site.footer-links-active.snapchat %}
-            <li>
-              <a href="https://www.snapchat.com/add/{{ site.author.snapchat }}" title="Snapchat">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.instagram and site.footer-links-active.instagram %}
-            <li>
-              <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.youtube and site.footer-links-active.youtube %}
-            <li>
-              <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.spotify and site.footer-links-active.spotify %}
-            <li>
-              <a href="https://open.spotify.com/user/{{ site.author.spotify }}" title="Spotify">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-spotify fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.author.telephone and site.footer-links-active.telephone %}
-            <li>
-              <a href="tel:{{ site.author.telephone }}" title="Phone">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.footer-links-active.rss %}
-            <li>
-            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-              <span class="fa-stack fa-lg">
-              <i class="fa fa-circle fa-stack-2x"></i>
-              <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+
+          <li>
+            <a href="/contact" title="Email me">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:Tomato"></i>
+                <i class="fa-inverse fa-solid fa-at" data-fa-transform="shrink-6"></i>
               </span>
             </a>
+          </li>
+          
+          {% if site.author.signal %}
+          <li>
+            <a href="https://signal.me/#p/{{ site.author.signal }}" title="Signal">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:3a76f0"></i>
+                <i class="fa-inverse fa-regular fa-comment" data-fa-transform="shrink-6"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.telegram %}
+          <li>
+            <a href="https://t.me/{{ site.author.telegram }}" title="Telegram">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:0088cc"></i>
+                <i class="fa-inverse fa-brands fa-telegram" data-fa-transform="shrink-6"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.twitter %}
+            <li>
+              <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:1da1f2"></i>
+                  <i class="fa-inverse fa-brands fa-twitter" data-fa-transform="shrink-6"></i>
+               </span>
+              </a>
             </li>
           {% endif %}
+
+          {% if site.author.reddit %}
+            <li>
+              <a href="https://reddit.com/user/{{ site.author.reddit }}" title="Reddit">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:ff4500"></i>
+                  <i class="fa-inverse fa-brands fa-reddit-alien" data-fa-transform="shrink-6"></i>
+               </span>
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.author.github %}
+            <li>
+              <a href="https://github.com/{{ site.author.github }}" title="GitHub">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:333"></i>
+                  <i class="fa-inverse fa-brands fa-github-alt" data-fa-transform="shrink-6"></i>
+               </span>
+              </a>
+            </li>
+          {% endif %}
+          
+          {% if site.author.steam %}
+          <li>
+            <a href="https://steamcommunity.com/id/{{ site.author.steam }}/" title="Steam">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:000000"></i>
+                <i class="fa-inverse fa-brands fa-steam" data-fa-transform="shrink-6"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+          
+          {% if site.author.discord %}
+          <li>
+            <a href="https://discordapp.com/users/{{ site.author.discord }}" title="Discord">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:5865F2"></i>
+                <i class="fa-inverse fa-brands fa-discord" data-fa-transform="shrink-6 left-2"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.linkedin %}
+            <li>
+              <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:0077b5"></i>
+                  <i class="fa-inverse fa-brands fa-linkedin-in" data-fa-transform="shrink-6"></i>
+               </span>
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.author.stackoverflow %}
+            <li>
+              <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:f48024"></i>
+                  <i class="fa-inverse fa-brands fa-stack-overflow" data-fa-transform="shrink-6"></i>
+               </span>
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.author.tiktok %}
+            <li>
+              <a href="https://www.tiktok.com/@{{ site.author.tiktok }}" title="TikTok">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:69C9D0"></i>
+                  <i class="fa-inverse fa-brands fa-tiktok" data-fa-transform="shrink-6"></i>
+               </span>
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.author.youtube %}
+            <li>
+              <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
+                <span class="fa-layers fa-3x">
+                  <i class="fas fa-circle" style="color:404040"></i>
+                  <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:ff0000"></i>
+                  <i class="fa-inverse fa-brands fa-youtube" data-fa-transform="shrink-6 left-1"></i>
+               </span>
+              </a>
+            </li>
+          {% endif %}
+
+          <li>
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:ee802f"></i>
+                <i class="fa-inverse fas fa-rss" data-fa-transform="shrink-6 up-1 right-1"></i>
+            </span>
+            </a>
+          </li>
+
         </ul>
         <p class="copyright text-muted">
           {{ site.author.name }}

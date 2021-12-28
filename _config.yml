@@ -10,7 +10,7 @@ navbar-links:
     - Greg API: "api"
     - Timeline: "timeline"
     - Résumé: "resume"
-    - Secure Communication: "secure"
+    - Secure Contact: "secure"
   Posts: "posts"
   Projects:
     - Memair: "https://Memair.com"
@@ -47,39 +47,14 @@ author:
   flickr: gregologynet
   skype: gregory.clarke
   tiktok: gregology
+  email: greg@gho.st
+  telegram: gregology
+  signal: +16132626705
+  steam: gregology
+  discord: 305821319239434240
   life_expectancy_years: 85
   life_expectancy_source: https://www.sunlife.ca/ca/Tools+and+Resources/Tools+and+Calculators/Life+expectancy+calculator?vgnLocale=en_CA
   dob: "1983-05-03T06:05:00.000+01:00"
-
-social:
-  name: Gregology
-  links:
-    - https://github.com/gregology
-    - https://twitter.com/gregologynet
-    - https://www.reddit.com/user/gregologynet
-    - https://linkedin.com/in/gregology
-    - https://www.youtube.com/gregologynet
-    - https://www.instagram.com/gregology/
-    - https://en.wikipedia.org/wiki/User:Gregology
-    - https://imgur.com/user/gregology
-    - https://stackoverflow.com/users/1142113/gregology
-    - https://www.tiktok.com/@gregology
-
-footer-links-active:
-  rss: false
-  email: true
-  twitter: true
-  github: true
-  reddit: true
-  linkedin: true
-  xing: false
-  stackoverflow: true
-  snapchat: false
-  instagram: false
-  youtube: true
-  spotify: false
-  telephone: false
-  tiktok: true
 
 share-links-active:
   twitter: true
