@@ -249,7 +249,7 @@ Subconscious reactions that I have noticed;
 
 ### Before 2025
 
-- Self driving vehicles will be common (1% of inner city traffic my home town of Ottawa)
+- Self driving vehicles (level 3) will be common (1% of inner city traffic my home town of Ottawa)
 - Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
 - Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)
 - Car fitness will become a trend as people utilize their self driving commute
