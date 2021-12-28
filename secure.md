@@ -2,14 +2,30 @@
 layout: page
 comments: False
 licence: Creative Commons
-title: Secure Communication
+title: Secure Contact
+redirect_from:
+  - /contact
+  - /Contact
 ---
 
 ### Page History
 
 [GitHub](https://github.com/gregology/gregology.github.io/commits/master/secure.md) - [Wayback Machine](https://web.archive.org/web/2018*/https://gregology.net/secure/) - [Google Cache](https://webcache.googleusercontent.com/search?q=cache:https://gregology.net/secure/)
 
+### Contact
+
+<p>
+Email: <a href='mailto:greg@gho.st'>Greg@gho.st</a><br>
+Signal: <a href='https://signal.me/#p/+16132626705'>+1 613 262 6705</a><br>
+Telegram: <a href='https://t.me/gregology'>+1 613 262 6705</a><br>
+
+
+Note: these phone numbers do not work for regular phone calls or sms<br>
+</p>
+
 ### FlowCrypt
+
+<a href='https://flowcrypt.com/'>FlowCrypt</a> enables end to end encryption for Gmail. Other platforms are coming soon.
 
 Public Fingerprint: `4980 A503 9EC9 8AD3 1883 5241 6FC9 D454 B109 B59F`
 
