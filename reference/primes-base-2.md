@@ -2,6 +2,9 @@
 title: First 2¹⁶ prime numbers in base 2
 decription: List of prime numbers in binary from 0 to 2¹⁶
 layout: page
+redirect_from:
+  - reference/primes/
+  - reference/primes
 ---
 
 List of prime numbers in binary from 0 to 2¹⁶. I was searching for this and couldn't find it.
