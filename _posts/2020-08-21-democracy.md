@@ -133,43 +133,43 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           label: 'Electoral process & pluralism',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 87.5
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 87.5
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 91.7
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 91.7
             }
           ],
@@ -180,43 +180,43 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           label: 'Functioning of government',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 78.6
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 78.6
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 78.6
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 71.4
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 71.4
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 71.4
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 71.4
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 67.9
             }
           ],
@@ -227,43 +227,43 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           label: 'Political participation',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 72.2
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 77.8
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 77.8
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 77.8
             }
           ],
@@ -274,43 +274,43 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           label: 'Political culture',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 87.5
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 87.5
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 81.3
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 75.0
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 62.5
             }
           ],
@@ -321,43 +321,43 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           label: 'Civil liberties',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 82.4
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 82.4
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 82.4
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 82.4
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 82.4
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 85.3
             }
           ],
@@ -380,7 +380,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2006, 1, 1),
-            xMax: new Date(2008, 1, 20),
+            xMax: new Date(2009, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(233, 20, 29, 0.3)",
@@ -391,7 +391,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2007, 1, 1),
+            value: new Date(2007, 7, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -405,8 +405,8 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "box",
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
-            xMin: new Date(2008, 1, 20),
-            xMax: new Date(2016, 1, 20),
+            xMin: new Date(2009, 1, 20),
+            xMax: new Date(2017, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
@@ -417,7 +417,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2012, 1, 1),
+            value: new Date(2013, 1, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -431,8 +431,8 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "box",
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
-            xMin: new Date(2016, 1, 20),
-            xMax: new Date(2020, 1, 20),
+            xMin: new Date(2017, 1, 20),
+            xMax: new Date(2021, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(233, 20, 29, 0.3)",
@@ -443,7 +443,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2018, 1, 1),
+            value: new Date(2019, 1, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -457,7 +457,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "box",
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
-            xMin: new Date(2020, 1, 20),
+            xMin: new Date(2021, 1, 20),
             xMax: new Date(2022, 1, 20),
             yMin: 60,
             yMax: 100,
@@ -469,7 +469,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2021, 1, 1),
+            value: new Date(2021, 7, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -491,7 +491,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           type: 'time',
           time: {
             unit: 'year',
-            min: 1137715200000,
+            min: 1151712000000,
             max: 1640995200000
           }
         }],
@@ -518,49 +518,49 @@ var worldChartData = {
           label: 'Australia',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 90.90
             }, {
-              t: new Date(2007, 1, 1),
+              t: new Date(2007, 7, 1),
               y: 90.90
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 90.90
             }, {
-              t: new Date(2009, 1, 1),
+              t: new Date(2009, 7, 1),
               y: 91.55
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 92.20
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 92.20
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 92.20
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 91.30
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 90.10
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 90.10
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 90.10
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 90.90
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 90.90
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 90.90
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 89.60
             }
           ],
@@ -571,43 +571,43 @@ var worldChartData = {
           label: 'Canada',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 90.7
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 90.7
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 90.8
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 90.8
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 90.8
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 90.8
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 90.8
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 90.8
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 91.5
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 91.5
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 91.5
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 92.2
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 92.4
             }
           ],
@@ -618,43 +618,43 @@ var worldChartData = {
           label: 'New Zealand',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 90.10
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 91.90
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 92.60
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 92.50
             }
           ],
@@ -665,43 +665,43 @@ var worldChartData = {
           label: 'United Kingdom',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 80.80
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 81.50
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 81.60
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 81.60
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 82.10
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 83.10
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 83.10
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 83.10
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 83.60
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 85.30
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 85.30
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 85.20
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 85.40
             }
           ],
@@ -712,43 +712,43 @@ var worldChartData = {
           label: 'United States',
           data: [
             {
-              t: new Date(2006, 1, 1),
+              t: new Date(2006, 7, 1),
               y: 82.2
             }, {
-              t: new Date(2008, 1, 1),
+              t: new Date(2008, 7, 1),
               y: 82.2
             }, {
-              t: new Date(2010, 1, 1),
+              t: new Date(2010, 7, 1),
               y: 81.8
             }, {
-              t: new Date(2011, 1, 1),
+              t: new Date(2011, 7, 1),
               y: 81.1
             }, {
-              t: new Date(2012, 1, 1),
+              t: new Date(2012, 7, 1),
               y: 81.1
             }, {
-              t: new Date(2013, 1, 1),
+              t: new Date(2013, 7, 1),
               y: 81.1
             }, {
-              t: new Date(2014, 1, 1),
+              t: new Date(2014, 7, 1),
               y: 81.1
             }, {
-              t: new Date(2015, 1, 1),
+              t: new Date(2015, 7, 1),
               y: 80.5
             }, {
-              t: new Date(2016, 1, 1),
+              t: new Date(2016, 7, 1),
               y: 79.8
             }, {
-              t: new Date(2017, 1, 1),
+              t: new Date(2017, 7, 1),
               y: 79.8
             }, {
-              t: new Date(2018, 1, 1),
+              t: new Date(2018, 7, 1),
               y: 79.6
             }, {
-              t: new Date(2019, 1, 1),
+              t: new Date(2019, 7, 1),
               y: 79.6
             }, {
-              t: new Date(2020, 1, 1),
+              t: new Date(2020, 7, 1),
               y: 79.2
             }
           ],
