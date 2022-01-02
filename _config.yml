@@ -10,6 +10,7 @@ navbar-links:
     - Greg API: "api"
     - Timeline: "timeline"
     - Résumé: "resume"
+    - Political Compass: "compass"
     - Secure Contact: "secure"
   Posts: "posts"
   Projects:
