@@ -380,7 +380,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2006, 1, 1),
-            xMax: new Date(2008, 1, 1),
+            xMax: new Date(2008, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(233, 20, 29, 0.3)",
@@ -405,8 +405,8 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "box",
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
-            xMin: new Date(2008, 1, 1),
-            xMax: new Date(2016, 1, 1),
+            xMin: new Date(2008, 1, 20),
+            xMax: new Date(2016, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
@@ -431,8 +431,8 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "box",
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
-            xMin: new Date(2016, 1, 1),
-            xMax: new Date(2020, 1, 1),
+            xMin: new Date(2016, 1, 20),
+            xMax: new Date(2020, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(233, 20, 29, 0.3)",
@@ -452,6 +452,32 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               enabled: true,
               position: "top"
             },
+          }, {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2020, 1, 20),
+            xMax: new Date(2022, 1, 20),
+            yMin: 60,
+            yMax: 100,
+            backgroundColor: "rgba(0, 21, 188, 0.3)",
+            borderColor: "rgb(0, 21, 188)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2022, 1, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "blue",
+              content: "Biden",
+              enabled: true,
+              position: "top"
+            },
           }
         ]
       },
@@ -464,7 +490,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
         xAxes: [{
           type: 'time',
           time: {
-            unit: 'year'
+            unit: 'year',
+            min: 1137715200000,
+            max: 1640995200000
           }
         }],
         yAxes: [{
