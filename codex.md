@@ -20,6 +20,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - [Beliefs](#beliefs)
   - [Beliefs about Me](#beliefs-about-me)
   - [Beliefs about Humans](#beliefs-about-humans)
+  - [Beliefs about Parenthood](#beliefs-about-parenthood)
   - [Beliefs about Society](#beliefs-about-society)
   - [Beliefs about Science](#beliefs-about-science)
   - [Beliefs about the Universe](#beliefs-about-the-universe)
@@ -79,6 +80,18 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - yet undiscovered creatures
   - their environment
 - Humans make mistakes
+
+
+### Beliefs about Parenthood
+
+- It is beneficial for children to have parents that are;
+  - present
+  - engaged
+  - involved
+  - loving
+- Genetic connections are irrelevant to a person's role as a parent
+- The vast majority of involved parents are doing the best they can
+- Parents make mistakes
 
 
 ### Beliefs about Society
