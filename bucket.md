@@ -58,7 +58,7 @@ licence: Creative Commons
   * 1000 people
   * 10000 people
 * Act in a Bollywood movie
-* Become a parent
+* ~~Become a parent~~
 * Go on a meditation retreat
 * Lead a team of;
   * 10 people
