@@ -17,11 +17,20 @@ layout: base
 
       {% if page.signed %}
         <p>
-          <h3 id="signature">Signed post</h3>
-          <a href='/secure/'>Public key details</a>
+          <h2 id="signature">Signature</h2>
           {% assign filename = page.path | replace: '_posts/', '' %}
           {% assign signature = filename | replace: '.md', '.md.asc' %}
-          <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code></code>{% include_relative {{ signature }} %}</code></pre></div></div>
+
+          <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include_relative {{ signature }} %}</code></pre></div></div>
+
+          <h3 id="verrify">Verrify</h3>
+
+          <a href='/public_key'>Public key</a> - <a href='{{ site.raw_baseurl }}_posts/{{ filename }}'>raw post</a>
+
+          <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+curl https://gregology.net/public_key | gpg --import
+gpg --verify <(curl {{ site.raw_baseurl }}_posts/{{ signature }}) <(curl {{ site.raw_baseurl }}_posts/{{ filename }})
+          </code></pre></div></div>
         </p>
       {% endif %}
 

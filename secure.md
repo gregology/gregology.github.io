@@ -97,6 +97,10 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzkyt7r7cCaDHHQ4QaY2EB7dWtbkTEVwQZ0QZzqzNL
 
 ### GPG Keychain
 
+#### import
+
+`curl https://gregology.net/public_key | gpg — import`
+
 ```
 {% include_relative public_key.asc %}
 ```
