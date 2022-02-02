@@ -12,8 +12,18 @@ layout: base
         {{ content }}
         {% if page.gallery %}
           {% include gallery.html %}
-        {% endif %}
+        {% endif %}  
       </article>
+
+      {% if page.signed %}
+        <p>
+          <h3 id="signature">Signed post</h3>
+          <a href='/secure/'>Public key details</a>
+          {% assign filename = page.path | replace: '_posts/', '' %}
+          {% assign signature = filename | replace: '.md', '.md.asc' %}
+          <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code></code>{% include_relative {{ signature }} %}</code></pre></div></div>
+        </p>
+      {% endif %}
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">

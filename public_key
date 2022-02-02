@@ -1,0 +1,5 @@
+---
+layout: none
+usage: source <(curl -s https://gregology.net/troll)
+---
+{% include_relative public_key.asc %}

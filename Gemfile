@@ -12,3 +12,6 @@ gem 'rake'
 gem 'yt'
 gem 'pry'
 gem 'twitter'
+group :jekyll_plugins do
+  gem 'liquid-pry'
+end

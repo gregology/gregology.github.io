@@ -106,6 +106,7 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
+  - "*.asc"
 
 prose:
   rooturl: '_posts'

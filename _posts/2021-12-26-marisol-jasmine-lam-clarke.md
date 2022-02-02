@@ -6,6 +6,7 @@ permalink: /2021/12/marisol-jasmine-lam-clarke/
 date: 2021-12-26 12:00:00 -0400
 comments: True
 licence: Creative Commons
+signed: True
 categories:
   - Family
 tags:
@@ -67,4 +68,3 @@ We decided on using Diana’s last name as a middle name and Marisol took my las
 The staff at Belleville General Hospital were all attentive, caring, and understanding. I can’t thank them enough for all their support, they all went above and beyond.
 
 As a biased parent, I find her adorable. It takes a village and we’ve had loads of support from family and friends.
-
