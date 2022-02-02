@@ -12,8 +12,10 @@ layout: base
         {{ content }}
         {% if page.gallery %}
           {% include gallery.html %}
-        {% endif %}
+        {% endif %}  
       </article>
+
+      {% include signature.html %}
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
