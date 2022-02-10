@@ -1,0 +1,19 @@
+@font-face {
+    font-family:"Paradroid Mono";
+    src: url("ParadroidMono-Light.ttf") format("truetype");
+}
+
+body {
+    color: hsl(0, 0%, 10%);
+    line-height: 2;
+    font-family: "Paradroid Mono", sans-serif;
+}
+
+pre {
+    margin: 25px;
+    color: hsl(0, 0%, 10%);
+    line-height: 1.5;
+    font-family: "Paradroid Mono", sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+}

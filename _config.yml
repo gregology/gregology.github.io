@@ -108,6 +108,7 @@ exclude:
   - CNAME
   - Vagrantfile
   - "*.asc"
+  - "public_key_site"
 
 prose:
   rooturl: '_posts'
