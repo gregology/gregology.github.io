@@ -1,6 +1,7 @@
 ---
 layout: page
 comments: False
+signed: True
 licence: Creative Commons
 title: Secure Contact
 redirect_from:
@@ -8,9 +9,7 @@ redirect_from:
   - /Contact
 ---
 
-### Page History
-
-[GitHub](https://github.com/gregology/gregology.github.io/commits/master/secure.md) - [Wayback Machine](https://web.archive.org/web/2018*/https://gregology.net/secure/) - [Google Cache](https://webcache.googleusercontent.com/search?q=cache:https://gregology.net/secure/)
+[Commit history](https://github.com/gregology/gregology.github.io/commits/master/secure.md) - [Wayback Machine history](https://web.archive.org/web/2018*/https://gregology.net/secure/) - [Google Cache](https://webcache.googleusercontent.com/search?q=cache:https://gregology.net/secure/)
 
 ### Contact
 
@@ -20,87 +19,21 @@ Signal: <a href='https://signal.me/#p/+16132626705'>+1 613 262 6705</a><br>
 Telegram: <a href='https://t.me/gregology'>+1 613 262 6705</a><br>
 
 
-Note: these phone numbers do not work for regular phone calls or sms<br>
+Note: my phone number does not work for regular phone calls or sms<br>
 </p>
-
-### FlowCrypt
-
-<a href='https://flowcrypt.com/'>FlowCrypt</a> enables end to end encryption for Gmail. Other platforms are coming soon.
-
-Public Fingerprint: `4980 A503 9EC9 8AD3 1883 5241 6FC9 D454 B109 B59F`
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: FlowCrypt Email Encryption 8.2.0
-Comment: Seamlessly send and receive encrypted email
-
-xsFNBF1rBPABEADDM6PeltidLQ7G07vW+5QUhZvoaR+NejkBwvAHRRMEVZqh
-+wALr4ZavZ5V+ZzTxKlE0oNUs4brf93JhuOk2T0/PD2WiI/sbnfzkfdeYkIG
-VY/WiTuFIIApxw2mDA38OvmT8NIPH7sSSjjKpSM5Uc8vfwEusziXqORuGrD6
-s/lxXBPUNiO4ShAEqf+qY0NjG9aSUyQu6efiyC0zhzukzbvq/q8dMmOrCmB6
-2umQobnqIEtcPTWFTL5fqkVOd6MDMhrRi/tt9vQ4r5Cv7J4B+8gryCIbcZrO
-ONHogvDNRGR6bTxKh19DPxXnuC4VxY29+UJvJVGx0LQLvN8vkGSj1Vn/HONI
-npDRYethHacbkiEDexXgbGGfdM8BPO3900Hvte4n91fO0NKoKRMg780JXL16
-OAp/AYRU4WHS3DA1kxhEexz/56dOClCA4iSty7v4/zinIos91YxAmv19GnYS
-eKBsMYE7wvct6qmcYySFzNCbP4Px8W9v6/NvFdn718swBRd2RAys9rheXvbL
-8b2EsoYMH9PUsYEdbCi8dGwdDSmFJDGieYfBiBzW4E+rM/XOycsrWCM1nS4Q
-NoEA9pvmevg2oBRpjKj+EH76zf3dY/db25MIVP/KBnqZQEoghTy4iJfJUws1
-RD5eqR+qyC0bo+LJ6pPGtw+9l4OHU1/XRAPHQQARAQABzRlHcmVnIENsYXJr
-ZSA8Z3JlZ0BnaG8uc3Q+wsGlBBMBCAA4FiEESYClA57JitMYg1JBb8nUVLEJ
-tZ8FAl1rBPACGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AAIQkQb8nUVLEJ
-tZ8WIQRJgKUDnsmK0xiDUkFvydRUsQm1n9tbD/9EmUpO+s7LrOY6sae19R66
-Rhwq3M/9fsMs7+dFNYHKnAPBDutcZFNDyx1UayAvFRCtD7q+6vwZFvxJyh7M
-qrLV7naI8zogmjib9WPhsFaRLMF50McHPdrK4L0ooQWCfiRVRien7fMeKENf
-WDissyPmhjnrou7iBBXwgTQbk9SEiZLEX511xpB3QkWBMTed7d7Vmj1+YtTn
-0TeE6IiHgRvxtNyJN4tsYKd8BFYQ7kqNYKtCUS0rDYfnG99b0MPb0faiJ/Bj
-sEWBF4uy0BXnxcGpWSiVrleYk5NVN6dlh6j4LLXf7rdyr1QSyMHpLIVhpUsR
-yPumm60g6L/Jr9TGzAlApmMeti2Sstohz8tuPwIwW68L4CmH8Dup4VKiOSs9
-YfGOQohetMmVHwvgK+VyLT698vPCvN+suA7WaTGEhSE6PPeri13FHgWNEacn
-0X1nymA6kMRhO/d0tzJpsdXKFQwjcQpiIJhcAhbsDJbjsulXn2hYBm4pw3PW
-lOObu8xQ3Y8sF9z4DcN3097mP0EyTaK7EOjwoWCuRn7u8B/LND+CBWiuyOz+
-8Wa9MLefwZ9WUv1HELJj0X2F/qBZ6a6ZX+PzxUbbTqxj1mZo1O9PFlYMM9Eu
-P53kFKQ7b3Z7S74CimCPBgv1cIRnTLMhNYUjMrmhjiVVtl2T27qL7bNn7Htf
-rM7BTQRdawTwARAA6l0+PRhVO/sPSEKGw1XrjYyEK34CSBiyosepGT9SJDuw
-7w/Hc0CbM6ZN0YrB1gFgSmQnO/+vmeA5+2jWNGCgPwRhEkOdbugBUNooLL6E
-JJHGbgs7RysXGg4dblKj3RtbOoD/mX7QxM146g/jEnGSUJBJVmnCUZFxZkN5
-mFtd1I4YtMB0RGO6dP3lVLch66ikEp366bBYhTRUhKT0cTvq1fp+hIJGUWox
-1h9r/QxxlhbqCHcQVDtFjO+wL3fR+ZJ5dbstJ1RclQn0QTxoMYkTNcfoYOHB
-1otkEA1eo+w19Tx6auD830QyyLg4tIzAfVSxLFBR99yHDSk35Q8/o8sBkxXd
-LYg669lg9Nm7Fz5TOG7UZJ6AoLz9pvA3JfCWD2E90SKc9kfDrXfwCDwsi+Na
-zHS4hNqD7PAJJAxnNHKE4FKyw/wH3mf0cS3XBngXAJkB21oFeyFc9DBZfFJZ
-s42lrM1G6P9cz3ow2oWbbTKgekRL5/l4oVd86hYKkBR2af9+ScWYoH6+rmcc
-aS9KxnqQR8PUwlPv9W/OenOIoS4411gytZ9Dxa9UMxJ//YTuklMDaCmmlFsp
-X3FQfffnnIEetT6mNEV/ebNxCvWp4eqiFu/3sXGhpMEG7j+lulZqHgdfNEzU
-FG4NFeBIDnoiIeZEDwLhm1uJDP8nb4zSuEAY3TkAEQEAAcLBjQQYAQgAIBYh
-BEmApQOeyYrTGINSQW/J1FSxCbWfBQJdawTwAhsMACEJEG/J1FSxCbWfFiEE
-SYClA57JitMYg1JBb8nUVLEJtZ8LZBAAvKoIdZ/9NztLHQxiSRYFnJ4LpTFW
-Qe0tSFSZ2VSppJ5u0avGjEechfsw8bhD/Gbl7bOWeRA884rxdtRvDgAqQKIi
-Pxfp3TFaYJa0o2rNxN4cBdLWxno3SfxQhtHQYrXCYneLHoNGflwS4gl9ddVo
-mzT0fv09ZqaiQmVAPaw9aC5DvVbDY+KKPXU0pLGLSS/t2GY+BXzQuUN3ZuJO
-YvNHcRqKsCl/DiAmrUWxGUG/EQYPtmGE3mk5KEXY+eBbcLIjqjmhLxInEOEo
-0oxEiz8ee4H0Z9Xnz5L1q3UcrSthf2+a6HA5jLdWoqEKoVH4xD2K6se+Jv0I
-aa9opUBwVJ+/rrdhU/y01UytuSRFh7RArVbYrLSVc6PEV8taQ9JHIj0wxNtI
-6I3m6KPCWguX0AT2lUi5VDTau462+77q59UthtRfh8yLp/O/0dbCaIXVFadn
-NA/47Zw0nqWknpUDu78kImH8i1wmqajSq2clky/j3arfpz6D4HxUnL+GuHDj
-VoZbu3JHOzW3Md/QIUZ6IdcYv9thUqv/p8BMMHaCEgOT5HEpAxXgYe4uQQmk
-vBBAXJOiDCaBbpmK5kgzIuZktlg7hemFS6K5ciZu7SpXimUhf+6FlE1gYh73
-vaZYfh9ODvGWJBM6hFifaqGkFHMtSGMIBl8Im4Z0dgG2nrLloD3/HPY=
-=rK6n
------END PGP PUBLIC KEY BLOCK-----
-```
-
-### ssh-rsa public key
-
-```
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzkyt7r7cCaDHHQ4QaY2EB7dWtbkTEVwQZ0QZzqzNLf2Pg6CwAb/vi9DquPTfEKQeESsUPA2R3VYkJA+nm7e43NCqdc0B5Eep2hXFZlTxK0UsBp2o0R4pI6ZvJoxrYnx7RXjQYKHy2rPyCVbJa3yLHjdjDJpnwF3t5p9y3uDQkSdLZ1O5LqqGH+F79MUNOu4X7qKpOW0RJGdEqHZs94e7J4+V84SxVvXS3nFC6h3+DDp7GUGYG8AszFW4lYUG0eHJm9DVzQqhTgXe+a5H78WVRlxyG/5KPeVDZcIjXBrZUEt8sejiOmMjk5hl8xPeL6xVlplB3xK3lhStMwKO6JIDf greg@gho.st
-```
 
 ### GPG Keychain
 
-#### import
-
-`curl https://gregology.net/public_key | gpg — import`
+All posts and some pages (including this one) are signed with this key. This public key is also avaliable at [gregology.crypto](https://gregology.crypto).
 
 ```
 {% include_relative public_key.asc %}
 ```
+
+### ssh-ed25519 public key
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMu3Bnl1oq9huPBb+i2NhYitrNAhPkO7DEMgNojNAx3E greg@gho.st
+```
+
+note: I have deprecated my previous ssh-rsa key in favour of this ssh-ed25519 key.
