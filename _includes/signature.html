@@ -5,14 +5,13 @@
   {% assign filename = page.path | replace: '_posts/', '' %}
   {% assign signature = filename | replace: '.md', '.md.asc' %}
 
-  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include_relative {{ signature }} %}</code></pre></div></div>
+  <div class="language-plaintext highlighter-rouge" style="max-height:200px;overflow-y:auto;"><pre class="highlight"><code>{% include_relative {{ signature }} %}</code></pre></div>
+  <a href="{{ site.raw_baseurl }}{{ page.path }}.asc" download>download</a>
 
   <h3 id="verify">Verify</h3>
 
-  <a href='/public_key'>Public key</a> - <a href='{{ site.raw_baseurl }}{{ page.path }}'>raw post</a>
-
   <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 curl https://gregology.net/public_key | gpg --import
-gpg --verify <(curl {{ site.raw_baseurl }}{{ page.path }}.asc) <(curl {{ site.raw_baseurl }}{{ page.path }})
+curl {{ site.raw_baseurl }}{{ page.path }}.asc | gpg --verify
   </code></pre></div></div>
 </p>

@@ -7,6 +7,6 @@ do
     echo "$file is already signed"
   else
     echo "signing $file"
-    gpg --detach-sign -a "$file"
+    gpg --clear-sign -a "$file"
   fi
 done
