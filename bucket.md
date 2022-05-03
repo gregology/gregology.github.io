@@ -32,7 +32,7 @@ licence: Creative Commons
 * ~~Fly a Plane~~
 * Write a book
 * Publish a paper
-* Create a patent
+* ~~Create a patent~~
 * ~~Learn a partner dance~~
 * ~~Learn a musical instrument~~
 * ~~Live in a megacity~~
