@@ -36,7 +36,7 @@ licence: Creative Commons
 * ~~Learn a partner dance~~
 * ~~Learn a musical instrument~~
 * ~~Live in a megacity~~
-* Live in the country
+* ~~Live in the country~~
 * Learn another language
 * ~~Catch a snake~~
 * See in the wild
