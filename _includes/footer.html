@@ -74,6 +74,18 @@
             </li>
           {% endif %}
           
+          {% if site.author.twitch %}
+          <li>
+            <a href="https://www.twitch.tv/{{ site.author.twitch }}/" title="Twitch">
+              <span class="fa-layers fa-3x">
+                <i class="fas fa-circle" style="color:404040"></i>
+                <i class="fas fa-circle" data-fa-transform="shrink-3" style="color:6441a5"></i>
+                <i class="fa-inverse fa-brands fa-twitch" data-fa-transform="shrink-6"></i>
+            </span>
+            </a>
+          </li>
+          {% endif %}
+          
           {% if site.author.steam %}
           <li>
             <a href="https://steamcommunity.com/id/{{ site.author.steam }}/" title="Steam">
