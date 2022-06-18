@@ -25,7 +25,7 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 Jul 2019 to present, Ottawa Canada
 
 * Data modelling, reporting, experimenting, & machine learning
-* Leading the awesome Prodeng Data Science team
+* Leading an awesome Prodeng Data Science team
 * Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), [Druid](https://druid.apache.org/), & [Rails](https://rubyonrails.org/)
 
 ### CEO & Founder @ Memair
