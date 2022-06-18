@@ -49,7 +49,7 @@ Sep 2013 to Sep 2017, Ottawa Canada
 * Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
 
 ### Acroyoga Instructor @ Upward Dog Yoga Centre
-Jul 2014 to present, Ottawa Canada
+Jul 2014 to Mar 2020, Ottawa Canada
 
 * Teaching Acroyoga as part of [SmileyOm](https://smileyom.com)
 
@@ -74,8 +74,8 @@ Feb 2008 to Mar 2011, by correspondence
 
 ## Home Office
 
-Internet: 1.5Gbps Fibre  
-Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz5cgUcTg6)  
+Connection: 1.5Gbps fibre Internet with ethernet to dedicated home office. Ubiquiti networking equipment. 5G & 1hr UPS redundency.  
+Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz5cgUcTg6). 15mins to 401 highway & Belleville Via Rail station, 10mins to co-working spaces.  
 Timezone: [Eastern Standard Time](https://time.is/EST) (UTC−05:00)  
 Workable hours:  
 &nbsp;&nbsp;&nbsp;&nbsp;**PST:** 05:00 - 15:30 PST  
@@ -95,7 +95,7 @@ Workable hours:
 
 ## Citizenships
 
-🇦🇺 Australia: Citizen  
-🇨🇦 Canada: Citizen  
-🇮🇪 Ireland (EU): Citizen  
-🇬🇧 United Kingdom: Citizen  
+🇦🇺 Australian  
+🇨🇦 Canadian  
+🇮🇪 Irish (EU)  
+🇬🇧 British  
