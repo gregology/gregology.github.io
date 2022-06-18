@@ -75,8 +75,15 @@ Feb 2008 to Mar 2011, by correspondence
 
 ## Home Office
 
-Connection: 1.5Gbps fibre Internet with ethernet to dedicated home office. Ubiquiti networking equipment. 5G & 1hr UPS redundency.  
-Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz5cgUcTg6). 15mins to 401 highway & Belleville Via Rail station, 10mins to co-working spaces.  
+Connection:  
+&nbsp;&nbsp;&nbsp;&nbsp; 1.5Gbps fibre Internet  
+&nbsp;&nbsp;&nbsp;&nbsp; Ubiquiti networking equipment with ethernet to office  
+&nbsp;&nbsp;&nbsp;&nbsp; 5G cellular & 1hr UPS redundency.  
+Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz5cgUcTg6)  
+&nbsp;&nbsp;&nbsp;&nbsp; 🏢 10mins to co-working spaces  
+&nbsp;&nbsp;&nbsp;&nbsp; 🚗 15mins to 401 highway  
+&nbsp;&nbsp;&nbsp;&nbsp; 🚊 15mins to Belleville Via Rail station  
+&nbsp;&nbsp;&nbsp;&nbsp; ✈️ 2hrs to Toronto Pearson International Airport  
 Timezone: [Eastern Standard Time](https://time.is/EST) (UTC−05:00)  
 Workable hours:  
 &nbsp;&nbsp;&nbsp;&nbsp;**PST:** 05:00 - 15:30 PST  
