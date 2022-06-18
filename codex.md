@@ -3,6 +3,7 @@ layout: page
 comments: True
 licence: Creative Commons
 title: Codex Vitae
+signed: True
 subtitle: An exercise in metacognition
 redirect_from:
   - /blueprint
@@ -92,6 +93,10 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Genetic connections are irrelevant to a person's role as a parent
 - The vast majority of involved parents are doing the best they can
 - Parents make mistakes
+- Values I want to instill in my daughter
+  - Consent
+  - Learning how to learn
+  - Trust
 
 
 ### Beliefs about Society
