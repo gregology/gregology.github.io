@@ -48,7 +48,7 @@ Deepfakes and legitimate looking misinformation will continue to become more con
 
 My tweets, Reddit posts, and blog posts are now all self verified. Technical implementation below.
 
-[The GNU Privacy Guard (GPG)](https://www.gnupg.org/) is a complete and free implementation of the OpenPGP standard as defined by [RFC4880](https://www.ietf.org/rfc/rfc4880.txt). My content is signed using GPG. My public-key is stored on [my website](/secure/) which is cached by Google & wayback machine. My public-key is also stored on a blockchain [gregology.crypto](https://gregology.crypto/) so that an immutable record of my public-key exists. 
+[The GNU Privacy Guard (GPG)](https://www.gnupg.org/) is a complete and free implementation of the OpenPGP standard as defined by [RFC4880](https://www.ietf.org/rfc/rfc4880.txt). My content is signed using GPG. My public-key is stored on [my website](/secure/) which is cached by Google & wayback machine. My public-key is also stored on a blockchain [gregology.crypto](https://gregology.crypto/) ([requires browser extension](https://unstoppabledomains.com/extension)) so that an immutable record of my public-key exists. 
 
 Twitter has a 280 character limit. An OpenPGP signature stored as text would require a minimum of 4 tweets. Instead I store my tweet signatures as a QR code and attach them as an image. Here is a script I use to create QR signatures of messages.
 
