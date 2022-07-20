@@ -37,6 +37,9 @@ var economicChartData = {
           }, {
             t: new Date(2022, 1, 2),
             y: -5.75
+          }, {
+            t: new Date(2022, 7, 19),
+            y: -7.25
           }
         ],
         borderColor: '#70c1b3',
@@ -57,7 +60,7 @@ var economicChartData = {
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2021, 1, 1),
+            value: new Date(2021, 4, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -72,7 +75,7 @@ var economicChartData = {
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2021, 1, 1),
+            value: new Date(2021, 4, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -135,6 +138,9 @@ var socialChartData = {
           }, {
             t: new Date(2022, 1, 2),
             y: -5.79
+          }, {
+            t: new Date(2022, 7, 19),
+            y: -6.36
           }
         ],
         borderColor: '#70c1b3',
@@ -155,7 +161,7 @@ var socialChartData = {
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2021, 1, 1),
+            value: new Date(2021, 4, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -170,7 +176,7 @@ var socialChartData = {
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2021, 1, 1),
+            value: new Date(2021, 4, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
