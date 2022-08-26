@@ -293,6 +293,7 @@ Subconscious reactions that I have noticed;
 - Humans will be augmented to the point that they refer to their tools in the first person
 - Vehicles will travel at 300+kph on Canadian Highways
 - Capital will no longer be the most powerful commodity
+- Disney will stop making movies where the protagonist is notable because of hereditary (princess, prince, etc)
 
 ### Before 2050
 
