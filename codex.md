@@ -64,14 +64,14 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 ### Beliefs about Humans
 
 - Humans have evolved to be social creatures
-- Human's genes & memes have evolved to be selfish
+- Human genes & memes have evolved to be selfish
 - Humans are not special, sentience is
-- A person is smart, people are dumb
+- A person is smart, people are stupid
 - Humans are physical
 - Humans created God
 - Today's humanity will appear ludicrous to future generations
 - Plants & animals also domesticated humans
-- Humans memory is fallible
+- Human memory is fallible
 - Humans are made up of symbionts including;
   - a consciousness
   - a primate
@@ -107,8 +107,8 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 - Friendship is the best way to overcome bigotry
 - Soldiers generally have more in common with the people they fight then with the leaders that send them to fight
 - Nations give meaning to wars after the fact
-- Nation's Rulers win & lose in war, civilians & soldiers only lose wars
-- Terrorism is an economic, educational, & health problem
+- Nation rulers win & lose in war, civilians & soldiers only lose wars
+- Terrorism is an economic, educational, & healthcare problem
 
 
 ### Beliefs about Science
@@ -125,7 +125,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
 
 - In a casual universe, everybody is rational
 - Humans share the universe with other intelligent life
-- There are intelligent collective consciousnesses that we do not understand or know exist
+- There are intelligent collective consciousnesses that we do not understand or recognise
 - Humans have no cosmic significance, other than that the cosmos is significant & humans are part of it
 - There is no universal purpose of life, we must make our own
 - I am not sure what my purpose of life is yet
@@ -154,6 +154,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - my citizenships allow me to live and work in any of the top 10 countires on the [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)
   - my citizenships & partner allow me to live and work in any of the top 10 countires on the [Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index)
   - I have access to the internet
+  - I have access to fast internet
   - I understand & create technology
   - I have a warm dry place to sleep
   - I have access to healthcare & counselling
@@ -163,6 +164,7 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - I have the freedom to travel to most places on earth
   - I live below my means
   - I have savings
+  - I own property
   - I choose to work
   - I could retire and live frugally (in a developing nation) on my savings
   - I am a military veteran of a western country
@@ -175,6 +177,10 @@ By defining my beliefs & principles I can recognise when my actions misalign. Wh
   - my skillsets are in demand & lucrative
   - I do not have to worry about being physically or sexually assaulted
   - I have good relationships with influential people
+  - I have no allergies
+  - I am healthy
+  - I have a healthy partner
+  - I have a healthy child
 - Humans are privileged because:
   - we are self aware
   - we are intelligent
@@ -267,22 +273,22 @@ Subconscious reactions that I have noticed;
 
 ### Before 2025
 
-- Self driving vehicles (level 3) will be common (1% of inner city traffic my home town of Ottawa)
-- Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
+- Self driving vehicles (level 3) will be common on highways (1% of traffic on the 401)
 - Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)
 - Car fitness will become a trend as people utilize their self driving commute
 
 ### Before 2030
 
 - Human driven vehicles will be uncommon (driven partly by the cost of insurance and an increase in the value of human life)
-- Deurbanisation will occur as proximity to cities becomes less important with new technology like self driving vehicles and augmented reality
+- Traffic will be dramatically reduced by the small number of vehicles using traffic aware navigation (Uber drivers, self driving cars, delivery trucks, etc)
+- Deurbanisation will occur as proximity to cities becomes less important with new technology like self driving vehicles and virtual reality
 - Pedestrian will reclaim downtown areas from cars
 - AIs will easily pass Turing tests
 - AI audits will rewrite history by discovering patterns in open & closed data
 - Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential & prevalence
 - Critical thinking skills will improve as legacy media fades (alternatively the world will be destroyed by trolls)
 - Critical thinking skills will improve with [regulation of algorithms](https://en.wikipedia.org/wiki/Regulation_of_algorithms)
-- The Detroit Big Three (Ford, GM, & Chrysler) will fail to adapt and be acquired or go bankrupt
+- At least one of the Detroit Big Three (Ford, GM, & Chrysler) will fail to adapt and be acquired or go bankrupt
 
 ### Before 2040
 
@@ -303,7 +309,11 @@ Subconscious reactions that I have noticed;
   - Cause human labour as a commodity to become worthless
   - Unfortunately cause citizens to be less important to politicians & leaders
 
-### Before 2100
+### Before 2200
+
+- The concept of state citizenry will be considered abhorrent (similar to how we consider slavery in 2022)
+- Humanity will travel to another solar system
+
+### Before 2500
 
 - An extraterrestrial society will deem earthlings worthy and reveal themselves to us
-- Earthlings will travel to another solar system
