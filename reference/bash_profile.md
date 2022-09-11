@@ -1,10 +1,64 @@
 ---
-title: .bash_profile
+title: .zshrc and .bash_profile
 disqus: yep
 layout: page
 ---
 
-Useful aliases and alike from my .bash_profile
+Useful aliases and alike from my `.zshrc`
+
+```
+export EDITOR="nano"
+
+export HISTSIZE=1000000
+export HISTFILESIZE=1000000
+
+
+## Git
+
+alias master='git checkout master'
+alias pull='git pull'
+alias push='git push origin HEAD'
+alias gitclean='git branch | grep -v "^*"" | xargs git branch -d'
+
+parse_git_branch() {
+    git_status="$(git status 2> /dev/null)"
+    pattern="On branch ([^[:space:]]*)"
+    if [[ ! ${git_status} =~ "(working (tree|directory) clean)" ]]; then
+        state="*"
+    fi
+    if [[ ${git_status} =~ ${pattern} ]]; then
+      branch=${match[1]}
+      branch_cut=${branch:0:35}
+      if (( ${#branch} > ${#branch_cut} )); then
+          echo "(${branch_cut}…${state})"
+      else
+          echo "(${branch}${state})"
+      fi
+    fi
+}
+
+setopt PROMPT_SUBST
+PROMPT='%{%F{blue}%}%9c%{%F{none}%}$(parse_git_branch)$'
+
+
+# Ruby
+
+alias brake='bundle exec rake'
+alias brails='bundle exec rails'
+
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+
+
+# add 24h time the right side
+RPROMPT='%D{%k:%M:%S}'
+
+
+# signing scripts
+export PATH="$HOME/bin:$PATH"
+```
+
+My old `.bash_profile` from before MacOS moved from bash to zsh by default.
 
 ```
 export EDITOR="nano"
@@ -17,7 +71,6 @@ export HISTFILESIZE=1000000
 alias master='git checkout master'
 alias pull='git pull'
 alias push='git push origin HEAD'
-alias hush='git push heroku HEAD'
 alias gitclean='git branch | grep -v "^*"" | xargs git branch -d'
 
 parse_git_branch() {
