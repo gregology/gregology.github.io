@@ -37,10 +37,6 @@ parse_git_branch() {
     fi
 }
 
-setopt PROMPT_SUBST
-PROMPT='%{%F{blue}%}%9c%{%F{none}%}$(parse_git_branch)$'
-
-
 # Ruby
 
 alias brake='bundle exec rake'
@@ -48,10 +44,6 @@ alias brails='bundle exec rails'
 
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
-
-
-# add 24h time the right side
-RPROMPT='%D{%k:%M:%S}'
 
 
 # signing scripts
