@@ -117,7 +117,7 @@ task :tweets do
     max_id = nil
     max_tries = 20
     max_tries.times do
-      new_tweets = max_id.nil? ? client.user_timeline(twitter_account, count: 200) : client.user_timeline(twitter_account, count: 200, max_id: max_id)
+      new_tweets = max_id.nil? ? client.user_timeline(twitter_account, count: 200, include_rts: true, tweet_mode: 'extended') : client.user_timeline(twitter_account, count: 200, include_rts: true, tweet_mode: 'extended', max_id: max_id)
       break if new_tweets.empty?
       puts "#{new_tweets.count} tweets extracted from #{new_tweets.last.created_at} to #{new_tweets.first.created_at}"
       tweets += new_tweets
