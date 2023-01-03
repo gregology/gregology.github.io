@@ -12,6 +12,5 @@ gem 'rake'
 gem 'yt'
 gem 'pry'
 gem 'twitter'
-gem 'webrick'
 
 gem "webrick", "~> 1.7"
