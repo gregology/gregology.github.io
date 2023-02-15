@@ -269,7 +269,8 @@ Subconscious reactions that I have noticed;
 
 ### Before 2023
 
-- Fast satellite internet will be affordable in Canada (300Mbs⬆️⬇️for $150CAD per month)
+- ~~Fast satellite internet will be affordable in Canada (300Mbps⬆️⬇️for $150CAD per month)~~
+  - 🔴 Failed: Starlink has a $140 service with advertised speeds of up to 200Mbps. However in realitity the service provides median speeds of 66⬆️/9⬇️ Mbps in Canada  
 
 ### Before 2025
 
