@@ -499,7 +499,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2023, 1, 1),
+            value: new Date(2022, 1, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
