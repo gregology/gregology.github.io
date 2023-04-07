@@ -387,7 +387,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               t: new Date(2021, 7, 1),
               y: 85.3
             }, {
-              t: new Date(2021, 7, 1),
+              t: new Date(2022, 7, 1),
               y: 85.3
             }
           ],
