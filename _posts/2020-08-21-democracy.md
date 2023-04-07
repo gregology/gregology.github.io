@@ -21,6 +21,8 @@ The Democracy Index has identified a worrying trend in US politics, **the United
 *A lower index means less democratic, see appendix below for sources & definitions*
 <canvas id="usDemocracyChart" width="400" height="200"></canvas>
 
+<canvas id="usDemocracyChartZoomed" width="400" height="200"></canvas>
+
 This disturbing trend isn't seen in the other [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes) countries. In fact, of Five Eyes countries, the US is the only country that has seen a consistent decrease since the Democracy Index began. Given the increasing cases of [voter suppression](https://en.wikipedia.org/wiki/Voter_suppression_in_the_United_States) in the US, this trend is likely to continue. 
 
 ### Democracy Index Five Eyes Comparison
@@ -842,6 +844,208 @@ var worldChartData = {
           ticks: {
             suggestedMin: 75,
             suggestedMax: 100
+          }
+        }]
+      }
+    }
+  });
+</script>
+
+<script>
+  var usChartDataZoomed = {
+      datasets: [{
+          fill: false,
+          label: 'United States',
+          data: [
+            {
+              t: new Date(2006, 1, 1),
+              y: 82.2
+            }, {
+              t: new Date(2008, 1, 1),
+              y: 82.2
+            }, {
+              t: new Date(2010, 1, 1),
+              y: 81.8
+            }, {
+              t: new Date(2011, 1, 1),
+              y: 81.1
+            }, {
+              t: new Date(2012, 1, 1),
+              y: 81.1
+            }, {
+              t: new Date(2013, 1, 1),
+              y: 81.1
+            }, {
+              t: new Date(2014, 1, 1),
+              y: 81.1
+            }, {
+              t: new Date(2015, 1, 1),
+              y: 80.5
+            }, {
+              t: new Date(2016, 1, 1),
+              y: 79.8
+            }, {
+              t: new Date(2017, 1, 1),
+              y: 79.8
+            }, {
+              t: new Date(2018, 1, 1),
+              y: 79.6
+            }, {
+              t: new Date(2019, 1, 1),
+              y: 79.6
+            }, {
+              t: new Date(2020, 1, 1),
+              y: 79.2
+            }, {
+              t: new Date(2021, 1, 1),
+              y: 78.5
+            }, {
+              t: new Date(2022, 1, 1),
+              y: 78.5
+            }
+          ],
+          borderColor: '#000000',
+          borderWidth: 5
+        }
+      ]
+    }
+  var ctx3 = document.getElementById("usDemocracyChartZoomed").getContext("2d");
+  var usChartZoomed = new Chart(ctx3, {
+    type: 'line',
+    data: usChartDataZoomed,
+    options: {
+      annotation: {
+        events: ["click"],
+        annotations: [
+          {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2006, 1, 1),
+            xMax: new Date(2009, 1, 20),
+            yMin: 75,
+            yMax: 85,
+            backgroundColor: "rgba(233, 20, 29, 0.3)",
+            borderColor: "rgb(233, 20, 29)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2007, 7, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "red",
+              content: "Bush",
+              enabled: true,
+              position: "top"
+            },
+          }, {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2009, 1, 20),
+            xMax: new Date(2017, 1, 20),
+            yMin: 75,
+            yMax: 85,
+            backgroundColor: "rgba(0, 21, 188, 0.3)",
+            borderColor: "rgb(0, 21, 188)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2013, 1, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "blue",
+              content: "Obama",
+              enabled: true,
+              position: "top"
+            },
+          }, {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2017, 1, 20),
+            xMax: new Date(2021, 1, 20),
+            yMin: 75,
+            yMax: 85,
+            backgroundColor: "rgba(233, 20, 29, 0.3)",
+            borderColor: "rgb(233, 20, 29)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2019, 1, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "red",
+              content: "Trump",
+              enabled: true,
+              position: "top"
+            },
+          }, {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2021, 1, 20),
+            xMax: new Date(2023, 1, 20),
+            yMin: 75,
+            yMax: 85,
+            backgroundColor: "rgba(0, 21, 188, 0.3)",
+            borderColor: "rgb(0, 21, 188)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2022, 1, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "blue",
+              content: "Biden",
+              enabled: true,
+              position: "top"
+            },
+          }
+        ]
+      },
+      elements: {
+        point: {
+          radius: 0
+        }
+      },
+      scales: {
+        xAxes: [{
+          type: 'time',
+          ticks: {
+            unit: 'year',
+            min: 1151712000000,
+            max: 1704067200000
+          }
+        }],
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: 'Index'
+          },
+          ticks: {
+            suggestedMin: 75,
+            suggestedMax: 85
           }
         }]
       }
