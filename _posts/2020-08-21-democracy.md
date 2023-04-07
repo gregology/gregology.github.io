@@ -174,6 +174,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2021, 7, 1),
               y: 91.7
+            }, {
+              t: new Date(2022, 7, 1),
+              y: 91.7
             }
           ],
           borderColor: '#247ba0',
@@ -223,6 +226,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               y: 67.9
             }, {
               t: new Date(2021, 7, 1),
+              y: 64.3
+            }, {
+              t: new Date(2022, 7, 1),
               y: 64.3
             }
           ],
@@ -274,6 +280,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2021, 7, 1),
               y: 88.9
+            }, {
+              t: new Date(2022, 7, 1),
+              y: 88.9
             }
           ],
           borderColor: '#ffe066',
@@ -324,6 +333,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2021, 7, 1),
               y: 62.5
+            }, {
+              t: new Date(2022, 7, 1),
+              y: 62.5
             }
           ],
           borderColor: '#70c1b3',
@@ -370,6 +382,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               y: 82.4
             }, {
               t: new Date(2020, 7, 1),
+              y: 85.3
+            }, {
+              t: new Date(2021, 7, 1),
               y: 85.3
             }, {
               t: new Date(2021, 7, 1),
@@ -473,7 +488,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2021, 1, 20),
-            xMax: new Date(2022, 1, 20),
+            xMax: new Date(2023, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
@@ -484,7 +499,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2021, 7, 1),
+            value: new Date(2023, 1, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
@@ -507,7 +522,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           ticks: {
             unit: 'year',
             min: 1151712000000,
-            max: 1672531200000
+            max: 1704067200000
           }
         }],
         yAxes: [{
@@ -580,6 +595,9 @@ var worldChartData = {
             }, {
               t: new Date(2021, 1, 1),
               y: 89.00
+            }, {
+              t: new Date(2022, 1, 1),
+              y: 87.10
             }
           ],
           borderColor: '#247ba0',
@@ -630,6 +648,9 @@ var worldChartData = {
             }, {
               t: new Date(2021, 1, 1),
               y: 88.7
+            }, {
+              t: new Date(2022, 1, 1),
+              y: 88.8
             }
           ],
           borderColor: '#f25f5c',
@@ -680,6 +701,9 @@ var worldChartData = {
             }, {
               t: new Date(2021, 1, 1),
               y: 93.7
+            }, {
+              t: new Date(2022, 1, 1),
+              y: 96.1
             }
           ],
           borderColor: '#ffe066',
@@ -730,6 +754,9 @@ var worldChartData = {
             }, {
               t: new Date(2021, 1, 1),
               y: 81.00
+            }, {
+              t: new Date(2022, 1, 1),
+              y: 82.80
             }
           ],
           borderColor: '#70c1b3',
@@ -779,6 +806,9 @@ var worldChartData = {
               y: 79.2
             }, {
               t: new Date(2021, 1, 1),
+              y: 78.5
+            }, {
+              t: new Date(2022, 1, 1),
               y: 78.5
             }
           ],
