@@ -924,8 +924,8 @@ var worldChartData = {
             yScaleID: "y-axis-0",
             xMin: new Date(2006, 1, 1),
             xMax: new Date(2009, 1, 20),
-            yMin: 75,
-            yMax: 85,
+            yMin: 77,
+            yMax: 83,
             backgroundColor: "rgba(233, 20, 29, 0.3)",
             borderColor: "rgb(233, 20, 29)",
             borderWidth: 0,
@@ -950,8 +950,8 @@ var worldChartData = {
             yScaleID: "y-axis-0",
             xMin: new Date(2009, 1, 20),
             xMax: new Date(2017, 1, 20),
-            yMin: 75,
-            yMax: 85,
+            yMin: 77,
+            yMax: 83,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
             borderColor: "rgb(0, 21, 188)",
             borderWidth: 0,
@@ -976,8 +976,8 @@ var worldChartData = {
             yScaleID: "y-axis-0",
             xMin: new Date(2017, 1, 20),
             xMax: new Date(2021, 1, 20),
-            yMin: 75,
-            yMax: 85,
+            yMin: 77,
+            yMax: 83,
             backgroundColor: "rgba(233, 20, 29, 0.3)",
             borderColor: "rgb(233, 20, 29)",
             borderWidth: 0,
@@ -1002,8 +1002,8 @@ var worldChartData = {
             yScaleID: "y-axis-0",
             xMin: new Date(2021, 1, 20),
             xMax: new Date(2023, 1, 20),
-            yMin: 75,
-            yMax: 85,
+            yMin: 77,
+            yMax: 83,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
             borderColor: "rgb(0, 21, 188)",
             borderWidth: 0,
@@ -1020,6 +1020,42 @@ var worldChartData = {
               content: "Biden",
               enabled: true,
               position: "top"
+            },
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "horizontal",
+            scaleID: "y-axis-0",
+            value: 80,
+            borderColor: "rgba(256,256,256,0.7)",
+            borderWidth: 2,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "horizontal",
+            scaleID: "y-axis-0",
+            value: 81,
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "#3030FF",
+              content: "Full democracy",
+              enabled: true,
+              position: "left"
+            },
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "horizontal",
+            scaleID: "y-axis-0",
+            value: 79,
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "#8080FF",
+              content: "Flawed democracy",
+              enabled: true,
+              position: "left"
             },
           }
         ]
@@ -1044,8 +1080,8 @@ var worldChartData = {
             labelString: 'Index'
           },
           ticks: {
-            suggestedMin: 75,
-            suggestedMax: 85
+            suggestedMin: 77,
+            suggestedMax: 83
           }
         }]
       }
