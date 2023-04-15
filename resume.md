@@ -85,9 +85,9 @@ Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz
 &nbsp;&nbsp;&nbsp;&nbsp; ✈️ 2hrs to Toronto Pearson International Airport  
 Timezone: [Eastern Standard Time](https://time.is/EST) (UTC−05:00)  
 Workable hours:  
-&nbsp;&nbsp;&nbsp;&nbsp;**PST:** 05:00 - 15:30 PST  
-&nbsp;&nbsp;&nbsp;&nbsp;**EST:** 08:00 - 18:30 EST  
-&nbsp;&nbsp;&nbsp;&nbsp;**UTC:** 13:00 - 23:30 UTC  
+&nbsp;&nbsp;&nbsp;&nbsp;**PST:** 04:00 - 13:30 PST  
+&nbsp;&nbsp;&nbsp;&nbsp;**EST:** 07:00 - 16:30 EST  
+&nbsp;&nbsp;&nbsp;&nbsp;**UTC:** 12:00 - 21:30 UTC  
 
 ## Security Clearance
 
