@@ -26,7 +26,7 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 * **Frameworks:** dbt, Spark, Rails
 * **Cloud Tools:** Google Cloud Platform, Cloudflare, Tailscale
 * **Other:** Nginx, Linux, Docker
-* **Hobby:** Home Assistant, ESP32, Software Defined Radios
+* **Hobby:** Home Assistant, ESP32, Software-defined radios
 
 ## Work History
 
