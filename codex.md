@@ -278,6 +278,10 @@ Subconscious reactions that I have noticed;
 - Humans will develop new common language to discuss recent populism (bubbled advocates, post-truth politics, etc)
 - Car fitness will become a trend as people utilize their self driving commute
 
+### Before 2026
+
+- Hyper-personalized news based on generative AI will exist
+
 ### Before 2030
 
 - Human driven vehicles will be uncommon (driven partly by the cost of insurance and an increase in the value of human life)
@@ -287,6 +291,7 @@ Subconscious reactions that I have noticed;
 - ~~AIs will easily pass Turing tests~~
   - 🟢 Success: In 2023 large language models like ChatGPT 4 can pass the turing test in all but a few edge cases
 - AI audits will rewrite history by discovering patterns in open & closed data
+- AI audits will uncover many instances of political and corporate corruption
 - Biometric tracking will allow for early detection of communicable diseases greatly reducing their transmission potential & prevalence
 - Critical thinking skills will improve as legacy media fades (alternatively the world will be destroyed by trolls)
 - Critical thinking skills will improve with [regulation of algorithms](https://en.wikipedia.org/wiki/Regulation_of_algorithms)
