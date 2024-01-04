@@ -3,7 +3,7 @@ title: .zshrc and .bash_profile
 disqus: yep
 layout: page
 ---
-
+{% raw %}
 Useful aliases and alike from my `.zshrc`
 
 ```
@@ -145,3 +145,4 @@ dcd() {
 
 fortune | cowsay
 ```
+{% endraw %}
