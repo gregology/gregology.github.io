@@ -24,7 +24,7 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 
 * **Languages:** Python, Ruby, SQL
 * **Frameworks:** dbt, Spark, Rails
-* **Cloud Tools:** Google Cloud Platform, Cloudflare, Tailscale
+* **Cloud Tools:** GCP, AWS, Oracle, Cloudflare, Tailscale
 * **Other:** Nginx, Linux, Docker
 * **Hobby:** Home Assistant, ESP32, Software-defined radios
 
@@ -34,7 +34,7 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 July 2019 to present, Canada (remote)
 
 * Currently on the Analytics Engineering Team migrating our Data Warehouse from [Spark](https://spark.apache.org/) to [dbt](https://www.getdbt.com/) on [GCP](https://cloud.google.com/)
-* Previously leading an excellent Prodeng Data Science Team
+* Previously leading an excellent Prodeng Data Science Team which [forecast BFCM infrastructure requirements](https://shopify.engineering/capacity-planning-shopify)
 * Working with [Python](https://pypi.org/user/gregology/), [Ruby](https://rubygems.org/profiles/gregology), [Spark](https://spark.apache.org/docs/latest/api/python/), [dbt](https://www.getdbt.com/), & various SQL engines
 
 ### CEO & Founder @ Memair
