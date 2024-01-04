@@ -17,9 +17,6 @@ tags:
   - self-learning
 ---
 
-
-# Generative AI framework to grow thinking agents.
-
 The true value of Generative AI is its ability to organise information and then reason. This is a proposed self improving framework using Large Language Models, LLMs like ChatGPT and Mixtral.
 
 Generative AI is predicting what should come next and is unaware of concepts. For instance, generative AI image models do not have a concept of a human hand. The models predict that a finger-like structure is normally next to another finger-like structure so they often create hands with too many fingers. Increasing the context window will help reduce these kinds of errors but it does not address the fundamental problem, the model is unaware of the concept of a hand. This project will use generative AI's semantic extraction and reasoning abilities to build a concept aware auditable AI framework that can learn, think, and improve itself.
@@ -118,7 +115,7 @@ The **orchestrator** will be an app with either an API or chat interface that is
     * Workout how to best document how to craft API calls for documentation API endpoint
         * This will include optimised versions for specific LLMs
 * Create semantic network app
-    * Create a simple Flash semantic network app using previously designed API
+    * Create a simple Flask semantic network app using previously designed API
     * Dockerize the Flask app with graph-based database
 * Create some ability apps
     * Researcher ability
