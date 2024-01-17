@@ -78,7 +78,7 @@ licence: Creative Commons
   * ~~North America~~
   * ~~Arabia~~
   * Africa
-  * South America
+  * ~~South America~~
   * India
   * Antarctica
 * Experience Northern or Southern Lights
