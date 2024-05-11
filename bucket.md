@@ -81,7 +81,7 @@ licence: Creative Commons
   * ~~South America~~
   * India
   * Antarctica
-* Experience Northern or Southern Lights
+* ~~Experience Northern or Southern Lights~~
 * ~~Visit an igloo~~
 * Trans-Siberian Express or Trans-Canadian train trip
 * Explore Northern Canada
