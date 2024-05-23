@@ -84,7 +84,7 @@ February 2008 to March 2011, by correspondence
 ## Home Office
 
 Connection:  
-&nbsp;&nbsp;&nbsp;&nbsp;1.5Gbps fiber Internet  
+&nbsp;&nbsp;&nbsp;&nbsp;3Gbps ⬆️⬇️ fiber Internet  
 &nbsp;&nbsp;&nbsp;&nbsp;Ubiquiti networking equipment with ethernet to office  
 &nbsp;&nbsp;&nbsp;&nbsp;5G cellular & 1hr UPS redundancy
 
