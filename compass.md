@@ -46,6 +46,9 @@ var economicChartData = {
           }, {
             t: new Date(2023, 7, 19),
             y: -5.5
+          }, {
+            t: new Date(2024, 6, 17),
+            y: -5.63
           }
         ],
         borderColor: '#70c1b3',
@@ -153,6 +156,9 @@ var socialChartData = {
           }, {
             t: new Date(2023, 7, 19),
             y: -7.18
+          }, {
+            t: new Date(2024, 6, 17),
+            y: -6.1
           }
         ],
         borderColor: '#70c1b3',
