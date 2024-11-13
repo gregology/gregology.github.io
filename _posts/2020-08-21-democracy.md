@@ -179,6 +179,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2022, 7, 1),
               y: 91.7
+            }, {
+              t: new Date(2023, 7, 1),
+              y: 91.7
             }
           ],
           borderColor: '#247ba0',
@@ -231,6 +234,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               y: 64.3
             }, {
               t: new Date(2022, 7, 1),
+              y: 64.3
+            }, {
+              t: new Date(2023, 7, 1),
               y: 64.3
             }
           ],
@@ -285,6 +291,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2022, 7, 1),
               y: 88.9
+            }, {
+              t: new Date(2023, 7, 1),
+              y: 88.9
             }
           ],
           borderColor: '#ffe066',
@@ -338,6 +347,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2022, 7, 1),
               y: 62.5
+            }, {
+              t: new Date(2023, 7, 1),
+              y: 62.5
             }
           ],
           borderColor: '#70c1b3',
@@ -390,6 +402,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               y: 85.3
             }, {
               t: new Date(2022, 7, 1),
+              y: 85.3
+            }, {
+              t: new Date(2023, 7, 1),
               y: 85.3
             }
           ],
@@ -490,7 +505,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2021, 1, 20),
-            xMax: new Date(2023, 1, 20),
+            xMax: new Date(2024, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
@@ -600,6 +615,9 @@ var worldChartData = {
             }, {
               t: new Date(2022, 1, 1),
               y: 87.10
+            }, {
+              t: new Date(2023, 1, 1),
+              y: 86.60
             }
           ],
           borderColor: '#247ba0',
@@ -653,6 +671,9 @@ var worldChartData = {
             }, {
               t: new Date(2022, 1, 1),
               y: 88.8
+            }, {
+              t: new Date(2023, 1, 1),
+              y: 86.9
             }
           ],
           borderColor: '#f25f5c',
@@ -705,6 +726,9 @@ var worldChartData = {
               y: 93.7
             }, {
               t: new Date(2022, 1, 1),
+              y: 96.1
+            }, {
+              t: new Date(2023, 1, 1),
               y: 96.1
             }
           ],
@@ -759,6 +783,9 @@ var worldChartData = {
             }, {
               t: new Date(2022, 1, 1),
               y: 82.80
+            }, {
+              t: new Date(2023, 1, 1),
+              y: 82.80
             }
           ],
           borderColor: '#70c1b3',
@@ -811,6 +838,9 @@ var worldChartData = {
               y: 78.5
             }, {
               t: new Date(2022, 1, 1),
+              y: 78.5
+            }, {
+              t: new Date(2023, 1, 1),
               y: 78.5
             }
           ],
@@ -901,6 +931,9 @@ var worldChartData = {
               y: 78.5
             }, {
               t: new Date(2022, 1, 1),
+              y: 78.5
+            }, {
+              t: new Date(2023, 1, 1),
               y: 78.5
             }
           ],
@@ -1001,7 +1034,7 @@ var worldChartData = {
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2021, 1, 20),
-            xMax: new Date(2023, 1, 20),
+            xMax: new Date(2024, 1, 20),
             yMin: 77,
             yMax: 83,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
