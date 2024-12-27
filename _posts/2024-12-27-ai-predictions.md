@@ -1,11 +1,8 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-- ---
-title: "2025 AI predictions"
+---
+title: "AI Predictions"
 author: Greg
 layout: post
-permalink: /2024/12/2025-ai-predictions/
+permalink: /2024/12/ai-predictions/
 date: 2024-12-27 20:00:00 +0800
 comments: True
 licence: Creative Commons
@@ -19,9 +16,9 @@ tags:
   - ollama
   - news
   - predictions
-- ---
+---
 
-I generated my first set of [AI predictions](/2023/12/generative-ai-predictions/) a year ago. I will make this an annual tradition.
+This is my second yearly list of AI predictions. My first [AI predictions from December 2023 are available here](/2023/12/generative-ai-predictions/).
 
 ## AI APIs for everything by 2025-12
 
@@ -60,19 +57,3 @@ In a recent hackdays project, we used techniques to extract comedic threads from
 ## Open source o3 performance by 2026-07
 
 Open source offerings will match [o3 performance](https://arcprize.org/blog/oai-o3-pub-breakthrough) in common benchmarks by mid-2026. A model-agnostic framework could utilise the best open source models and experts for each specific task. Model specialisation allows for better utilisation of resources and this technique is likely already being employed by OpenAI for o3.
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEESYClA57JitMYg1JBb8nUVLEJtZ8FAmduuF4ACgkQb8nUVLEJ
-tZ8JBQ//eKAfRVGupivc+oECaN/rfhmy+1CFtu6cf04ASuGD/NwmBKTXRnUlDOET
-PVOB7TWPOIw73lq4xm1sJIobWsSSeiPwZp1Ds2ps2DkQQW+atfPpNOhMm68HvhUo
-JR8a9NLmC2zDyBQ6dRmKMXbL2Rt9CfnrhU0GLRBMkggD9j4ZzPgUkUE9W/TMUmkY
-rLZU7o0JqsQFplqV8SRWTGrI5aYDzFgdKg7U/G9xXZAIN2b2mL3BKuouK/10IZio
-zdqCxpkMWbUxuna8PvgC9J18ojIKj2QS2eGczCl7y2l7pPib9b9SQIdlt9nF2NJO
-kTKW5za5Ioc/HqGNw4o+ga4R85j1XLxw++KT4UVf40h+pV04mokTQajpyy71gw8B
-RuHeH28z3U05hfVWvA3ev8/tw3wIkf8iPC/GoPFkR6j1pJ5RJ23oWl+60NkQ+23o
-egprf2PwSaQBxVlot+radx99tMuQQ+bYls56GiW963SIQT6ZToRp6XK339i7VNXC
-QvJl5sF0/UdkmOz7hfZKXui48ApzK1fPF8na+0oDOvehhwG6R8wIE4+RGOd126Ge
-lWgxmFRyCg0f1mYCigCO34ADwAoXGOFFIA9IlfbL7wrI1wWvQULZHA0BIas8DnxV
-56bl2VMNTsGSibvzPGuH6AvT1+ArmBul8Zgj8+k/u12MFiGN1Do=
-=1NtP
------END PGP SIGNATURE-----
