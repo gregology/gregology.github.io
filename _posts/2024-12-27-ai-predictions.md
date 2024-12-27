@@ -20,7 +20,7 @@ tags:
 
 This is my second yearly list of AI predictions. My first [AI predictions from December 2023 are available here](/2023/12/generative-ai-predictions/).
 
-## AI APIs for everything by 2025-12
+## AI APIs for everything by 2026
 
 APIs (Application programming interface) allow services to talk to each other. The late 2000s and early 2010s were the golden period of public APIs. Major tech companies like Facebook, Google, and Twitter offered extensive access to their platforms. Developers created loads of useful apps that improved the user's experience.
 
