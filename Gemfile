@@ -13,4 +13,4 @@ gem 'yt'
 gem 'pry'
 gem 'twitter'
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
