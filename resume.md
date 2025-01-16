@@ -15,7 +15,7 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 ## Career Goals
 
  * Improve the world according to my [Codex Vitae](/codex).
- * Use data to solve interesting problems.
+ * Use AI & data to solve interesting problems.
  * Never be the smartest person in the room.
  * Lead great teams.
  * Grow and learn through my work.
