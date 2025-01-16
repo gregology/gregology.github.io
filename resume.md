@@ -26,60 +26,70 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 * **Frameworks:** dbt, Spark, Rails
 * **Cloud Tools:** GCP, AWS, Oracle, Cloudflare, Tailscale
 * **Other:** Nginx, Linux, Docker
-* **Hobby:** Home Assistant, ESP32, Software-defined radios
+* **Hobby:** Home Assistant, ESP32, Software-Defined Radios
 
 ## Work History
 
-### Senior Data Scientist / Analytics Engineering @ Shopify
-July 2019 to present, Canada (remote)
+### Shopify (Jul 2019 – Present) • Canada (Remote)
 
-* Currently on the Analytics Engineering Team migrating our Data Warehouse from [Spark](https://spark.apache.org/) to [dbt](https://www.getdbt.com/) on [GCP](https://cloud.google.com/)
-* Previously leading an excellent Prodeng Data Science Team which [forecast BFCM infrastructure requirements](https://shopify.engineering/capacity-planning-shopify)
-* Working with [Python](https://pypi.org/user/gregology/), [Ruby](https://rubygems.org/profiles/gregology), [Spark](https://spark.apache.org/docs/latest/api/python/), [dbt](https://www.getdbt.com/), & various SQL engines
+#### **Senior Machine Learning Engineer** (Dec 2024 – Present)
+* Building tools for the Data Team to reduce human toil.
 
-### CEO & Founder @ Memair
-November 2018 to July 2019, Ottawa, Canada
+#### **Senior Analytics Engineer** (Feb 2023 – Dec 2024)
+* Migrating our Data Warehouse from [Spark](https://spark.apache.org/) to [dbt](https://www.getdbt.com/) on [GCP](https://cloud.google.com/).
 
-* Empowering humans by using business analytics & data science techniques on their own data
-* Learning how to run a business
-* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), [GraphQL](https://memair.com/graphiql), [React](https://memair.com/player), [Flutter](https://flutter.dev/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud, Heroku, & physical servers
+#### **Parental Leave** (Dec 2021 - Feb 2023)
+* Learning.
 
-### Sailing Sabbatical
-September 2017 to September 2018, Canada, USA, & The Bahamas
+#### **Senior Data Scientist** (Jul 2019 – Dec 2021)
+* Leading the excellent Prodeng Data Science Team.
+* [Forecasting BFCM infrastructure requirements](https://shopify.engineering/capacity-planning-shopify).
+* Making recommendations to balance request loads.
 
-* Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston, Ontario, to the Bahamas and back
-* Produced a [YouTube series](https://YouTube.com/SVCatsaway) documenting our adventure, honing video communication skills
+
+### CEO & Founder • Memair (Nov 2018 – Jul 2019) • Ottawa, Canada
+
+* Empowering humans by using business analytics & data science techniques on their own data.
+* Learning how to run a business.
+* Working with [Rails](https://rubygems.org/profiles/gregology), [Python](https://pypi.org/user/gregology/), [GraphQL](https://memair.com/graphiql), [React](https://memair.com/player), [Flutter](https://flutter.dev/), & [Javascript](https://www.npmjs.com/~gregology) on Google Cloud, Heroku, & physical servers.
+
+
+### Sailing Sabbatical (Sep 2017 – Sep 2018) • Canada, USA, & The Bahamas
+
+* Sailing [SV Catsaway](https://SVCatsaway.com) from Kingston, Ontario, to the Bahamas and back.
+* Produced a [YouTube series](https://YouTube.com/SVCatsaway) documenting our adventure, honing video communication skills.
 * Hacking on a few (mostly boat-related) [projects](/packages).
 
-### Data Engineer @ Shopify
-September 2013 to September 2017, Ottawa, Canada
 
-* Data modeling, reporting, experimenting, & machine learning
-* Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/)
+### Data Engineer • Shopify (Sep 2013 – Sep 2017) • Ottawa, Canada
 
-### Acroyoga Instructor @ Upward Dog Yoga Centre
-July 2014 to March 2020, Ottawa, Canada
+* Data modeling, reporting, experimenting, & machine learning.
+* Mainly working in [Python](https://pypi.org/user/gregology/) & [Ruby](https://rubygems.org/profiles/gregology) with [Spark](https://spark.apache.org/docs/latest/api/python/), [PrestoDB](https://prestodb.io), & [Rails](https://rubyonrails.org/).
 
-* Teaching Acroyoga as part of [SmileyOm](https://smileyom.com)
 
-### Data Specialist @ Amnesty International
-March 2012 to September 2013, Sydney, Australia & Ottawa, Canada
+### Instructor • Upward Dog Yoga Centre (Jul 2014 – Mar 2020) • Ottawa, Canada
 
-* Project management for supporter database
-* Mainly working with [Rails](http://rubyonrails.org/) & SQL
+* Teaching Acroyoga as part of [SmileyOm](https://smileyom.com).
 
-### Communications Specialist @ Australian Army
-July 2004 to November 2012, Australia
 
- * Peace making tour in [Afghanistan](/2020/07/publishing-afghanistan-posts/) 🇦🇫
- * Peacekeeping tour in [Solomon Islands](/2009/02/tongans-belgiums-and-the-jungle/) 🇸🇧
+### Data Specialist • Amnesty International (Mar 2012 – Sep 2013) • Sydney, Australia & Ottawa, Canada
+
+* Project management for supporter database.
+* Mainly working with [Rails](http://rubyonrails.org/) & SQL.
+
+
+### Communications • Australian Army (Jul 2004 – Nov 2012) • Australia
+
+ * Peacemaking tour in [Afghanistan](/2020/07/publishing-afghanistan-posts/) 🇦🇫.
+ * Peacekeeping tour in [Solomon Islands](/2009/02/tongans-belgiums-and-the-jungle/) 🇸🇧.
+
 
 ## Education
 
-### Bachelor's degree @ Murdoch University 
-February 2008 to March 2011, by correspondence
+### Bachelor's Degree • Murdoch University (Feb 2008 - Mar 2011) • Australia (Remote)
 
-* Terrorism, counter-terrorism, and security
+* Terrorism, counter-terrorism, and security.
+
 
 ## Home Office
 
@@ -100,6 +110,7 @@ Workable hours:
 &nbsp;&nbsp;&nbsp;&nbsp;**EST:** 07:00 - 16:30 EST  
 &nbsp;&nbsp;&nbsp;&nbsp;**UTC:** 12:00 - 21:30 UTC  
 
+
 ## Security Clearance
 
 🇨🇦 Government of Canada Security Clearance  
@@ -111,9 +122,10 @@ Workable hours:
 &nbsp;&nbsp;&nbsp;&nbsp;**Level:** Top Secret Negative Vetting  
 &nbsp;&nbsp;&nbsp;&nbsp;**Status:** Lapsed  
 
+
 ## Citizenships
 
 🇦🇺 Australian  
 🇨🇦 Canadian  
-🇮🇪 Irish (EU)  
+🇮🇪 Irish (🇪🇺EU)  
 🇬🇧 British  
