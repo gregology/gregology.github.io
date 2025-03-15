@@ -182,6 +182,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2023, 7, 1),
               y: 91.7
+            }, {
+              t: new Date(2024, 7, 1),
+              y: 91.7
             }
           ],
           borderColor: '#247ba0',
@@ -237,6 +240,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               y: 64.3
             }, {
               t: new Date(2023, 7, 1),
+              y: 64.3
+            }, {
+              t: new Date(2024, 7, 1),
               y: 64.3
             }
           ],
@@ -294,6 +300,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2023, 7, 1),
               y: 88.9
+            }, {
+              t: new Date(2024, 7, 1),
+              y: 88.9
             }
           ],
           borderColor: '#ffe066',
@@ -350,6 +359,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             }, {
               t: new Date(2023, 7, 1),
               y: 62.5
+            }, {
+              t: new Date(2024, 7, 1),
+              y: 62.5
             }
           ],
           borderColor: '#70c1b3',
@@ -405,6 +417,9 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
               y: 85.3
             }, {
               t: new Date(2023, 7, 1),
+              y: 85.3
+            }, {
+              t: new Date(2024, 7, 1),
               y: 85.3
             }
           ],
@@ -505,7 +520,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2021, 1, 20),
-            xMax: new Date(2024, 1, 20),
+            xMax: new Date(2025, 1, 20),
             yMin: 60,
             yMax: 100,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
@@ -516,12 +531,38 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2022, 1, 1),
+            value: new Date(2023, 1, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
               backgroundColor: "blue",
               content: "Biden",
+              enabled: true,
+              position: "top"
+            },
+          }, {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2025, 1, 20),
+            xMax: new Date(2027, 1, 20),
+            yMin: 60,
+            yMax: 100,
+            backgroundColor: "rgba(233, 20, 29, 0.3)",
+            borderColor: "rgb(233, 20, 29)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2026, 1, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "red",
+              content: "Trump",
               enabled: true,
               position: "top"
             },
@@ -539,7 +580,7 @@ Further details of the model are on page 55 of The Economist Intelligence Unit's
           ticks: {
             unit: 'year',
             min: 1151712000000,
-            max: 1704067200000
+            max: 1798761600000
           }
         }],
         yAxes: [{
@@ -618,6 +659,9 @@ var worldChartData = {
             }, {
               t: new Date(2023, 1, 1),
               y: 86.60
+            }, {
+              t: new Date(2024, 1, 1),
+              y: 88.50
             }
           ],
           borderColor: '#247ba0',
@@ -673,6 +717,9 @@ var worldChartData = {
               y: 88.8
             }, {
               t: new Date(2023, 1, 1),
+              y: 86.9
+            }, {
+              t: new Date(2024, 1, 1),
               y: 86.9
             }
           ],
@@ -730,6 +777,9 @@ var worldChartData = {
             }, {
               t: new Date(2023, 1, 1),
               y: 96.1
+            }, {
+              t: new Date(2024, 1, 1),
+              y: 96.1
             }
           ],
           borderColor: '#ffe066',
@@ -786,6 +836,9 @@ var worldChartData = {
             }, {
               t: new Date(2023, 1, 1),
               y: 82.80
+            }, {
+              t: new Date(2024, 1, 1),
+              y: 83.40
             }
           ],
           borderColor: '#70c1b3',
@@ -841,6 +894,9 @@ var worldChartData = {
               y: 78.5
             }, {
               t: new Date(2023, 1, 1),
+              y: 78.5
+            }, {
+              t: new Date(2024, 1, 1),
               y: 78.5
             }
           ],
@@ -934,6 +990,9 @@ var worldChartData = {
               y: 78.5
             }, {
               t: new Date(2023, 1, 1),
+              y: 78.5
+            }, {
+              t: new Date(2024, 1, 1),
               y: 78.5
             }
           ],
@@ -1034,7 +1093,7 @@ var worldChartData = {
             xScaleID: "x-axis-0",
             yScaleID: "y-axis-0",
             xMin: new Date(2021, 1, 20),
-            xMax: new Date(2024, 1, 20),
+            xMax: new Date(2025, 1, 20),
             yMin: 77,
             yMax: 83,
             backgroundColor: "rgba(0, 21, 188, 0.3)",
@@ -1045,12 +1104,38 @@ var worldChartData = {
             type: "line",
             mode: "vertical",
             scaleID: "x-axis-0",
-            value: new Date(2022, 1, 1),
+            value: new Date(2023, 1, 1),
             borderColor: "rgba(0,0,0,0)",
             borderWidth: 0,
             label: {
               backgroundColor: "blue",
               content: "Biden",
+              enabled: true,
+              position: "top"
+            },
+          }, {
+            drawTime: "beforeDatasetsDraw",
+            type: "box",
+            xScaleID: "x-axis-0",
+            yScaleID: "y-axis-0",
+            xMin: new Date(2025, 1, 20),
+            xMax: new Date(2027, 1, 20),
+            yMin: 60,
+            yMax: 100,
+            backgroundColor: "rgba(233, 20, 29, 0.3)",
+            borderColor: "rgb(233, 20, 29)",
+            borderWidth: 0,
+          }, {
+            drawTime: "afterDatasetsDraw",
+            type: "line",
+            mode: "vertical",
+            scaleID: "x-axis-0",
+            value: new Date(2026, 1, 1),
+            borderColor: "rgba(0,0,0,0)",
+            borderWidth: 0,
+            label: {
+              backgroundColor: "red",
+              content: "Trump",
               enabled: true,
               position: "top"
             },
@@ -1104,7 +1189,7 @@ var worldChartData = {
           ticks: {
             unit: 'year',
             min: 1151712000000,
-            max: 1704067200000
+            max: 1798761600000
           }
         }],
         yAxes: [{
