@@ -16,6 +16,11 @@ GEM
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
+    beautiful-jekyll-theme (4.1.0)
+      jekyll (~> 3.8)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.4)
+      kramdown-parser-gfm (~> 1.1)
     benchmark (0.4.1)
     bigdecimal (3.2.2)
     buftok (0.3.0)
@@ -318,8 +323,10 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  beautiful-jekyll-theme
   chronic
   github-pages
+  jekyll (>= 3.9.3)
   jekyll-paginate
   jekyll-redirect-from
   jekyll-seo-tag
