@@ -1,4 +1,4 @@
-theme: beautiful-jekyll-theme
+# theme: beautiful-jekyll-theme  # Not supported on GitHub Pages
 
 url: "https://gregology.net"
 baseurl: ""
