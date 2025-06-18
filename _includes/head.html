@@ -19,13 +19,11 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+  {% include gtm_head.html %}
+
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
-      {% if css.href %}
-        <link rel="stylesheet" href="{{ css.href }}" {% if css.sri %}integrity="{{ css.sri }}" crossorigin="anonymous"{% endif %} />
-      {% else %}
-        <link rel="stylesheet" href="{{ css }}" />
-      {% endif %}
+      {% include ext-css.html css=css %}
     {% endfor %}
   {% endif %}
 
@@ -43,7 +41,7 @@
 
   {% if page.ext-css %}
     {% for css in page.ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
+      {% include ext-css.html css=css %}
     {% endfor %}
   {% endif %}
 
