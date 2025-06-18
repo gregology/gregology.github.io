@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.9.2'
-gem 'github-pages', '227'
+gem 'jekyll', '>= 3.9.3'
+gem 'beautiful-jekyll-theme'
+gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'

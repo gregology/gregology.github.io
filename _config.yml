@@ -1,3 +1,5 @@
+theme: beautiful-jekyll-theme
+
 url: "https://gregology.net"
 baseurl: ""
 raw_baseurl: "https://raw.gregology.net/"
