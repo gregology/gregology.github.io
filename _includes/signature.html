@@ -5,7 +5,11 @@
   {% assign filename = page.path | replace: '_posts/', '' %}
   {% assign signature = filename | replace: '.md', '.md.asc' %}
 
-  <div class="language-plaintext highlighter-rouge" style="max-height:200px;overflow-y:auto;"><pre class="highlight"><code>{% include_relative {{ signature }} %}</code></pre></div>
+  {% capture signature_content -%}
+{% include_relative {{ signature }} %}
+  {%- endcapture %}
+
+  <div class="language-plaintext highlighter-rouge" style="max-height:200px;overflow-y:auto;"><pre class="highlight"><code>{{ signature_content | escape }}</code></pre></div>
   <a href="{{ site.raw_baseurl }}{{ page.path }}.asc" download>download</a>
 
   <h3 id="verify">Verify</h3>
