@@ -96,52 +96,6 @@ HTML
 end
 
 
-desc 'collect tweets'
-task :tweets do
-  require 'yaml'
-  require 'twitter'
-  creds = YAML.load_file('_creds.yml')
-  client = Twitter::REST::Client.new do |config|
-    config.consumer_key        = creds["twitter"]["api_key"]
-    config.consumer_secret     = creds["twitter"]["api_secret_key"]
-    config.access_token        = creds["twitter"]["access_token"]
-    config.access_token_secret = creds["twitter"]["access_token_secret"]
-  end
-
-  twitter_accounts = ['gregologynet', 'memairapp', 'smileyom', 'svcatsaway', 'wikijam', 'ghostisp']
-
-  tweets = []
-  twitter_accounts.each do |twitter_account|
-    puts "collecting tweets for #{twitter_account}"
-
-    max_id = nil
-    max_tries = 20
-    max_tries.times do
-      new_tweets = max_id.nil? ? client.user_timeline(twitter_account, count: 200, include_rts: true, tweet_mode: 'extended') : client.user_timeline(twitter_account, count: 200, include_rts: true, tweet_mode: 'extended', max_id: max_id)
-      break if new_tweets.empty?
-      puts "#{new_tweets.count} tweets extracted from #{new_tweets.last.created_at} to #{new_tweets.first.created_at}"
-      tweets += new_tweets
-      max_id = new_tweets[-1].id - 1
-    end
-  end
-
-  puts "collected #{tweets.count} tweets"
-
-  def clean_tweet(raw_tweet)
-    tweet = raw_tweet.to_hash
-    tweet[:user] = tweet[:user].slice(:id,:name)
-    tweet
-  end
-
-  tweets = tweets.sort_by!(&:created_at)
-  tweets = tweets.map { |tweet| clean_tweet(tweet) }
-
-  File.open('api/tweets.json', 'w+') do |file|
-    file.puts tweets.to_json
-  end
-end
-
-
 desc 'collect Wikipedia edits'
 task :wikipedia do
   require 'json'

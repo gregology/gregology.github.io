@@ -32,7 +32,10 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 
 ### Shopify (Jul 2019 – Present) • Canada (Remote)
 
-#### **Senior Machine Learning Engineer** (Dec 2024 – Present)
+#### **Staff Machine Learning Engineer** (Sep 2025 – Present)
+* Getting some sweet RoI on all those tokens.
+
+#### **Senior Machine Learning Engineer** (Dec 2024 – Sep 2025)
 * Building tools for the Data Team to reduce human toil.
 
 #### **Senior Analytics Engineer** (Feb 2023 – Dec 2024)
