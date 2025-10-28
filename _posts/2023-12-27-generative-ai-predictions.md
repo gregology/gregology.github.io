@@ -18,7 +18,7 @@ tags:
   - predictions
 ---
 
-The potential of Generative AI goes far beyond Large Language Models (LLMs like ChatGPT) being able to answer trivia questions, write generic essays, and code using established patterns. The true value of Generative AI is its ability to organise information and then reason.
+The potential of Generative AI goes far beyond Large Language Models (LLMs like ChatGPT) being able to answer trivia questions, write generic essays, and code using established patterns. The true value of Generative AI is its ability to organise information.
 
 ## Extracting semantic information and reasoning
 
