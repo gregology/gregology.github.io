@@ -106,6 +106,7 @@ exclude:
   - Vagrantfile
   - "*.asc"
   - "public_key_site"
+  - vendor
 
 prose:
   rooturl: '_posts'
