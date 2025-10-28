@@ -1,19 +1,16 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-- ---
+---
 title: "Crossing the Gulf Stream (Sailing SV Catsaway) - Ep. 39"
 author: Greg
 layout: post
-permalink: /2019/05/crossing-the-gulf-stream-sailing-sv-catsaway-ep-39
-published_at: 2019-05-22 01:31:58 UTC
+permalink: /2018/05/crossing-the-gulf-stream-sailing-sv-catsaway-ep-39
+published_at: 2018-05-22 01:31:58 UTC
 comments: True
 licence: Creative Commons
 categories:
   - YouTube
 tags:
   - sailing
-- ---
+---
 
 {% include youtube_player.html id='V9ZugLxOfT0' %}
 
@@ -42,19 +39,3 @@ We also took Bonine the night before and gave some to the kitties as well.  It w
 We crept into Port Canaveral around 3pm.  As we were entering the inlet, a submarine was departing.  It was such an eerie sight - it looked like a small building on the water.  We blinked and it was gone.  It was hard to believe something so huge was descending quickly below us.
 
 After being spoiled with the crystal clear waters of the Bahamas, it felt a little sad to come back to more opaque and polluted water.  However, we were looking forward to some hot showers and lattes.
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEESYClA57JitMYg1JBb8nUVLEJtZ8FAmIc1z8ACgkQb8nUVLEJ
-tZ+C9g/+MIYddIF1Xv3W/0pYrufxPaSzgkYNCNdLXNHQlMwYiVquVxMijCrwKNR+
-yKI0nzHrii4Yu0v2moZsN4J6GfmTSkAzmqnWLN5nBS6VaCvffEYcBhdahsrtOeT6
-iv74PZfHR4SxOO5JSsnIOuPDYENutsydH7x6Ar7DWXBjbaDfHzEUMHmHPamzcWqG
-53EFiE3CZ8t+MSUbuh6Q0yZr5gTMiWj1AX0EOpLPEuuWMF3bXUMsFW4karxWtDI9
-SVZ4otLbwBlWLmY3awwgYZ48Qhwob1JTlmt5wRnVGVjZwt7V4d5sv5nk+dpJcc6n
-DYqJtmXAOmEUaPz5lTPJj3wcJO9ge8CzZGpDYk2N8fUnEM0q9pf070D4AtCw1Vet
-J3xVmHaJu0rT7N9e14vZIM622hF8ctlPIyPkY2wV2AGZMDXOAKgGjvUN4iB83ZgE
-FJbEJZI9T7E2XMn3BJjSMlaHTa2+L2kGhMek7uSPQQCcCjaLiyrVtLCXXFdHBDl6
-wVr8ezcC2TXbQ0ZSqTluH3QHoo/V7WmHG/dYGyfm+S7f7bpz/kb2x7szKIszPc73
-/SicZKDSs6pUQsX0PrGd+aZGvDmyj1VGJVKIse+5uYIGzx3lynJOGimYg9bRBtuL
-F9aqx8GxNYN9UwiT3vGFmGsTomiB/Adc8WfpGuBtsmK+gtrdGwo=
-=fNQt
------END PGP SIGNATURE-----

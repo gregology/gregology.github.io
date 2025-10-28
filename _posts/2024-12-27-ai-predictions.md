@@ -22,7 +22,7 @@ This is my second yearly list of AI predictions. My first [AI predictions from D
 
 ## AI APIs for everything by 2026
 
-APIs (Application programming interface) allow services to talk to each other. The late 2000s and early 2010s were the golden era of public APIs. Facebook, Google, and Twitter, etc offered API access to their platforms. Developers created loads of useful apps that improved the user's experience.
+[APIs](https://en.wikipedia.org/wiki/API) allow services to talk to each other. The late 2000s and early 2010s were the golden era of public APIs. Facebook, Google, and Twitter, etc offered API access to their platforms. Developers created loads of useful apps that improved the user's experience.
 
 Unified messaging apps like [Pidgin](https://www.pidgin.im) meant that an individual could chat with friends from one single app no matter what platform they were on. Open API access enabled many other improved user experiences and companies like IFTTT made it easy for humans to connect things in novel ways. People could easily set up an automation that turned off a phone alarm and messaged the local parent group chat on WhatsApp when the local school district's website contained the words "snow day" at 06:00am.
 
