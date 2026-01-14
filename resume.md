@@ -18,8 +18,8 @@ I ship prototypes quickly, harden them with validation loops and measurements, a
 Comfortable operating across LLM tooling, cloud APIs, networking, and production guardrails in remote-first teams.
 
 ## Selected Work (high impact)
-- **Async AI workflow orchestrator (triage -> implement -> assess):** built a multi-stage automation system that runs steps asynchronously, preserves context across phases, and uses heuristics to decide when to escalate to a human for guidance (instead of silently failing or looping).
-- **AI code reviewer that improves code quality over time:** built an internal review system that evaluates changes against *human-authored guidelines* and uses challenge/verification mechanisms to reduce hallucinations, keeping suggestions actionable and preventing the codebase from “regressing to the mean”.
+- **Async AI workflow orchestrator (triage -> implement -> assess):** built a multi-stage automation system that runs steps asynchronously, preserves context across phases, and uses heuristics to decide when to escalate to a human for guidance.
+- **AI code reviewer that improves code quality over time:** built an internal review system that evaluates changes against *human-authored guidelines* and uses challenge/verification mechanisms to reduce hallucinations, keeping suggestions actionable and preventing the codebase from "regressing to the mean".
 - **LLM-powered dbt model optimizer with fail-fast validation:** built a tool that proposes SQL optimizations, tests them against sampled datasets to catch issues quickly, and feeds concrete failures back into the LLM to iteratively repair until results reconcile.
 
 ## Technical Skills
@@ -30,11 +30,13 @@ Comfortable operating across LLM tooling, cloud APIs, networking, and production
 - **Data:** dbt, Spark, BigQuery, warehouses at scale
 - **AI/LLM systems:** LLM integration patterns, tool/agent workflows, validation loops, evaluation harnesses, context/prompt design  
   **Serving & runtimes:** vLLM, Ollama, llama.cpp
+- **Ops & delivery:** CI/CD (GitHub Actions / Cloud Build), basic observability patterns
+- **LLM tooling:** LiteLLM, MCP servers, structured outputs / tool calling patterns
 
 **Working knowledge (used in projects; not primary)**
 - **Languages:** Go, TypeScript, JavaScript
-- **LLM tooling:** LiteLLM, MCP servers, structured outputs / tool calling patterns
-- **Ops & delivery:** CI/CD (GitHub Actions / Cloud Build), basic observability patterns
+- **LoRa:** Meshtastic, LoRaWAN
+- **Microcontrollers:** ESP32s, Raspberry Pis, PCBs
 
 **Identity & Security (practical)**
 - OAuth/OIDC concepts, service accounts & IAM, least-privilege access, RBAC/ABAC concepts
@@ -49,7 +51,7 @@ Comfortable operating across LLM tooling, cloud APIs, networking, and production
 
 #### Senior Machine Learning Engineer (Dec 2024 – Sep 2025)
 - Built an **async AI automation orchestrator** for data engineering workflows using a staged approach (triage -> implement -> assess) with **human-in-the-loop escalation** driven by heuristics and confidence checks.
-- Built an **AI code review system** that reviews changes against **human-authored engineering guidelines**, using challenge/verification techniques to reduce hallucinations and keep suggestions easy to apply.
+- Built an **AI code review system** that reviews changes against **human-authored engineering guidelines**, using challenge/verification techniques to reduce hallucinations and making suggestions one-click apply in GitHub.
 
 #### Senior Analytics Engineer (Feb 2023 – Dec 2024)
 - Migrated core warehouse workloads from Spark to dbt on GCP.
