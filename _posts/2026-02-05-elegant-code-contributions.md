@@ -50,7 +50,7 @@ Never attribute to "rouge AGI" that which is adequately explained by "vibe code 
 But shit code is also now free and far more common.
 
 ### Default to code
-Don't burn tokens trying to convince a non deterministic machine to do a programmable task.
+Asking an agent to do a programmable task is the robot equivalent of _this meeting could have been an email_. Don't burn tokens trying to convince a non deterministic machine to do a programmable task.
 
 ### MCP - Most Costly Protocol
 MCP was developed by a company that sells tokens. The official GitHub MCP for instance has hundreds of commands of which your agent will likely use a dozen. The rest of those commands just fill up your agents context window. There are more efficient ways to give agents access to tools.
