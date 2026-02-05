@@ -1,0 +1,68 @@
+---
+title: "Elegant Code Contributions"
+author: Greg
+layout: post
+permalink: /2026/02/elegant-code-contributions/
+date: 2026-02-05 09:30:00 -0500
+comments: True
+licence: Creative Commons
+categories:
+  - ai
+  - coding
+tags:
+  - ai
+  - coding
+---
+
+Tips for elegant contributions in the age of confident glazzing AI tooling
+
+### Coder reviewer != slop mop
+The first human to read your code shouldn't be your code reviewer.
+
+### AI writes, human owns
+If you can't explain every line of code you've committed then you may have introduced Trojan code (except REGEX because no one can actually explain REGEX, it's gibberish magic).
+
+### Slop²
+Don't trust AI agents to write static instructions for other agents. Static instructions should be curated by smart opinionated expert humans.
+
+### Slop compounds
+Coding patterns can spread like fire through a codebase. AI agents are an accelerant.
+
+### AI is still glazing you
+Tech bros have scaled confident bullshitters that are sometimes right... tech bros have scaled tech bros not intelligence.
+
+### Write concisely
+.
+
+### Value human attention
+If it saves you 1 minute but costs me 5 minutes you're doing it wrong... or you don't like me.
+
+### LLM training data is people data
+People interacting online rarely respond to a post saying "I don't know".  So don't expect an LLM trained on Internet data to admit when it's in over its head.
+
+### AI companies hire humans
+If ChatGPT could do everything Sam Altman says it can do then OpenAI wouldn't have an intern program for summer 2026. The hype is for investors not developers.
+
+### AI may destroy humanity
+Never attribute to "rouge AGI" that which is adequately explained by "vibe code that ends up as a nested dependency in an early warning missile detection system" - Hanlon's razor (but for AI).
+
+### Great code is now free
+But shit code is also now free and far more common.
+
+### Default to code
+Don't burn tokens trying to convince a non deterministic machine to do a programmable task.
+
+### MCP - Most Costly Protocol
+MCP was developed by a company that sells tokens. The official GitHub MCP for instance has hundreds of commands of which your agent will likely use a dozen. The rest of those commands just fill up your agents context window. There are more efficient ways to give agents access to tools.
+
+### Warp tools for AI
+Don't give an agent instructions on using a tool designed for humans. Create AI specific wrappers that only expose the appropriate features. For instance an AI probably doesn't appreciate the human-readable flag.
+
+### Wrap APIs for AI
+Don't rely on your agent to deal with quota limits, back off strategies, etc. Abstract all of the complexity programmatically and then expose a simple tool for your agents to use.
+
+### Don't trust AI in human dev environments
+AI agents should not be trusted with the same privileged permissions we grant trusted humans. The principle of least privilege becomes even more important given LLM jailbreaking is an infinite problem space.
+
+### LLM providers charge by the token
+Don't expect brevity.
