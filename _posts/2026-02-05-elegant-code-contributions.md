@@ -25,6 +25,9 @@ If you can't explain every line of code you've committed then you may have intro
 ### Slop²
 Don't trust AI agents to write static instructions for other agents. Static instructions should be curated by smart opinionated expert humans.
 
+### The IKEA effect
+The IKEA effect is a cognitive bias where humans place a disproportionately high value on ~~things~~ code they partially created.
+
 ### Slop compounds
 Coding patterns can spread like fire through a codebase. AI agents are an accelerant.
 
