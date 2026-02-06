@@ -44,7 +44,7 @@ If it saves you 1 minute but costs me 5 minutes you're doing it wrong... or you 
 People interacting online rarely respond to a post saying "I don't know".  So don't expect an LLM trained on Internet data to admit when it's in over its head.
 
 ### AI companies hire humans
-If ChatGPT could do everything Sam Altman says it can do then OpenAI wouldn't have an intern program for summer 2026. The hype is for investors not developers.
+If ChatGPT could do everything Sam Altman says it can do then OpenAI wouldn't have an intern program for fall 2026. The hype is for investors not developers.
 
 ### AI may destroy humanity
 Never attribute to "rouge AGI" that which is adequately explained by "vibe code that ends up as a nested dependency in an early warning missile detection system" - Hanlon's razor (but for AI).
