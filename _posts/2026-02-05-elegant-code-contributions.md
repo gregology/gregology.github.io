@@ -12,6 +12,7 @@ categories:
 tags:
   - ai
   - coding
+clippy_help: It looks like you're trying to add tech debt and security vulnerabilities. Would you like help?
 ---
 
 Tips for elegant contributions in the age of confident glazzing AI tooling
