@@ -62,8 +62,8 @@ MCP was developed by a company that sells tokens. The official GitHub MCP for in
 Don't give an agent instructions on using a tool designed for humans. Create AI specific wrappers that only expose the appropriate features. For instance an AI probably doesn't appreciate the human-readable flag.
 
 ### AI is a force multiplier
-`Output = Competence x AI`
-*Warning: Competence can be negative.*
+`Output = Competence x AI`  
+*Warning: `Competence` can be negative and `AI` can be a fraction.*
 
 ### Wrap APIs for AI
 Don't rely on your agent to deal with quota limits, back off strategies, etc. Abstract all of the complexity programmatically and then expose a simple tool for your agents to use.
