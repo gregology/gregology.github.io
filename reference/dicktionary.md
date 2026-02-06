@@ -48,12 +48,10 @@ The largest list of penis euphemisms
   * Action Jackson
   * Adam Halfpint
   * Admiral Winky
-  * African black snake
   * Afro man
   * AIDS baster
   * AIDS cannon
   * AIDS grenade
-  * Alabama blacksnake
   * albino asparagus
   * Albino cave dweller
   * All-day sucker
@@ -153,10 +151,7 @@ The largest list of penis euphemisms
   * Bird
   * Bishop with his nice red hat
   * Bishop, The
-  * Bitch blaster
-  * Bitch stick
   * Bits and pieces
-  * Blaxolotl
   * Blind butler
   * Blind cave salamander
   * Blind snake
@@ -504,9 +499,7 @@ The largest list of penis euphemisms
   * Fucklebear
   * Fuckpole
   * Fuckstick
-  * Fudge packer
   * Fudgebar
-  * Fudgepacker
   * Full meal
   * Fun gun
   * Fun truncheon
@@ -617,7 +610,6 @@ The largest list of penis euphemisms
   * His Eminence
   * His majesty
   * His rig
-  * Hitlers arm
   * Hog
   * Hog leg
   * Hole cork
@@ -678,8 +670,6 @@ The largest list of penis euphemisms
   * Jaja
   * Jake the one-eyed snake
   * James Westfall
-  * Jap Slapper
-  * Jap's eye
   * Javelin
   * Jellyfish
   * Jerkin' gherkin
@@ -1275,8 +1265,6 @@ The largest list of penis euphemisms
   * Purple-headed womb ferret
   * Purple-headed yogurt slinger
   * Purple-headed yougurt slinger
-  * Purple-helmeted Nazi of love
-  * Purple-helmeted snot Nazi
   * Purple-helmeted soldier of love
   * Purple-helmeted warrior
   * Pussy duster, The
@@ -1491,7 +1479,6 @@ The largest list of penis euphemisms
   * Stiff sausage
   * Stiff stick
   * Stiffy
-  * Stiffy the Whore Slayer
   * Stink hammer
   * Stipper slayer
   * Stomach wrench
@@ -1708,10 +1695,6 @@ The largest list of penis euphemisms
   * White slurping eddie banger
   * Who who
   * Whopper
-  * Whore hammer
-  * Whore monger
-  * Whore pipe
-  * Whore thermometer
   * Wick
   * Wicked scepter
   * Widget
