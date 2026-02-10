@@ -8,11 +8,10 @@ navbar-links:
   About:
     - Codex Vitae: "codex"
     - Bucket List: "bucket"
-    - Greg API: "api"
     - Timeline: "timeline"
     - Résumé: "resume"
     - Political Compass: "compass"
-    - Secure Contact: "secure"
+    - Greg API: "api"
   Posts: "posts"
   Projects:
     - Quinte Mesh: "https://QuinteMesh.ca"
@@ -22,6 +21,7 @@ navbar-links:
     - Packages: "packages"
     - Patents: "patents"
     - Deprecated: "deprecated"
+  Contact: "secure"
 
 avatar: "/avatars/greg.jpg"
 logo: /logo.jpg
