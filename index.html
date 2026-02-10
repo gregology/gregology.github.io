@@ -13,7 +13,7 @@ clippy_help: It looks like you're trying to use the Internet but got lost
 
         <li>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+            <small class="d-none d-sm-inline">{{ post.date | date: "%B %-d, %Y" }}</small>
         </li>
 
     {% endfor %}

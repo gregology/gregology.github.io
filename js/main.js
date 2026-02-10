@@ -16,12 +16,15 @@ var main = {
     });
     
     // On mobile, hide the avatar when expanding the navbar menu
-    $('#main-navbar').on('show.bs.collapse', function () {
-      $(".navbar").addClass("top-nav-expanded");
-    });
-    $('#main-navbar').on('hidden.bs.collapse', function () {
-      $(".navbar").removeClass("top-nav-expanded");
-    });
+    var mainNavbar = document.getElementById('main-navbar');
+    if (mainNavbar) {
+      mainNavbar.addEventListener('show.bs.collapse', function () {
+        $(".navbar").addClass("top-nav-expanded");
+      });
+      mainNavbar.addEventListener('hidden.bs.collapse', function () {
+        $(".navbar").removeClass("top-nav-expanded");
+      });
+    }
 	
     // On mobile, when clicking on a multi-level navbar menu, show the child links
     $('#main-navbar').on("click", ".navlinks-parent", function(e) {
