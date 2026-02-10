@@ -15,20 +15,13 @@ navbar-links:
     - Secure Contact: "secure"
   Posts: "posts"
   Projects:
+    - Quinte Mesh: "https://QuinteMesh.ca"
     - Memair: "https://Memair.com"
     - Smiley Om: "https://SmileyOm.com"
     - SV Catsaway: "https://SVCatsaway.com"
-    - Acro Roulette: "https://play.google.com/store/apps/details?id=st.gho.acro_roulette"
     - Packages: "packages"
     - Patents: "patents"
     - Deprecated: "deprecated"
-  Reference Tools:
-    - Dicktionary: "reference/dicktionary/"
-    - Gazillion: "reference/gazillion/"
-    - Power of 2: "reference/power-of-2/"
-    - Binary Primes: "reference/primes-base-2/"
-    - Decimal Primes: "reference/primes-base-10/"
-    - .bash_profile: "reference/bash_profile"
 
 avatar: "/avatars/greg.jpg"
 logo: /logo.jpg
@@ -40,15 +33,12 @@ author:
   reddit: gregologynet
   linkedin: gregology
   stackoverflow: 1142113/gregology
-  instagram: gregology
   youtube: gregologynet
   wikipedia: gregology
   imgur: gregology
-  flickr: gregologynet
   skype: gregory.clarke
   tiktok: gregology
   email: greg@gho.st
-  telegram: gregology
   signal: +16132626705
   steam: BabyArmour
   twitch: babyarmour
