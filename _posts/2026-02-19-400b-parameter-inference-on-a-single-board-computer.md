@@ -274,6 +274,28 @@ sudo -u llm env HF_HOME=/srv/llm/cache/huggingface \
   --local-dir /srv/llm/models/glm-4.7-flash/
 ```
 
+#### Qwen 3.5 35B A3B
+
+This is a Mixture of Experts (MoE) model. The total parameter count is 35B, but only 3B parameters are active during generation, making it highly efficient.
+
+```bash
+sudo -u llm mkdir -p /srv/llm/models/qwen-3.5-35b-a3b/
+sudo -u llm env HF_HOME=/srv/llm/cache/huggingface \
+  "$HF_BIN" download unsloth/Qwen3.5-35B-A3B-GGUF Qwen3.5-35B-A3B-Q4_K_M.gguf \
+  --local-dir /srv/llm/models/qwen-3.5-35b-a3b/
+```
+
+#### Qwen 3.5 27B
+
+This is a standard dense model.
+
+```bash
+sudo -u llm mkdir -p /srv/llm/models/qwen-3.5-27b/
+sudo -u llm env HF_HOME=/srv/llm/cache/huggingface \
+  "$HF_BIN" download unsloth/Qwen3.5-27B-GGUF Qwen3.5-27B-Q4_K_M.gguf \
+  --local-dir /srv/llm/models/qwen-3.5-27b/
+```
+
 ### Large models
 
 These models saturate the memory of the Radxa Orion O6's 64Gb of memory but have smaller footprints for their active parameters. So mmap can pass the required parameters from disk into memory. This results in painfully slow responses but they still work.
@@ -420,6 +442,17 @@ jinja = true
 min-p = 0.01
 temp = 0.7
 top-p = 1.0
+
+[qwen3.5:35b]
+model = /srv/llm/models/qwen-3.5-35b-a3b/Qwen3.5-35B-A3B-Q4_K_M.gguf
+ctx-size = 65536
+n-gpu-layers = 999
+cpu-moe = true
+
+[qwen3.5:27b]
+model = /srv/llm/models/qwen-3.5-27b/Qwen3.5-27B-Q4_K_M.gguf
+ctx-size = 65536
+n-gpu-layers = 999
 
 # Large models
 
