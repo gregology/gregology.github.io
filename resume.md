@@ -14,7 +14,7 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 
 ## Summary
 Staff engineer building AI-assisted developer tooling and infrastructure automation.  
-I ship prototypes quickly, harden them with validation loops and measurements, and make them usable through docs and clear interfaces.  
+I ship prototypes quickly, harden them with validation loops and measurements, and make them usable with context and clear interfaces.  
 Comfortable operating across LLM tooling, cloud APIs, networking, and production guardrails in remote-first teams.
 
 ## Selected Work (high impact)
