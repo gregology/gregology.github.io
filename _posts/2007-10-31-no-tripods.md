@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/10/no-tripods/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - germany
 ---
 I'm waiting at a train station in koln for the over night to Copenhagen. Twelve hours in a seat but at least i don't have to folk out for accommodation tonight :)
 

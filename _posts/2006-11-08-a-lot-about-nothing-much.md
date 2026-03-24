@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/11/a-lot-about-nothing-much/
 comments: True
 categories:
-  - General
-  - Work
+  - personal
 ---
 Yesterday I finished at 4:30pm :s so I didn't get drunk for the Melbourne Cup. Instead I listened to the race on a radio with the secretary of Rent-a-Space, which wasn't as good. You see, a lot of posties get sick on Melbourne Cup day which means the posties that aren't "sick" have to do more work, those jack pricks :( Posties also get sick on rainy days. It's not all bad, I do get paid for the extra work and I am saving for travel.
 

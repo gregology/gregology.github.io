@@ -7,9 +7,12 @@ published_at: 2018-02-13 14:40:20 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - video
+  - usa
+  - dog
 ---
 
 {% include youtube_player.html id='yV8A5xpaCHo' %}

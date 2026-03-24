@@ -1,5 +1,6 @@
 ---
 title: "Crossing the Gulf Stream (Sailing SV Catsaway) - Ep. 39"
+description: "36 hours from the Bahamas to Port Canaveral with a cracked heat exchanger and a broken drive leg seal."
 author: Greg
 layout: post
 permalink: /2018/05/crossing-the-gulf-stream-sailing-sv-catsaway-ep-39
@@ -7,9 +8,12 @@ published_at: 2018-05-22 01:31:58 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - video
+  - caribbean
+  - usa
 ---
 
 {% include youtube_player.html id='V9ZugLxOfT0' %}

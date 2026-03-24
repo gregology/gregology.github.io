@@ -5,6 +5,7 @@ licence: Creative Commons
 title: Codex Vitae
 signed: True
 subtitle: An exercise in metacognition
+description: "My beliefs, principles, and predictions in a public document. Updated when I change my mind. Hold me accountable."
 redirect_from:
   - /blueprint
   - /codexvitae

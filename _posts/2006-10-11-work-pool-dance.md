@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/10/work-pool-dance/
 comments: True
 categories:
-  - Play
-  - Work
+  - personal
 ---
 I saw a very funny letter today, just one of the perks. It was a pink letter addressed to "the Gay Family". I'm assuming the person who wrote the letter didn't like this particular family :) There are a few family's with funny last names, like the Cockburn's, the Frogott's, the Mavtronic's. I saw Pam today, she's an old lady on my beat, about 60 years old, and she doesn't like it when I ride on her lawn. In fact she is so against me riding on her lawn she put some rope there to stop me. I've had people try this kind of game on me before and I just ride on through it. The powerful CT110 normally gets me though. But Pam always says hello to me so I think I'll destroy her lawn under the cover of darkness. It's the school holidays so there are lots of little brats around. They ask me for rubber bands and tell me it's so they can tie their hair back. The strange thing is, they have short hair. I oblige anyway and tell them that I'll meet them at the skate park later to show them what tricks I can do on my postie. I hope they wait a while. I'm getting quite good at riding the little postie. I've got it clear off the ground a couple of times, and I've got these mono's down pat. I'm now focusing on trying to perfect my side saddle queen waves.
 

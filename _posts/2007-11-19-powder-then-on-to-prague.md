@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/11/powder-then-on-to-prague/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - czech republic
+  - poland
 ---
 Prague is slowly getting smaller as i sit traveling backwards on a train heading toward Vienna.
 

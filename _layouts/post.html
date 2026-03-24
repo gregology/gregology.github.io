@@ -2,6 +2,30 @@
 layout: base
 ---
 
+{% if page.tags.size > 0 or page.categories.size > 0 %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.last_modified_at %}"dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",{% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "url": "{{ site.url }}"
+  },
+  "description": {{ page.content | strip_html | truncatewords: 50 | jsonify }},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }{% if page.categories.size > 0 %},
+  "articleSection": {{ page.categories[0] | jsonify }}{% endif %}{% if page.tags.size > 0 %},
+  "keywords": {{ page.tags | join: ', ' | jsonify }}{% endif %}
+}
+</script>
+{% endif %}
+
 {% include header.html type="post" %}
 
 <div class="container">
@@ -22,7 +46,7 @@ layout: base
           Tags:
           {% if site.link-tags %}
           {% for tag in page.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
+            <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
           {% endfor %}
           {% else %}
             {{ page.tags | join: ", " }}

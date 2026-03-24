@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/10/all-about-phlegm/
 comments: True
 categories:
-  - Miscellaneous
-  - Work
+  - personal
 ---
 So I've been doing some research. I've been told not to drink milk products because they cause phlegm and thus makes you sick. I wasn't sure if I agreed with that logic so I decided to do some research. So on DMT123.com health question and answer, I found some interesting information on phlegm.
 

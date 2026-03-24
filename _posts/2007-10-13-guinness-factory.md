@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/10/guinness-factory/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - ireland
 ---
 Chris, Scott, and I visited the Guinness factory with 3 of Chris' backpacker mates yesterday. We drank a lot of black and then hit up a crepe bar. The Guinness factory was pretty cool, it cost 14e and we got at least 3 pints so it was a really good deal, plus now I know how they make barrels.
 

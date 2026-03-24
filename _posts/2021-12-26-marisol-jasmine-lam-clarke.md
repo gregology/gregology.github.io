@@ -1,5 +1,6 @@
 ---
 title: "Marisol Jasmine Lam Clarke"
+description: "Our daughter Marisol Jasmine Lam Clarke was born December 6, 2021 at Belleville General Hospital."
 author: Greg
 layout: post
 permalink: /2021/12/marisol-jasmine-lam-clarke/
@@ -7,10 +8,10 @@ date: 2021-12-26 12:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Family
+  - personal
 tags:
-  - baby
-  - marisol
+  - family
+  - canada
 gallery:
   url: 'https://photos.app.goo.gl/DREKeo5xSVUY7X7d7'
   images:

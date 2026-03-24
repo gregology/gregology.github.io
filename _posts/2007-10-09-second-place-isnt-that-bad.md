@@ -5,8 +5,10 @@ layout: post
 permalink: /2007/10/second-place-isnt-that-bad/
 comments: True
 categories:
-  - General
-  - Travel
+  - travel
+tags:
+  - england
+  - family
 ---
 Australia came second place in the ruby world cup match against England which I think is an alright attempt. I'm off to Ireland tomorrow to drink black beer :) with Scott, Chris, and Jacqui. My blog entries will be erratic for the next few months because I'll be traveling around Europe.
 

@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/04/stop-over-in-kuala-lumpur/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - malaysia
 ---
 One and a half hours in Kuala Lumpur

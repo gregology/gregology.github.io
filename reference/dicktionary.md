@@ -1,6 +1,7 @@
 ---
 title: Dicktionary
 layout: page
+description: "The largest list of penis euphemisms on the internet. Community submitted."
 redirect_from:
   - /reference/Dicktionary
   - /Reference/Dicktionary

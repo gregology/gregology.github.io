@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/12/more-kebabs/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - greece
 ---
 After a corner store lamb kebab i followed my gps 2.9km to the national gallery & Alexandros soutzos museum (stopping briefly at the military museum to look at planes and cannons). It was interesting to see how modern artists dealt with their antique ancestry. There were some amazing marble statues, so real that i was sure i could stir life into them by tickling their toes. Mono-brows where a common sight in the galleries paintings. My favorite pieces were ;  
 Simone pignoni 1611-1698, allegory of music, georgios averoff bequest inv. No. 1181  

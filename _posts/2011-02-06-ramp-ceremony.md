@@ -1,5 +1,7 @@
 ---
 title: "Ramp Ceremony for Corporal Richard Atkinson"
+description: "Corporal Richard Atkinson was killed by an IED. Writing about his ramp ceremony and life between Tarin Kowt and Kandahar."
+image: /wp-content/uploads/2011/02/CPL Richard Atkinson.jpeg
 author: Greg
 layout: post
 permalink: /2011/02/ramp-ceremony/
@@ -7,9 +9,9 @@ published_at: 2011-02-06 15:00:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
 ---
 
 Yesterday was the ramp ceremony for an MTF digger, Corporal Richard Atkinson who died last week from an IED. We along with Americans, Slovaks, Dutch, and others helped the MTF line the route to the awaiting RAAF Hercules. The procession was lead by a chaplain and the casket was carried in the back of an Aslav As Richard Atkinson's body rolled pass we came to attention and threw a salute. Following the casket was a slow marching party made up of representatives of other militaries and government organisations. I noticed two Afghani soldiers in the group walking with very little purpose, as if they didn't want to be there. When thousands of their own are killed each year, I suppose so much effort for one loss might seem excessive.

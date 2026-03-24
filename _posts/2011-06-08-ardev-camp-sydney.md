@@ -5,11 +5,10 @@ layout: post
 permalink: /2011/06/ardev-camp-sydney/
 comments: True
 categories:
-  - Augmented Reality
+  - technology
 tags:
-  - ar
-  - ardevcamp
   - augmented reality
+  - australia
 ---
 I'm currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I'll edit this post during the day as new interesting things come up :)
 

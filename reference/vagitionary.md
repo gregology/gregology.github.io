@@ -1,6 +1,7 @@
 ---
 title: Vagitionary
 layout: page
+description: "The largest list of vagina euphemisms on the internet. Community submitted."
 ---
  The largest list of sex euphemisms  
 

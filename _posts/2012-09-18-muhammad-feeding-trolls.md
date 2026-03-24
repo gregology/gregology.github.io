@@ -5,10 +5,9 @@ layout: post
 permalink: /2012/09/muhammad-feeding-trolls/
 comments: True
 categories:
-  - photos
+  - philosophy
 tags:
-  - Muhammad
-  - trolling
+  - religion
 ---
 Has his mum ever been on the Internet? What did she think was going to happen?
 

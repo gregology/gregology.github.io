@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/04/sugar-mumma/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - france
 ---
 I just dropped Nathalie at work for her second day. She doesn't really like it there, it's a really snooty French restaurant but she's got another job offer starting on Wednesday and this is good experience for her. Plus it's money and how can she be my sugar mumma if she's not earning? I watching French TV and I'm a bit over not knowing what's going on :(
 

@@ -5,7 +5,9 @@ layout: post
 permalink: /2009/02/favorite-paintings/
 comments: True
 categories:
-  - Uncategorized
+  - creative
+tags:
+  - art
 ---
 Pierre-narcisse guerin  
 Francesco di cristofano bigi, franciabigio  

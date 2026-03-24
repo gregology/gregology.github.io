@@ -1,5 +1,6 @@
 ---
 title: "Greg vs Facebook"
+description: "I charted my Facebook usage from 2008 to 2017. Sessions kept climbing, and so did middle-of-the-night activity. Facebook's winning."
 author: Greg
 layout: post
 permalink: /2018/10/greg-vs-facebook/
@@ -8,9 +9,10 @@ comments: True
 charts: True
 licence: Creative Commons
 categories:
-  - category
+  - personal
 tags:
-  - tag
+  - quantified self
+  - privacy
 ---
 
 <script type="text/javascript">

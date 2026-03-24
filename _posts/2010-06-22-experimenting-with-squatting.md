@@ -5,13 +5,7 @@ layout: post
 permalink: /2010/06/experimenting-with-squatting/
 comments: True
 categories:
-  - Health
-tags:
-  - health
-  - poo
-  - signs
-  - squatting
-  - Uni Work
+  - personal
 ---
 The toilet stalls at uni have anti squatting signs similar to this one.  
 <img src="/wp-content/uploads/2010/06/NoSquatting.jpg" alt="" title="NoSquatting" width="100%" height="auto" />

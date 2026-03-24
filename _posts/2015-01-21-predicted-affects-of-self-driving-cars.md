@@ -1,17 +1,15 @@
 ---
 title: Predicted affects of self driving cars
+description: "My January 2015 predictions on self-driving cars, from the end of speed limits to what happens to property values near highways."
+image: /wp-content/uploads/2015/01/knight-rider.jpg
 author: Greg
 layout: post
 permalink: /2015/01/predicted-affects-of-self-driving-cars/
 comments: True
 categories:
-  - Geek
-  - Predictions
-  - Technology
+  - philosophy
 tags:
-  - predictions
-  - robot cars
-  - self driving cars
+  - prediction
 ---
 Self driving cars are coming. Here are my January 2015 predictions on how they will change the world.
 

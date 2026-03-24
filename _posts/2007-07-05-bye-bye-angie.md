@@ -5,8 +5,9 @@ layout: post
 permalink: /2007/07/bye-bye-angie/
 comments: True
 categories:
-  - Travel
-  - Work
+  - personal
+tags:
+  - england
 ---
 It was Angies last day today. Her parting wasn't anything special, she just disappeared at 5 with not a word spoken which was probably best because she might of yelled at me for suggesting filing together, that and the fact that i found out her name was actually Angela not Angie which I'd been calling her for the past 2 weeks :s
 

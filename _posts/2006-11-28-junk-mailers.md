@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/11/junk-mailers/
 comments: True
 categories:
-  - General
-  - Work
+  - personal
 ---
 Today I came across a junk mail delivery fellow. We made pleasantries as we both stuffed papers into the a massive unit blocks mail boxes. On face value we were doing the same job but clearly not. I could see in his eyes that the pleasantries we made were only face value. I don't understand why, he smelt like BO and didn't even have a motorbike!
 

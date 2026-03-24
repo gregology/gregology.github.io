@@ -7,10 +7,9 @@ date: 2016-10-30 12:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Acro
+  - sport
 tags:
-  - imgur
-  - Acroyoga
+  - acroyoga
 ---
 
 {% include imgur_gallery.html id='0gyE7' %}

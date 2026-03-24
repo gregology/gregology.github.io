@@ -5,7 +5,9 @@ layout: post
 permalink: /2009/02/proxy-memoirs-from-granny/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - family
 ---
 From Granny 2007
 

@@ -5,7 +5,7 @@ layout: post
 permalink: /2009/03/rationality/
 comments: True
 categories:
-  - Uncategorized
+  - philosophy
 ---
 Rationality is in the eye of the beholder.
 

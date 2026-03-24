@@ -2,6 +2,7 @@
 title: Guide to chivalry
 disqus: yep
 layout: page
+description: "A visual guide to being chivalrous in modern times."
 ---
 ### Greg&#8217;s Guide to Chivalry
 

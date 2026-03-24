@@ -7,9 +7,10 @@ published_at: 2011-01-01 20:00:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
+  - new year
 ---
 
 Happy New Year! While my Sydney mates were partying I was playing on a radio trying to play it cool while my field mates sent in contact reports. The TB had the decency to allow the boys out field to close one contact report 10 minutes before midnight Sydney time before it kicked off again 10 minutes after midnight Sydney time. The army gave me two sets of multicams (which was good because I tore one pair of my old cams climbing the fence to get back into camp after forgetting the gate combination) and two beers (which we didn't end up having to pay for after some apparent uproar in Australia) for christmas :) I haven't changed sides, they are just testing a new cam design. They weren't wrapped but I still appreciate the thought. My family went to more effort, Zander and Zalhi have been writing to me non stop and I've plastered my walls with their efforts, even covering some of the porn on my walls (from the previous occupant, I'm not complaining though). On a side note, woman have a positive effect on the morality of groups so maybe all the porn here is actually a good thing although some of these girls are very very naughty so maybe not. I digress. While I've been away I've been sticking to my Paleo diet (eating like a cave man). Fittingly, I've got worms just like a caveman would have. A lot of the guys here are on hydroxycut and alike, I think worms are a paleo alternative. It was becoming unbearable so I hit up the doc and I'm medicated.

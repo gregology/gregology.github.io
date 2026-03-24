@@ -5,13 +5,7 @@ layout: post
 permalink: /2010/04/how-to-get-out-of-a-pool-head-last/
 comments: True
 categories:
-  - Play
-tags:
-  - fun
-  - pool
-  - sport
-  - swimming
-  - tricks
+  - personal
 ---
 <img src="/wp-content/uploads/2010/04/1.jpg" alt="Step 1" width="100%" height="auto">
 Step one: Position yourself with one hand on the rim of the pool, try to close your nostrils.

@@ -5,8 +5,9 @@ layout: post
 permalink: /2006/10/dancing-and-johnny/
 comments: True
 categories:
-  - General
-  - News
+  - personal
+tags:
+  - politics
 ---
 "Freedom of expression online is a right, not a privilege - but it's a right that needs defending," said Steve Ballinger of Amnesty International. "We're asking bloggers worldwide to show their solidarity with web users in countries where they can face jail just for criticising the government."
 

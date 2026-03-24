@@ -10,13 +10,11 @@ wordbooker_extract:
     This is a wikijam project if you would like to add to or remix this song in any way :)
 comments: True
 categories:
-  - Ukulele
+  - creative
 tags:
-  - 99 red balloons
-  - nena
   - ukulele
-  - wikijam
-  - YouTube
+  - video
+  - music
 ---
 
 {% include youtube_player.html id='tGu3Hy_Uga4' %}

@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/11/greg-and-poles/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - poland
 ---
 The buildings evolved into shacks and caravans as the train headed westward. The only sign that I'd crossed the boarder was new letters in the alphabet of the station names. 6 hours after leaving Berlin i was released into a maze of underground tunnels lined with 24 hour kebab joints and buera de exchanges. i escaped the underground city into rainy Warsaw and found a pleasant hostel not far from the station (Nathan's villa hostel). With 2 nights booked i headed back into the city.
 

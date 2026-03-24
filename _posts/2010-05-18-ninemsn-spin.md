@@ -5,12 +5,9 @@ layout: post
 permalink: /2010/05/ninemsn-spin/
 comments: True
 categories:
-  - politics
+  - philosophy
 tags:
-  - ninemsn
   - politics
-  - spin
-  - tony abbott
 ---
 I found an interesting spin video on ninemsn (video removed). The title "Abbott admits to policy lies" interested me enough to click. After watching the [7:30 Report][2] I figured out what actually happened.  
 [<img src="/wp-content/uploads/2010/05/Screenshot.png" alt="" title="Tony Abbott 7:30 Report" width="100%" height="auto" />][3]  

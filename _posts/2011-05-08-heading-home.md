@@ -7,9 +7,11 @@ published_at: 2011-05-08 09:35:00 AEST
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
+  - australia
+  - veteran
 ---
 
 D's get degrees too apparently, that was a nice surprise. I'm settling back into civi life, walking slower and getting use to checking I've got my phone and keys as opposed to checking I've got my pistol and ID. After biding goodbye to my comrades in KAF we spent 3 days in Amib conducting shopping, drinking, and tan ops. The fastest I'd travelled in a car for 5 months was 40km/h so going 60 around base in Amib was scary fast. After a bit of admin Matty, Barry, Jack, and I hit the town of Dubai for about 10 hours. Shopping wasn't as great as I had been led to believe. The shopping centre was massive with a three story fish tank and waterfalls but it just felt like a roomy, classy, and somewhat empty Westfield. We enjoyed a Cap from a ceramic mug then headed to an Irish bar to hit the piss. As soon as the taxi driver took off seatbelts went on. He sped us to the bar and we need a beer to calm our nerves from his erratic driving. Drinks rained down in front of me thanks to table service and I spent most of the night playing catch up on thick Guinness. Jack's mate from Darwin met us in town wearing surprisingly revealing clothes, things had obviously changed from the days of religious police hitting women who showed off their slutty ankles. We could only convince our DDs to stay for a couple of drinks before they returned us to base. After a few drunken shenanigans involving Matty's sheets I hit the sack in and waited for the hangover. The next day I passed an imaginary fitness test and shoot which covered me for 6 months and boarded a plane home to Sydney after a brief hop in Darwin.

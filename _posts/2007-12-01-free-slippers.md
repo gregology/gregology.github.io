@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/12/free-slippers/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - italy
 ---
 01/12/07
 

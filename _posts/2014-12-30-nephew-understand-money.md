@@ -5,9 +5,10 @@ layout: post
 permalink: /2014/12/my-nephew-learned-the-value-of-money
 comments: True
 categories:
-  - YouTube
+  - personal
 tags:
-  - YouTube
+  - video
+  - family
 ---
 
 {% include youtube_player.html id='FvJrYH6_nFc' %}

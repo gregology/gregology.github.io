@@ -1,6 +1,6 @@
 ---
 title: First 2¹⁶ prime numbers in base 2
-decription: List of prime numbers in binary from 0 to 2¹⁶
+description: "The first 2^16 prime numbers in binary. I couldn't find this anywhere so I made it."
 layout: page
 redirect_from:
   - reference/primes/

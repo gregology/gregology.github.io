@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/07/weekend-in-brighton/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
 ---
 I'm off to Brighton for the weekend. It's a town on the south coast where the soap dodgers go to swim when its hot. It's also got a big gay community so I'm hoping the night life will be good 😉 its an hour and a half train trip and costs 30 quid return or $75 in gods currency. I thought that was a bit steep seen as though some flights over seas are that much and on flights you get to watch the stewardess go through the safety instructions. I really enjoy that part of the flight, it's like a little synchronized play. I booked two weekend trips for later in the month. one to Milan in Italy and the other to Bremen in Germany. I'd never heard of Bremen but Google told me it's in Germany and I have never been there so i figured it was a good idea. Next month Haley and i are going to Amsterdam and then I'm thinking of having a long weekend in Marrakesh, northern Africa which would be exciting and knock another Continent off my todo list (leaving just south America and antarctic).
 

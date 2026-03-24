@@ -7,11 +7,9 @@ date: 2020-06-30 18:27:41 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Cats
+  - personal
 tags:
   - cat
-  - kitty
-  - Jazz
 gallery:
   url: 'https://photos.app.goo.gl/mcGMp1NuLgki9eHt6'
   images:

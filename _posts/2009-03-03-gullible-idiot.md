@@ -5,6 +5,6 @@ layout: post
 permalink: /2009/03/gullible-idiot/
 comments: True
 categories:
-  - Uncategorized
+  - philosophy
 ---
 The collective is a gullible idiot, I can use that.

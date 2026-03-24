@@ -5,8 +5,10 @@ layout: post
 permalink: /2008/01/meeting-zander/
 comments: True
 categories:
-  - General
-  - News
+  - personal
+tags:
+  - australia
+  - family
 ---
 The Family and I sat outside the delivery rooms all day waiting for word of our latest member. Zander Ty Sampson was born at 16:24 on the 2nd of January 2008. He is my latest nephew and is a strange red colour with brown hair. My premination about his sex turned out to be wrong. After double checking I've asserted that he's defiantly a boy. His willy lost me a case of beer from my brother and cost him the pink outfit I bought him Turkey. 
 

@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/11/night-with-the-irish/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - poland
 ---
 I arrived in Krakow the night before last staying again at Nathan's villa hostel. In my room lived two English girls who were reuniting with some Polish and Slovakian work friends (they worked at a Jewish summer camp in the US). The next day the invited me to join them on a sight seeing tour of the city. With Polish interpreters we visited visited one of Krakow museums (the czartoryski) which hung art in the Polish fashion I'd become accustomed too. Lady with an ermine by da Vinci was placed on a maroon wall. My favorite pieces were Rembrandt's van rijn and Egbert van Der poel's fire in a town. Our Polish friends guided us through the art works and gave us a history lesson. Then my new Polish friends introduced me to some donut shaped salty bread and took us through a Jewish museum.
 

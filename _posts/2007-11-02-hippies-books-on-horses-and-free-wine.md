@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/11/hippies-books-on-horses-and-free-wine/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - scandinavia
 ---
 I'm on a train out of Copenhagen heading for Oslo in Norway. I arrived in Copenhagen at 10am yesterday, found a hostel ($50 a night), and then searched the city for fun free entertainment as i didn't have a single krone on me (i used visa to book my hostel and train ticket because i didn't want another currency floating around in my bag). My GPS took me to the usual statues and fountains but then she guided me to a hippie commune, Christiania. Inside steal drums burned surrounded by shivering hippies. Stray dogs policed the muddy gravel streets and the walls of the tatty buildings were covered in colourful "public art". There was a strict no photo policy. I wondered through, the air was thick with the smell weed, a sick looking man offered to supply me. The commune was surrounded by the city and i didn't understand how it existed. I didn't feel safe and escaped to more statues and fountains through gates that informed me of my reentry into the EU. At one of the statues i asked a local what Christiania was. She informed me that it was a haven for hippies. No laws, free electricity, no tax, and back in the day you could build a home there. She said it was filled with aging hippies and the government wanted to get rid of it.
 

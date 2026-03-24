@@ -1,5 +1,6 @@
 ---
 title: "AI Predictions"
+description: "My 2024 AI predictions: APIs that replace SaaS, new creative approaches, and open source closing the gap with o3."
 author: Greg
 layout: post
 permalink: /2024/12/ai-predictions/
@@ -9,13 +10,9 @@ licence: Creative Commons
 categories:
   - technology
 tags:
-  - generative-ai
-  - llms
-  - gpt
-  - chatgpt
-  - ollama
-  - news
-  - predictions
+  - generative ai
+  - prediction
+  - llm
 ---
 
 This is my second yearly list of AI predictions. My first [AI predictions from December 2023 are available here](/2023/12/generative-ai-predictions/).

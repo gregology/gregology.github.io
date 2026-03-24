@@ -5,8 +5,9 @@ layout: post
 permalink: /2009/04/replacements-have-arrived/
 comments: True
 categories:
-  - Army
-  - News
+  - military
+tags:
+  - solomon islands
 ---
 This is a big day for me because it secures my return home :) It means that someone is here to do my job so there is no reason for me to be here. I haven't met our replacements yet and I'm keen to get them trained up so I can hit the piss tomorrow night.
 

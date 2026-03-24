@@ -2,6 +2,7 @@
 title: .zshrc and .bash_profile
 disqus: yep
 layout: page
+description: "My shell config. Aliases, prompt customization, and useful functions I've collected."
 ---
 {% raw %}
 Useful aliases and alike from my `.zshrc`

@@ -5,7 +5,9 @@ layout: post
 permalink: /2009/02/first-memory/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - dog
 ---
 First memory  
 Early 1986

@@ -1,15 +1,15 @@
 ---
 title: Day one in Hong Kong
+description: "Photos from my first day in Hong Kong. Sunrise over the harbour, the peak, street art, and bamboo scaffolding everywhere."
+image: /wp-content/uploads/2016/12/Beautiful Sunrise.jpg
 author: Greg
 layout: post
 permalink: /2016/12/day-one-in-hong-kong/
 comments: True
 categories:
-  - Travel
+  - travel
 tags:
-  - Travel
-  - Asia
-  - Hong Kong
+  - hong kong
 licence: Creative Commons
 images:
   - image_path: /wp-content/uploads/2016/12/Beautiful Sunrise.jpg

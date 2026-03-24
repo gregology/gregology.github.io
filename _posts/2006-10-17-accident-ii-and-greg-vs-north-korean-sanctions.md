@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/10/accident-ii-and-greg-vs-north-korean-sanctions/
 comments: True
 categories:
-  - News
-  - Work
+  - personal
 ---
 I fell off my bike again today but this one didn't hurt as much because it was on grass, I'm cleaver like that. I was trying to skid sideways down a slope. This time the mail didn't go everywhere and no one saw. The guy from Prison Break had pretty eyes.
 

@@ -1,15 +1,15 @@
 ---
 title: Dropbox Hosted Audiobooks on Android
+description: "Listening to Dropbox-hosted audiobooks on Android with the free Smart AudioBook Player app."
 author: Greg
 layout: post
 permalink: /2017/03/dropbox-hosted-audio-books-on-android/
 comments: True
 categories:
-  - Tech
+  - technology
 tags:
-  - Android
-  - Dropbox
-  - Audiobooks
+  - android
+  - tutorial
 licence: Creative Commons
 ---
 

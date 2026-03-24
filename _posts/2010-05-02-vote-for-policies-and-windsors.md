@@ -7,15 +7,10 @@ wordbooker_options:
   - 'a:10:{s:18:"wordbook_noncename";s:10:"1a2700e036";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
 comments: True
 categories:
-  - politics
+  - philosophy
 tags:
-  - kevin rudd
   - politics
-  - tony abbott
-  - web
-  - webmaster
-  - websites
-  - windsor knot
+  - australia
 ---
 I came across an interesting site for the UK election. [Vote for Policies][1] suggests which party a user should vote for based on their selection of policies. The user selects issues that concern them, for instance Health, Education etc, and then is given a selection of the policies of the six major parties. The user does not know which policies belong to which party and at the end of the survey the website returns the party which best represents the users policy preference.
 

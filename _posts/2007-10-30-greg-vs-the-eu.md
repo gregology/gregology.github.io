@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/10/greg-vs-the-eu/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - belgium
 ---
 Using my legs and an analog GPS receiver, a.k.a. a map, i visited the sights of Brussels. I found tall glass buildings towering over cobbled streets in an odd mix of old and new. My first stop was the unknown solider. He lay between two lions who mirrored each other facing outwards. Behind him climbed a pillar carrying other statues. A flame burned. It was a powerful scene and i wish i could have understood the inscriptions.
 

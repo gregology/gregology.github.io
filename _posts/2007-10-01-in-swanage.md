@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/10/in-swanage/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
+  - family
 ---
 Friday night was a heavy drinking session with the boys (my 3 second cousins from bracknell). It was my farewell from bracknell. We hit windsor at a bar call ha ha then a club called liquid. A girl in liquid told me I had petty eyes :) then asked if i was gay. I macked it out on the dance floor and due to my unfitness I quickly exhausted myself thus needed frequent refreshments. We kebabed outside, had words with fellow drunk testosterone sacks, then taxied home. It was a good experience but nearly identical to a night out in oz. The only differences were, peculiar open kebabs with very little salad & no bbq sauce, colder whether, funny accents, and 3 times as expensive (55 quid, $140 in gods currency).
 

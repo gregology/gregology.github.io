@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/04/light-entertaining/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - australia
 ---
 I'm playing hang overs after a big night. Nathalie and I entertained some of Nat's friends at her dad's apartment in North Bridge. It's a really cool apartment with a balcony on the main strip of Perth's night area. We cooked a cake and I offered some to some passing Irish peasants walking along the foot path below us. They didn't reply kindly and wanted to fight. I from the comfortable vantage point asked from where in England they came. I felt safe in a the apartment, separated from the 2 angry Irish by 4 metres, a security door, an elevator that needed keys, and the apartment door. I didn't count on the persistence of the Irish and about 30 minutes after they disappeared to try and find the stairs they also appeared on the balcony. I was a lot more humble to them when they stood a level to me but when I turned to Nathalie I saw her eyes burn through me. Brenden noticed this too and I knew I had to coerce them to leave. I got them nearly to the front door when one of them offered to kick box Brenden, he said he was some sort of champ and I stopped doubting him when he removed his front two teeth and placed them on the kitchen bench and started bouncing around. With some help from the girls we finally got them out side of the apartment and locked the door.
 

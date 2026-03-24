@@ -1,5 +1,6 @@
 ---
 title: "400B Parameter Inference on a Single Board Computer"
+description: "I ran Qwen 3.5 at 397B parameters on a sub-$1000 Radxa Orion O6 using Vulkan GPU offload and MMAP."
 author: Greg
 layout: post
 permalink: /2026/02/400b-parameter-inference-on-a-single-board-computer/
@@ -7,13 +8,11 @@ date: 2026-02-19 21:20:42 -0500
 comments: True
 licence: Creative Commons
 categories:
-  - LLMs
-  - Tech
+  - technology
 tags:
-  - Inference
-  - LLM
-  - Radxa
-  - llama.cpp
+  - llm
+  - single board computer
+  - tutorial
 clippy_help: It looks like you're trying to cancel your OpenAI subscription. Sam won't be happy!
 ---
 

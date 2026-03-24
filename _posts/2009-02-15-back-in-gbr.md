@@ -5,8 +5,9 @@ layout: post
 permalink: /2009/02/back-in-gbr/
 comments: True
 categories:
-  - Army
-  - Work
+  - military
+tags:
+  - solomon islands
 ---
 I'm back in GBR missing the freedoms and sweet potatoes of the jungle. I just came home from a BBQ with Stevens, the Belgium hiker we rescued from the jungle (I didn't really do much but I'm telling the story here). Only 5 of us went, I think a platoon of Tongans might have been a bit much for his civilised church function. I got shafted with a middle seat on the way there which was alright because it meant I didn't have to wave to all the locals. It was held at a church / school for the deaf (at least that what I think it was, there were a lot of deaf people there and I tired to practice my sign language which I learned on a train in Europe from another backpacker). I told stories of my heroism getting sunburnt and not requesting a casvac. It was really nice to see a pleasant ending to the story. I could see by the way his girlfriend stared at him that she really loved him and it would have been cruel for fate to take him away from her. The food was great and the wine was so close :( but alas none for us. I spoke to some really interesting people and I think people like that are drawn to this kind of place.
 

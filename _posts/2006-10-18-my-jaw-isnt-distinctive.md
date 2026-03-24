@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/10/my-jaw-isnt-distinctive/
 comments: True
 categories:
-  - News
-  - Work
+  - personal
 ---
 As a postie I've bumped into a couple of old school mate who just look blankly at me while I ask in depth questions about their lives. Daniel Howitt from high school has apparently done "not much" when I asked what he's being up too. I haven't seen him for 7 years, I'm pretty sure he's done something in those 7 years, I know he's cut his hair in those 7 years, if he hadn't he'd look like a hippie. After my little discussion with Daniel about his life I went back to my bike and looked at myself in the mirror, had I really changed that much since high school, that was when I discovered that yes, yes I had, because in high school I didn't wear a helmet and sunnies, I didn't go to one of those high schools.
 

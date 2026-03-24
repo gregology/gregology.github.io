@@ -5,7 +5,7 @@ layout: post
 permalink: /2009/03/reason-for-my-actions/
 comments: True
 categories:
-  - Uncategorized
+  - philosophy
 ---
 My actions should first improve the universe,  
 Secondly living creatures,  

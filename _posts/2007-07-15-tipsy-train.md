@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/07/tipsy-train/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
+  - family
 ---
 I'm on the train home to Luton from Swanage. I stayed with my 89 year old grandmother. She speaks with a thick Irish accent and hears opera music that no one else can hear and then tries to convince me that I can hear it too. I like grandma's cooking but I'm a little weary of it seen as though last time i was exposed to it for 6 months i gained 20kgs :s so I avoided the full Irish fry up in favour of corn flakes. I was feeling a little nostalgic so I steered our the conventions towards to old county and away from immigration and how bad this country has become because of all the foreigners, never mind the fact that I'm earning more in 10 minutes then most people earn in a week. Poor native British population with their cheap international travel and top notch health care, i hope in the future they treat the native British as well in they as we treat the native Australians :s but i suppose it's all perspective. When we got to granny's flat she pointed out the door opposite and informed me that the owner is a farmer and spends 2 weeks a year here, 'lucky ole girl' she remarked, completely disregarding the fact that she gets to spend 52 weeks a year in sunny Swanage. I tried to get as much information as i could about her parents and grandparents. She got her younger sister, Gerty, on the case and between the two of them i learned a lot. I found out that my great grandparents were married in New York but had to return to Ireland because Edward Thompson, my protestant great grandfather was dis honed for marrying a catholic :s I'm going to do some other research to see what else i can discover about my families sordid past. My eyes leaked when we parted, she's old and i don't know if I'll see her again, so before i left we enjoyed a sherry, her favorite drink, and she told me about kitchens.
 

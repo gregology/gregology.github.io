@@ -7,10 +7,9 @@ date: 2020-05-20 20:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - health
-  - mental health
+  - personal
 tags:
-  - non-travel
+  - mental health
 ---
 
 I need to turn off and on again. An IRL retreat is out of the question so this is the DIY approach. Starting Saturday morning, four days, no social/news media, lots of lazy activities.

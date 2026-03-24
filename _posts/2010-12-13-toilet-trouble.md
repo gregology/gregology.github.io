@@ -7,9 +7,9 @@ published_at: 2010-12-13 18:15:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
 ---
 
 I'm sitting on the toilet completing this entry with a lot of fluid leaving my behind. In the background I can hear an Apache firing rounds and missiles. It feels pretty wary. We've had a few rocket attacks so far, nothing too close but I'm sure they'll get closer as I get older :) We arrived in country after a 20 hour stop over in the UAE. As we got off the C17 there was an Apache hovering above firing. It felt like the right place.

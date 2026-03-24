@@ -1,5 +1,7 @@
 ---
 title: Augmented Reality T-Shirt
+description: "I screen-printed an AR marker onto a t-shirt and used AndAR on Android to overlay 3D models on it."
+image: /wp-content/uploads/2011/06/IMAG0518.jpg
 author: Greg
 layout: post
 permalink: /2011/06/augmented-reality-t-shirt/
@@ -11,12 +13,12 @@ wordbooker_extract:
   - 'I have been playing around with augment reality apps for Android and thinking of useful ways to integrate them into my every day life. Augmented reality fashion will allow us to change our appearance with a push of a button. Imagine having a video  ...'
 comments: True
 categories:
-  - Augmented Reality
+  - technology
 tags:
-  - andar
-  - Android
   - augmented reality
-  - screen printing
+  - android
+  - tutorial
+  - video
 ---
 I have been playing around with augment reality apps for Android and thinking of useful ways to integrate them into my every day life. Augmented reality fashion will allow us to change our appearance with a push of a button. Imagine having a video conference wearing a comfortable t-shirt but appearing as though you are wearing a suit. Other applications include awesome Halloween costumes, girlfriends getting ready quickly, and never turning up to a party wearing the same clothes as someone else. This is just a fun proof of concept but I will attempt to make more useful 3d models to augment over the real t-shirt.
 

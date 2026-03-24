@@ -1,5 +1,6 @@
 ---
 title: "My Experience with the Australian DVA"
+description: "324 days and nearly $14,000 in assessments just to see a psychologist through the Australian DVA. I documented the whole mess."
 author: Greg
 layout: post
 permalink: /2020/02/my-experience-with-the-australian-dva/
@@ -7,14 +8,11 @@ date: 2020-02-05 15:00:00 -0500
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - DVA
-  - Department of Veterans Affairs
-  - VAC
-  - Veterans Affairs Canada
-  - Australian Army
-  - Army
+  - veteran
+  - mental health
+  - australia
 redirect_from:
   - /2019/07/my-experience-with-the-australian-dva/
 ---

@@ -7,13 +7,9 @@ date: 2019-01-01 21:00:00 -0500
 comments: True
 licence: Creative Commons
 categories:
-  - travel
-  - Canada
-tags:
-  - travel
-  - Canada
-  - communication
   - philosophy
+tags:
+  - canada
 ---
 
 Canada has been my wonderful home for 5 years now. As an Australian, it was an easy cultural transition. After a couple of vocabulary changes, I felt like I comfortably fit in. Recently, I had a rare unpleasant experience while selling our boat on Kijiji and it felt very un-Canadian.

@@ -14,9 +14,9 @@ geo_public:
   - 1
 comments: True
 categories:
-  - Travel
+  - travel
 tags:
   - canada
-  - Montreal
+  - montreal
 ---
 The sugar coated landscape has changed from ghostly white to pale blue now that the sun has disappeared. At times the windows are a single colour as the train throws up a cloud of winter. A snow storm and a 20 minute walk await me in Montreal hopefully followed quickly by a drink by a window.

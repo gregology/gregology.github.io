@@ -1,5 +1,7 @@
 ---
 title: "VHF Maroon Radio"
+description: "Canadian Tire's search algorithm confused walkie talkies with VHF marine radios. A cautionary tale about gullible ML."
+image: /wp-content/uploads/2017/08/Canadian Tire VHF Marine Radio Search.png
 author: Greg
 layout: post
 permalink: /2017/08/vhf-maroon-radio/
@@ -7,10 +9,9 @@ date: 2017-08-30 16:01:29 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Technology
-tags:
   - technology
-  - machine learning
+tags:
+  - ai
   - sailing
 ---
 

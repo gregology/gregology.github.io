@@ -5,11 +5,9 @@ layout: post
 permalink: /2013/09/last-day-in-nyc/
 comments: True
 categories:
-  - Travel
-tags:
-  - NYC
   - travel
-  - USA
+tags:
+  - usa
 ---
 "Multigrain bagel with tofu" was just called in this deliberately rustic looking [café][1] in Queens. The staff wear fedoras and the customers wear Lulu Lemon while pushing little people cars or typing on MacBooks.  There are a lot more smiles, laughs and in jokes here then the cafés I found in Manhattan. This was the kind of cultural experience I wanted from my trip to NYC, I feel like I could become a local here. Plus they serve decent coffee including cold pressed! My indecisiveness pushed me further out of town as the cheap hostels booked up. It worked out really well and I ended up next door to a 50s style diner. I ate all kinds of awful foods which will help me appreciate American movies.
 

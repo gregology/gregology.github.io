@@ -6,15 +6,7 @@ permalink: /2010/04/islands-to-start-a-new-country/
 
 comments: True
 categories:
-  - Miscellaneous
-  - Philosophy
-  - Travel
-tags:
-  - conquering
-  - islands
-  - Leonardo da Vinci
-  - Philosophy
-  - world domination
+  - philosophy
 ---
 
 **2017 update:** I bought a boat, [follow along](https://www.youtube.com/channel/UCvxC2_BVnsAcaPEsIUcJx6A) as we visit some of these islands.

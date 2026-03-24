@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/04/down-town-montpellier/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - france
 ---
 I'm sitting in the center square of Montpellier been spoken at by some drunk French man. He seems happy though although I have know idea. He probably wants to play pin the tail on the Aussie :( he just kissed me on the neck but it is France :s l told Nathalie that I would meet her here so I'm a little stuck :( I took lots of photo's today, Montpellier has heaps of really pretty lane ways. We're leaving here on Monday because we've been here a week and are yet to find an apartment or jobs. A week is all Montpellier gets to impress me :)
 

@@ -5,8 +5,9 @@ layout: post
 permalink: /2007/09/yet-another-lazy-weekend/
 comments: True
 categories:
-  - General
-  - Travel
+  - travel
+tags:
+  - england
 ---
 I'm having yet another lazy weekend :) in preparation for my go go travel in the coming months. I booked my train ticket for Europe and look up hire cars for Ireland but my weekend has mainly been filled with laying in bed. Before I left the UK I was planning on visiting my grandmother on my dads side but when I called her and asked she turned me down :( She's not aging so well and I don't think I'm going to be back in the UK anytime soon so I was a little disappointed. She seems to have the maternal instincts of a sponge. I don't actually have any memories of her and it would have been nice to have met her if only once. The experience made me appreciate my other grandmother, she's my real grandmother, she sends me birthday cards, makes me fat with roasts & fry-ups, and has an Irish accent.
 

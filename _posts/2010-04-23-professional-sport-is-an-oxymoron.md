@@ -1,22 +1,14 @@
 ---
 title: Professional sport is an oxymoron
+description: "When profit becomes the point of a sports club, fair play vanishes. That's not sport anymore."
 author: Greg
 layout: post
 permalink: /2010/04/professional-sport-is-an-oxymoron/
 comments: True
 categories:
-  - Philosophy
+  - philosophy
 tags:
-  - AFL
-  - Auspost
-  - Barcelona
-  - football
-  - NRL
-  - Postmen
-  - royal mail
-  - soccer
-  - sport
-  - UNICEF
+  - frisbee
 ---
 Wikipedia told me that;  
 "A sport is commonly defined as an organised, competitive, and skillful physical activity requiring commitment and fair play."

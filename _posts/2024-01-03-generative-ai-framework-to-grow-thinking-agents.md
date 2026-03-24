@@ -1,5 +1,6 @@
 ---
 title: "Generative AI framework to grow thinking agents"
+description: "I designed a concept-aware AI framework using semantic networks and an orchestrator to build auditable thinking agents."
 author: Greg
 layout: post
 permalink: /2024/01/generative-ai-framework-to-grow-thinking-agents/
@@ -9,12 +10,9 @@ licence: Creative Commons
 categories:
   - technology
 tags:
-  - generative-ai
-  - llms
-  - gpt
-  - chatgpt
-  - llama
-  - self-learning
+  - generative ai
+  - llm
+  - coding
 ---
 
 Generative AI is predicting what should come next and is unaware of concepts. For instance, generative AI image models do not have a concept of a human hand. The models predict that a finger-like structure is normally next to another finger-like structure so they often create hands with too many fingers. Increasing the context window will help reduce these kinds of errors but it does not address the fundamental problem, the model is unaware of the concept of a hand. This project will use generative AI's semantic extraction and reasoning abilities to build a concept aware auditable AI framework that can learn, think, and improve itself.

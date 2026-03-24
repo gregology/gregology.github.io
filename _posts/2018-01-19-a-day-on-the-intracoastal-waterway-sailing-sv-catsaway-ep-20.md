@@ -7,9 +7,11 @@ published_at: 2018-01-19 20:12:23 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - video
+  - usa
 ---
 
 {% include youtube_player.html id='oFVUEMeEpFc' %}

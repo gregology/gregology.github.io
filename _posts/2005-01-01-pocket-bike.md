@@ -7,9 +7,9 @@ published_at: 2005-01-01 00:00:00 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - creative
 tags:
-  - motor bike
+  - video
 ---
 
 {% include youtube_player.html id='zpscuMoeF0M' %}

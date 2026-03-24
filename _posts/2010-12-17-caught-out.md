@@ -7,9 +7,9 @@ published_at: 2010-12-17 18:00:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
 ---
 
 The cat is out of the bag. Today I received an email from my sister letting me know that my CO had sent out an email detailing the importance of our work in Afghanistan. This is a little bit problematic because I had told my family that I was playing army in the Solomon Islands. If my family didn't know, they wouldn't worry and them worrying wouldn't make this trip any easier for them or me. My mum had started to clue on that something was different and she made me swear on my life that I wasn't going to Afghanistan. I did, thinking that it was funny to swear on my life that I wasn't doing something because it was dangerous. 

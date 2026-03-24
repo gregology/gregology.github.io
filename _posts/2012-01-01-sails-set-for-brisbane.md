@@ -5,10 +5,10 @@ layout: post
 permalink: /2012/01/sails-set-for-brisbane/
 comments: True
 categories:
-  - Sailing
-  - Travel
+  - sailing
 tags:
-  - Sailing
+  - sailing
+  - australia
 format: status
 ---
 The Laura Court has set sails for the trip to Brisbane. Alan (skipper), Gaten, John, helan, and myself onboard. First scheduled stop is Port Stephens which with current winds should be in our sights by early tomorrow morning.

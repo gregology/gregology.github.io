@@ -3,6 +3,7 @@ title: About
 layout: page
 comments: True
 licence: Creative Commons
+description: "Greg Clarke is a sentient being. Australian, Canadian, software developer, army veteran, sailor, cat person."
 redirect_from:
   - /about/philosophies/
 ---

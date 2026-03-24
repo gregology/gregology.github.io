@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/01/long-time-no-blog/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - family
 ---
 Well it's been 2 months since my last blog and I've been busy busy busy… and a little lazy with regards to blogging :( Work pre Christmas is quite full on when you're a postie and I made an extra effort tricking my victims in to thinking I'm as friendly as Pat so they give me presents :) But my plan didn't work :( All I got was a bottle of wine and some chocolates :( I deliver to a few hundred delivery points and only two people fell for my tricks :( So there will be lots of miss sorts this year :) Lesson learnt, being nice to people doesn't pay off.
 

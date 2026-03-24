@@ -1,5 +1,6 @@
 ---
 title: "Generative AI Predictions"
+description: "My 2023 predictions for generative AI, from personalized news delivery to consciousness via concept networks and local models."
 author: Greg
 layout: post
 permalink: /2023/12/generative-ai-predictions/
@@ -9,13 +10,9 @@ licence: Creative Commons
 categories:
   - technology
 tags:
-  - generative-ai
-  - llms
-  - gpt
-  - chatgpt
-  - llama
-  - news
-  - predictions
+  - generative ai
+  - prediction
+  - llm
 ---
 
 The potential of Generative AI goes far beyond Large Language Models (LLMs like ChatGPT) being able to answer trivia questions, write generic essays, and code using established patterns. The true value of Generative AI is its ability to organise information.

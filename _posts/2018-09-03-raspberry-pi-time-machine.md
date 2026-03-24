@@ -1,5 +1,7 @@
 ---
 title: "Raspberry Pi Time Machine (2021 update)"
+description: "Turn a Raspberry Pi and a USB hard drive into a wireless Apple Time Machine backup server. Updated for 2021."
+image: /wp-content/uploads/2018/09/raspberry-pi-time-machine-time-machine.png
 author: Greg
 layout: post
 permalink: /2018/09/raspberry-pi-time-machine/
@@ -7,14 +9,10 @@ date: 2018-09-03 04:51:05 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Tech
-  - Tutorial
+  - technology
 tags:
   - raspberry pi
-  - mac
-  - MacOS
-  - OSx
-  - Time Machine
+  - tutorial
 ---
 
 ***2019-01-02 Updated after comments from Guy***  

@@ -7,9 +7,12 @@ published_at: 2018-06-05 01:28:10 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - caribbean
+  - video
+  - food
 ---
 
 {% include youtube_player.html id='DP6zeiOAGuc' %}

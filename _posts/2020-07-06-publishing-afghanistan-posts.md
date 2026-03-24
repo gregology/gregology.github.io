@@ -1,5 +1,6 @@
 ---
 title: "Publishing Afghanistan Posts"
+description: "I'm finally publishing journal entries from my Afghanistan deployment, nearly a decade after writing them."
 author: Greg
 layout: post
 permalink: /2020/07/publishing-afghanistan-posts/
@@ -7,9 +8,10 @@ date: 2020-07-06 22:21:05 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Afghanistan
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
+  - veteran
 ---
 
 It's been nearly a decade since I deployed to Afghanistan with the Australian Army. Going has never been a regret but returning was tough. I journalled my experiences with the intent of eventually posting them to my blog. These posts don't include the more difficult experiences. 

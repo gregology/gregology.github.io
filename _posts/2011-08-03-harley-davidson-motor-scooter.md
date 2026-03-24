@@ -14,15 +14,9 @@ wordbooker_extract:
     The V-Rod had hog like styling while the Jolie had under seat storage and hooks for you shopping bags. There were some other minor differences bu ...
 comments: True
 categories:
-  - Play
-  - Scooter
+  - personal
 tags:
-  - bolwell
-  - custom
-  - harley davidson
-  - jolie
   - scooter
-  - v-rod
 ---
 <center>
   I was tossing up between buying a $27,000 2012 Harley Davidson V-Rod and a $1000 2009 Bowell 50cc Jolie.<br>

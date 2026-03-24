@@ -9,6 +9,7 @@ comments: False
 signed: True
 licence: Creative Commons
 title: Résumé
+description: "Staff engineer building AI-assisted developer tooling. Python, GCP, LLMs, and infrastructure automation."
 clippy_help: It looks like you're trying to hire Greg. Consider paying him in cheese 🧀 It's his favourite food!
 ---
 

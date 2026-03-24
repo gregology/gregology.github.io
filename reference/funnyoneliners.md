@@ -1,6 +1,7 @@
 ---
 title: Funny One-Liners
 layout: page
+description: "One-liners I've found funny enough to save."
 ---
 
 100,000 sperm and you were the fastest?  

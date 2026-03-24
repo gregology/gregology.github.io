@@ -5,11 +5,10 @@ layout: post
 permalink: /2012/08/sunday-fishing/
 comments: True
 categories:
-  - photos
+  - personal
 tags:
-  - fishing
-  - photo
-  - Sailing
+  - australia
+  - photography
 ---
 [<img title="1344135802146.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/08/wpid-1344135802146.jpg" />][1]
 

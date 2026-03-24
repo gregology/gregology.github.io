@@ -5,8 +5,9 @@ layout: post
 permalink: /2009/04/last-day-in-country/
 comments: True
 categories:
-  - Army
-  - Play
+  - military
+tags:
+  - solomon islands
 ---
 Tomorrow morning we fly home. I'm nursing a hang over. Last night was our good bye harrar at Harry's Bar (the on base boozer). At 19:30L the bar opened and the tab lasted less then 15 minutes. I downed my first hoping to take advantage of the tab but I just wasn't quick enough.
 

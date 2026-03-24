@@ -1,15 +1,14 @@
 ---
 title: An Uncomfortable Realisation
+description: "My Uber driver's trucking job won't exist in a decade. Meanwhile, tech keeps making my career better. That felt awful to realize."
 author: Greg
 layout: post
 permalink: /2015/12/an-uncomfortable-realisation/
 comments: True
 categories:
-  - Geek
+  - philosophy
 tags:
-  - people
-  - robots
-  - society
+  - prediction
 ---
 
 I Ubered to work the day after receiving a pay rise at work. The Driver and I chatted for the 10 minute trip. He drove Uber for extra cash but his main income was driving a truck from Cornwall to B.C.. Traveling by land across Canada was on my bucket list and I smiled. Then my stomach filled with guilt as I realised how the inevitable progress of technology will affect each of us. It's unlikely that the career of this ~40 year old man will exist in a decade. Technology is increasing my lifestyle and my career is likely to be safe and in demand for another couple of decades. This was an uncomfortable realisation to come face to face with.

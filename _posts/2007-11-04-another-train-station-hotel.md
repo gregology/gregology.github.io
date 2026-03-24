@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/11/another-train-station-hotel/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - scandinavia
 ---
 I'm waiting for an over night train to malmo in southern Sweden. I forked out the extra for a bed and shower. From their I'll try and get a connection to Berlin where i want to spend a couple of days before Warsaw.
 

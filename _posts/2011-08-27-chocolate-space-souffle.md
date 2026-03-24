@@ -7,17 +7,9 @@ extract:
   - Gravity is useful in keeping ingredients in mixing bowls but not very useful when trying to make a fluffy soufflé. Space chefs will be able to create deserts with densities which would normally collapse like the iron core of a red supergiant during sup ...
 comments: True
 categories:
-  - General
-  - Health
+  - creative
 tags:
-  - Chocolate
-  - cooking
-  - future
-  - recipe
-  - Soufflé
-  - Space
-  - zero gravity
-  - zero gravity cooking
+  - food
 ---
 Gravity is useful in keeping ingredients in mixing bowls but not very useful when trying to make a fluffy soufflé. Space chefs will be able to create deserts with densities which would normally collapse like the iron core of a red supergiant during supernova (I'm trying to use space references).
 

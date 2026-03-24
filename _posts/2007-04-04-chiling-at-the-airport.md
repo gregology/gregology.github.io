@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/04/chiling-at-the-airport/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - malaysia
 ---
 Although my web site would have you believe I'm currently in flight from Kuala Lumpar to London I'm really just at the airport and the mistake is due to stupid time zones and my lack of being able to figure them out :s
 

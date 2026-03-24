@@ -5,13 +5,9 @@ layout: post
 permalink: /2013/01/montreal-trip/
 comments: True
 categories:
-  - Travel
-tags:
-  - canada
-  - just for laughs
-  - maps
-  - Montreal
   - travel
+tags:
+  - montreal
 ---
 Seven nights was a good start for my exploration of Montréal. I've created a [travel map][1] which will continue to be updated as the city reveals itself. My French came in handy and I ordered most of my meals in a chewed up Australian version of French. For the most part got what I wanted. I was lucky enough to meet some really interesting people, friends of friends of friends etc and also a special lady :) Great dinner/lunch/coffee company and conversation was always easy to find. One night we watched [The Kids Are All Right][2] (IMDB lies, it's way better then 7.1) at a new friends home. After the film we spent 15 minutes analysing what we had just watched. During the conversation I remember thinking, this is a wonderful place and I'm really enjoying my life :)
 

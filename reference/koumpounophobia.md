@@ -1,6 +1,7 @@
 ---
 title: Koumpounophobia
 disqus: yep
+description: "Support and information for people with koumpounophobia, the fear of buttons."
 redirect_from:
   - /health/koumpounophobia/
   - /Health/Koumpounophobia/

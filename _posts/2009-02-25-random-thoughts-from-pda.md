@@ -5,7 +5,10 @@ layout: post
 permalink: /2009/02/random-thoughts-from-pda/
 comments: True
 categories:
-  - Uncategorized
+  - philosophy
+tags:
+  - religion
+  - politics
 ---
 Live before you die.  
 The finish line is death so don't hurry.  

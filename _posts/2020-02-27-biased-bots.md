@@ -1,5 +1,6 @@
 ---
 title: "Data Driven Ottawa talk"
+description: "Slides from my Data Driven Ottawa talk on gender bias in cloud NLP services, with tools to detect it yourself."
 author: Greg
 layout: post
 permalink: /2020/02/biased-bots/
@@ -7,9 +8,8 @@ date: 2020-02-27 17:00:00 -0500
 comments: True
 licence: Creative Commons
 categories:
-  - tech
+  - technology
 tags:
-  - tech
   - ai
 redirect_from:
   - /ddo

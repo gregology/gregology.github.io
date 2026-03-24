@@ -1,5 +1,7 @@
 ---
 title: "Self Experimentation with Social Media"
+description: "I randomly blocked social media via DNS on half the days over 60 days to measure the effect on my happiness."
+image: /wp-content/uploads/2019/05/experiment.gif
 author: Greg
 layout: post
 permalink: /2019/05/self-experimentation-with-social-media/
@@ -7,9 +9,9 @@ date: 2019-05-12 11:55:03 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - quantified self
+  - personal
 tags:
-  - experiments
+  - quantified self
 ---
 
 Self experimentation helps me become the best version of me. Declaring my experiments before seeing the results keeps me honest. This is the first of many planned self experiments.

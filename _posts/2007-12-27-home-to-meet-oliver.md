@@ -5,8 +5,11 @@ layout: post
 permalink: /2007/12/home-to-meet-oliver/
 comments: True
 categories:
-  - General
-  - Travel
+  - personal
+tags:
+  - australia
+  - family
+  - dog
 ---
 Biram closed the city of Istanbul and I was lucky to get my christmas shopping done. I found a few little stores but my barging powers were greatly reduced as the grand bizzar was closed :( It also meant I missed out on islamic art galleries which I was really interesting in visiting.
 

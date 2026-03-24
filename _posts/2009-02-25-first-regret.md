@@ -5,7 +5,7 @@ layout: post
 permalink: /2009/02/first-regret/
 comments: True
 categories:
-  - Uncategorized
+  - personal
 ---
 1990
 

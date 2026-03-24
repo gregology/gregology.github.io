@@ -1,5 +1,7 @@
 ---
 title: "Ramp Ceremony for Sapper Jamie Larcombe"
+description: "Sapper Jamie Larcombe's ramp ceremony. Adjusting to Kandahar Airfield after transferring from Tarin Kowt."
+image: /wp-content/uploads/2011/03/Sapper Jamie Larcombe.jpeg
 author: Greg
 layout: post
 permalink: /2011/03/another-ramp-ceremony/
@@ -7,9 +9,9 @@ published_at: 2011-03-22 02:15:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
 ---
 
 I haven't written for a while because I've been lazy. A lot has happened in the month and a half since my last entry. I'll try my best to fill you in. Another one of our boys (Sapper Jamie Larcombe) was killed on the 20th of February, this time from small arms fire. We lined the ramp ceremony and again an Aslav took the body to an awaiting RAAF Aircraft. He was from the same unit as Corporal Richard Atkinson, and while it's terrible that we lost another solider, it's kind of comforting that at least he's with a mate.

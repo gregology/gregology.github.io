@@ -7,9 +7,10 @@ date: 2015-11-15 12:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - category
+  - creative
 tags:
-  - tag
+  - art
+  - canada
 ---
 
 [Mario and I](/2015/10/making-mario-pixel-art) started a pixel war
