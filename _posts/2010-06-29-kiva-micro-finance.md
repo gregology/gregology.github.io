@@ -7,17 +7,8 @@ wordbooker_options:
   - 'a:9:{s:18:"wordbook_noncename";s:10:"48442d577a";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
 comments: True
 categories:
-  - Health
-  - Philosophy
-  - politics
+  - philosophy
 tags:
-  - centrelink
-  - charity
-  - doctors
-  - health
-  - kiva
-  - Philosophy
-  - politics
   - ukulele
 ---
 Yesterday I had a very conversation with my doctor. She had just finished a masters in politics and I didn't have anything wrong with me so we ended up talking about global issues. She introduced me to [Kiva][1], a [micro finance][2] organisation which links people with too much money to people with not enough money.

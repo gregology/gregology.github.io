@@ -1,14 +1,12 @@
 ---
 title: Codex Vitae
+description: "I keep an evolving document of my beliefs and predictions. It's public so you can hold me accountable."
 author: Greg
 layout: post
 permalink: /2017/05/codex-vitae/
 comments: True
 categories:
   - philosophy
-tags:
-  - philosophy
-  - website
 licence: Creative Commons
 ---
 

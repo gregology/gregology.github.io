@@ -1,14 +1,15 @@
 ---
 title: Migrating Gregology to Jekyll on Github Pages
+description: "Gregology.net launched the same year as Facebook. Here's what it looked like from 2004 to 2015, and why I moved from WordPress to Jekyll."
+image: /wp-content/uploads/2015/12/2004_gregology_site.png
 author: Greg
 layout: post
 permalink: /2015/12/migrating-gregology-to-jekyll-on-github-pages/
 comments: True
 categories:
-  - Geek
+  - technology
 tags:
-  - jekyll
-  - blog migration
+  - coding
 ---
 
 Gregology.net was launched the same year as Facebook. In the last 11 years, both sites have risen in popularity. In some ways, Facebook has seen more success than Gregology. Even though Facebook never gained the top spot on Google for "<a href="https://www.google.com/search?q=penis%20euphemism">penis euphemism</a>" searches, it gained popularity for archiving Reddit posts. At the time of writing this, Facebook actually has more page hits per day than Gregology.<br>

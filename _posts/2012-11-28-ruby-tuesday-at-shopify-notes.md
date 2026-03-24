@@ -5,12 +5,10 @@ layout: post
 permalink: /2012/11/ruby-tuesday-at-shopify-notes/
 comments: True
 categories:
-  - Geek
+  - technology
 tags:
-  - geek
-  - ruby
-  - ruby tuesday
-  - shopify
+  - coding
+  - canada
 ---
 Tonight I'm playing with the Ottawian Ruby crowd at Ruby Tuesday hosted by Shopify. My notes are limited as there was free beer.
 

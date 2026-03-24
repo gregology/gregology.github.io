@@ -5,8 +5,9 @@ layout: post
 permalink: /2006/12/greg-goes-for-a-drive-and-dances/
 comments: True
 categories:
-  - General
-  - Travel
+  - personal
+tags:
+  - australia
 ---
 On Friday I travelled down to Canberra to see my brother and his fiancés' new place. I drove my dads van down and was paying the toll at the entrance to the Sydney harbour tunnel when a really annoying alarm went off. Some people in fluoro vests scrambled and then I saw a big truck speed past me. A sign above flashed over sized vehicle but the truck didn't stop. I chased it in my van hoping to see some sparks and maybe a multi car pile up. To my disappointment nothing of the sort eventuated in the Sydney harbour tunnel :( It was alright though, when I arrived at the eastern distributor there was a multi car accident. The traffic was built up from all these nosey people having a look at an accident that had just occurred. So when I finally got to the smashed cars I made sure I had a good look to make up for all the waiting I had to do. There was a lady sitting in a car with a very odd scared look on her face. She still had her hands on the steering wheel but the car was facing the wrong way. There were another 5 cars parked in the tunnel all with their faces and bums punched in and lots of people trying to use their mobile phones to call the police.
 

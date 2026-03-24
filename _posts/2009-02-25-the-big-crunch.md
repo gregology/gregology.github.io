@@ -5,7 +5,9 @@ layout: post
 permalink: /2009/02/the-big-crunch/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - family
 ---
 1988*
 

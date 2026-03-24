@@ -7,7 +7,9 @@ wordbooker_options:
   - 'a:9:{s:18:"wordbook_noncename";s:10:"a6612e6ae1";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:20:"wordbook_comment_get";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";}'
 comments: True
 categories:
-  - PTR330
+  - philosophy
+tags:
+  - politics
 ---
 Connor begins by defining nationalism and patriotism. Nationalism is defined as loyalties to one's ethnonation. An ethnonation being a group of people with a perceived unique common linage. Patriotism on the other hand is loyalties to one's nation state. For instance, an ethically Chinese Australian may be loyal to the Australian Government. Connor argues that nationalism is stronger then patriotism citing examples such as the break up of the Soviet Union, which dissolved into states which were largely ethnonational. A Polish nation for the Polish, a Russian nation for the Russians etc. Connor suggests that the criteria used to determine whether a group constitutes a nation is not objective. He uses the example of ethnic Germans living in Poland. These Germans may have the same religion, live in the same regions, dress and look the same way, and speak the same language but they are considered Germans by themselves and by their fellow countrymen. Connor argues that states have the advantage of being able to politically socialise their citizens in order to create patriotism but citing the many ethnonation separatist groups, suggests patriotism is a weaker force then nationalism. Patriotism and nationalism need not be in conflict, but when a conflict exists that is irreconcilable, people are loyal to their ethnonation.
 

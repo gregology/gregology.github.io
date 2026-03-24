@@ -1,20 +1,17 @@
 ---
 title: My recent adventures
+description: "Toe shoes, a Soviet watch, my phone surviving the Eastern Distributor, and a van writing off my scooter."
+image: /wp-content/uploads/2010/09/2010-09-28-152611.jpg
 author: Greg
 layout: post
 permalink: /2010/09/my-recent-adventures/
 comments: True
 categories:
-  - General
-  - News
-  - Work
+  - personal
 tags:
-  - news
   - scooter
-  - soviet watch
-  - unbreakable phone
-  - Zahli
-  - Zander
+  - family
+  - australia
 ---
 For the last few months I've been really really busy and haven't had time to blog :( There are no signs of getting any free time in the near future but here is a quick update of what's new in my world. Toe shoes (Vibram five fingers), an antique Soviet watch (Poljot, watch of the cosmonaut), I'm on a train (like Thomas the tank Engine), and my unbreakable phone broke (I'd done some mean things to the poor fellow) :( All of which is demonstrated by this photo.
 

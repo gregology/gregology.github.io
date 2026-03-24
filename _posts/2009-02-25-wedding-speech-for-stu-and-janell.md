@@ -5,7 +5,9 @@ layout: post
 permalink: /2009/02/wedding-speech-for-stu-and-janell/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - family
 ---
 I was lucky enough to be born in the same family as my best friend and he's taught me a lot in 25 years. He taught me that Thomas the tank engine lives in the closet, he's taught me that a one dollar coin is worth more than a two dollar coin because it's bigger, he taught me how to drive, but most importantly he taught me how to be a man, and on quite a few occasions how to be a woman. Now I look forward to him teaching me how to be a husband.
 

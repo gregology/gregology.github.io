@@ -5,8 +5,10 @@ layout: post
 permalink: /2007/09/greg-vs-islam/
 comments: True
 categories:
-  - General
-  - Travel
+  - travel
+tags:
+  - england
+  - religion
 ---
 Yesterday I visited a Mosque in Luton. I am planning on traveling to Turkey and I wanted to get a better understanding of the Muslim Faith and culture. My timing worked out quite well and when I arrived I was informed by a fellow outside that there was an open day of sorts upstairs. They had lots of information in the form of posters, pamphlets, and talks from people of different faiths out lining Islam and it's relationships to Christianity and women etc. I also talked to an Irish fellow who had converted to Islam because of Christianities effect on his home land. I agreed with most of what was said (except for a really boring talk by a 13 year old boy about Islam and the environment, it just didn't finish and he used all those annoying effects in powerpoint with the spinning letters and annoying sounds!) but I don't understand why people choose to derive their morality and humanity from contradictory ancient books as apposed to thought and reason. It seems a little dangerous no matter how good your intentions. I'll stick to my agnostic pantheism, that's the way god made me ;), and you're entitled to disagree... but your opinion is wrong. One thing that I really did like about Islam was the free chocolate croissant at the back of the Mosque but I'm pretty sure that's just a trick to get me back, we'll see if it worked next Saturday.
 

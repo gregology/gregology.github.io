@@ -5,7 +5,11 @@ layout: post
 permalink: /2013/02/webcam-video-from-31-january-2013-2159/
 comments: True
 categories:
-  - YouTube
+  - creative
+tags:
+  - video
+  - ukulele
+  - canada
 ---
 This is my first French song with a lot of help from Adrijana and Julie.
 

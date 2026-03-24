@@ -7,11 +7,9 @@ date: 2020-08-01 17:30:23 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Cats
+  - personal
 tags:
   - cat
-  - kitty
-  - Hercie
 gallery:
   url: 'https://photos.app.goo.gl/pcAdu9rvXa5ypJgP7'
   images:

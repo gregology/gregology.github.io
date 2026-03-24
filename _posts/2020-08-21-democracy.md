@@ -1,5 +1,6 @@
 ---
 title: "US Democracy Index Over Time"
+description: "The Economist's Democracy Index shows the US getting less democratic under both parties. Other Five Eyes nations aren't trending this way."
 author: Greg
 layout: post
 permalink: /2020/08/democracy/
@@ -8,9 +9,10 @@ comments: True
 chart: True
 licence: Creative Commons
 categories:
-  - category
+  - philosophy
 tags:
-  - tag
+  - politics
+  - usa
 ---
 
 The [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is compiled by the [Economist Intelligence Unit](https://en.wikipedia.org/wiki/Economist_Intelligence_Unit). Using expert interviews, the index has measured the state of democracy around the world since 2006. The Democracy Index has been criticised for lacking transparency as it does not clarify who the experts are. However, the Economist Intelligence Unit is well respected and this is likely the best available dataset on democracy.

@@ -1,5 +1,6 @@
 ---
 title: "Elegant Code Contributions"
+description: "Own what you commit, value human attention, and stop compounding slop. Writing quality code when AI tooling does the typing."
 author: Greg
 layout: post
 permalink: /2026/02/elegant-code-contributions/
@@ -7,8 +8,7 @@ date: 2026-02-05 09:30:00 -0500
 comments: True
 licence: Creative Commons
 categories:
-  - ai
-  - coding
+  - technology
 tags:
   - ai
   - coding

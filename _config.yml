@@ -83,7 +83,7 @@ defaults:
       layout: "page"
       show-avatar: true
 
-link-tags: false
+link-tags: true
 
 exclude:
   - Gemfile

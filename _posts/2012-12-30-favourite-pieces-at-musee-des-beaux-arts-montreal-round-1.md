@@ -11,13 +11,10 @@ geo_public:
   - 1
 comments: True
 categories:
-  - Travel
+  - travel
 tags:
+  - montreal
   - art
-  - gallery
-  - mmfa
-  - Montreal
-  - museum
 ---
 The Montreal Museum of Fine Art is housed in 4 building connected by underground tunnels. It contains some really interesting prices, here are my favourites.
 

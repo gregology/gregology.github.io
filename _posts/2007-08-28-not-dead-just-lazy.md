@@ -5,8 +5,10 @@ layout: post
 permalink: /2007/08/not-dead-just-lazy/
 comments: True
 categories:
-  - General
-  - Travel
+  - travel
+tags:
+  - netherlands
+  - food
 ---
 I'm not dead, just lazy. Hayley and I visited Amsterdam 2 weekends ago. Very interesting 😉 we stayed at a Christian youth hostel which was conveniently located next to a Thai massage parlor and next door to that were pretty red lights denoting a lady who would make you feel happy for 50 eruos... So i over heard. The district was packed from 9pm till late and Hayley and I spent every night strolling past the ladies. i especially liked the weird exotic fetish's, like the big mumma's and my favorite, the frog eyed lady friend.
 

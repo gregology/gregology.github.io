@@ -5,8 +5,9 @@ layout: post
 permalink: /2009/02/latin-dance/
 comments: True
 categories:
-  - Army
-  - Work
+  - military
+tags:
+  - solomon islands
 ---
 Some new PPF players arrived the other day and one has really gotten the boys attention. She is very well endowed. She's a blue shirt which is a sworn police woman meaning that she walks around base with a loaded gun and handcuffs on a heavy black belt exaggerates her hip swing. I love walking behind her watching her hips swing and knowing that she has the ability hurt me so much. If that wasn't great enough I found out that she's running dance classes. I've become known as a bit of a dance floor diva in these parts due to a few cracks at Christmas and NYE. Tonight fashioning a week long moe that really isn't worth writing about I turned up for a lesson. Playing it cool I turned up 15 minutes early. She ran us through some basic Latin dance steps, her bare feet massaged the ground and I was envious. Her hips flowed. So sexy, I tried very hard mixing in some Ceroc moves to show off a little, not too much. But after dancing with me she suggested I dance with some of the less experienced people, I was torn. After an hour of bare foot dancing we finished and she showed off some samba moves. A blur of feet glided her body across the floor, I was even more amazed and determined to learn Latin dance. I'll practice my foot work on shift :)
 

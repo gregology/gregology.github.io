@@ -1,5 +1,6 @@
 ---
 title: "$1 a Month Personal VPN"
+description: "Setting up a personal OpenVPN server on a $1/month VPS. It's harder to block than commercial VPNs and you get your own IP."
 author: Greg
 layout: post
 permalink: /2019/03/personal-vpn/
@@ -7,11 +8,10 @@ date: 2019-03-29 16:12:44 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Tech
-  - Tutorial
+  - technology
 tags:
-  - tech
-  - vpn
+  - tutorial
+  - privacy
 ---
 
 Russia has recently threatened to block popular VPN services unless they join a state IT system that contains a registry of banned websites[¹](https://www.themoscowtimes.com/2019/03/29/russia-threatens-to-block-popular-vpn-services-to-prevent-website-access-a65007). In response, here is a quick tutorial on how to setup a personal VPN for $1 a month. Personal VPNs have advantages over shared VPN services because they are harder for governments to block & you do not share an ip address with possible nefarious users so you get less annoying "Are you a robot" questions.

@@ -1,5 +1,7 @@
 ---
 title: "Social Media Experiment Results"
+description: "My 60-day experiment confirmed social media makes me less happy. I'm stepping back from Facebook."
+image: /wp-content/uploads/2019/07/2019-07-02_social_media_experiment_results.png
 author: Greg
 layout: post
 permalink: /2019/07/social-media-experiment-results/
@@ -7,10 +9,9 @@ date: 2019-07-06 08:41:37 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - quantified self
+  - personal
 tags:
-  - experiments
-  - results
+  - quantified self
 ---
 
 > If we had hard metrics relating the impact of [using social media] on bottom line, our current technopoly would likely crumble. - Deep Work by Cal Newport.

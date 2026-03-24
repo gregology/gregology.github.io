@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/12/picking-olives-with-the-god-father/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - italy
 ---
 The snow has followed me south. I left dales olive grove this morning taking the train from pescara to Bari. Currently i am aboard a stationary superfast ferry bound for Greece.
 

@@ -7,9 +7,8 @@ date: 2020-07-11 15:34:09 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - Tech
+  - personal
 tags:
-  - kids
 ---
 
 Here are some Where's Waldo images to keep the kids occupied during this lock down summer. There are a couple of updates to make it feel more appropriate for 2020.

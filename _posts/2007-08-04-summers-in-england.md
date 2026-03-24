@@ -5,8 +5,9 @@ layout: post
 permalink: /2007/08/summers-in-england/
 comments: True
 categories:
-  - Travel
-  - Work
+  - personal
+tags:
+  - england
 ---
 The sun is on my back, water has changed to its liquid state and I'm enjoying the finest summer day england has offered me yet. It's been a long slow week because i haven't been feeling well, I'm a little run down after 4 weekends back to back so i declined Jamie's offer of a drinking session tonight in favor of bed rest... And maybe grease the musical on dvd.
 

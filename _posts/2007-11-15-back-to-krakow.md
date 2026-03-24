@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/11/back-to-krakow/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - poland
+  - hungary
 ---
 15/11/07
 

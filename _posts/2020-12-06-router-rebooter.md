@@ -1,5 +1,6 @@
 ---
 title: "Automatically reboot router on lost Internet connection with Sonoff switch and Tasmota"
+description: "I flashed Tasmota onto a Sonoff switch so it automatically power-cycles my router when the Internet drops."
 author: Greg
 layout: post
 permalink: /2020/12/router-rebooter/
@@ -7,10 +8,9 @@ date: 2020-12-06 18:12:48 -0500
 comments: True
 licence: Creative Commons
 categories:
-  - tech
+  - technology
 tags:
-  - home automation
-  - tasmota
+  - automation
 ---
 
 Bell Fibre Internet is awesome however the HomeHub 3000 router they provide is rubbish. Recently we were away from home when there was an internet outage requiring a router reboot fix. 

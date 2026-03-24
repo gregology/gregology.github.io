@@ -17,11 +17,10 @@ geo_public:
   - 1
 comments: True
 categories:
-  - Travel
+  - travel
 tags:
-  - acro
-  - Montreal
-  - snow
+  - montreal
+  - acroyoga
 ---
 There was a record snow dump in Montreal on the day I arrived. 45cm of fun blanketed the city.  
 [<img title="IMAG0111.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/12/wpid-IMAG0111.jpg" />][1] [<img title="IMAG0116.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/12/wpid-IMAG01161.jpg" />][2]  

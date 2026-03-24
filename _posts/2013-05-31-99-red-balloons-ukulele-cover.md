@@ -5,9 +5,10 @@ layout: post
 permalink: /2013/05/99-red-balloons-ukulele-cover/
 comments: True
 categories:
-  - YouTube
+  - creative
 tags:
-  - YouTube
+  - video
+  - ukulele
   - music
 ---
 

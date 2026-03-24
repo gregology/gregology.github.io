@@ -7,10 +7,9 @@ date: 2019-10-14 20:39:25 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - tech
-  - travel
+  - personal
 tags:
-  - tech
+  - canada
 ---
 
 Recently I wrote about my [theories on the impending de-urbanization of Canada](/2019/09/musk-de-urbanization/). This weekend, I decided to put my money where my mouth is. Diana and I visited Prince Edward County to look at real estate. The ideal investment for us is a 3-6 acre rural residential waterfront property close (15 mins) to the 401. There were a few options including a cabin previously owned by authour Farley Mowat. Unfortunately, none of the properties we visited were the one for us. We are in no rush and have a strong [BATNA](https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement).

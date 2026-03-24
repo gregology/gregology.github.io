@@ -5,7 +5,10 @@ layout: post
 permalink: /2013/04/quebec-trip-with-my-mum/
 comments: True
 categories:
-  - Miscellaneous
+  - travel
+tags:
+  - canada
+  - family
 ---
 
 {% include flickr_album.html album_id='72157661239418130' %}

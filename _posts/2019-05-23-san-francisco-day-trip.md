@@ -1,5 +1,7 @@
 ---
 title: "San Francisco Day Trip"
+description: "Photos from a day walking around San Francisco."
+image: /wp-content/uploads/2019/05/san-francisco-trip/IMG_20190523_122734.jpg
 author: Greg
 layout: post
 permalink: /2019/05/san-francisco-day-trip/
@@ -9,7 +11,8 @@ licence: Creative Commons
 categories:
   - travel
 tags:
-  - San Francisco
+  - usa
+  - photography
 gallery:
   url: ''
   images:

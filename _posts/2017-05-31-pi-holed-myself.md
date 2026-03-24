@@ -1,18 +1,15 @@
 ---
 title: Pi-holed Myself
+description: "Pi-hole's DNS-level ad blocking ate YouTube's tracking requests and broke my recommendations. Oops."
 author: Greg
 layout: post
 permalink: /2017/05/pi-holed-myself/
 comments: True
 categories:
-  - Tech
+  - technology
 tags:
-  - Tech
-  - Youtube
-  - Pi-hole
-  - Machine Learning
-  - AI
-  - Raspberry Pi
+  - raspberry pi
+  - ai
 licence: Creative Commons
 ---
 

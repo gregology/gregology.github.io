@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/07/photocoping/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - england
 ---
 After feeling a little guilty for eating so much chocolate yesterday I decided to make my self feel better by tempting Trudy, who has more will power then me and has been on a diet after her holiday. I slowly pushed an open box of roses chocolates closer to her until she noticed them and lidded them and moved them far away. When she left her desk next, I scattered some chocolates on her desk but when she returned she didn't crack, she just cleared them away and gave me a dirty look. The day continued and by 4 she'd broken and enjoyed the evil delicious chocolate. I smiled on the inside.
 

@@ -1,5 +1,6 @@
 ---
 title: "Arriving In Afghanistan"
+description: "First journal entry from Tarin Kowt. Settling into deployment life with the Australian Army after four months of training."
 author: Greg
 layout: post
 permalink: /2010/12/arriving-in-afghanistan/
@@ -7,9 +8,9 @@ published_at: 2010-12-13 13:00:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
 ---
 
 17 days down, about 90 to go :) I'm in Afghanistan enjoying the taste of the fine dust of Urganzan and the scenic mountains which surround to create the Tarin Kowt bowl. After 4 long months of training, I'm finally here and I've settled in. It feels like a dusty version of barracks. The cold has started but the mountains are still bare and once the sun rises above the dust horizon it is actually quite pleasant. In my short time here I've got myself one wary (war story).

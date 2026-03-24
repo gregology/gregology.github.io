@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/11/busy-eating/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - switzerland
 ---
 I haven't had time to write, i was to busy eating.
 

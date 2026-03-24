@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/12/greg-and-the-turks/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - turkey
+  - greece
 ---
 The train for Alexanderop left Athens at the ungodly hour of 6 something yesterday morning. The land scape changed from greens, to greens, oranges, & white then finally to solid white as the train carried me through the mountains. a Greek girl started chatting with me and invited me to her place while i wait the 8 hours for my connection to Constantinople (what the Greeks call Istanbul). I met her family then she took me out for dinner (a euros and she insisted she pay). We returned to the family home for Greek coffee then explored the city accompanied by her younger sister.
 

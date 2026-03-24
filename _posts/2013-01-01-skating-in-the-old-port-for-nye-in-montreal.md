@@ -11,11 +11,10 @@ geo_public:
   - 1
 comments: True
 categories:
-  - photos
-  - Travel
+  - travel
 tags:
-  - Montreal
-  - Nye
+  - montreal
+  - new year
 format: image
 ---
 [<img title="IMAG0173.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0173.jpg" />][1]

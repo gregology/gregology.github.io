@@ -5,8 +5,10 @@ layout: post
 permalink: /2007/07/im-an-uncle/
 comments: True
 categories:
-  - Travel
-  - Work
+  - personal
+tags:
+  - family
+  - england
 ---
 Oliver O'Connor entered the after-birth at 8:30am on the 26th day of July, 2007. I'm yet to see a picture of him because technology let me down :( but I'm very excited about meeting the little fellow. I brought chocolates to work today to celebrate his arrival and I've got some sparkling wine which I'm yet to consume in his honour. I'll post pictures when I get some :)
 

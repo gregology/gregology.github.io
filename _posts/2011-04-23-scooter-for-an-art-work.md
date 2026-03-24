@@ -5,18 +5,11 @@ layout: post
 permalink: /2011/04/scooter-for-an-art-work/
 comments: True
 categories:
-  - Miscellaneous
-  - News
-  - Play
+  - personal
 tags:
-  - art
-  - artwork
-  - fun
-  - gumtree
-  - painting
   - scooter
-  - swap
-  - teapot
+  - art
+  - australia
 ---
 I'm back from my little trip :) My little scooter looked pretty lonely while I was away and I want him to feel important and loved again so I've put him up on Gumtree to try and swap him for an art work or a funky teapot.<table WIDTH=100%> <tr VALIGN=TOP> <td WIDTH=33% STYLE="border: none; padding: 0cm"> <p ALIGN=CENTER>
 

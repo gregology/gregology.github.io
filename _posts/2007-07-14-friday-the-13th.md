@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/07/friday-the-13th/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
+  - family
 ---
 I'm on a train on my way to my grandmothers in Swanage. I've been writing my memoirs and now I'm feeling a little sad about my first dog. The train cost over 50 quid for the 3 hour return trip :s it really hurts giving someone $130 for 3 hours on a train that will inevitably be late. I haven't seen my gran for 7 years so I'm nervous excited which is a bad mix for the bowel. The train driver has just apologised for the delay :s
 

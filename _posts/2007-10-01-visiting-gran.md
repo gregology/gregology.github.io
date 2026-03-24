@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/10/visiting-gran/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
+  - family
 ---
 Friday night was a heavy drinking session with the boys (my 3 second cousins from Bracknell). It was my farewell from Bracknell. We hit Windsor at a bar call ha ha then a club called liquid. A girl in liquid told me i had petty eyes :) then asked if i was gay. I macked it out on the dance floor and due to my unfitness a quickly exhausted myself thus needed frequent refreshments. We kebabed outside, had words with fellow drunk testosterone sacks, then taxied home. It was a good experience but nearly identical to a night out in oz. The only differences were, peculiar open kebabs with very little salad & no BBQ sauce, colder whether, funny accents, and 3 times as expensive (55 quid, $140 in gods currency).
 

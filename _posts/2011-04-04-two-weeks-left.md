@@ -7,9 +7,10 @@ published_at: 2011-04-04 21:30:00 AFT
 comments: True
 licence: Creative Commons
 categories:
-  - Army
+  - military
 tags:
-  - Afghanistan
+  - afghanistan
+  - ukulele
 ---
 
 Two weeks left in country :) In Kandahar city, 16 km away, 17 UN workers were killed by a mob who were pissed off about some guy in the US burning the Koran. It really annoyed me that a book can create so much hate. It's not just the Koran, the book burner was some kind of pastor who was motivated by his own silly book. People need education both here and in the West. Apart from a few rocket attacks and a splash back incident in one of the portaloos, everything here has been quite pleasant. The RAAF had their birthday and they know how to throw a party, smoked salmon and cheese platters, roasted animals, and the 10th Mountain Division band.

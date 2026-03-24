@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/04/left-australia/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - australia
 ---
 Left Perth next stop Kuala Lumpur then London

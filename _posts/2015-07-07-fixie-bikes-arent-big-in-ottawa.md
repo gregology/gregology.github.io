@@ -5,9 +5,10 @@ layout: post
 permalink: /2015/07/fixie-bikes-arent-big-in-ottawa
 comments: True
 categories:
-  - YouTube
+  - personal
 tags:
-  - YouTube
+  - video
+  - canada
 ---
 
 {% include youtube_player.html id='wWOgN9U5zUk' %}

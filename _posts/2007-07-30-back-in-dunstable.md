@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/07/back-in-dunstable/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
 ---
 Back from Milan

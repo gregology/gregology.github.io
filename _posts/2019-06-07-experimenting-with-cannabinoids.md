@@ -1,5 +1,6 @@
 ---
 title: "Experimenting with Cannabinoids"
+description: "I ran a 42-day experiment with low-dose CBD and THC capsules before bed, tracking sleep quality with a Mi Band 3."
 author: Greg
 layout: post
 permalink: /2019/06/experimenting-with-cannabinoids/
@@ -7,9 +8,10 @@ date: 2019-06-07 16:02:20 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - quantified self
+  - personal
 tags:
-  - experiments
+  - quantified self
+  - veteran
 ---
 
 I don't mean to brag but I used to be really good at sleeping.

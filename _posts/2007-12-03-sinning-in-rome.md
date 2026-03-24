@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/12/sinning-in-rome/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - italy
+  - religion
 ---
 I'm on a train heading for pescara which is 3 hours due east from Rome on the coast. There i will rendezvous with dale, a family friend and spend some time with him.
 

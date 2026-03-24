@@ -5,7 +5,10 @@ layout: post
 permalink: /2015/10/making-mario-pixel-art
 comments: True
 categories:
-  - YouTube
+  - creative
+tags:
+  - video
+  - art
 ---
 
 {% include youtube_player.html id='llZbTm97eOU' %}

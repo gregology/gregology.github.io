@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/07/suspenders/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - england
 ---
 I missed beavers but still went Ceroc dancing with Haley tonight. My legs are sore. I wore suspenders because it makes me look classy so I pointed this out to Kay before we left. On the way there I also informed Haley of my suspenders which by this stage were under my jumper and she looked puzzled at me. I flicked them and she corrected me, in England they are called braces, and suspenders are the things girls attach their stockings to from their knickers. I would have looked the right fool impressing girls who I was dancing with by saying "do you like my suspenders?". I pointed this out to Kay, she laughed. 
 

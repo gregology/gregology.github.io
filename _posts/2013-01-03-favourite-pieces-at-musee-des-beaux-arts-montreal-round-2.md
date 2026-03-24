@@ -13,14 +13,10 @@ geo_public:
   - 1
 comments: True
 categories:
-  - photos
-  - Travel
+  - travel
 tags:
+  - montreal
   - art
-  - gallery
-  - mmfa
-  - Montreal
-  - museum
 ---
 <img class="alignnone" title="IMAG0183.jpg" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0183.jpg" width="100%" height="auto" />
 The King's Beavers - Kent Monkman, 2011

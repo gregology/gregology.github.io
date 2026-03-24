@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/06/left-paris/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - france
 ---
 Left Paris by plane

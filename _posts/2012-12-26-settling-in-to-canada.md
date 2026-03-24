@@ -5,10 +5,10 @@ layout: post
 permalink: /2012/12/settling-in-to-canada/
 comments: True
 categories:
-  - Travel
+  - personal
 tags:
   - canada
-  - christmas
+  - acroyoga
 ---
 Seven and a half weeks later, pretty much Canadian eh? Acro yoga, friendly work mates, and a lovely housemate have made settling in easy. Ottawa has a really nice outdoorsy vibe and now that I'm dressed appropriately I can enjoy it. Tomorrow I set off for Montréal for seven days staying at a hostel. Montréal is the acro yoga mecca and I'll be meeting up for at least one class while I'm there. A picture tells a thousand words so here is 11 thousand words.
 

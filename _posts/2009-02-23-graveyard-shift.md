@@ -5,8 +5,9 @@ layout: post
 permalink: /2009/02/graveyard-shift/
 comments: True
 categories:
-  - Army
-  - Travel
+  - military
+tags:
+  - solomon islands
 ---
 It's ridiculous o'clock and I'm manning the radios. The graveyard shift is from midnight to 8am for 4 nights. It gives me a chance to catch up on movies and net research so I don't mind. I went out on a patrol with a Tongan section on Friday. After the recent flooding a lot of the bridges had been washed away, so our job was to drive as far east and west as we could gathering information. I was attached for my HF skills (although I failed to get any HF comms). We headed west for an hour in the back of a IIMV (an Infantry vehicle with seats facing outwards). The world passed from right to left and dirty Honiara streets became paradise with palm trees and inviting beaches. The road stopped to let a river by so we turned around and headed back to Honiara. We broke down halfway home so I spent 3 hours trying to sleep using my camelpack as a head hammock. Because we didn't have a serviceable vehicle the trip east was canceled :( But I did get to see a good chunk of the island west.
 

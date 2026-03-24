@@ -1,5 +1,7 @@
 ---
 title: Buying a Boat
+description: "We bought a sailboat and we're taking our cats with us. First episode of the SV Catsaway vlog."
+image: /wp-content/uploads/2017/05/i-should-buy-a-boat.jpg
 author: Greg
 layout: post
 permalink: /2017/05/buying-a-boat/
@@ -8,8 +10,7 @@ categories:
   - sailing
 tags:
   - sailing
-  - cruising
-  - catamaran
+  - cat
 licence: Creative Commons
 ---
 

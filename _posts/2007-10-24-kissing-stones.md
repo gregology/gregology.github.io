@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/10/kissing-stones/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - ireland
 ---
 We've made it to cork. Saturday night was in Galway, Sunday night in Tralee, Monday night in Doolin (in a really nice hostel with all the little things covered like multiple hooks in the bathrooms and a peat fire place where we played cards and board games with some Aussie girls), Tuesday we drove the ring of Kerry and spent the night in Kinsale (a really European sea side town with lots of narrow lane ways but i didn't like the guy at the hostel, he was German), and today we kissed the Balarny stone (i got tongue action and am now feeling a little unwell).
 

@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/10/playing-army/
 comments: True
 categories:
-  - Army
-  - News
+  - military
 ---
 So I sold my bike :( I'm going to miss her. Her new owners renamed her too :( now she's called Ashleigh. Her new owners look like they'll have fun with her but we were together for 3 years. On the up side I've now got enough money for my plane ticket to Europe. I hope she forgives me…
 

@@ -5,10 +5,9 @@ layout: post
 permalink: /2017/05/related-images/
 comments: True
 categories:
-  - ai
+  - personal
 tags:
   - ai
-  - website
 licence: Creative Commons
 ---
 

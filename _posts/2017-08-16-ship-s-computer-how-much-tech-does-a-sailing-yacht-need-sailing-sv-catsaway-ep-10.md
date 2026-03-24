@@ -1,5 +1,6 @@
 ---
 title: "Ship's Computer, how much tech does a sailing yacht need? (Sailing SV Catsaway) - Ep. 10"
+description: "I built a Star Trek-themed ship's computer on a Raspberry Pi with an Outernet receiver, GPS tracker, and instrument connectivity."
 author: Greg
 layout: post
 permalink: /2017/08/ship-s-computer-how-much-tech-does-a-sailing-yacht-need-sailing-sv-catsaway-ep-10
@@ -7,9 +8,12 @@ published_at: 2017-08-16 02:54:45 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - video
+  - coding
+  - raspberry pi
 ---
 
 {% include youtube_player.html id='BNAhKCLrpio' %}

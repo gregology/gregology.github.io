@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/04/arrived-in-london/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
 ---
 Arrived in London

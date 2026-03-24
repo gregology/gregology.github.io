@@ -15,13 +15,9 @@ extract:
     I miss having a dog :(
 comments: True
 categories:
-  - Play
-  - random
+  - personal
 tags:
   - dog
-  - jesus
-  - puppy
-  - vet
 ---
 
   This puppy followed me home.

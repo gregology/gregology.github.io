@@ -5,7 +5,10 @@ layout: post
 permalink: /2007/03/in-melbourne/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - australia
+  - family
 ---
 I'm in Melbourne visiting Ninny'o, my sister. She's got a little person growing inside her and she showed me a video of the creature :)
 

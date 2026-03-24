@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/11/eating-cereal-with-a-spatula/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - germany
 ---
 From Malmo i caught a train to Kobenhavn, Kobenhavn to hamburg (the train drives onto a ferry), hamburg to Berlin, arriving at about 6pm yesterday. I found a hostel (A&O) and had a long hot shower, my first in 3 days. Feeling clean and refreshed i hit the local supermarket for dinner. The hostels advertised a kitchen but it had very few utensils and no cutlery. I enjoyed my cereal and chocolate milk with a spatula.
 

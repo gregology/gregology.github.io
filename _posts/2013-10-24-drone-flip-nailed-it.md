@@ -5,9 +5,10 @@ layout: post
 permalink: /2013/10/drone-flip-nailed-it
 comments: True
 categories:
-  - YouTube
+  - sport
 tags:
-  - YouTube
+  - video
+  - acroyoga
 ---
 
 {% include youtube_player.html id='0ZRFk77_AqU' %}

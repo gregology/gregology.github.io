@@ -5,7 +5,10 @@ layout: post
 permalink: /2009/02/old-thoughts/
 comments: True
 categories:
-  - Uncategorized
+  - philosophy
+tags:
+  - religion
+  - politics
 ---
 lives are not as important to governments as money (as seen in Iraq) so forced policy change would be more successful targeting the finical sector of a government.
 

@@ -5,8 +5,9 @@ layout: post
 permalink: /2009/03/the-beginning-of-the-end/
 comments: True
 categories:
-  - Army
-  - Work
+  - military
+tags:
+  - solomon islands
 ---
 The NZ replacements have arrived which signals the beginning of the end of our trip here. In a week our Australian replacements arrive and Saturday week I'll be on a plane back to Australia, then after a few days in Adelaide I'll be on my way home :) I've enjoyed my time here and the experience has pushed me to a more global leftist view of the world.
 

@@ -5,16 +5,9 @@ layout: post
 permalink: /2010/06/string-instrument/
 comments: True
 categories:
-  - Music
-  - poll
+  - creative
 tags:
-  - banjo
-  - guitar
-  - instrument
-  - Music
-  - poll
-  - question
-  - string
+  - music
   - ukulele
 ---
 Being able to make music would be pretty cool so I've decided to buy a string instrument. Please help me decide, the choices I'm putting forward are;  

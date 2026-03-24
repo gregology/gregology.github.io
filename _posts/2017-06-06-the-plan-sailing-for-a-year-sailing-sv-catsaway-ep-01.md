@@ -1,5 +1,6 @@
 ---
 title: "The Plan - sailing for a year (Sailing SV Catsaway) - Ep. 01"
+description: "Diana and I are spending a year sailing with our two cats. Here's the plan for SV Catsaway."
 author: Greg
 layout: post
 permalink: /2017/06/the-plan-sailing-for-a-year-sailing-sv-catsaway-ep-01
@@ -7,9 +8,11 @@ published_at: 2017-06-06 00:23:15 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - video
+  - canada
 ---
 
 {% include youtube_player.html id='gQhlw6F603o' %}

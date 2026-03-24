@@ -1,5 +1,7 @@
 ---
 title: "The Dangers of Turnkey Data Science"
+description: "Turnkey data science tools from Google and AWS carry hidden biases. Here's what's wrong and what we can do about it."
+image: /wp-content/uploads/2020/06/document polluter.png
 author: Greg
 layout: post
 permalink: /2020/06/turnkey-data-science/
@@ -7,9 +9,10 @@ date: 2020-06-17 19:53:00 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - category
+  - technology
 tags:
-  - tag
+  - ai
+  - privacy
 ---
 
 Data science affects our lives from trivial restaurant recommendations to life changing loan risk predictions. Data science has the ability to improve lives, but like any tool, when misused or misunderstood, it can cause damage.

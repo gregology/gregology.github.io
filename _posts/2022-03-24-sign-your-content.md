@@ -1,5 +1,6 @@
 ---
 title: "Trust & deepfakes"
+description: "Deepfakes are getting better. I wrote scripts to cryptographically sign tweets, Reddit posts, and blog content."
 author: Greg
 layout: post
 permalink: /2022/03/trust/
@@ -7,11 +8,9 @@ date: 2022-03-24 10:00:00 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - tech
+  - technology
 tags:
-  - deepfakes
-  - GPG
-  - PGP
+  - privacy
 ---
 
 Information without trust is worthless.

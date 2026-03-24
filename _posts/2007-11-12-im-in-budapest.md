@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/11/im-in-budapest/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - hungary
 ---
 I'm in Budapest

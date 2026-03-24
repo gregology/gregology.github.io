@@ -1,5 +1,7 @@
 ---
 title: "Musk de-urbanization"
+description: "Tesla, Starlink, and The Boring Company could let Canadians live far from cities by fixing utilities and transport."
+image: /wp-content/uploads/2019/09/canada_vs_europe.png
 author: Greg
 layout: post
 permalink: /2019/09/musk-de-urbanization/
@@ -7,18 +9,10 @@ date: 2019-09-18 17:25:27 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - futurism
-  - tech
-  - predictions
+  - philosophy
 tags:
-  - tech
-  - Elon Musk
-  - Tesla
-  - SpaceX
-  - Starlink
-  - Predictions
-  - Utilities
-  - Transport
+  - prediction
+  - canada
 ---
 
 Admiral Elon Musk with his fleet of companies will de-urbanize Canada. Cities are great at storing people. [Utilities](#utilities), [transport](#transport), & [infrastructure](#infrastructure) are efficiently centralized. However Canadian cities are ripe for disruption.

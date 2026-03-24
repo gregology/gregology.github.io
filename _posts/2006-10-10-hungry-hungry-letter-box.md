@@ -5,7 +5,7 @@ layout: post
 permalink: /2006/10/hungry-hungry-letter-box/
 comments: True
 categories:
-  - Uncategorized
+  - personal
 ---
 The letters boxes were hungry yesterday! I worked from 0630 to 1820 :( I was as you might imagine a little tired so I decided to leave my blogging for today. I need more doggie biscuits to pay off the doggie mafia.
 

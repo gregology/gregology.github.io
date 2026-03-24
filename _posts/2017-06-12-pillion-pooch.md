@@ -7,10 +7,9 @@ date: 2017-06-12 19:54:11 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - travel
+  - personal
 tags:
-  - travel
-  - dogs
+  - dog
 ---
 
 My brother and his wife have been riding around the world on motorbikes collecting dogs, you can checkout their [blog here](https://www.thepacktrack.com/blogs/dog-blog).

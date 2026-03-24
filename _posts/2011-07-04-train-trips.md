@@ -11,14 +11,10 @@ wordbooker_extract:
   - I have been catching the train from Newcastle to Sydney a couple of times a week lately. There is some really stunning views from Hornsby to Gosford so I snapped some images on my phone and here they are.
 comments: True
 categories:
-  - scenic
+  - personal
 tags:
-  - cityrail
-  - newcastle
-  - Photos
-  - scenic views
-  - sydney
-  - trains
+  - photography
+  - australia
 ---
 I have been catching the train from Newcastle to Sydney a couple of times a week lately. There is some really stunning views from Hornsby to Gosford so I snapped some images on my phone and here they are.
 

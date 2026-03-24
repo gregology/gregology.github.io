@@ -1,5 +1,7 @@
 ---
 title: "Cannabinoids Experiment Results"
+description: "My 42-day experiment showed better sleep on nights I took low-dose CBD/THC capsules. Here are the numbers."
+image: /wp-content/uploads/2019/07/cannabinoid_experiment_results.png
 author: Greg
 layout: post
 permalink: /2019/07/cannabinoids-experiment-results/
@@ -7,10 +9,9 @@ date: 2019-07-17 18:21:25 -0400
 comments: True
 licence: Creative Commons
 categories:
-  - quantified self
+  - personal
 tags:
-  - experiments
-  - results
+  - quantified self
 ---
 
 This morning was the last day of a 42 day [experiment with sleep and cannabinoids](/2019/06/experimenting-with-cannabinoids/). My hypothesis was that low dose cannabinoids taken orally before bed would increase my sleep quality. The sleep quality metric was being measured using my Mi Band 3. Here are the results;

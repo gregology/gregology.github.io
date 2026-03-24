@@ -7,7 +7,10 @@ wordbooker_extract:
   - "I've moved to the Kings Cross area and I've noticed a big difference in the quality of coffee so I've started rating the shops on coffee quality alone (my drink of choice is a latte with honey on the side). Then I pushed the info into a Google Map that ..."
 comments: True
 categories:
-  - Travel
+  - personal
+tags:
+  - food
+  - australia
 ---
 Recently I moved to the Kings Cross area and have noticed a big difference in the quality of coffee so I've started rating the shops on coffee quality alone (my drink of choice is a latte with honey on the side). Then I pushed the info into a Google Map that you can access from your mobile by [clicking here][1] or if technology doesn't fail me, it should appear embedded below. Green is good (4 or 5), yellow is alright (3), and red isn't great (1 or 2).
 

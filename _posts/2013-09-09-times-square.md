@@ -5,11 +5,10 @@ layout: post
 permalink: /2013/09/times-square/
 comments: True
 categories:
-  - Travel
-tags:
-  - NYC
   - travel
-  - USA
+tags:
+  - usa
+  - montreal
 ---
 What is this madness? I'm standing in Times Square people watching in the glow of advertising waiting for something to happen. It's then that I realised the advertising was the show. A conversation sparked with a lovely trio of Scots who were as bemused as me. Their genuine interest in me was refreshing. When we parted one of them motherly reached out and squeezed my hand. It made me feel less lonely here.
 

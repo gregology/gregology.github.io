@@ -5,8 +5,10 @@ layout: post
 permalink: /2007/07/great-co-workers/
 comments: True
 categories:
-  - Travel
-  - Work
+  - travel
+tags:
+  - england
+  - germany
 ---
 My co-workers are really smart good looking funny people. On an unrelated note, Cathy, my cousin, showed the office, to my embarrassment, my blog. On another unrelated note, Cathy is 1/4 pikie on the opposite side of the family to me :)
 

@@ -7,8 +7,9 @@ wordbooker_options:
   - 'a:15:{s:23:"wordbook_default_author";s:1:"0";s:23:"wordbook_extract_length";s:3:"256";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbook_republish_time_frame";s:1:"2";s:28:"wordbook_republish_time_obey";s:2:"on";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:19:"wordbook_actionlink";s:3:"300";s:27:"wordbook_search_this_header";s:2:"on";s:20:"wordbook_comment_get";s:2:"on";s:24:"wordbook_comment_approve";s:2:"on";s:21:"wordbook_comment_push";s:2:"on";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:21:"wordbook_comment_poll";s:2:"on";s:18:"wordbook_status_id";s:4:"-100";}'
 comments: True
 categories:
-  - General
-  - Work
+  - personal
+tags:
+  - art
 ---
 The other day I discovered that male brains don't stop maturing until 25. This made me feel so much better. Now I've got an excuse for the next year and a half! I'm still saving up all my money for a trip overseas. A fellow called me the other day regarding a message I left on a forum. He has a ship in Australia and he needs crew for a trip to India! He'll be leaving early next year so if I can get a berth on that ship I'll be off :)
 

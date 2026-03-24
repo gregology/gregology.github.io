@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/06/the-summer-salsa/
 comments: True
 categories:
-  - Uncategorized
+  - personal
+tags:
+  - england
 ---
 It's still light outside on this, the day of summer salsa. I went swimming with haley and liz. I don't have goggles so my eyes hurt. Office work is nothing like the tv show. I type numbers into a screen then click a button, then type more numbers. It's quite boring but the company seems like a good company to work for because they have free hot chocolate.
 

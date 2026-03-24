@@ -5,8 +5,10 @@ layout: post
 permalink: /2009/02/gregs-famous/
 comments: True
 categories:
-  - Army
-  - Travel
+  - military
+tags:
+  - solomon islands
+  - family
 ---
 This week I appeared in the Army Newspaper in the Our People section. So I'm pretty much famous now. I signed all the papers I could find with phrases like "reach of the stars". Being in the paper means I owe beers and everyone is trying to call me up on it.
 

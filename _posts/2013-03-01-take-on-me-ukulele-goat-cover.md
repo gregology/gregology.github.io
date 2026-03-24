@@ -5,7 +5,10 @@ layout: post
 permalink: /2013/03/take-on-me-ukulele-goat-cover/
 comments: True
 categories:
-  - YouTube
+  - creative
+tags:
+  - video
+  - ukulele
 ---
 
 {% include youtube_player.html id='OWq2yHaAYLE' %}

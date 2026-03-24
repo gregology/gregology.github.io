@@ -5,8 +5,7 @@ layout: post
 permalink: /2006/10/postie-bikes-need-petrol/
 comments: True
 categories:
-  - News
-  - Work
+  - personal
 ---
 Putt putt burr… and then my bike wouldn't go anymore :( I looked in the petrol tank and there wasn't any of that bad tasting water in there :( I'd turned the fuel switch to reserve earlier on my beat and I forgot about it so putt putt burr. I put the choke on full to get the last bit of fuel out of the lines which got me a few hundred metres but by the time she putt putt burred for the last time I was still half a click from the petrol station. So push push push and sweat sweat sweat and I was home sweet :) I don't think I'll forget fuel any time soon.
 

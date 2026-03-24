@@ -7,9 +7,11 @@ published_at: 2017-08-11 12:32:49 UTC
 comments: True
 licence: Creative Commons
 categories:
-  - YouTube
+  - sailing
 tags:
   - sailing
+  - video
+  - canada
 ---
 
 {% include youtube_player.html id='mHHihyLrSzs' %}

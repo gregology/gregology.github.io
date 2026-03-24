@@ -5,7 +5,9 @@ layout: post
 permalink: /2007/04/day-out-in-london/
 comments: True
 categories:
-  - Uncategorized
+  - travel
+tags:
+  - england
 ---
 On Friday after we'd arrived in London Mrs Greenall offered us some tea and we chatted to her and Lauren about our trip and plans. After our tea we showered and retired to bed for a short kip. I hadn't told any of my family or friends that I was coming home to the mother land so I decided to give a surprise visit to some family friends living just 2Km away. Nathalie and I walked to Julie and Dales home to stretch our legs after 20 hours sitting down and when we arrived Samantha, Julie and Dales 17 year old daughter answered the door and after not seeing me since I was 16, in 2000 welcomed me in thinking I was my brother. Dale unfortunately was in Italy and Julie was embarrassed because she hadn't had time to clean up the house. My mum had called Julie to make sure she'd be home and Julie was quite surprised how deceiving my mum was. After 2 cups of tea and 4 hours of conversation we went back to Laurens house where Mrs Greenall offered us some tea. Day 1, 4 cups of tea.
 

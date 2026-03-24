@@ -5,12 +5,9 @@ layout: post
 permalink: /2013/01/montreal-trip-photos/
 comments: True
 categories:
-  - photos
-  - Travel
+  - travel
 tags:
-  - canada
-  - Montreal
-  - Nye
+  - montreal
 ---
 <div id='gallery-4' class='gallery galleryid-1295 gallery-columns-3 gallery-size-responsive-200'>
   <dl class='gallery-item'>

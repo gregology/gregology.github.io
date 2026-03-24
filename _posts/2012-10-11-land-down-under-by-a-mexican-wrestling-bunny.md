@@ -5,7 +5,11 @@ layout: post
 permalink: /2012/10/land-down-under-by-a-mexican-wrestling-bunny/
 comments: True
 categories:
-  - YouTube
+  - creative
+tags:
+  - ukulele
+  - video
+  - music
 ---
 
 {% include youtube_player.html id='O2T9Ro_amNI' %}

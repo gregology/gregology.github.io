@@ -5,12 +5,10 @@ layout: post
 permalink: /2012/04/trampoline-day-sydney/
 comments: True
 categories:
-  - Events
+  - technology
 tags:
-  - design
-  - peer funding
-  - sign language
-  - trampoline day
+  - australia
+  - open source
 ---
 [Trampoline Day][1] is a self organised event and today was the first time the event had been held in Sydney. It is a two way dialogue where anyone who wishes gets an opportunity to run a talk. Mine was on Open Source and I'll upload the YouTube video shortly. Here are my notes from today.
 

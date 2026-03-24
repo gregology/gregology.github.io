@@ -5,9 +5,10 @@ layout: post
 permalink: /2015/07/jurassic-kitty
 comments: True
 categories:
-  - YouTube
+  - personal
 tags:
-  - YouTube
+  - video
+  - cat
 ---
 
 {% include youtube_player.html id='s7LwXTzVgHo' %}

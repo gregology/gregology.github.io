@@ -5,14 +5,10 @@ layout: post
 permalink: /2012/09/let-them-eat-wedding-cake/
 comments: True
 categories:
-  - Human Rights
-  - politics
+  - philosophy
 tags:
-  - ABS
-  - fusion tables
-  - Gay marriage
-  - House of Representatives
   - politics
+  - australia
 ---
 In early 2012 the House of Representatives conducted an [online survey][1] to provide a simple means for the public to voice their views on same-sex marriage. When the survey closed on the 20th of April, it had received 276,000 responses, 64.3% of them in support of same-sex marriage. However, last week the Lower House voted down the [Marriage Amendment Bill 2012][2] 42 to 98. Using Google Fusion Tables, geo data from the Australian Bureau of Statistic, and the results of the recent bill I created a [map][3] which shows how the population of each electorate was represented by their member of parliament. Red for electorates represented with a no, orange for abstained, and green for electorates represented with a yes. This very red close up of the Sydney area makes me feel very unrepresented.
 
