@@ -4,6 +4,7 @@ subtitle: A brief history of milestones from my life
 layout: page
 comments: True
 licence: Creative Commons
+description: "Major life events from 1983 to now, with a live counter showing how long I've been alive."
 ---
 
 <div id='time-alive'> </div>

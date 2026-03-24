@@ -2,6 +2,7 @@
 title: Gazillion
 layout: page
 disqus: yep
+description: "How much is a gazillion? The etymology of -illion and every number name up to 10^3003."
 redirect_from:
   - /GregologicalStudies/gazillion
   - /GregologicalStudies/Gazillion

@@ -1,6 +1,6 @@
 ---
 title: Decimal prime numbers
-decription: List of prime numbers in decimal from 0 to 1 million
+description: "Every prime number from 0 to 1,000,000 in base 10."
 layout: page
 ---
 

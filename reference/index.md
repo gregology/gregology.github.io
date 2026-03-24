@@ -3,6 +3,7 @@ title: Reference Tools
 subtitle: Like Wikipedia but not useful
 author: greg
 layout: page
+description: "Euphemisms, conspiracy theories, prime numbers, chivalry tips, and other things I've catalogued over the years."
 ---
 
 * [Conspiracy Theories](conspiracies/)

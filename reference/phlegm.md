@@ -1,6 +1,7 @@
 ---
 title: Guide to Phlegm
 layout: page
+description: "Does milk actually cause phlegm when you're sick? I looked into it."
 ---
 ### Greg&#8217;s Guide to Milk and Phlegm
 

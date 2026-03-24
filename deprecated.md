@@ -3,6 +3,7 @@ layout: page
 comments: False
 licence: Creative Commons
 title: Deprecated Projects
+description: "Old projects I've retired. Emoji social network, hand signal protocol, DNS ad blocker, and more."
 ---
 
 ### [Oasis DNS](https://github.com/gregology/oasis_dns)

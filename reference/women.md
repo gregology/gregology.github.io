@@ -1,6 +1,7 @@
 ---
 title: Guide to women
 layout: page
+description: "A thorough guide to understanding women."
 ---
 ### Greg&#8217;s Guide to Women
 

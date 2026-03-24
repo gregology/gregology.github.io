@@ -3,6 +3,7 @@ title: Maintained Packages
 layout: page
 comments: True
 licence: Creative Commons
+description: "Open source Python and Ruby packages I maintain, including Document Polluter for detecting ML bias."
 ---
 
 Some packages that Greg maintains.

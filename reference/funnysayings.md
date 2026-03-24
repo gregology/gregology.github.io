@@ -1,6 +1,7 @@
 ---
 title: Funny Sayings
 layout: page
+description: "Sayings and expressions I've collected. Mostly Australian."
 ---
 Lights on, door open, nobody at home
 

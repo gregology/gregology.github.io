@@ -4,6 +4,7 @@ comments: False
 signed: True
 licence: Creative Commons
 title: Secure Contact
+description: "Contact Greg via Signal, Telegram, or email. GPG public key included for encrypted communication."
 redirect_from:
   - /contact
   - /Contact

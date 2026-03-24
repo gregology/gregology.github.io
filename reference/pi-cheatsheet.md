@@ -1,6 +1,7 @@
 ---
 title: Raspberry Pi Cheatsheet
 layout: page
+description: "Quick reference for Raspberry Pi setup. Wifi config, SSH, static IP, and common commands."
 redirect_from:
   - /pi
 ---
