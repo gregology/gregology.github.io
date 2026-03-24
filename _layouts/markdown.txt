@@ -1,0 +1,6 @@
+---
+layout: none
+---
+# {{ page.title }}
+
+{{ content }}

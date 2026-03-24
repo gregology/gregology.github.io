@@ -1,0 +1,22 @@
+---
+layout: none
+permalink: /llms.txt
+---
+# Gregology
+
+> {{ site.description }}
+
+## Pages
+{% assign md_pages = site.pages | where: "layout", "markdown" -%}
+{% for page in md_pages -%}
+{% assign segments = page.url | remove_first: "/" | split: "/" -%}
+{% if segments.size == 1 and page.title and page.title != "" -%}
+- [{{ page.title }}]({{ site.url }}{{ page.original_url }}): [{{ page.title }} (markdown)]({{ site.url }}{{ page.url }})
+{% endif -%}
+{% endfor %}
+## Posts
+{% for post in site.posts -%}
+{% assign len = post.url | size | minus: 1 -%}
+{% assign post_md_url = post.url | truncate: len, "" | append: ".md" -%}
+- [{{ post.title }}]({{ site.url }}{{ post.url }}): [{{ post.title }} (markdown)]({{ site.url }}{{ post_md_url }})
+{% endfor %}
