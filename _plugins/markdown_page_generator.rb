@@ -17,7 +17,8 @@ module Jekyll
 
     def make_md_page(site, permalink, title, original_url, raw_content)
       # Use .txt extension so Jekyll won't process content as markdown
-      page = PageWithoutAFile.new(site, site.source, '', 'tmp.txt')
+      unique_name = permalink.tr('/', '_').sub(/^_/, '').sub(/\.md$/, '.txt')
+      page = PageWithoutAFile.new(site, site.source, '', unique_name)
       page.data['layout'] = 'markdown'
       page.data['title'] = title
       page.data['original_url'] = original_url
