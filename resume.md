@@ -13,6 +13,8 @@ description: "Staff engineer building AI-assisted developer tooling. Python, GCP
 clippy_help: It looks like you're trying to hire Greg. Consider paying him in cheese 🧀 It's his favourite food!
 ---
 
+[Download PDF](/resume.pdf)
+
 ## Summary
 Staff engineer building AI-assisted developer tooling and infrastructure automation.  
 I ship prototypes quickly, harden them with validation loops and measurements, and make them usable with context and clear interfaces.  

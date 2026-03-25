@@ -29,8 +29,20 @@ jobs:
           ruby-version: '3.1.3'
           bundler-cache: true
 
+      - name: Install Pandoc and LaTeX
+        run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended lmodern
+
       - name: Build site
         run: bundle exec jekyll build --trace
+
+      - name: Generate resume PDF
+        run: |
+          awk '/^---$/{c++;next} c>=2' resume.md | \
+            python3 -c "import re,sys; print(re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u27BF\uFE00-\uFE0F\u200D\u20E3]','',sys.stdin.read()),end='')" \
+            > /tmp/resume.md
+          pandoc /tmp/resume.md -o _site/resume.pdf \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
