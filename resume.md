@@ -16,9 +16,9 @@ clippy_help: It looks like you're trying to hire Greg. Consider paying him in ch
 [Download PDF](/resume.pdf)
 
 ## Summary
-Staff engineer building AI-assisted developer tooling and infrastructure automation.  
-I ship prototypes quickly, harden them with validation loops and measurements, and make them usable with context and clear interfaces.  
-Comfortable operating across LLM tooling, cloud APIs, networking, and production guardrails in remote-first teams.
+Staff engineer building AI-assisted developer tooling and automations.  
+I ship prototypes quickly and production code elegantly.  
+Comfortable operating in high pressure remote-first teams.
 
 ## Selected Work (high impact)
 - **Async AI workflow orchestrator (triage -> implement -> assess):** built a multi-stage automation system that runs steps asynchronously, preserves context across phases, and uses heuristics to decide when to escalate to a human for guidance.
@@ -28,21 +28,13 @@ Comfortable operating across LLM tooling, cloud APIs, networking, and production
 ## Technical Skills
 **Core**
 - **Languages:** Python, SQL, Bash, Ruby
-- **Infra:** Linux, Docker, networking fundamentals (DNS/routing/firewalls), Nginx
+- **Infra:** Linux, Docker, networking, NGINX
 - **Cloud & Platforms:** GCP, AWS, Cloudflare, Tailscale
 - **Data:** dbt, Spark, BigQuery, warehouses at scale
-- **AI/LLM systems:** LLM integration patterns, tool/agent workflows, validation loops, evaluation harnesses, context/prompt design  
-  **Serving & runtimes:** vLLM, Ollama, llama.cpp
-- **Ops & delivery:** CI/CD (GitHub Actions / Cloud Build), basic observability patterns
-- **LLM tooling:** LiteLLM, MCP servers, structured outputs / tool calling patterns
-
-**Working knowledge (used in projects; not primary)**
-- **Languages:** Go, TypeScript, JavaScript
-- **LoRa:** Meshtastic, LoRaWAN
+- **AI/LLM systems:** LLM benchmarking, context, tool workflows, guardrails
+- **Serving & runtimes:** vLLM, Ollama, llama.cpp
+- **Ops & delivery:** CI/CD, observability
 - **Microcontrollers:** ESP32s, Raspberry Pis, PCBs
-
-**Identity & Security (practical)**
-- OAuth/OIDC concepts, service accounts & IAM, least-privilege access, RBAC/ABAC concepts
 
 ## Experience
 
