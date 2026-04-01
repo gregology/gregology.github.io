@@ -13,6 +13,10 @@ navbar-links:
     - Political Compass: "compass"
     - Greg API: "api"
   Posts: "posts"
+  Games:
+    - Strait To War: https://StraitToWar.com
+    - Tank: https://tank.gho.st
+    - LLMPostor: https://LLMPostor.com
   Projects:
     - Quinte Mesh: "https://QuinteMesh.ca"
     - Memair: "https://Memair.com"
