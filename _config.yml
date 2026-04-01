@@ -14,10 +14,11 @@ navbar-links:
     - Greg API: "api"
   Posts: "posts"
   Games:
-    - Strait To War: https://StraitToWar.com
-    - Tank: https://tank.gho.st
-    - LLMPostor: https://LLMPostor.com
+    - Strait To War: "https://StraitToWar.com"
+    - Tank: "https://tank.gho.st"
+    - LLMPostor: "https://LLMPostor.com"
   Projects:
+    - sctx.dev: "https://sctx.dev"
     - Quinte Mesh: "https://QuinteMesh.ca"
     - Memair: "https://Memair.com"
     - Smiley Om: "https://SmileyOm.com"
