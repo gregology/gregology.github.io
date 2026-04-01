@@ -26,7 +26,7 @@ Comfortable operating in high pressure remote-first teams.
 - **LLM-powered dbt model optimizer with fail-fast validation:** built a tool that proposes SQL optimizations, tests them against sampled datasets to catch issues quickly, and feeds concrete failures back into the LLM to iteratively repair until results reconcile.
 
 ## Technical Skills
-**Core**
+
 - **Languages:** Python, SQL, Bash, Ruby
 - **Infra:** Linux, Docker, networking, NGINX
 - **Cloud & Platforms:** GCP, AWS, Cloudflare, Tailscale
