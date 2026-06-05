@@ -34,11 +34,11 @@ description: "Major life events from 1983 to now, with a live counter showing ho
 
       lifePercentage = ((secondsAlive / lifeExpectancySeconds) * 100).toFixed(9)
 
-      timeAlive.innerHTML = "<h3>Greg's Clock 🕔</h3>Greg is <b>" + lifePercentage + "%</b> through his expected life span<a href='{{ site.author.life_expectancy_source }}' target='_blank'>¹</a>.<br><table style='width:100%'><tr><th>Time</th><th>Seconds</th><th>Minutes</th><th>Hours</th><th>Days</th><th>Weeks</th><th>Months</th><th>Years</th></tr><tr><th>Spent</th><td>" + secondsAlive.toFixed(0) + "</td><td>" + minutesAlive + "</td><td>" + hoursAlive + "</td><td>" + daysAlive + "</td><td>" + weeksAlive + "</td><td>" + monthsAlive + "</td><td>" + yearsAlive + "</td></tr><tr><th>Left</th><td>" + secondsLeft.toFixed(0) + "</td><td>" + minutesLeft + "</td><td>" + hoursLeft + "</td><td>" + daysLeft + "</td><td>" + weeksLeft + "</td><td>" + monthsLeft + "</td><td>" + yearsLeft + "</td></tr></table>";
+      timeAlive.innerHTML = "<h3>Greg's Clock 🕔</h3>Greg is <b>" + lifePercentage + "%</b> through his expected life span<a href='{{ site.author.life_expectancy_source }}' target='_blank'>¹</a>.<br><div style='overflow-x:auto'><table style='width:100%'><tr><th>Time</th><th>Seconds</th><th>Minutes</th><th>Hours</th><th>Days</th><th>Weeks</th><th>Months</th><th>Years</th></tr><tr><th>Spent</th><td>" + Math.round(secondsAlive) + "</td><td>" + minutesAlive + "</td><td>" + hoursAlive + "</td><td>" + daysAlive + "</td><td>" + weeksAlive + "</td><td>" + monthsAlive + "</td><td>" + yearsAlive + "</td></tr><tr><th>Left</th><td>" + Math.round(secondsLeft) + "</td><td>" + minutesLeft + "</td><td>" + hoursLeft + "</td><td>" + daysLeft + "</td><td>" + weeksLeft + "</td><td>" + monthsLeft + "</td><td>" + yearsLeft + "</td></tr></table></div>";
   }
   calculateTimeAlive();
 
-  var cancel = setInterval(calculateTimeAlive, 50);
+  var cancel = setInterval(calculateTimeAlive, 1000);
 </script>
 
 
