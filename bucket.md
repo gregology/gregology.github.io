@@ -45,8 +45,8 @@ description: "Things I want to do before I die. Tracked with a live countdown of
   * ~~Dolphin~~
   * ~~Bear~~
   * ~~Seal~~
-  * Orca
-  * Humpback
+  * ~~Orca~~
+  * ~~Humpback~~
   * Moose
   * ~~Wolf or coyote~~
   * Koala
