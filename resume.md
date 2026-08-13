@@ -144,7 +144,7 @@ Connection:
 
 - 3Gbps ⬆️⬇️ fiber Internet  
 - Ubiquiti networking equipment with ethernet to office  
-- 5G cellular & 1hr UPS redundancy
+- 5G cellular & 8hr UPS redundancy
 
 Residence: [Prince Edward County, Ontario, Canada](https://goo.gl/maps/EkoPgT1Gz5cgUcTg6)  
 
