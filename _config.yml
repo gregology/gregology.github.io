@@ -95,6 +95,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - DECISIONS.md
   - CNAME
   - Vagrantfile
   - "*.asc"
