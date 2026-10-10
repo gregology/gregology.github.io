@@ -3,9 +3,6 @@ POST_DIR = "_posts"
 desc 'create new post'
 # rake new My New Post
 task :new do
-  require 'rubygems'
-  require 'chronic'
-
   ARGV.each { |a| task a.to_sym do ; end }
 
   title = ARGV[1..-1].join(' ') || "New Title"
