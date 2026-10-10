@@ -15,7 +15,7 @@ module Jekyll
 
     private
 
-    def make_md_page(site, permalink, title, original_url, raw_content)
+    def make_md_page(site, permalink, title, original_url, raw_content, kind)
       # Use .txt extension so Jekyll won't process content as markdown
       unique_name = permalink.tr('/', '_').sub(/^_/, '').sub(/\.md$/, '.txt')
       page = PageWithoutAFile.new(site, site.source, '', unique_name)
@@ -23,6 +23,7 @@ module Jekyll
       page.data['title'] = title
       page.data['original_url'] = original_url
       page.data['permalink'] = permalink
+      page.data['twin_kind'] = kind
       page.content = raw_content
       page
     end
@@ -30,7 +31,8 @@ module Jekyll
     def generate_post_pages(site)
       site.posts.docs.each do |post|
         permalink = post.url.sub(%r{/$}, '') + '.md'
-        page = make_md_page(site, permalink, post.data['title'], post.url, post.content)
+        post.data['markdown_url'] = permalink
+        page = make_md_page(site, permalink, post.data['title'], post.url, post.content, 'post')
         site.pages << page
       end
     end
@@ -42,7 +44,9 @@ module Jekyll
         source_page = nav_sources[slug]
         next unless source_page
 
-        page = make_md_page(site, "/#{slug}.md", source_page.data['title'], source_page.url, source_page.content)
+        permalink = "/#{slug}.md"
+        source_page.data['markdown_url'] = permalink
+        page = make_md_page(site, permalink, source_page.data['title'], source_page.url, source_page.content, 'page')
         site.pages << page
       end
     end
