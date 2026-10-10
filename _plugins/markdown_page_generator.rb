@@ -3,12 +3,24 @@ module Jekyll
     safe true
     priority :low
 
+    LLMS_FULL_PERMALINK = '/llms-full.txt'
+
     def generate(site)
       generate_post_pages(site)
       generate_page_twins(site)
+      generate_llms_full_page(site)
     end
 
     private
+
+    # Output is filled in by the :site, :post_render hook below, once the twins have rendered
+    def generate_llms_full_page(site)
+      page = PageWithoutAFile.new(site, site.source, '', 'llms-full.txt')
+      page.data['layout'] = 'none'
+      page.data['permalink'] = LLMS_FULL_PERMALINK
+      page.content = ''
+      site.pages << page
+    end
 
     def make_md_page(site, permalink, title, original_url, raw_content, kind)
       # Use .txt extension so Jekyll won't process content as markdown
@@ -76,4 +88,18 @@ module Jekyll
       path.gsub(%r{\A/+|/+\z}, '')
     end
   end
+end
+
+Jekyll::Hooks.register :site, :post_render do |site|
+  llms_full = site.pages.find { |page| page.url == Jekyll::MarkdownPageGenerator::LLMS_FULL_PERMALINK }
+  next unless llms_full
+
+  page_twins = site.pages.select { |page| page.data['twin_kind'] == 'page' }
+  post_twins = site.pages.select { |page| page.data['twin_kind'] == 'post' }.reverse
+  sections = (page_twins + post_twins)
+             .reject { |twin| twin.data['title'].to_s.strip.empty? }
+             .map { |twin| twin.output.strip }
+
+  header = "# #{site.config['title']}\n\n> #{site.config['description']}\n\n"
+  llms_full.output = header + sections.join("\n\n") + "\n"
 end
