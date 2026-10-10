@@ -1,40 +1,43 @@
 POST_DIR = "_posts"
+POST_DATE_FORMAT = '%Y-%m-%d %H:%M:%S %z'
+
+def post_slug(title)
+  require 'active_support'
+  require 'active_support/core_ext/string/inflections'
+  title.parameterize
+end
+
+def write_post(path, front_matter, body = '')
+  require 'yaml'
+  abort "#{path} already exists" if File.exist?(path)
+  File.write(path, front_matter.to_yaml(line_width: -1) + "---\n\n" + body)
+  puts "new post generated in #{path}"
+end
 
 desc 'create new post'
 # rake new My New Post
 task :new do
   ARGV.each { |a| task a.to_sym do ; end }
 
-  title = ARGV[1..-1].join(' ') || "New Title"
-  slug = title.gsub(' ','-').downcase
+  title = ARGV.drop(1).join(' ')
+  title = 'New Title' if title.strip.empty?
+  slug = post_slug(title)
+  now = Time.now
 
-  filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
-  permalink = "/#{Time.new.strftime('%Y/%m')}/#{slug}/"
-
-  path = File.join(POST_DIR, filename)
-  post = <<-HTML
----
-title: "TITLE"
-author: Greg
-layout: post
-permalink: PERMALINK
-date: DATE
-comments: True
-licence: Creative Commons
-categories:
-  - category
-tags:
-  - tag
----
-HTML
-  post \
-    .gsub!('TITLE', title) \
-    .gsub!('DATE', Time.new.to_s) \
-    .gsub!('PERMALINK', permalink)
-  File.open(path, 'w') do |file|
-    file.puts post
-  end
-  puts "new post generated in #{path}"
+  path = File.join(POST_DIR, "#{now.strftime('%Y-%m-%d')}-#{slug}.md")
+  write_post(path, {
+    'title' => title,
+    'description' => nil,
+    'author' => 'Greg',
+    'layout' => 'post',
+    'permalink' => "/#{now.strftime('%Y/%m')}/#{slug}/",
+    'date' => now.strftime(POST_DATE_FORMAT),
+    'comments' => true,
+    'licence' => 'Creative Commons',
+    'categories' => ['category'],
+    'tags' => ['tag'],
+  })
+  puts "Run ./sign_posts.sh once the post is final; jekyll build/serve fails until #{path}.asc exists."
   system "code #{path}"
 end
 
