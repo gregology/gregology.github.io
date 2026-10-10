@@ -56,42 +56,21 @@ task :ytvids do
   puts playlist.title
 
   playlist.playlist_items.each do |video|
-    filename = (video.published_at.strftime("%Y-%m-%d") + " " + video.title.downcase).parameterize + ".md"
-    permalink = "/" + video.published_at.strftime("%Y/%m") + "/" + video.title.downcase.parameterize
-    path = File.join(POST_DIR, filename)
+    slug = post_slug(video.title)
+    path = File.join(POST_DIR, "#{video.published_at.strftime('%Y-%m-%d')}-#{slug}.md")
+    next if File.exist?(path)
 
-    unless File.exist?(path)
-      post = <<-HTML
----
-title: "TITLE"
-author: Greg
-layout: post
-permalink: PERMALINK
-published_at: DATE
-comments: True
-licence: Creative Commons
-categories:
-  - YouTube
-tags:
-  - sailing
----
-
-{% include youtube_player.html id='VIDEO_ID' %}
-
-DESCRIPTION
-
-HTML
-      post \
-        .gsub!('TITLE', video.title) \
-        .gsub!('DATE', video.published_at.to_s) \
-        .gsub!('PERMALINK', permalink) \
-        .gsub!('VIDEO_ID', video.video_id) \
-        .gsub!('DESCRIPTION', video.description)
-      File.open(path, 'w') do |file|
-        file.puts post
-      end
-      puts "new post generated in #{path}"
-    end
+    write_post(path, {
+      'title' => video.title,
+      'author' => 'Greg',
+      'layout' => 'post',
+      'permalink' => "/#{video.published_at.strftime('%Y/%m')}/#{slug}/",
+      'date' => video.published_at.strftime(POST_DATE_FORMAT),
+      'comments' => true,
+      'licence' => 'Creative Commons',
+      'categories' => ['YouTube'],
+      'tags' => ['sailing'],
+    }, "{% include youtube_player.html id='#{video.video_id}' %}\n\n#{video.description}\n")
   end
 end
 
