@@ -3,14 +3,9 @@ module Jekyll
     safe true
     priority :low
 
-    NAV_PAGE_SLUGS = %w[
-      about codex bucket timeline resume compass api
-      posts packages patents deprecated secure
-    ].freeze
-
     def generate(site)
       generate_post_pages(site)
-      generate_nav_pages(site)
+      generate_page_twins(site)
     end
 
     private
@@ -28,40 +23,57 @@ module Jekyll
       page
     end
 
+    def markdown_url_for(url)
+      return '/index.md' if url == '/'
+
+      url.sub(%r{/$}, '') + '.md'
+    end
+
     def generate_post_pages(site)
       site.posts.docs.each do |post|
-        permalink = post.url.sub(%r{/$}, '') + '.md'
+        permalink = markdown_url_for(post.url)
         post.data['markdown_url'] = permalink
         page = make_md_page(site, permalink, post.data['title'], post.url, post.content, 'post')
         site.pages << page
       end
     end
 
-    def generate_nav_pages(site)
-      nav_sources = find_nav_sources(site)
-
-      NAV_PAGE_SLUGS.each do |slug|
-        source_page = nav_sources[slug]
-        next unless source_page
-
-        permalink = "/#{slug}.md"
+    def generate_page_twins(site)
+      twin_source_pages(site).each do |source_page|
+        permalink = markdown_url_for(source_page.url)
         source_page.data['markdown_url'] = permalink
         page = make_md_page(site, permalink, source_page.data['title'], source_page.url, source_page.content, 'page')
         site.pages << page
       end
     end
 
-    def find_nav_sources(site)
-      sources = {}
-      site.pages.each do |page|
-        slug = if page.name == 'index.md' || page.name == 'index.html'
-                 File.dirname(page.relative_path).sub(%r{^/}, '')
-               else
-                 File.basename(page.name, File.extname(page.name))
-               end
-        sources[slug] = page if NAV_PAGE_SLUGS.include?(slug)
+    # Internal links from navbar-links, using the same "://" rule as _includes/navbarlink.html
+    def nav_link_paths(site)
+      links = (site.config['navbar-links'] || {}).values.flat_map do |value|
+        value.is_a?(Array) ? value.flat_map(&:values) : [value]
       end
-      sources
+      links.reject { |link| link.include?('://') }.map { |link| strip_slashes(link) }
+    end
+
+    def twin_source_pages(site)
+      pages_by_path = {}
+      site.pages.each do |page|
+        next if page.data['twin_kind']
+
+        pages_by_path[strip_slashes(page.url)] ||= page
+      end
+
+      sources = nav_link_paths(site).filter_map do |path|
+        page = pages_by_path[path]
+        Jekyll.logger.warn 'MarkdownPageGenerator:', "no page for navbar link '#{path}'" unless page
+        page
+      end
+      sources.concat(site.pages.select { |page| page.data['markdown_twin'] == true })
+      sources.uniq
+    end
+
+    def strip_slashes(path)
+      path.gsub(%r{\A/+|/+\z}, '')
     end
   end
 end
