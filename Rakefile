@@ -119,7 +119,7 @@ task :wikipedia do
   edits = edits.sort_by { |edit| edit['pubDate'] }
 
   File.open('api/wikipedia.json', 'w+') do |file|
-    file.puts edits.to_json
+    file.puts JSON.pretty_generate(edits)
   end
 end
 
@@ -137,7 +137,7 @@ task :reddit do
   max_tries = 50
   max_tries.times do
     url = "https://www.reddit.com/user/gregologynet.json" + (after.nil? ? '' : "?after=#{after}")
-    response = open(url, 'User-Agent' => useragent).read
+    response = URI.open(url, 'User-Agent' => useragent).read
     new_posts = JSON.parse(response)
 
     puts "collected #{new_posts['data']['children'].count} posts from #{url}"
@@ -147,6 +147,6 @@ task :reddit do
   end
 
   File.open('api/reddit.json', 'w+') do |file|
-    file.puts posts.to_json
+    file.puts JSON.pretty_generate(posts)
   end
 end
