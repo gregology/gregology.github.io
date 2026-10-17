@@ -1,43 +1,43 @@
 POST_DIR = "_posts"
+POST_DATE_FORMAT = '%Y-%m-%d %H:%M:%S %z'
+
+def post_slug(title)
+  require 'active_support'
+  require 'active_support/core_ext/string/inflections'
+  title.parameterize
+end
+
+def write_post(path, front_matter, body = '')
+  require 'yaml'
+  abort "#{path} already exists" if File.exist?(path)
+  File.write(path, front_matter.to_yaml(line_width: -1) + "---\n\n" + body)
+  puts "new post generated in #{path}"
+end
 
 desc 'create new post'
 # rake new My New Post
 task :new do
-  require 'rubygems'
-  require 'chronic'
-
   ARGV.each { |a| task a.to_sym do ; end }
 
-  title = ARGV[1..-1].join(' ') || "New Title"
-  slug = title.gsub(' ','-').downcase
+  title = ARGV.drop(1).join(' ')
+  title = 'New Title' if title.strip.empty?
+  slug = post_slug(title)
+  now = Time.now
 
-  filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
-  permalink = "/#{Time.new.strftime('%Y/%m')}/#{slug}/"
-
-  path = File.join(POST_DIR, filename)
-  post = <<-HTML
----
-title: "TITLE"
-author: Greg
-layout: post
-permalink: PERMALINK
-date: DATE
-comments: True
-licence: Creative Commons
-categories:
-  - category
-tags:
-  - tag
----
-HTML
-  post \
-    .gsub!('TITLE', title) \
-    .gsub!('DATE', Time.new.to_s) \
-    .gsub!('PERMALINK', permalink)
-  File.open(path, 'w') do |file|
-    file.puts post
-  end
-  puts "new post generated in #{path}"
+  path = File.join(POST_DIR, "#{now.strftime('%Y-%m-%d')}-#{slug}.md")
+  write_post(path, {
+    'title' => title,
+    'description' => nil,
+    'author' => 'Greg',
+    'layout' => 'post',
+    'permalink' => "/#{now.strftime('%Y/%m')}/#{slug}/",
+    'date' => now.strftime(POST_DATE_FORMAT),
+    'comments' => true,
+    'licence' => 'Creative Commons',
+    'categories' => ['category'],
+    'tags' => ['tag'],
+  })
+  puts "Run ./sign_posts.sh once the post is final; jekyll build/serve fails until #{path}.asc exists."
   system "code #{path}"
 end
 
@@ -56,42 +56,21 @@ task :ytvids do
   puts playlist.title
 
   playlist.playlist_items.each do |video|
-    filename = (video.published_at.strftime("%Y-%m-%d") + " " + video.title.downcase).parameterize + ".md"
-    permalink = "/" + video.published_at.strftime("%Y/%m") + "/" + video.title.downcase.parameterize
-    path = File.join(POST_DIR, filename)
+    slug = post_slug(video.title)
+    path = File.join(POST_DIR, "#{video.published_at.strftime('%Y-%m-%d')}-#{slug}.md")
+    next if File.exist?(path)
 
-    unless File.exist?(path)
-      post = <<-HTML
----
-title: "TITLE"
-author: Greg
-layout: post
-permalink: PERMALINK
-published_at: DATE
-comments: True
-licence: Creative Commons
-categories:
-  - YouTube
-tags:
-  - sailing
----
-
-{% include youtube_player.html id='VIDEO_ID' %}
-
-DESCRIPTION
-
-HTML
-      post \
-        .gsub!('TITLE', video.title) \
-        .gsub!('DATE', video.published_at.to_s) \
-        .gsub!('PERMALINK', permalink) \
-        .gsub!('VIDEO_ID', video.video_id) \
-        .gsub!('DESCRIPTION', video.description)
-      File.open(path, 'w') do |file|
-        file.puts post
-      end
-      puts "new post generated in #{path}"
-    end
+    write_post(path, {
+      'title' => video.title,
+      'author' => 'Greg',
+      'layout' => 'post',
+      'permalink' => "/#{video.published_at.strftime('%Y/%m')}/#{slug}/",
+      'date' => video.published_at.strftime(POST_DATE_FORMAT),
+      'comments' => true,
+      'licence' => 'Creative Commons',
+      'categories' => ['YouTube'],
+      'tags' => ['sailing'],
+    }, "{% include youtube_player.html id='#{video.video_id}' %}\n\n#{video.description}\n")
   end
 end
 
@@ -119,7 +98,7 @@ task :wikipedia do
   edits = edits.sort_by { |edit| edit['pubDate'] }
 
   File.open('api/wikipedia.json', 'w+') do |file|
-    file.puts edits.to_json
+    file.puts JSON.pretty_generate(edits)
   end
 end
 
@@ -137,7 +116,7 @@ task :reddit do
   max_tries = 50
   max_tries.times do
     url = "https://www.reddit.com/user/gregologynet.json" + (after.nil? ? '' : "?after=#{after}")
-    response = open(url, 'User-Agent' => useragent).read
+    response = URI.open(url, 'User-Agent' => useragent).read
     new_posts = JSON.parse(response)
 
     puts "collected #{new_posts['data']['children'].count} posts from #{url}"
@@ -147,6 +126,6 @@ task :reddit do
   end
 
   File.open('api/reddit.json', 'w+') do |file|
-    file.puts posts.to_json
+    file.puts JSON.pretty_generate(posts)
   end
 end
