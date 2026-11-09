@@ -41,6 +41,10 @@ Comfortable operating in high-pressure remote-first teams.
 
 ## Experience
 
+### Career break (Aug 2026 - present)
+
+Working on projects while keeping an eye out for the right opportunity.
+
 ### Shopify - Canada (Remote) (Jul 2019 – Aug 2026)
 
 #### Staff Engineer, Data Warehouse Technology (Sep 2025 – Aug 2026)
@@ -136,7 +140,8 @@ Focus: security / terrorism / counter-terrorism
 
 - Improve the world according to my [Codex Vitae](https://gregology.net/codex/).
 - Use AI & data to solve interesting problems.
-- Lead great teams; keep learning; avoid being the smartest person in the room.
+- Keep learning.
+- Be surrounded by great people.
 
 ## Home Office
 
