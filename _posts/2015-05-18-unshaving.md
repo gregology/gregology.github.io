@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - video
+search_terms: [un-shaving, shaving, shave, reverse, reversed, rewind, backwards, beard, facial hair, stubble, razor, growing a beard, instagram, funny, trick]
 ---
 
 {% include video_player.html source='https://scontent-sea1-1.cdninstagram.com/t50.2886-16/11243399_1644193155802435_1246417162_n.mp4' %}

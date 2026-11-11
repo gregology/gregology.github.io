@@ -13,6 +13,7 @@ tags:
   - generative ai
   - prediction
   - llm
+search_terms: [artificial intelligence, large language model, api, software as a service, cloud computing, facebook, google, twitter, pidgin, unified messaging, instant messaging, messaging apps, ifttt, automation, whatsapp, linkedin, sms, group chat, snow day, walled garden, platform lock-in, ai agents, phone calls, captcha, are you human, bot detection, human verification, jagged frontier, openai, gpt-4o, strawberry, bar exam, uniform bar exam, benchmarks, arc prize, software development, boilerplate, code generation, ai coding, developers, technical debt, hackathon, hackdays, hack days, jokes, comedy, humour, humor, training data, synthetic data, open weights, model specialisation, model specialization, jobs, cat meme, forecast, future]
 ---
 
 This is my second yearly list of AI predictions. My first [AI predictions from December 2023 are available here](/2023/12/generative-ai-predictions/).

@@ -50,6 +50,7 @@ images:
     caption: And as the sun fades the LEDs rise creating a beautiful Lightrise over Hong Kong Harbour
   - image_path: /wp-content/uploads/2016/12/Where we went.png
     caption: What we've explored so far
+search_terms: [hk, hongkong, china, asia, victoria harbour, harbor, victoria peak, brunch, views, skyline, jet lag, jetlag, seafood, live seafood, diana, diana's mum, family, islands, density, dog friendly, dogs, cat friendly, cats, acro, acro yoga, turtles, old cameras, antique cameras, licence plates, license plates, pedestrian traffic control, pedestrians, hive mind, pandas, escalators, stand on the right, drive on the left, graffiti, positive graffiti, mosaics, knitting graffiti, yarn bombing, teslas, tesla, electric cars, sunset, lightrise, leds, holiday, vacation, travel photos]
 ---
 
 After 12 hours in Hong Kong the jet lag has settled in. We gently enjoyed some amazing seafood caught in a bucket down the road and prepared by Diana's mum. Diana has a network of hospitable family here and I quickly feel at home. The incredible human density of the city is offset by deserted islands and green.

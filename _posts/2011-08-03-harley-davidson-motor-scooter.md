@@ -17,6 +17,7 @@ categories:
   - personal
 tags:
   - scooter
+search_terms: [v-rod, vrod, bolwell, bowell, jolie, 50cc, moped, motorbike, motorcycle, hog, bikie, biker, bike, paint, paint job, custom paint, logo, diy, mod, makeover, shopping bags, under seat storage, parody, joke, humour, humor]
 ---
 <center>
   I was tossing up between buying a $27,000 2012 Harley Davidson V-Rod and a $1000 2009 Bowell 50cc Jolie.<br>

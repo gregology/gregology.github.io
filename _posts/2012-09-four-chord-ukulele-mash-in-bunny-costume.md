@@ -10,6 +10,7 @@ tags:
   - ukulele
   - video
   - music
+search_terms: [4 chords, four chords, 4 chord song, chord progression, mashup, mash-up, medley, cover, pop songs, rabbit, rabbit suit, fancy dress, dress up, uke, singing, youtube, funny]
 ---
 
 {% include youtube_player.html id='md-u9Wc67O0' %}

@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [crossing, gulf stream, weather window, meteorologist, dinner key marina, miami, biscayne bay, florida, bandera, be as you are, jennabird, buddy boats, seasickness, tuna, fishing, blue water marina, bimini, customs, courtesy flag, bahamian, data plan, rum, propane, bahama banks, propeller shaft, broad reach, anchor alarm, dragging anchor, chub cay, cracked conch, lobster, peas and rice, new providence, reefing, rose island, surfing, highbourne cay, nurse sharks, catamaran, diana, youtube, vlog]
 ---
 
 {% include youtube_player.html id='4xRv2S3Y0PY' %}

@@ -10,6 +10,7 @@ categories:
   - personal
 tags:
   - dog
+search_terms: [brother, sister-in-law, pack track, packtrack, motorbike, motorbikes, motorcycle, motorcycles, motorcycle travel, around the world, round the world, dog carrier, pet carrier, passenger, dogs, collecting dogs, kickstarter, crowdfunding, campaign, product, invention, biker, highways, adventure travel, riding, travelling with dogs, traveling with dogs, pets, canine, family]
 ---
 
 My brother and his wife have been riding around the world on motorbikes collecting dogs, you can checkout their [blog here](https://www.thepacktrack.com/blogs/dog-blog).

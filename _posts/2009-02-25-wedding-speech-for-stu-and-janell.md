@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - family
+search_terms: [best man speech, best man, toast, brother, stuart, best friend, thomas the tank engine, coins, one dollar coin, two dollar coin, driving lessons, husband, marriage, married, couple, newlyweds, groom, bride, reception, sky diving, skydiving, sanding, love, guests, newtown, nathan, sisters, sisters-in-law, extended family, fold out sofas, sofa bed, ann bancroft, anne bancroft, wet knot, quotes, humour, humor]
 ---
 I was lucky enough to be born in the same family as my best friend and he's taught me a lot in 25 years. He taught me that Thomas the tank engine lives in the closet, he's taught me that a one dollar coin is worth more than a two dollar coin because it's bigger, he taught me how to drive, but most importantly he taught me how to be a man, and on quite a few occasions how to be a woman. Now I look forward to him teaching me how to be a husband.
 

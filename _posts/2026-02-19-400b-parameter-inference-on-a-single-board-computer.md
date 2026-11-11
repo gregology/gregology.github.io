@@ -14,6 +14,7 @@ tags:
   - single board computer
   - tutorial
 clippy_help: It looks like you're trying to cancel your OpenAI subscription. Sam won't be happy!
+search_terms: [sbc, large language model, local llm, self-hosted, homelab, private ai, email classification, qwen3.5, qwen3 next, qwen3 coder, minimax m2.5, glm-4.7 flash, k2 v2, olmo, unsloth, gguf, quantization, quantisation, kv cache, mixture of experts, moe, active parameters, nvme, ssd, memory mapping, page cache, swappiness, unified memory, ram, tokens per second, llama.cpp, llama-server, ggml, vulkan headers, mali-g720, immortalis, npu, tpu, coral accelerator, pcie, hugging face, huggingface, debian bookworm, linux, systemd, openai compatible, gpt-5.2, claude opus, gemini 3.1 pro, ifbench, instruction following, benchmark, glazing, thinking model, coding model, inference server, open weights]
 ---
 
 A [Radxa Orion O6 with 64Gb](https://radxa.com/products/orion/o6/) of unified memory retails for less than $900USD today. Add a decent NVME drive and you're still only looking at ~$1000USD. [Qwen 3.5](https://qwen.ai/blog?id=qwen3.5), a 397B parameter model runs on this little inference rig. The Qwen 3.5 model itself is 240Gb (using unsloth's Q4_K_M quantization) which far exceeds the available memory however it's a mixture of experts model with only 17B active parameters. By leaning heavily on MMAP we can utilize the NVME storage at inference.

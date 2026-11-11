@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [georgetown, exumas, bahamas, bahamian, cruisers regatta, coconut challenge, coconuts, dinghy race, inflatable, shower curtain, boat hooks, racing, third place, yoga classes, diana, propane, grocery shopping, community events, engine problems, heat exchanger, westerbeke, westerbeke 30b, coolant, exhaust, head gasket, leak, sillette sonic, drive leg, seal, milky oil, repairs, mechanic, fort pierce, florida, live map, jennabird, laura belle, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='yuenuFP2kPc' %}

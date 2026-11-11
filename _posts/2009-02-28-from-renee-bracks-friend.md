@@ -6,6 +6,7 @@ permalink: /2009/02/from-renee-bracks-friend/
 comments: True
 categories:
   - philosophy
+search_terms: [compassion, caring, care, strangers, empathy, kindness, altruism, humanity, charity, love, quote, quotation, drunk, philosophy]
 ---
 "Compassion is caring for someone you don't know" - Renee Bracks friend (I forget who exactly, I was a little drunk when I heard it :))
 

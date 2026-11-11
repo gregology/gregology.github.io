@@ -12,6 +12,7 @@ tags:
   - scooter
   - family
   - australia
+search_terms: [vibram five fingers, vibram, fivefingers, barefoot shoes, minimalist shoes, poljot, cosmonaut, cosmonaut watch, antique watch, wristwatch, ussr, train, thomas the tank engine, unbreakable phone, broken phone, nokia, gps, phone mount, suction mount, windscreen holder, speedo, tunnel, lost phone, dropped phone, dee, zander, zahli, nephew, niece, goddaughter, god daughter, uncle, pool, swimming pool, drowning, rescue, swimming lesson, volkswagen transporter, volkswagen, vw, accident, crash, written off, write off, union jack, compensation]
 ---
 For the last few months I've been really really busy and haven't had time to blog :( There are no signs of getting any free time in the near future but here is a quick update of what's new in my world. Toe shoes (Vibram five fingers), an antique Soviet watch (Poljot, watch of the cosmonaut), I'm on a train (like Thomas the tank Engine), and my unbreakable phone broke (I'd done some mean things to the poor fellow) :( All of which is demonstrated by this photo.
 

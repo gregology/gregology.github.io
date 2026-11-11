@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - poland
+search_terms: [warsaw, warszawa, polish, polska, berlin, train, border, alphabet, underground tunnels, kebab, currency exchange, bureau de change, nathan's villa hostel, hostel, polish art, art gallery, panstwowe muzeum etnograficzne, państwowe muzeum etnograficzne, state ethnographic museum, ethnographic museum, royal castle, zamek królewski, gold, mirrors, marble, wwii, world war ii, second world war, destruction, police, museums, culture, history, auschwitz, guided tour, eastern europe, backpacking, europe]
 ---
 The buildings evolved into shacks and caravans as the train headed westward. The only sign that I'd crossed the boarder was new letters in the alphabet of the station names. 6 hours after leaving Berlin i was released into a maze of underground tunnels lined with 24 hour kebab joints and buera de exchanges. i escaped the underground city into rainy Warsaw and found a pleasant hostel not far from the station (Nathan's villa hostel). With 2 nights booked i headed back into the city.
 

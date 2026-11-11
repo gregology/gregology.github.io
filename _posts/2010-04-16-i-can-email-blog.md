@@ -8,5 +8,6 @@ wordbooker_options:
 comments: True
 categories:
   - technology
+search_terms: [postie, postie plugin, wordpress, wordpress plugin, plugin, post by email, email posting, e-mail, mobile blogging, test post, automatic posting, setup, configuration, secret address, security]
 ---
 This is a test to see if I have setup the postie plugin correctly. If so I will be able to post via email. I won't let anyone know what the email address for automatic posting is because that could be dangerous :)

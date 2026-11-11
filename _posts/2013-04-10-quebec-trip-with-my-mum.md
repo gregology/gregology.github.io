@@ -9,6 +9,7 @@ categories:
 tags:
   - canada
   - family
+search_terms: [mom, mother, mother and son, visit, visiting family, art gallery, franklin, high tea, afternoon tea, tea, cow, cows, snow, road, road trip, countryside, before and after, spring, winter, seasons, brick shadow, shadow, flickr, flickr album, photos, pictures]
 ---
 
 {% include flickr_album.html album_id='72157661239418130' %}

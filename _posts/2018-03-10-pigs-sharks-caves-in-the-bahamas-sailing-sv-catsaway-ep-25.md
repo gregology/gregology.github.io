@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [big majors, big major cay, pig beach, pig island, swimming pigs, piglets, hogs, staniel cay, staniel cay yacht club, exumas, gemini, shallow draft, jennabird, be as you are, spiraserpula, dinghy anchor, thunderball grotto, grotto, limestone, cavern, snorkeling, slack tide, harry and alicia, tuna and grits, google maps, swimming with sharks, storm preparation, high winds, anchor rode, scope, roller furling, jib sheets, bridle, rolling hitch, davits, dragging anchor, catamaran, bahamian, youtube, vlog, diana]
 ---
 
 {% include youtube_player.html id='BEzJSZVGtLs' %}

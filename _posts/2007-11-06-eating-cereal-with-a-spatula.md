@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - germany
+search_terms: [malmo, copenhagen, københavn, kobenhavn, hamburg, berlin, train ferry, hostel, a and o hostel, hot shower, supermarket, chocolate milk, breakfast, kitchen, cutlery, utensils, spoon, tiergarten, brandenburg gate, brandenburger tor, free walking tour, staatliche museen zu berlin, berlin state museums, audio guide, headset, michael jackson, berlin wall, hitler, hitler's bunker, führerbunker, fuhrerbunker, car park, checkpoint charlie, guerrilla artist, street art, mural, israeli wall, west bank, holocaust memorial, memorial to the murdered jews of europe, humboldt university, humbotit, bebelplatz, book burning, nazi, nazis, nazi germany, wwii, ww2, world war ii, second world war, war memorial, german soldiers, victory column, siegessäule, franco-prussian war, soviet war memorial, red army, hitler youth, heinrich heine, censorship, banned books, mein kampf, irony, original sin, history, museum]
 ---
 From Malmo i caught a train to Kobenhavn, Kobenhavn to hamburg (the train drives onto a ferry), hamburg to Berlin, arriving at about 6pm yesterday. I found a hostel (A&O) and had a long hot shower, my first in 3 days. Feeling clean and refreshed i hit the local supermarket for dinner. The hostels advertised a kitchen but it had very few utensils and no cutlery. I enjoyed my cereal and chocolate milk with a spatula.
 

@@ -10,6 +10,7 @@ categories:
   - military
 tags:
   - afghanistan
+search_terms: [kandahar airfield, kandahar air field, kaf, tk, tarin kowt, runway, mud, rain, hercules, c-130, c130, flight, tgi fridays, tgif, kfc, coffee shops, speed cameras, traffic jams, night shift, movies, commcen, bbq, barbecue, rocket attack, sirens, bunker, bunkers, lobster tail, lobster, surveillance, camera feed, peeping tom, spying, bowel movements, toilet, poo, schindler's list, black and white, film, respite, military, army, deployment, base]
 ---
 
 The rain turned the runway at TK into mud which delayed my departure date but on the 12th of January a little Hercules aircraft took me for a 30 minute ride to Kandahar Air Field (KAF). KAF is a little city with traffic jams, TGI Fridays, KFC, coffee shops, speed cameras, ghettos, and a population of about 30,000. I'll be here for just over a week so I'm trying to make the most of this rest bite. While here, I'm working night shift which means watching movies and calling the TK commcen to shoot the shit. It's a little boring but no one bothers me and it gives me time to explore during the day. Night shift can be a little isolating but I'm trying to mingle. We had the fortnightly Saturday afternoon BBQ a couple of days ago. The BBQ was interrupted by a rocket attack, the sirens yelled and I just copied everyone else and lay on the ground. After 2 minutes we moved to bunkers, those with more experience took some lobster tail from the hot plate with them.

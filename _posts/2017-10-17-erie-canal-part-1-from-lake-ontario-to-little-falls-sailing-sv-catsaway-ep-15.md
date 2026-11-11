@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [oswego, oswego canal, locks, lockmaster, vhf radio, channel 13, rubber gloves, fulton, brewerton, sylvan beach, utica, aqua vino, marina, harbour, harbor, rotary club, shore power, electricity, showers, solar shower, wifi, library, bike paths, antiques, ice cream, upstate new york, new york state, hudson river, waterway, docking, kitties, cats, catamaran, boat, sailboat, liveaboard, cruising, youtube, vlog, united states, sea shanty]
 ---
 
 {% include youtube_player.html id='rfDnUI-Bffk' %}

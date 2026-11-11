@@ -11,6 +11,7 @@ tags:
   - raspberry pi
   - ai
 licence: Creative Commons
+search_terms: [pihole, adblock, adblocker, ad blocker, ad-free, ads, advertising, advertisements, dns server, home network, network, vpn, whitelist, whitelisted, allowlist, s.youtube.com, recommendation engine, algorithm, online tracking, privacy, patreon, content creators, propaganda, manipulation, ethics, isp, mobile apps, web browsing, faster browsing, self-hosted, homelab, troubleshooting, bug, raspberrypi]
 ---
 
 [Pi-hole](https://pi-hole.net/) is an awesome DNS server. Pi because it was designed to run on a [Raspberry Pi](https://www.raspberrypi.org/) and hole because that's where advertisements DNS requests end up. Ad-blocking at the DNS level means that every device on my network is free from the majority of pesky ads, even mobile apps.

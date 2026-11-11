@@ -11,6 +11,7 @@ categories:
   - technology
 tags:
   - automation
+search_terms: [bell, bell canada, bell fibre, fibre, fiber, home hub 3000, homehub, isp, modem, wifi, wi-fi, internet outage, outage, downtime, uptime, power cycle, restart, reset, watchdog, ping, rules, tasmotizer, firmware, custom firmware, poweronstate, console, cloudflare, smart plug, smart switch, relay, iot, home automation, smart home, it crowd, turn it off and on again, plex, netflix, media server, self-hosted, self-hosting, thermostat, door camera, security camera, robot vacuum, vacuum, remote access, networking, troubleshooting, diy]
 ---
 
 Bell Fibre Internet is awesome however the HomeHub 3000 router they provide is rubbish. Recently we were away from home when there was an internet outage requiring a router reboot fix. 

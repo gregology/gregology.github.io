@@ -6,6 +6,7 @@ permalink: /2006/11/a-lot-about-nothing-much/
 comments: True
 categories:
   - personal
+search_terms: [melbourne cup, horse racing, the race that stops a nation, rent a space, chucking a sickie, overtime, travel savings, deodorant, breath mints, podcasts, abc radio, european space agency, esa, smart-1, lunar, spacecraft, ion engine, propulsion, apollo, moon landing, conspiracy theory, postie bike, sue, bert, centrifugal clutch, throttle, stalled, sister, sam, worst employer, today tonight, auspost, australia post, swimming lessons, laps, dad, cold shower, prank, dancing, salsa, nathalie, moving in, boys night]
 ---
 Yesterday I finished at 4:30pm :s so I didn't get drunk for the Melbourne Cup. Instead I listened to the race on a radio with the secretary of Rent-a-Space, which wasn't as good. You see, a lot of posties get sick on Melbourne Cup day which means the posties that aren't "sick" have to do more work, those jack pricks :( Posties also get sick on rainy days. It's not all bad, I do get paid for the extra work and I am saving for travel.
 

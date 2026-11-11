@@ -10,6 +10,7 @@ categories:
   - personal
 tags:
   - mental health
+search_terms: [digital detox, social media, news, unplug, reboot, staycation, self-care, relaxation, wellness, diy, schedule, yoga, restorative yoga, meditation, ukulele, music, rodriguez, cold fact, don mclean, regina spektor, piano man, billy joel, model trains, rc boat, remote control boat, sailing, canal, beach, hiking, walking, reading, massage, facemask, bath, board games, board game arena, mum, mom, diana, experimental farm, ottawa, lockdown, covid, irl]
 ---
 
 I need to turn off and on again. An IRL retreat is out of the question so this is the DIY approach. Starting Saturday morning, four days, no social/news media, lots of lazy activities.

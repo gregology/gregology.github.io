@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - england
+search_terms: [summertime, sunshine, sunny, sun, warm weather, weather, british weather, run down, unwell, tired, bed rest, jamie, drinking session, grease, grease the musical, musical, dvd, movie, film, trudy, invoices, coffee, prank, practical joke, revenge, patricia, angie, email, notification, pop-up, flea treatment, fleas, ceroc, dancing, dance, dance buddy, dance teacher, beginners, clock, clock watching, boredom, hot chocolate, chocomilk, chocolate milk, vending machine, taste test, office, work, coworkers]
 ---
 The sun is on my back, water has changed to its liquid state and I'm enjoying the finest summer day england has offered me yet. It's been a long slow week because i haven't been feeling well, I'm a little run down after 4 weekends back to back so i declined Jamie's offer of a drinking session tonight in favor of bed rest... And maybe grease the musical on dvd.
 

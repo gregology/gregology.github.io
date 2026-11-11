@@ -17,6 +17,7 @@ categories:
 tags:
   - montreal
   - art
+search_terms: [montreal museum of fine arts, mmfa, mbam, museum, fine art, art gallery, gallery, favorite, favorites, artworks, paintings, painting, sculpture, canadian art, indigenous art, kent monkman, the king's beavers, beavers, antoine plamondon, the arrest of christ, jesus, religious art, louis-philippe hébert, verchères, madeleine de verchères, ingo maurer, edison, wo bist du edison, hanging lamp, lamp, light bulb, lighting design, design, video]
 ---
 <img class="alignnone" title="IMAG0183.jpg" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0183.jpg" width="100%" height="auto" />
 The King's Beavers - Kent Monkman, 2011

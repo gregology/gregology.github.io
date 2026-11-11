@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - scandinavia
+search_terms: [stockholm, sweden, swedish, malmo, malmö, southern sweden, berlin, germany, warsaw, poland, overnight train, night train, sleeper train, sleeper, standard of living, budget travel, sleeping in a train station, railway station, central station, accommodation, dorm room, hostel, swedish krona, krona, kronor, sek, long weekend, security guards, no lying down, subway, metro, tunnelbana, coin museum, royal coin cabinet, myntkabinettet, numismatics, coins, currency, changing of the guard, royal palace, stockholm palace, palace, army, navy, officer cadets, cadets, platoon, drill, parade ground, marching band, military, soldiers, sunset, scandinavian, nordic, backpacking, travel, europe]
 ---
 I'm waiting for an over night train to malmo in southern Sweden. I forked out the extra for a bed and shower. From their I'll try and get a connection to Berlin where i want to spend a couple of days before Warsaw.
 

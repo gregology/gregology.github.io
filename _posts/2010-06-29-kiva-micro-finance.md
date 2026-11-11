@@ -10,6 +10,7 @@ categories:
   - philosophy
 tags:
   - ukulele
+search_terms: [kiva.org, microfinance, microcredit, microloans, micro loans, lending, loans, lender, poverty, poverty alleviation, charity, philanthropy, giving, nonprofit, developing countries, global issues, doctor, masters in politics, centrelink, youth allowance, gov love, welfare, income, global income, inequality, wealth, education, health, investing, invest, f chord, chords, uke, microphone, social impact]
 ---
 Yesterday I had a very conversation with my doctor. She had just finished a masters in politics and I didn't have anything wrong with me so we ended up talking about global issues. She introduced me to [Kiva][1], a [micro finance][2] organisation which links people with too much money to people with not enough money.
 

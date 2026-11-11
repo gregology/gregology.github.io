@@ -13,6 +13,7 @@ categories:
 tags:
   - raspberry pi
   - tutorial
+search_terms: [timemachine, time capsule, macos, mac, macbook, os x, osx, nas, network attached storage, network drive, network backup, raspbian, raspbian buster, linux, netatalk, afp, apple filing protocol, avahi, zeroconf, bonjour, mdns, hfs+, hfsplus, hfsprogs, fstab, fsck, mount, crontab, ssh, sd card, static ip, external hard drive, hdd, howto, guide, diy, homelab, self hosted, read only, permissions, troubleshooting, howtogeek]
 ---
 
 ***2019-01-02 Updated after comments from Guy***  

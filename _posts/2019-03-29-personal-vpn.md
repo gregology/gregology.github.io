@@ -12,6 +12,7 @@ categories:
 tags:
   - tutorial
   - privacy
+search_terms: [virtual private network, virtual private server, russia, censorship, internet censorship, blocking, fdc servers, spain, ubuntu, linux, nyr, openvpn-install, road warrior, bash script, shell, ssh, dns leak, ipleak, nameservers, google dns, tcp, port 443, https, udp, ovpn, android, ios, iphone, mac, windows, cheap, budget, self hosted, captcha, online privacy, security, encryption, aes-256, howto, guide]
 ---
 
 Russia has recently threatened to block popular VPN services unless they join a state IT system that contains a registry of banned websites[¹](https://www.themoscowtimes.com/2019/03/29/russia-threatens-to-block-popular-vpn-services-to-prevent-website-access-a65007). In response, here is a quick tutorial on how to setup a personal VPN for $1 a month. Personal VPNs have advantages over shared VPN services because they are harder for governments to block & you do not share an ip address with possible nefarious users so you get less annoying "Are you a robot" questions.

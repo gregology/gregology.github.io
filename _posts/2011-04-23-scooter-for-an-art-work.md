@@ -10,6 +10,7 @@ tags:
   - scooter
   - art
   - australia
+search_terms: [gumtree, swap, trade, barter, artwork, painting, paintings, teapot, funky teapot, mona lisa, leonardo da vinci, offers, lleyton hewitt, lieyton hewitt, hewitt, tennis, tennis pox, antique, flower paintings, silver tea service, tea set, long weekend, for sale, selling, classifieds, motor scooter, moped, lonely]
 ---
 I'm back from my little trip :) My little scooter looked pretty lonely while I was away and I want him to feel important and loved again so I've put him up on Gumtree to try and swap him for an art work or a funky teapot.<table WIDTH=100%> <tr VALIGN=TOP> <td WIDTH=33% STYLE="border: none; padding: 0cm"> <p ALIGN=CENTER>
 

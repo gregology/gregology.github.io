@@ -6,6 +6,7 @@ permalink: /2009/03/rationality/
 comments: True
 categories:
   - philosophy
+search_terms: [rational, irrational, unrational, behaviour, behavior, observer, beholder, eye of the beholder, logic, reasoning, thought process, deduce, deduction, psychology, understanding, perspective, aphorism, philosophy]
 ---
 Rationality is in the eye of the beholder.
 

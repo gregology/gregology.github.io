@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, catamaran, multihull, yacht, sailboat, hull 605, 34 feet, beam, draft, shallow draft, 105md, bunks, berths, cabin, master cabin, bedroom, queen bed, saloon, seating, hatches, windows, head, toilet, batteries, house batteries, 5kwh, storage, lockers, galley, kitchen, propane, stove, oven, centreboards, cockpit, captain's chair, dinghy davits, davits, solar panel, canadian solar, 315w, hard bimini, bimini, live map, hurricane irma, layout, interior, walkthrough, liveaboard, kitties, cats, vlog, episode]
 ---
 
 {% include youtube_player.html id='Sq11ikePBmU' %}

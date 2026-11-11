@@ -21,6 +21,7 @@ categories:
 tags:
   - montreal
   - acroyoga
+search_terms: [snow, snowfall, snowstorm, record snowfall, snow removal, snow clearing, snowplough, snowplow, snow blower, snowblower, souffleuse, trucks, 45cm, winter, blizzard, snow cones, acro yoga, acro, marisol, ice skating, skates, skating, quebec]
 ---
 There was a record snow dump in Montreal on the day I arrived. 45cm of fun blanketed the city.  
 [<img title="IMAG0111.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/12/wpid-IMAG0111.jpg" />][1] [<img title="IMAG0116.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/12/wpid-IMAG01161.jpg" />][2]  

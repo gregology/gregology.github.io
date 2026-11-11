@@ -12,6 +12,7 @@ categories:
 tags:
   - quantified self
   - veteran
+search_terms: [cannabis, marijuana, weed, medical cannabis, cannabidiol, tetrahydrocannabinol, insomnia, sleep tracker, sleep score, fitness tracker, wearable, xiaomi, mi fit, afghanistan, deployment, army, military, jet lag, shift work, sleep cycle, waking up, early waking, 4am, hypothesis, experiment design, control, github, jupyter notebook, sleep aid, dosage]
 ---
 
 I don't mean to brag but I used to be really good at sleeping.

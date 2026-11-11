@@ -8,6 +8,7 @@ categories:
   - military
 tags:
   - solomon islands
+search_terms: [army, military, deployment, end of deployment, operation anode, op anode, ramsi, flying home, farewell, goodbye party, harry's bar, boozer, pub, bar tab, hangover, hung over, drinking, live band, dancing, dance floor, latin dance, dance lessons, dani, jeremy, ellina, watchkeeper, command post, prank, practical joke, wireless mouse, laptop, ppf, participating police force, warrant officer, grunts, infantry, sig cell, signals, signaller, liquid courage, confessions, dinner]
 ---
 Tomorrow morning we fly home. I'm nursing a hang over. Last night was our good bye harrar at Harry's Bar (the on base boozer). At 19:30L the bar opened and the tab lasted less then 15 minutes. I downed my first hoping to take advantage of the tab but I just wasn't quick enough.
 

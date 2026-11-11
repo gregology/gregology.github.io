@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - australia
+search_terms: [western australia, wa, nathalie, natty, girlfriend, dancing, overseas, savings, cost of living, inflation, time capsule, exchange rate, currency, australian dollar, aud, us dollar, usd, euro, british pound, gbp, sterling, new zealand dollar, nzd, canadian dollar, cad, loonie, bread, gold price, airfare, plane ticket, hyundai getz, car prices, crude oil, oil price, brent crude, wti, west texas intermediate, nymex, heating oil, gasoline, natural gas, henry hub, electricity, bloomberg, energy prices, commodities, economics]
 ---
 I'm still in Perth spending time with Natty and her family. We've been spending some time at Nat's Dads place right in the centre of town. It's noisy on a Saturday night and by saying that I feel old. We went dancing the other night, which was pretty cool. I'm getting really excited about travelling over seas now. It's not long at all now. I've got a few pennies saved. I have a few thousand Australian Dollars, 20 British Pounds, 20 New Zealand Dollars (I have no plans on visiting there but I like to be prepared and Gerard doesn't like to pay be back in Australian currency) and 1 Canadian Dollar. To put this in perspective for future readers here are some common benchmarks. The Australian Dollar is worth about 0.80 US Dollars, about 0.60 Euros, bread costs about $1 for a 700g loaf, gold costs $820 per ounce, my one way plane ticket cost $1280, a 2007 Hyundia Getz 3 door auto costs $15,990 ($330 extra for metallic paint), and energy costs as of today are as follows,
 

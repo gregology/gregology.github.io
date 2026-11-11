@@ -14,6 +14,7 @@ tags:
   - video
   - coding
   - raspberry pi
+search_terms: [technology, rails, ruby on rails, rails app, weather at sea, weather, satellite, find me spot, spot tracker, satellite tracker, location tracking, vyacht, nmea, wifi, instruments, seatalk, seatalk cable, raymarine, epirb, emergency beacon, distress beacon, trekkies, trekkie, lcars, lcars-sdk, earth weather visualization, wind map, github, open source, warp, marine electronics, boat electronics, navigation, gadgets, diy, diana, catamaran, sailboat, vlog, episode]
 ---
 
 {% include youtube_player.html id='BNAhKCLrpio' %}

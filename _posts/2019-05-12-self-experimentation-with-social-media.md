@@ -12,6 +12,7 @@ categories:
   - personal
 tags:
   - quantified self
+search_terms: [experiment, experiment design, hypothesis, memair, memair dns, pseudorandom, randomized, randomised, blocking, mood, wellbeing, mental health, self reported, emotions, crossover effect, control group, github, jupyter notebook, data science, statistics, self improvement, digital detox, social networks, predictions]
 ---
 
 Self experimentation helps me become the best version of me. Declaring my experiments before seeing the results keeps me honest. This is the first of many planned self experiments.

@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - italy
+search_terms: [l'aquila, laquila, aquila, abruzzo, hotel, 4 star hotel, four star, luxury, adrian, driving, road trip, late night, napoli, naples, volcano, vesuvius, mount vesuvius, climbing, italian, freebies, europe, travel]
 ---
 01/12/07
 

@@ -10,6 +10,7 @@ categories:
   - technology
 tags:
   - coding
+search_terms: [migration, static site generator, static site, static html, html, website, website history, redesign, web design, site design, minimalist, minimal design, responsive design, responsive, mobile friendly, touch friendly, disqus, comments, youtube, flickr, image galleries, php, mysql, textpattern, cms, content management system, theme, wayback machine, internet archive, web archive, screenshots, reddit, penis euphemism, google ranking, seo, git, hosting, web hosting, blogging platform, live cat chat, nostalgia, retro]
 ---
 
 Gregology.net was launched the same year as Facebook. In the last 11 years, both sites have risen in popularity. In some ways, Facebook has seen more success than Gregology. Even though Facebook never gained the top spot on Google for "<a href="https://www.google.com/search?q=penis%20euphemism">penis euphemism</a>" searches, it gained popularity for archiving Reddit posts. At the time of writing this, Facebook actually has more page hits per day than Gregology.<br>

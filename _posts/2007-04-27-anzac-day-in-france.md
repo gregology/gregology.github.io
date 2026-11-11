@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - france
+search_terms: [australian and new zealand army corps, commemoration, 25 april, fosters, aussie beer, cahors, tintin, tin tin, comic, bar, pen and paper, handwritten, nathalie, trial shift, job offers, unemployed, learning french, dictionary, american, hostel, dorm, formule 1, budget hotel, accommodation, handheld gps, getting lost, directions, navigation, alex, lift, bread and cheese day, emigration, migrant, brie, baguette, cheap wine]
 ---
 I'm in a bar writing this blog entry analogically :( whilst reading the French comic Tin Tin (I'm up to the 5th box and the first two boxes didn't have words in them) Nathalie is at work until 11 so I'm just hanging out to pick her up (by pick up I mean walk her home, we don't have one of those fancy motor cars) She's had a long day, she started at 9:30 with a two hour break. But she's got other job offers so I don't think she's too fussed, it's only a 3 day trial. I on the other hand am still unemployed but my French is improving and I think I should be job worthy within weeks :) I think :)
 

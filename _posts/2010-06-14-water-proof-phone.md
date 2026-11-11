@@ -6,6 +6,7 @@ permalink: /2010/06/water-proof-phone/
 comments: True
 categories:
   - personal
+search_terms: [waterproof, waterproof phone, mobile phone, mobile, cell phone, cellphone, rugged phone, manly, sydney, pub, mates, drinks, drunk, bucket, leak, rain, stinky phone, smell, gross, reenactment, virgin broadband, mobile broadband, internet, ubuntu, ubuntu 10.04, linux mint, mint 9, linux, books, reading]
 ---
 Last Weekend I was out with some mates at a pub in Manly and I pulled out my water proof phone which obviously needed proving after a few drinks. It had been raining heavily for a few days and there was a bucket collecting water on the floor. While half way through a conversation with a mate I dropped it in, pulled it out, and the conversation continued. While it was pressed up against my face I noticed an odd smell. Soon after I figured out that we were on the ground floor of a two story pub so the water in the bucket wasn't rain water.[<img src="/wp-content/uploads/2010/06/2010-06-14-122633.jpg" alt="Stinky Phone" title="2010-06-14-122633" width="100%" height="auto" />  
 <center>

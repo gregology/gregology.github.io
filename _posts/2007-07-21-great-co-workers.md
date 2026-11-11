@@ -9,6 +9,7 @@ categories:
 tags:
   - england
   - germany
+search_terms: [coworkers, colleagues, workmates, cathy, cousin, embarrassed, embarrassment, office, airport, flight, flying, flight delay, delayed, flooding, floods, rain, weather, summer party, office party, beer, ice cream, spiders, beer spider, spider drink, school holidays, lemonade, granny, toothpaste, liquids ban, liquid restrictions, airport security, security, customs, clear bag, terrorist, terrorism, pat down, frisked, random search, bremen, travel]
 ---
 My co-workers are really smart good looking funny people. On an unrelated note, Cathy, my cousin, showed the office, to my embarrassment, my blog. On another unrelated note, Cathy is 1/4 pikie on the opposite side of the family to me :)
 

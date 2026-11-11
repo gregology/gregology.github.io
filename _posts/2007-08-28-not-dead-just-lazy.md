@@ -9,6 +9,7 @@ categories:
 tags:
   - netherlands
   - food
+search_terms: [amsterdam, holland, dutch, hayley, haley, cousin, red light district, de wallen, red lights, sex work, prostitution, christian hostel, youth hostel, hostel, thai massage, massage parlour, massage parlor, curfew, walking tour, free walking tour, nazi, world war ii, ww2, jesus, christianity, canals, paddle boat, pedal boat, pedalo, tandem bike, tandem bicycle, cycling, art gallery, art museum, rijksmuseum, paintings, ponchos, rain, downpour, cooking, chef, grinyer, aussie burgers, burgers, sushi, japanese food, spring rolls, rice paper rolls, summer rolls, satay, satay sauce, peanut sauce, chilli, chili, chinese supermarket, asian grocery, asian supermarket, indian food, jelly drink, travel, europe]
 ---
 I'm not dead, just lazy. Hayley and I visited Amsterdam 2 weekends ago. Very interesting 😉 we stayed at a Christian youth hostel which was conveniently located next to a Thai massage parlor and next door to that were pretty red lights denoting a lady who would make you feel happy for 50 eruos... So i over heard. The district was packed from 9pm till late and Hayley and I spent every night strolling past the ladies. i especially liked the weird exotic fetish's, like the big mumma's and my favorite, the frog eyed lady friend.
 

@@ -13,6 +13,7 @@ tags:
   - video
   - cat
   - caribbean
+search_terms: [catastrophe, hercie, kitties, sick cat, cat health, pet emergency, vet, veterinarian, animal clinic, happy pets animal clinic, dr allen, nassau, new providence, flight, catheter, iv, urinary, vomiting, rum cay, coral heads, dead coral, hurricanes, cat island, old bight, single handed, solo sailing, rolleez resorts, airport, community, calabash bay, long island, diana, bahamas, bahamian, pets, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='0TWpclmCl-M' %}

@@ -11,6 +11,7 @@ categories:
   - military
 tags:
   - afghanistan
+search_terms: [tarin kot, uruzgan, oruzgan, urozgan, urganzan, operation slipper, military, adf, australian defence force, diary, war diary, dusty, barracks, commcen, communications centre, signals, signaller, nose bleed, nosebleed, fainted, fainting, dehydration, dehydrated, iv drip, american hospital, casualty, noticas, notification of casualty, next of kin, blood tests, war story, randwick barracks, randwick, coogee, pt, physical training, fitness, fitness test, personal best, army reserve, reservist, reserves, special forces, pissing contests, tea cup, teacup]
 ---
 
 17 days down, about 90 to go :) I'm in Afghanistan enjoying the taste of the fine dust of Urganzan and the scenic mountains which surround to create the Tarin Kowt bowl. After 4 long months of training, I'm finally here and I've settled in. It feels like a dusty version of barracks. The cold has started but the mountains are still bare and once the sun rises above the dust horizon it is actually quite pleasant. In my short time here I've got myself one wary (war story).

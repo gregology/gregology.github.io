@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [upper exumas, highbourne cay, dinghy fins, outboard, planing, snorkeling, snorkelling, reef, aquarium, marine biologists, spiraserpula, norman's cay, normans cay, plane wreck, drug smuggling, slack tide, spearfishing, eagle ray, rays, diving, shroud cay, fresh water well, water purification, steripen, uv, warderick wells, exuma land and sea park, national park, boo boo hill, hiking, driftwood, boreas, staniel cay, black point, farmer's cay, high winds, bahamian, catamaran, diana, youtube, vlog]
 ---
 
 {% include youtube_player.html id='njxfGEQOvpI' %}

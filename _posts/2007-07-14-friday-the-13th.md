@@ -9,6 +9,7 @@ categories:
 tags:
   - england
   - family
+search_terms: [superstition, unlucky, bad luck, train, train trip, train fare, rail, train delay, delayed, late, swanage, dorset, south coast, grandmother, gran, grandma, granny, memoir, writing, first dog, dog, pet, nostalgia, sad, quid, pounds, nervous, excited, bob, bob's parents, british army, army, soldier, signaller, royal signals, military, veteran, japan, india, dinner, george, laura, birthday, presents, full of beans, happy as larry, work]
 ---
 I'm on a train on my way to my grandmothers in Swanage. I've been writing my memoirs and now I'm feeling a little sad about my first dog. The train cost over 50 quid for the 3 hour return trip :s it really hurts giving someone $130 for 3 hours on a train that will inevitably be late. I haven't seen my gran for 7 years so I'm nervous excited which is a bad mix for the bowel. The train driver has just apologised for the delay :s
 

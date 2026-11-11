@@ -8,6 +8,7 @@ categories:
   - military
 tags:
   - solomon islands
+search_terms: [army, military, deployment, tour of duty, end of deployment, operation anode, op anode, ramsi, melanesia, medal, medal parade, buzz, csm, company sergeant major, commanding officer, april fools day, april fools, prank, practical joke, wake up call, duty sig, signaller, signaler, signals, graveyard shift, night shift, fridge graffiti, quarantine, aquis, australian quarantine and inspection service, biosecurity, tonga, tongan, tongans, papua new guinea, png, farewell, barbecue, bbq, drinking, piss up, round of drinks, shout, hand carved, carving]
 ---
 Today is my last shift and it's only a half shift at that. After 5 hours of showing the new guys the rope, I'll get my medal, then hit the piss :) Buzz had already been here, a fact I advertised on the fridge by writing "Buzz waz ear 07 & 09 & 08&#8243;. The CSM didn't think it was funny but he didn't know it was me. Because Buzz have been here he doesn't get a medal and it's a custom in the army to buy a round of drink when you get a medal. This means that because most of the contingent is getting medals today, Buzz should get a free night on the piss. We'll see how that works out for him.
 

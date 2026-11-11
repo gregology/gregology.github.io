@@ -13,6 +13,7 @@ tags:
   - video
   - usa
   - canada
+search_terms: [sailing vessel, catamaran, gemini, yacht, sailboat, boat, oswego, ottawa, moving aboard, liveaboard, renter, airbnb, diana, diana's parents, charles, soph, cats, kitties, jazz, hercie, cats on a boat, engine problems, storm, squall, henderson bay, no cell reception, customs, cbp, customs and border protection, syracuse, cruising permit, unstep the mast, mast, port city, biking, canal, fort ontario, jillian, cruising community, visa, nexus card, i-94, american embassy, us embassy, kingston, night sail, lake ontario, new york, border crossing, turned away, immigration, vlog, episode]
 ---
 
 {% include youtube_player.html id='KPe1ulydD7s' %}

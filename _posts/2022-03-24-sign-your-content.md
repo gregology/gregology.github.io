@@ -11,6 +11,7 @@ categories:
   - technology
 tags:
   - privacy
+search_terms: [deep fake, tom cruise, deeptomcruise, tiktok, zelensky, zelenskyy, ukraine, ukrainian, synthetic media, face swap, ai video, twitter, twitter hack, verified accounts, verification, verify, authentication, authenticity, impersonation, misinformation, disinformation, fake news, facebook, whistleblower, social media, public key cryptography, public key, private key, cryptography, encryption, digital signature, signed, signing, gpg, gnupg, gnu privacy guard, pgp, openpgp, rfc 4880, rfc4880, qr code, qrencode, homebrew, jq, curl, bash, shell script, jekyll, github pages, wayback machine, internet archive, blockchain, unstoppable domains, browser extension, byok, bring your own key, subreddit, security, politicians]
 ---
 
 Information without trust is worthless.

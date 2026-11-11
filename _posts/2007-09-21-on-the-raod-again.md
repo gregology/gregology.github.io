@@ -9,6 +9,7 @@ categories:
 tags:
   - england
   - family
+search_terms: [road, on the road, travelling, traveling, gryniers, grinyer, kay, bob, homesick, home sick, leaving, goodbye, farewell, chocolates, wine, sympathy cards, cards, theatre tickets, theater tickets, theatre, theater, murder mystery, cold weather, thermal underwear, thermals, train, bracknell, berkshire, dad's side, father's side, sheena, graham, cousin, second cousins, frasier, jamie, landscaping, landscape gardening, gardening, outdoor work, office, weight gain, trousers, belly, big meals, eating, kindness]
 ---
 I'm going to miss the Gryniers :'( They really made a part of their family and when I left there I felt home sick for the first time on this journey. I think it's harder leaving people when you're not sure when you'll see them again. Knowing that the Gryniers would have a hard time dealing with my departure I left chocolates, wine, and sympathy cards. I also got Kay and Bob theatre tickets to a murder mystery :O I had been complaining about the cold September weather so they bought me more thermal underwear :) so I'll stay nice and toasty.
 

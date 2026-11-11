@@ -9,6 +9,7 @@ categories:
 tags:
   - religion
   - politics
+search_terms: [aphorisms, quotes, quotations, sayings, one-liners, ideas, notes, death, mortality, god, evolution, anti-religious, atheism, atheists, agnosticism, non existence, wet knot, sam, stu, regret, law, jihad, collective consciousness, consciousness, society, chimp, chimpanzee, morality, moral code, hypocrisy, sex, pregnancy, promiscuity, genes, hydroponics, hydroponic herbs, co2, human nature, suffering, racism, race, generalisation, generalization, american football, riot police, french flag, jigsaw puzzle, earth, space, logic, porn, bible, jesus, mum, enemies, holy grail, unicycle, pommies, poms, whingeing poms, english, monarchy, reproduction, procreation, heat death of the universe, war, voltaire, bertrand russell, ignorance, i think therefore i am, cogito ergo sum, descartes, reality, existence, hitler, roosevelt, charity, freedom of religion, oppression, science, truth, soldiers, civilisation, civilization, babylon, egypt, greece, rome, britain, china, european union, empires, soviet union, soviet russia, freedom, corrupt cop, philosophy]
 ---
 Live before you die.  
 The finish line is death so don't hurry.  

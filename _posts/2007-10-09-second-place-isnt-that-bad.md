@@ -9,6 +9,7 @@ categories:
 tags:
   - england
   - family
+search_terms: [rugby, rugby world cup, ruby, wallabies, australia, sport, ireland, guinness, black beer, stout, scott, chris, jacqui, swanage, dorset, aunt, uncle, bed and breakfast, b and b, grandmother, gran, castle, durlston castle, durlston, restaurant, berries, guided walk, quarries, quarry, purbeck, isle of purbeck, perbeck, jurassic coast, geology, geologist, fossils, fossil hunting, fossilised, fossilized, caroline, carol, john, pub, weymouth, harbour, harbor, museum, prison ship, church, cliff, ocean views, sea views, autumn, fall, autumn leaves, leaves, cosy, cozy, terraced houses, penguins, history, heritage, leaving england]
 ---
 Australia came second place in the ruby world cup match against England which I think is an alright attempt. I'm off to Ireland tomorrow to drink black beer :) with Scott, Chris, and Jacqui. My blog entries will be erratic for the next few months because I'll be traveling around Europe.
 

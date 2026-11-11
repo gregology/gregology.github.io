@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - politics
+search_terms: [john howard, prime minister, australian politics, amnesty international, steve ballinger, freedom of expression, free speech, freedom of speech, internet censorship, human rights, bloggers, solidarity, criticising, criticizing, government, satire, protest, jail, masquerade ball, dance routine, performance, audience, nervous, stage fright, connie, dance partner, blind, visually impaired, vision impaired, dvd]
 ---
 "Freedom of expression online is a right, not a privilege - but it's a right that needs defending," said Steve Ballinger of Amnesty International. "We're asking bloggers worldwide to show their solidarity with web users in countries where they can face jail just for criticising the government."
 

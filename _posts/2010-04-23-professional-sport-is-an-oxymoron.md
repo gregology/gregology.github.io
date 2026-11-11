@@ -9,6 +9,7 @@ categories:
   - philosophy
 tags:
   - frisbee
+search_terms: [ultimate frisbee, ultimate, spirit of the game, referees, self refereeing, sportsmanship, unsportsmanlike, cheating, commercial sport, commercialism, athletes, amateur, amateurism, football, soccer, fc barcelona, barcelona, barça, unicef, jersey sponsorship, advertising, merchandise, fan owned, club ownership, maradona, diego maradona, hand of god, world cup, john hopoate, hopoate, rugby league, nrl, wikipedia, definition, postman, competition, opponents]
 ---
 Wikipedia told me that;  
 "A sport is commonly defined as an organised, competitive, and skillful physical activity requiring commitment and fair play."

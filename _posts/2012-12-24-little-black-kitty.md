@@ -10,6 +10,7 @@ tags:
   - ukulele
   - video
   - music
+search_terms: [cat, black cat, kitten, kitty cat, feline, pet, song, uke, singing, youtube, cute]
 ---
 
 {% include youtube_player.html id='wJKYhXPLU3g' %}

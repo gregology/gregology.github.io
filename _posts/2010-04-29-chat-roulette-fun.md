@@ -10,6 +10,7 @@ categories:
   - personal
 tags:
   - webcam
+search_terms: [chatroulette, video chat, online chat, strangers, random strangers, virtual webcam, fake webcam, webcamstudio, webcam studio, prank, practical joke, trolling, screenshots, youtube, children, kids, internet, humour, funny]
 ---
 [Chat Roulette][1] is a webcam chat site that matches you with a stranger. 25% of the time, the stranger is a guys waist but most of the time you get a face. I was getting bored with that so I decided to have a little bit of fun. I installed a virtual webcam ([Webcam Studio][2]) and downloaded webcam videos made by children on YouTube. Here are the results
 

@@ -8,6 +8,7 @@ categories:
   - military
 tags:
   - solomon islands
+search_terms: [going home, return home, handover, training, rotation, outgoing rotation, hit the piss, piss up, drinking, mark, roommate, diggers, digger, soldiers, air conditioning, tent lines, sergeants, autumn, fall, weather, acclimatising, newbies, new arrivals, uniform, breezeway, afternoon shift, post deployment, psych interview, psychologist, psychological screening, mental health, reintegration, civilian life, transition, civilians, frustration, anger, mess, snails, army, military, deployment, veteran]
 ---
 This is a big day for me because it secures my return home :) It means that someone is here to do my job so there is no reason for me to be here. I haven't met our replacements yet and I'm keen to get them trained up so I can hit the piss tomorrow night.
 

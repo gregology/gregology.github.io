@@ -11,6 +11,7 @@ categories:
 tags:
   - afghanistan
   - ukulele
+search_terms: [countdown, end of tour, going home, kandahar, kandahar city, kaf, un workers, united nations, mob, protest, riot, koran, quran, koran burning, quran burning, book burning, pastor, rocket attacks, portaloo, portaloos, raaf, raaf birthday, royal australian air force, smoked salmon, cheese platter, 10th mountain division, treadmill, handover, uke, naafi, trivia, open mic, omelette, rach, us army civilians, non combatants, geneva convention, alabama, watermelon, cultural experience, cappuccino, hot chocolate, coffee, power outage, blackout, generator, mains power, dee, facebook, friend request, unfriend, military, army, deployment]
 ---
 
 Two weeks left in country :) In Kandahar city, 16 km away, 17 UN workers were killed by a mob who were pissed off about some guy in the US burning the Koran. It really annoyed me that a book can create so much hate. It's not just the Koran, the book burner was some kind of pastor who was motivated by his own silly book. People need education both here and in the West. Apart from a few rocket attacks and a splash back incident in one of the portaloos, everything here has been quite pleasant. The RAAF had their birthday and they know how to throw a party, smoked salmon and cheese platters, roasted animals, and the 10th Mountain Division band.

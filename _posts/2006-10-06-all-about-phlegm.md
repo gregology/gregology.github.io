@@ -6,6 +6,7 @@ permalink: /2006/10/all-about-phlegm/
 comments: True
 categories:
   - personal
+search_terms: [mucus, mucous, snot, sputum, cough, coughing, chest infection, respiratory tract, bacterial, bacteria, viral, virus, immune system, immunity, symptom, dairy, chocolate milk, milk myth, old wives tale, steam, hot shower, colour, color, green, yellow, research, health, medical, dmt123, sick, illness, remedy]
 ---
 So I've been doing some research. I've been told not to drink milk products because they cause phlegm and thus makes you sick. I wasn't sure if I agreed with that logic so I decided to do some research. So on DMT123.com health question and answer, I found some interesting information on phlegm.
 

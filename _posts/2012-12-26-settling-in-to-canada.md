@@ -9,6 +9,7 @@ categories:
 tags:
   - canada
   - acroyoga
+search_terms: [ottawa, acro yoga, acro, yoga, acrobatics, partner yoga, canadian, eh, housemate, roommate, flatmate, julie, susan, jerome, christmas tree, christmas, xmas, tree hunting, decorating, secret santa, presents, gifts, sister, sam, furniture, workmates, coworkers, outdoorsy, winter clothes, montreal, hostel, expat, new home, photos, gallery]
 ---
 Seven and a half weeks later, pretty much Canadian eh? Acro yoga, friendly work mates, and a lovely housemate have made settling in easy. Ottawa has a really nice outdoorsy vibe and now that I'm dressed appropriately I can enjoy it. Tomorrow I set off for Montréal for seven days staying at a hostel. Montréal is the acro yoga mecca and I'll be meeting up for at least one class while I'm there. A picture tells a thousand words so here is 11 thousand words.
 

@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [chesapeake city, annapolis, maryland, virginia, north carolina, sailing capital, severn river, harbourmaster, harbormaster, laundry, fawcett's boat supplies, sail repair, genoa, back creek, helly hansen, rain gear, foul weather gear, seafood buffet, st. michaels, saint michaels, propane, crab walk, winery, chocolate zinfandel, solomons, outhaul, deltaville, norfolk, aircraft carriers, navy, anniversary, elizabeth city, strainer, rafting up, alberta crewed, bandera, buddy boat, icw, catamaran, youtube, vlog, diana, united states]
 ---
 
 {% include youtube_player.html id='hAto7D_eyKI' %}

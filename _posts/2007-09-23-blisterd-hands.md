@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - england
+search_terms: [blistered, blister, sore legs, landscape gardening, landscaping, gardening, garden, outdoor work, manual labour, manual labor, labouring, tradie, birds, girls, cement mixer, cement, concrete, gloves, moisturiser, moisturizer, hand cream, dry skin, cousin, neil, ascot, berkshire, guinness, pints, pub, local pub, the boots, rugby, rugby world cup, itv, channel 3, eastenders, east enders, soap opera, tv, pool, billiards, dave, night out, tired, broke]
 ---
 My hands are blistered and my legs are sore :( I spent the last two days landscape gardening. It's been good working outside and it's been fun commenting on the "birds" with the boys. I feel tough working with my hands but I don't like it when the dirt makes them feel too dry so I keep washing them but that doesn't make me any less of a man. I got to play with the cement mixer today. It was really fun but I made it too watery because I was washing my hands when filling the mixer, I think I'll invest in gloves of a rejuvenating moisturiser for night time use. I'm working with my cousin, Greg, and his work partner Neil on a property in Ascot.
 

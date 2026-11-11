@@ -14,6 +14,7 @@ tags:
   - video
   - caribbean
   - usa
+search_terms: [passage, ocean passage, passage planning, weather routing, fastseas, windfinder, predictwind, weather forecast, green turtle cay, grand cay, abacos, staging, cell reception, provisioning, passage food, bread, dahl, popcorn, cookies, squall, surfing, night sailing, night watch, watch schedule, tether, man overboard, safety, salon, saloon, cockpit, seasickness, bonine, meclizine, kitties, submarine, florida, cape canaveral, united states, engine problems, catamaran, diana, youtube, vlog]
 ---
 
 {% include youtube_player.html id='V9ZugLxOfT0' %}

@@ -6,6 +6,7 @@ permalink: /2009/02/first-regret/
 comments: True
 categories:
   - personal
+search_terms: [year one, year 1, first grade, repeating a year, school, primary school, workmen, builders, repairs, off cuts, offcut, scrap wood, wood, block of wood, jealousy, envy, stealing, stolen, theft, naughty, mischief, fairness, unfair, justice, guilt, remorse, conscience, school bag, teacher, pencil, bag room, lesson learned, morals, ethics, childhood, memoir, never got caught]
 ---
 1990
 

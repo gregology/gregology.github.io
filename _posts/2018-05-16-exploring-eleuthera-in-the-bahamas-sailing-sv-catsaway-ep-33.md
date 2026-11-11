@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [cat island, little san salvador, trolling, trawling, fishing, bar jack, lobster, jennabird, cruise ships, private island, pink sand, beaches, limestone caverns, rolly anchorage, rock sound, settlement, laundromat, laundry, ocean hole, cathedral cavern, caves, providence, life of chill, dinghy drift, governor's harbour, governors harbour, governor's harbor, tanager, mooring block, fouled anchor, holding, coral, sponges, hatchet bay, dolphins, hull cleaning, catamaran, bahamian, youtube, vlog]
 ---
 
 {% include youtube_player.html id='QiWKLdSTHrs' %}

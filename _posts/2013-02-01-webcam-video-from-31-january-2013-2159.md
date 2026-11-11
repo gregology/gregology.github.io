@@ -10,6 +10,7 @@ tags:
   - video
   - ukulele
   - canada
+search_terms: [grizzly, polar bear, grolar bear, hybrid bear, bear, in heat, chanson, français, french language, learning french, bilingual, adrijana, julie, webcam, uke, singing, music, youtube]
 ---
 This is my first French song with a lot of help from Adrijana and Julie.
 

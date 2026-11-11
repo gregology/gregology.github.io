@@ -6,6 +6,7 @@ permalink: /2006/11/junk-mailers/
 comments: True
 categories:
   - personal
+search_terms: [letterbox drop, flyers, leaflets, catalogues, catalogs, pamphlets, brochures, advertising, spam, mailboxes, unit blocks, apartments, rivalry, competition, postie, postman, australia post, auspost, motorbike, body odour, body odor, bo, christmas present, xmas, work gift, barbecue, barbeque, bbq set, knife, knives]
 ---
 Today I came across a junk mail delivery fellow. We made pleasantries as we both stuffed papers into the a massive unit blocks mail boxes. On face value we were doing the same job but clearly not. I could see in his eyes that the pleasantries we made were only face value. I don't understand why, he smelt like BO and didn't even have a motorbike!
 

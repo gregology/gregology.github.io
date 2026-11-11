@@ -10,6 +10,7 @@ tags:
   - ukulele
   - video
   - music
+search_terms: [men at work, down under song, luchador, lucha libre, wrestling mask, mask, rabbit, costume, fancy dress, australia, aussie, uke, cover, 80s, eighties, singing, youtube, funny]
 ---
 
 {% include youtube_player.html id='O2T9Ro_amNI' %}

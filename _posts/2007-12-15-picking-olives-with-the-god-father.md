@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - italy
+search_terms: [godfather, dale, amon, olive grove, olive harvest, olive picking, farm, farm work, property, snow, pescara, bari, train, superfast ferry, ferry, ferry terminal, greece, wine, lunch, italian restaurants, mountain views, clouds, driving, right hand side, left hand drive, golf, vw golf, transit, ford transit, van, expats, expatriates, englishmen, british, nathalie, backpack, old town, delay, bad weather, christmas presents, christmas shopping, gifts, italian, europe, travel]
 ---
 The snow has followed me south. I left dales olive grove this morning taking the train from pescara to Bari. Currently i am aboard a stationary superfast ferry bound for Greece.
 

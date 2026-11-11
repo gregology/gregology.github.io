@@ -8,6 +8,7 @@ wordbooker_options:
 comments: True
 categories:
   - personal
+search_terms: [postie, postman, mail, round, child, kid, frightened, fear, artwork, hologram, holographic, dog wearing glasses, picture frame, kitsch, tacky, souvenir, gift, present, dad, father, fiancée, fiancee, engagement, chinese, ebay, selling, taste, clothes, new beat, business beat, rostered hours, christmas, early finish, auspost, australia post]
 ---
 On my round today I came across a little girl standing next to a letter box. I rode up to her to give her the mail and maybe I was going a little fast but she cowered as I beard down on her. It made me feel like God, I fed on her fear, is that sick? Once I stopped she moved her hands away from her face and smiled. I gave her the mail and she then she decided to tell me all about her living arrangements. She was a little chubby so I didn't believe her.
 

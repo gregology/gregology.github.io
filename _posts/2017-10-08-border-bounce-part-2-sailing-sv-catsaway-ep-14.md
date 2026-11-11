@@ -13,6 +13,7 @@ tags:
   - video
   - usa
   - canada
+search_terms: [sailing vessel, catamaran, gemini, yacht, sailboat, boat, zodiac, rib, rigid inflatable boat, dinghy, tender, yamaha, outboard, 8hp, licensing, boat licence, boat license, regulations, us waters, fuel filter, lift pump, fuel pump, engine, engine trouble, b1 b2 visa, visa, tourist visa, interview, us embassy, american embassy, paperwork, nordik spa, spa, chelsea, qc, quebec, oswego, i-94, visa waiver, land crossing, cape vincent, ferry, cruising license, cruising permit, customs, immigration, border crossing, oswego marina, mast stepping, mast, erie canal, lake ontario, new york, diana, vlog, episode]
 ---
 
 {% include youtube_player.html id='GwqPuvvEevc' %}

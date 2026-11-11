@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - ireland
+search_terms: [dublin, irish, irish pub, irish themed pub, pub, drinking, drunk, on the piss, beer, cheap beer, chris, scott, jacqui, friends, mates, reunion, catching up, expensive, travel, backpacking, europe]
 ---
 I've made it to Ireland. Last night we hit the piss in an Irish themed pub, there are heaps of them here! I haddn't seen chris, scott, and jacqui for about 6 months so we had some drinking up to do. it was quite expensive at the pub so we bought some nasty cheap beer and continued at home.
 

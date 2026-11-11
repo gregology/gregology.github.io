@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, catamaran, gemini, yacht, sailboat, boat, maiden voyage, rigging, jib, rolling furler, roller furling, mainsail, halyard, spare halyard, topping lift, troubleshooting, original owner, knots, boat speed, tacking, water tanks, flushing, winterizing, winterising, antifreeze, lake water, gas dock, fuel dock, refuel, potable water, drinking water, iodine tablets, purify, hatch, leaking hatch, leak, caulking, recaulk, butyl tape, sealant, communication, teamwork, couple, treasure island marina, marina, community, diana, vlog, episode]
 ---
 
 {% include youtube_player.html id='eXsoy7ydG4w' %}

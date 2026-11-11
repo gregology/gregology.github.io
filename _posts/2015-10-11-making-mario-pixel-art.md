@@ -9,6 +9,7 @@ categories:
 tags:
   - video
   - art
+search_terms: [super mario, nintendo, video game, video games, gaming, 8-bit, retro, sprite, pixelart, pixel war, mosaic, craft, diy, youtube]
 ---
 
 {% include youtube_player.html id='llZbTm97eOU' %}

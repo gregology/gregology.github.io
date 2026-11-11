@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [flotilla, motor sailing, thompson bay, anchorage, boat chores, maintenance, zinc, sacrificial anode, heat exchanger, transmission oil, oil change, regatta, grocery store, marine supply store, chandlery, vhf radio, handheld vhf, safety equipment, bus tour, cruisers rally, hamilton caves, dean's blue hole, deans blue hole, blue hole, adderly plantation, columbus monument, christopher columbus, calabash bay, scrubbing, hull cleaning, shallow draft, halfway point, heading north, canada, southernmost, catamaran, bahamian, youtube, vlog]
 ---
 
 {% include youtube_player.html id='i4u-ghQEer4' %}

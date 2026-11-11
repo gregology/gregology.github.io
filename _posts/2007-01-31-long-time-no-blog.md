@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - family
+search_terms: [postie, postman pat, mail, christmas presents, gifts, wine, chocolates, customers, sister, sam, samantha, aaron, beach wedding, married, marriage, ceremony, vows, reception, dudley beach, newcastle, brother in law, breakfast, banana toast, toy phone, david middlebrook, artwork, bundy, dog, dancing, dance lessons, dance floor, swimming, december, hiatus]
 ---
 Well it's been 2 months since my last blog and I've been busy busy busy… and a little lazy with regards to blogging :( Work pre Christmas is quite full on when you're a postie and I made an extra effort tricking my victims in to thinking I'm as friendly as Pat so they give me presents :) But my plan didn't work :( All I got was a bottle of wine and some chocolates :( I deliver to a few hundred delivery points and only two people fell for my tricks :( So there will be lots of miss sorts this year :) Lesson learnt, being nice to people doesn't pay off.
 

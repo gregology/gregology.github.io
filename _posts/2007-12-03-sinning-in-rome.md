@@ -9,6 +9,7 @@ categories:
 tags:
   - italy
   - religion
+search_terms: [roma, pescara, dale, family friend, godfather, napoli, naples, volcano, vesuvius, pasta, pizza, colosseum, coliseum, adrian, everlean, hostel, vatican, vatican city, st peter's basilica, saint peter's basilica, sunday, jesus, t-shirt, confession, confessional, priest, catholic, catholicism, church, christianity, mortal sin, sins, teenage years, mp3, music piracy, piracy, jean-paul sartre, sartre, philosophy, existentialism, psychology, university, thomas aquinas, aquinas, catholic university, prayers, penance, pew, god, rain, beers, drunk, kebab, porn, newsagency, star wars, jedi, gladiators, trespassing, american, italian, humour, humor]
 ---
 I'm on a train heading for pescara which is 3 hours due east from Rome on the coast. There i will rendezvous with dale, a family friend and spend some time with him.
 

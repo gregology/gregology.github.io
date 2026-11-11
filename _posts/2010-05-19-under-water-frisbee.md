@@ -10,6 +10,7 @@ categories:
   - sport
 tags:
   - frisbee
+search_terms: [underwater, swimming pool, pool, swimming, ultimate frisbee, flying disc, disc, photos, experiment, fail, funny, water sports, pool games]
 ---
 FYI frisbee is yet another thing that doesn't work under water :'(
 

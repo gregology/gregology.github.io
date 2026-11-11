@@ -13,6 +13,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, sailboat, yacht, boat, cruising, liveaboard, sabbatical, year off, adventure, plans, john lennon, new skills, video editing, feedback, admeowral, cat-tain, chief petting officer, seacat, jazz, hercules, hercie, tabby, black cat, kitties, pets, crew, logistics, australian, canadian, fresh water, vlog, episode, first episode, drone footage]
 ---
 
 {% include youtube_player.html id='gQhlw6F603o' %}

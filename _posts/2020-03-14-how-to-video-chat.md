@@ -12,6 +12,7 @@ categories:
   - technology
 tags:
   - tutorial
+search_terms: [webcam, camera angle, eye level, up your nose, laptop, phone, wizard of oz, skype, google hangouts, zoom, video conferencing, ring light, backlit, shadow, low light, natural light, background, earbuds, headphones, headset, microphone, mic feedback, noise cancelling, audio, sound, internet speed, bandwidth, speed test, ping, latency, lag, mbps, router, wifi, dsl, turn-taking, video quality, bottleneck, codec, social distancing, pandemic, covid, jazz, cat, tips]
 ---
 
 We can be socially close while being physically distant. Here are my tips for having genuine video chats.

@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - malaysia
+search_terms: [chilling, kuala lumpur, kl, klia, layover, stopover, transit, time zones, free internet, headscarves, headscarf, hijab, funny shirt, jesus, flight attendant, british humour, british humor, money belt, passports, customs officer, perth airport, airport security, bomb, war on terror, terrorism, freedom, civil liberties, london, flight, flying, southeast asia, travel, backpacking]
 ---
 Although my web site would have you believe I'm currently in flight from Kuala Lumpar to London I'm really just at the airport and the mistake is due to stupid time zones and my lack of being able to figure them out :s
 

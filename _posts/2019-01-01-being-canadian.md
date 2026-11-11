@@ -10,6 +10,7 @@ categories:
   - philosophy
 tags:
   - canada
+search_terms: [australian, australia, aussie, immigrant, immigration, expat, culture, cultural differences, kijiji, selling a boat, boat sale, classifieds, liberals, conservatives, politics, intent, impact, communication styles, politeness, manners, jerks, snowflakes, gender, pronouns, insults, offence, offense, happy holidays, merry christmas, religion, ottawa, ontario, driving, merging, national identity, niceness]
 ---
 
 Canada has been my wonderful home for 5 years now. As an Australian, it was an easy cultural transition. After a couple of vocabulary changes, I felt like I comfortably fit in. Recently, I had a rare unpleasant experience while selling our boat on Kijiji and it felt very un-Canadian.

@@ -9,6 +9,7 @@ categories:
 tags:
   - video
   - ukulele
+search_terms: [a-ha, aha, 80s, eighties, synthpop, synth-pop, norwegian, goats, animal, uke, song, singing, music, funny, comedy, parody, youtube]
 ---
 
 {% include youtube_player.html id='OWq2yHaAYLE' %}

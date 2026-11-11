@@ -9,6 +9,7 @@ categories:
 tags:
   - usa
   - montreal
+search_terms: [new york, new york city, nyc, manhattan, big apple, broadway, advertising, billboards, neon, ads, people watching, scots, scottish, scotland, lonely, loneliness, solo travel, backpacking, backpack, train, amtrak, mtl, acroyoga, acro yoga, ashtanga, teacher training, tam tams, mount royal, drumming, bbq, barbecue, grill, canadian beer, beer, customs, border crossing, entry fee, recruiting centre, recruiting center, military recruiting, united states, america]
 ---
 What is this madness? I'm standing in Times Square people watching in the glow of advertising waiting for something to happen. It's then that I realised the advertising was the show. A conversation sparked with a lovely trio of Scots who were as bemused as me. Their genuine interest in me was refreshing. When we parted one of them motherly reached out and squeezed my hand. It made me feel less lonely here.
 

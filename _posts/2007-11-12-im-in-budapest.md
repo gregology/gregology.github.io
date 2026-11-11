@@ -8,5 +8,6 @@ categories:
   - travel
 tags:
   - hungary
+search_terms: [hungarian, magyar, magyarország, buda, pest, hungarian capital, central europe, eastern europe, europe, arrived, arrival, travel, backpacking]
 ---
 I'm in Budapest

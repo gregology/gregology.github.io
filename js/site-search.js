@@ -10,17 +10,46 @@
   var hint = results.innerHTML;
   var index = null;
 
-  // Lowercase and drop accents, so "resume" finds "Résumé"
+  // Letters that keep their shape when accents are dropped, so need spelling out
+  var PLAIN = { 'ø': 'o', 'ł': 'l', 'ı': 'i', 'đ': 'd', 'ð': 'd', 'æ': 'ae', 'œ': 'oe', 'ß': 'ss', 'þ': 'th' };
+
+  // Words too common to help find anything. Left out of the index, and out of queries once typed.
+  // Not "us", "may", "new" or "can", which mean something in terms like "us embassy".
+  var STOP_WORDS = {};
+  ('a an and are as at be but by for from had has have he her his i in into is it its me my of on or our ' +
+    'she so than that the their them then there they this to was we were with you your').split(' ')
+    .forEach(function (word) { STOP_WORDS[word] = true; });
+
+  // Splits text into words the way MiniSearch does
+  var SEPARATOR = /[\s\p{P}]+/u;
+
+  // Lowercase and drop accents, so "resume" finds "Résumé" and "oresund" finds "Øresund"
   function fold(term) {
-    return term.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    return term.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+      .replace(/[øłıđðæœßþ]/g, function (letter) { return PLAIN[letter]; });
+  }
+
+  // Drop the stop words a visitor has finished typing. A last word still being typed stays,
+  // because "the" may be on its way to "theatre".
+  function withoutStopWords(text) {
+    var words = text.split(SEPARATOR).filter(Boolean);
+    var typing = !SEPARATOR.test(text.slice(-1));
+    return words.filter(function (word, i) {
+      return !STOP_WORDS[fold(word)] || (typing && i === words.length - 1);
+    }).join(' ');
   }
 
   function buildIndex(docs) {
     var miniSearch = new MiniSearch({
       fields: ['title', 'description', 'tags', 'terms'],
       storeFields: ['kind', 'url', 'title', 'description', 'date'],
-      processTerm: fold,
+      processTerm: function (term) {
+        var folded = fold(term);
+        return STOP_WORDS[folded] ? null : folded;
+      },
       searchOptions: {
+        // Queries keep their stop words here; withoutStopWords has already dropped the finished ones
+        processTerm: fold,
         boost: { title: 3, tags: 2, terms: 2, description: 1.5 },
         prefix: true,
         // Typos only in words of 5+ letters: allowing them in shorter words made "llm" match "Lam"
@@ -72,7 +101,9 @@
       message('Loading…');
       return;
     }
-    var hits = index.search(query).slice(0, LIMIT);
+    // Untrimmed, so a trailing space shows the last word is finished
+    var words = withoutStopWords(input.value);
+    var hits = words ? index.search(words).slice(0, LIMIT) : [];
     if (!hits.length) {
       message('No results found');
       return;

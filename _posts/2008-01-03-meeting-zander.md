@@ -9,6 +9,7 @@ categories:
 tags:
   - australia
   - family
+search_terms: [zander ty sampson, sampson, ty, birth, born, newborn, baby, baby boy, delivery room, hospital, maternity, nephew, bet, wager, case of beer, brother, pink outfit, turkey, sisters, breastfeeding, breast feeding, mothers, mum, granny, grandmother, uncle, oliver, new year's eve, nye, new year, new year 2008, sydney, stuart, stu, janell, mathew, adfa, australian defence force academy, newcastle, city bar, circular quay, fireworks, sydney harbour, police, sneaking in, fence, escorted out, kicked out, australia post, post box, decoy, crowd, big screen, tv]
 ---
 The Family and I sat outside the delivery rooms all day waiting for word of our latest member. Zander Ty Sampson was born at 16:24 on the 2nd of January 2008. He is my latest nephew and is a strange red colour with brown hair. My premination about his sex turned out to be wrong. After double checking I've asserted that he's defiantly a boy. His willy lost me a case of beer from my brother and cost him the pink outfit I bought him Turkey. 
 

@@ -15,6 +15,7 @@ tags:
   - ukulele
   - video
   - music
+search_terms: [nena, 99 luftballons, luftballons, neunundneunzig luftballons, ninety nine, cover, cover song, uke, wikijam, remix, collaboration, jam, 80s, eighties, german pop, new wave, song, singing, youtube, acoustic, strumming]
 ---
 
 {% include youtube_player.html id='tGu3Hy_Uga4' %}

@@ -6,6 +6,7 @@ permalink: /2006/10/my-biggest-yet-greg-vs-auspost/
 comments: True
 categories:
   - personal
+search_terms: [crash, accident, spill, stacked it, came off, fell off, injury, injured, roundabout, wet road, rain, storm, slippery, tyres, tires, postie bike, postman, mail, mercedes, traffic, embarrassing, australia post, employment contract, reasonable overtime, team leader, boss, management, meeting, negotiation, part time, work hours, insults, workplace, employer]
 ---
 I've had a few little spills on my postie but on Friday I had my best one yet! I wanted to get home a little early, it was a Friday and I'd had a long week and I could see the storm clouds gathering in the south. I had a dead ride to my next delivery point (a short distance where you don't deliver any mail) and it had just started to rain. I've being getting a little confident on my little postie and when I raced right at a roundabout my tyres didn't stick on the slightly wet road and the bike came away from beneath me :( It was quite embarrassing, there were lots of people around and a fellow in a mercedes stopped all the traffic while I picked my bike up and moved it off the road. I hurt my right leg and my palms :(
 

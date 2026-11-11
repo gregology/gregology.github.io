@@ -12,6 +12,7 @@ tags:
   - sailing
   - cat
 licence: Creative Commons
+search_terms: [sailing vessel, yacht, boat purchase, boat shopping, i should buy a boat, meme, internet cat, around the world, sailing around the world, circumnavigation, adventure, cruising, liveaboard, youtube, youtube channel, subscribe, svcatsaway, svcatsaway.com, kitties, pets, diana, jazz, hercules]
 ---
 
 ![Cat buying a boat](/wp-content/uploads/2017/05/i-should-buy-a-boat.jpg "Cat"){:height="95%" width="95%"}

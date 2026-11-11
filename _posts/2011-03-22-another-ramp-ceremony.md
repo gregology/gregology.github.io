@@ -12,6 +12,7 @@ categories:
   - military
 tags:
   - afghanistan
+search_terms: [spr, combat engineer, killed in action, kia, small arms fire, fallen soldier, repatriation, memorial, remembrance, aslav, raaf, richard atkinson, atkinson, mtf, smokey, going away video, action movie, 80s action film, kevin rudd, rudd, socomd, special operations command, bathy, air conditioning, air conditioner, aircon, brew point, kaf, tk, night shift, study, naafi, naffi, matty, trivia, movie trivia, bbq, tom green, canadian tour de force, tour de force, idf, indirect fire, rocket attacks, messes, french px, kfc, tgi fridays, tgif, omelette, pt, physical training, coffee, the ghan, gahn, military, army, deployment]
 ---
 
 I haven't written for a while because I've been lazy. A lot has happened in the month and a half since my last entry. I'll try my best to fill you in. Another one of our boys (Sapper Jamie Larcombe) was killed on the 20th of February, this time from small arms fire. We lined the ramp ceremony and again an Aslav took the body to an awaiting RAAF Aircraft. He was from the same unit as Corporal Richard Atkinson, and while it's terrible that we lost another solider, it's kind of comforting that at least he's with a mate.

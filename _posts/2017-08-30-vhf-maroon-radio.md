@@ -13,6 +13,7 @@ categories:
 tags:
   - ai
   - sailing
+search_terms: [machine learning, artificial intelligence, search engine, search results, site search, ecommerce, e-commerce, online shopping, retail, handheld radio, handheld, two-way radio, spare radio, radio check, marine safety, boating safety, emergency, safety equipment, life raft, hanlon's razor, malice, stupidity, canadian liar, pun, fat cat rowing a boat, cat gif, boat, year long sailing trip, partner, svcatsaway, robot uprising]
 ---
 
 My partner and I are leaving on a [year long sailing trip](https://www.youtube.com/SVCatsaway) this weekend. One of the last things on our shopping list is a spare handheld marine VHF radio. This spare radio will allow us to communicate with other boats if our main radio is incapacitated.

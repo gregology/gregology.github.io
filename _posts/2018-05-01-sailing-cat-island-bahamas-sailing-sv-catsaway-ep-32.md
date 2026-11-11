@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [rolleezz resort, rolleez, bikes, cycling, old bight, history, plantations, church, freed slaves, slavery, emancipation, new bight, hermitage, monastery, father jerome, medieval, ruins, windward side, sea beans, sea glass, beachcombing, plastic pollution, single use plastics, styrofoam, plastic ban, orange creek, reefs, coral bleaching, chasing coral, documentary, lobster, spearfishing, arthur town, humane society, fundraiser, acro, acrobatics, jennabird, bahamian, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='feRQzY0P-X4' %}

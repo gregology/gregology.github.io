@@ -8,6 +8,7 @@ categories:
   - philosophy
 tags:
   - religion
+search_terms: [mohammed, mohammad, prophet, islam, muslim, internet trolls, trolling, troll, flintstones, christmas, meme, memes, template, image macro, cartoon, cartoons, drawing, depiction, offence, offense, blasphemy, satire, humour, humor, internet]
 ---
 Has his mum ever been on the Internet? What did she think was going to happen?
 

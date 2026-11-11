@@ -6,6 +6,7 @@ permalink: /2006/10/why-are-you-stealing-my-letters-mr-postie-why/
 comments: True
 categories:
   - personal
+search_terms: [postman, mailman, mail carrier, mail, bills, dad joke, missorted, mis sorted, sorting, mistake, theft, do not bend, sweden, swedish, cd, compact disc, viking songs, team leader, boss, manager, marty, overtime, 50 hour weeks, long hours, workload, negotiation, called his bluff, recruitment, staff shortage, part time, early start, shift loading, penalty rates, auspost, australia post, employment, work life balance, daytime tv]
 ---
 I like it when people come out to collect their mail, they say the joke "I hope you're not giving me bills postie" in its various forms and I laugh hysterically. Sometimes though, I pull up at a house, they walk over, they tell me their version of the joke, I laugh hysterically, then when I look in my little pouch I find that I've miss sorted a letter (it's not for the house that I'm in front of, like I've gotten the street name wrong or something) so I have to quickly put it in the side pocket of the bike. When they see this they look at me and their eyes say "why are you stealing my letters Mr postie, why?" to which I reply "bye" and speed away.
 

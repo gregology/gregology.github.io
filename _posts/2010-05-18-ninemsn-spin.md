@@ -8,6 +8,7 @@ categories:
   - philosophy
 tags:
   - politics
+search_terms: [nine msn, nine news, political spin, media spin, media bias, bias, news, journalism, media literacy, misleading, tony abbott, abbott, joe hockey, kevin rudd, rudd, 7.30 report, seven thirty report, abc, qanda, shadow treasurer, opposition leader, gospel truth, scripted remarks, lies, lying, broken promises, charity dinner, youth cancer, tie, vote for policies, video]
 ---
 I found an interesting spin video on ninemsn (video removed). The title "Abbott admits to policy lies" interested me enough to click. After watching the [7:30 Report][2] I figured out what actually happened.  
 [<img src="/wp-content/uploads/2010/05/Screenshot.png" alt="" title="Tony Abbott 7:30 Report" width="100%" height="auto" />][3]  

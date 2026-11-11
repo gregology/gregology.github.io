@@ -11,6 +11,7 @@ categories:
 tags:
   - frisbee
   - scooter
+search_terms: [tooheys old, tooheys, brother, bar, anzac day, gunfire breakfast, coffee, rum, caffeine, alcohol, social drugs, no drugs, sobriety, rationality, cultural norms, painkillers, moving house, mum, newcastle, uni, university, degree, student, sydney, commute, street mission, sailing program, sailing, mac uni, macquarie university, ultimate frisbee, motorbike, motorcycle, fuel efficiency, fuel economy, speeding ticket, police, fuzz, helmet, visor, condensation, rainbow, headlights, night riding, toilets, hand washing, hygiene, paper towel]
 ---
 I've given up on my "no drugs" crusade, society and cultural norms are against me :( I met my brother at a bar on Monday night and when I arrived there was a frosty Tooheys Old waiting for me. I then figured that Sunday will begin with ANZAC day traditions which is coffee and rum which is caffeine and alcohol in one hit! I figured my whole plan was doomed to failure, you win again society, I'll do what I'm told. My weakness snowballed and I had a drink after work on Tuesday and a drink after frisbee tonight :s My "no drugs" crusade was an attempt to become a rational being by distancing myself from irrational culture (we drink the poisonous excrement of microscopic organisms, replace sleep with caffeine, and numb our bodies natural warnings with pain killers) but it is a difficult task. I think it'll be easier to find a rational reason to use social drugs, I'll get started on that instead :)
 

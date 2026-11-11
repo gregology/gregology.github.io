@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - ireland
+search_terms: [halfway, around ireland, road trip, roadtrip, dublin, belfast, northern ireland, ulster, uk, portstewart, causeway coast, county londonderry, westport, county mayo, mayo, scott, scottmc, photos, photographs, website, travel, irish, driving, north]
 ---
 We're back in Dublin and we're continuing our trip around Ireland. We went north spending 2 nights in Belfast, 1 night in Portstewart, and 2 nights in Westport. My photos will tell more then my words. I will write more when I get a chance.
 

@@ -8,5 +8,6 @@ categories:
   - travel
 tags:
   - france
+search_terms: [south of france, southern france, languedoc, occitanie, herault, hérault, mediterranean, french, europe, arrival, train, travel, backpacking, nathalie]
 ---
 Arrived in Montpellier

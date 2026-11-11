@@ -10,6 +10,7 @@ categories:
   - personal
 tags:
   - mental health
+search_terms: [expectation vs reality, digital detox, social media, infinite scrolling, doomscrolling, recommended content, unplug, staycation, self-care, schedule, yoga, face yoga, upward dog yoga, meditation, ukulele, rodriguez, cold fact, don mclean, regina spektor, rc boat, remote control boat, sailing, canal, acro, acroyoga, beach, hiking, board games, board game arena, day drinking, brother, sister-in-law, mum, mom, diana, nap, bbq, barbecue, sharknado, onward, pixar, movies, thai massage, experimental farm, ottawa, cannabis, lockdown, covid]
 ---
 
 I need to turn off and on again. An IRL retreat is out of the question so this is the DIY approach. Starting Saturday morning, four days, no social/news media, lots of lazy activities.

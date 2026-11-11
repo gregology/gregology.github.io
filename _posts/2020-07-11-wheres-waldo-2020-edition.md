@@ -9,6 +9,7 @@ licence: Creative Commons
 categories:
   - personal
 tags:
+search_terms: [where's wally, wally, wheres waldo, puzzle, picture puzzle, search and find, seek and find, hidden picture, kids, children, kids activity, activity, lockdown, lock down, covid, coronavirus, pandemic, quarantine, summer, space, outer space, fruit, boredom, entertainment]
 ---
 
 Here are some Where's Waldo images to keep the kids occupied during this lock down summer. There are a couple of updates to make it feel more appropriate for 2020.

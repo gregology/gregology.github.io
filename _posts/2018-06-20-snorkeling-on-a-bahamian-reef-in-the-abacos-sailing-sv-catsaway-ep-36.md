@@ -12,6 +12,7 @@ tags:
   - sailing
   - caribbean
   - video
+search_terms: [snorkelling, bahamas, abaco islands, coral reef, reef fish, tropical fish, marine life, underwater, swimming, ocean, catamaran, youtube, vlog, svcatsaway]
 ---
 
 {% include youtube_player.html id='XwyPVoIk0y8' %}

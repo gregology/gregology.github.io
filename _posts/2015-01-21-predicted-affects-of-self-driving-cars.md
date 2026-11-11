@@ -10,6 +10,7 @@ categories:
   - philosophy
 tags:
   - prediction
+search_terms: [effects, autonomous vehicles, autonomous cars, driverless cars, driverless, robot cars, robocar, future, futurism, forecast, transport, transportation, traffic, traffic jams, congestion, tailgating, connected cars, colregs, collision regulations, port gives way to starboard, magic roundabout, swindon, roundabouts, road signs, formula one, f1, autobahn, g-force, intercity travel, planes, post-scarcity, general purpose robots, robots, automation, labour, labor, real estate, land value, commute, road deaths, road safety, world health organization, world health organisation, car accidents, crashes, insurance, risk, drivers, truck drivers, taxi drivers, job losses, artificial intelligence, knight rider, kitt]
 ---
 Self driving cars are coming. Here are my January 2015 predictions on how they will change the world.
 

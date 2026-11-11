@@ -9,6 +9,7 @@ categories:
 tags:
   - family
   - england
+search_terms: [oliver, oliver o'connor, o'connor, nephew, birth, born, newborn, baby, new baby, sister, natalie, celebration, celebrate, chocolates, sparkling wine, bubbly, prank, practical joke, mischief, elevator, lift, office building, floors, swipe card, access card, office humour, office humor, lunch break, boredom, good times, work, office]
 ---
 Oliver O'Connor entered the after-birth at 8:30am on the 26th day of July, 2007. I'm yet to see a picture of him because technology let me down :( but I'm very excited about meeting the little fellow. I brought chocolates to work today to celebrate his arrival and I've got some sparkling wine which I'm yet to consume in his honour. I'll post pictures when I get some :)
 

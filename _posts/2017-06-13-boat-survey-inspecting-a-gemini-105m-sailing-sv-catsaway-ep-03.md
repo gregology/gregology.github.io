@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [sailing vessel, catamaran, multihull, yacht, sailboat, cape cod, massachusetts, rhapsody, angel, mass maritime marine, marine surveyor, surveyor, inspection, pre-purchase survey, on the hard, sea trial, engine, escrow, offer to purchase, electrical, inverter, centreboards, centerboards, cracked windows, solar panels, waterline, launch, repaint, hyannis port, hyannis, barnstable, boat buying, diana, jazz, hercie, vlog, episode]
 ---
 
 {% include youtube_player.html id='avIjWNpeZZY' %}

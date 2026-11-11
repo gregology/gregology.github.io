@@ -15,6 +15,7 @@ categories:
 tags:
   - photography
   - australia
+search_terms: [railway, rail, train ride, commute, commuting, commuter, newcastle, sydney, hornsby, gosford, central coast, hawkesbury river, new south wales, nsw, cityrail, intercity, scenery, scenic, views, landscape, bush, phone photos, mobile photos, pictures, gallery, travel]
 ---
 I have been catching the train from Newcastle to Sydney a couple of times a week lately. There is some really stunning views from Hornsby to Gosford so I snapped some images on my phone and here they are.
 

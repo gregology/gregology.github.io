@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, catamaran, gemini, yacht, sailboat, boat, mast stepping, stepping the mast, mast, rigging, chaumont yacht club, chaumont, cyc, kingston, new york, border crossing, thunderstorms, weather, calm, stable flies, flies, biting flies, insects, bugs, wolfe island, st. lawrence river, st lawrence, saint lawrence, wind turbines, wind farm, wind power, treasure island marina, marina, navionics, navigation, charts, engine, crossing, passage, charles, sophia, diana, vlog, episode]
 ---
 
 {% include youtube_player.html id='_Cavnv7VLlk' %}

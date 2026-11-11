@@ -10,6 +10,7 @@ categories:
   - creative
 tags:
   - video
+search_terms: [pocketbike, minibike, mini bike, mini moto, motorbike, motorcycle, dylan, paul, fire, playing with fire, flames, stunts, youtube, mates, friends, home video]
 ---
 
 {% include youtube_player.html id='zpscuMoeF0M' %}

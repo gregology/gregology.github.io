@@ -10,6 +10,7 @@ categories:
   - creative
 tags:
   - ukulele
+search_terms: [uke, ukuleles, concert ukulele, kaia, ka-kc, koa, hawaiian koa, hawaii, allans music, allans, music shop, music store, buying, purchase, poll, votes, banjo, guitar, tuner, electronic tuner, microphone, cairns, sale, end of year sale, bargain, new toy, musical instrument, learning music, beginner]
 ---
 The Ukulele had two votes to every one for the Banjo and Guitar (not including mine). Over 60 votes are recorded on the poll but 56 of them were computer generated to make me feel better about people actually caring what instrument I play :)
 

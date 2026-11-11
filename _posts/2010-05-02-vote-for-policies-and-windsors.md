@@ -11,6 +11,7 @@ categories:
 tags:
   - politics
   - australia
+search_terms: [voteforpolicies, uk election, british election, general election, federal election, election, voting, policy, political parties, survey, quiz, voting advice, kevin rudd, rudd, tony abbott, abbott, prime minister, windsor knot, tie, necktie, tie knot, knot, how to tie, teddy bear, socialist, propaganda, website idea, united kingdom, uk]
 ---
 I came across an interesting site for the UK election. [Vote for Policies][1] suggests which party a user should vote for based on their selection of policies. The user selects issues that concern them, for instance Health, Education etc, and then is given a selection of the policies of the six major parties. The user does not know which policies belong to which party and at the end of the survey the website returns the party which best represents the users policy preference.
 

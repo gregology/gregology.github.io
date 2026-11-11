@@ -11,6 +11,7 @@ categories:
 tags:
   - australia
   - family
+search_terms: [janell, stu, stuart, brother, wedding, married, marriage, sister-in-law, sisters-in-law, clark island, sydney harbour, sydney, ceroc, first dance, bride, best man, best man speech, beer, bucks night, buck's party, stag do, bachelor party, newcastle, aaron, sam, pub golf, pub crawl, races, horse racing, racecourse, tim, mum, kidnap, sky diving, skydiving, parachute, nathalie, hotel, room service, breakfast, coffee, ninny, oliver, airport, goodbye, deployment]
 ---
 Janell became one of us yesterday and I gained two more sisters. The service was held on Clark Island in Sydney harbour. It was a lot of effort but it really paid off and it was a great day. Stu and Janell showed off a ceroc routine for their first dance which went down really well. Then I got to dance with the beautiful bride. My brother has done well and I can see by the way they look at each other that they adore each other. After a few beers I was reminded of my best man speech duties. I think pulled it off.
 
