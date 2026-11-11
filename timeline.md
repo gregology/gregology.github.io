@@ -6,48 +6,32 @@ comments: True
 licence: Creative Commons
 description: "Major life events from 1983 to now, with a live counter showing how long I've been alive."
 search_terms: [history, biography, life story, chronology, milestones]
+css:
+  - "/css/timeline.css"
+js:
+  - "/js/timeline.js"
 ---
 
-<div id='time-alive'> </div>
+<div id="greg-clock" data-dob="{{ site.author.dob }}" data-life-expectancy-years="{{ site.author.life_expectancy_years }}" data-life-expectancy-source="{{ site.author.life_expectancy_source }}"></div>
 
-<script type = "text/javascript" > 
-  var timeAlive = document.getElementById('time-alive');
+## 2026
 
-  var dob = new Date("{{ site.author.dob }}");
-  
-  function calculateTimeAlive() {
-      secondsAlive = (Date.now() - dob.valueOf())/1000;
-      minutesAlive = (secondsAlive / 60).toFixed(0)
-      hoursAlive = (secondsAlive / (60 * 60)).toFixed(2)
-      daysAlive = (secondsAlive / (60 * 60 * 24)).toFixed(2)
-      weeksAlive = (secondsAlive / (60 * 60 * 24 * 7)).toFixed(1)
-      monthsAlive = (secondsAlive / (60 * 60 * 24 * (365.2425 / 12))).toFixed(1)
-      yearsAlive = (secondsAlive / (60 * 60 * 24 * 365.2425)).toFixed(2)
+### August
 
-      lifeExpectancySeconds = {{ site.author.life_expectancy_years }} * 365.2425 * 24 * 60 * 60
-      secondsLeft = lifeExpectancySeconds - secondsAlive;
-      minutesLeft = (secondsLeft / 60).toFixed(0)
-      hoursLeft = (secondsLeft / (60 * 60)).toFixed(2)
-      daysLeft = (secondsLeft / (60 * 60 * 24)).toFixed(1)
-      weeksLeft = (secondsLeft / (60 * 60 * 24 * 7)).toFixed(1)
-      monthsLeft = (secondsLeft / (60 * 60 * 24 * (365.2425 / 12))).toFixed(1)
-      yearsLeft = (secondsLeft / (60 * 60 * 24 * 365.2425)).toFixed(2)
+🛍 Left Shopify again, after 7 more years
 
-      lifePercentage = ((secondsAlive / lifeExpectancySeconds) * 100).toFixed(9)
+## 2023
 
-      timeAlive.innerHTML = "<h3>Greg's Clock 🕔</h3>Greg is <b>" + lifePercentage + "%</b> through his expected life span<a href='{{ site.author.life_expectancy_source }}' target='_blank'>¹</a>.<br><div style='overflow-x:auto'><table style='width:100%'><tr><th>Time</th><th>Seconds</th><th>Minutes</th><th>Hours</th><th>Days</th><th>Weeks</th><th>Months</th><th>Years</th></tr><tr><th>Spent</th><td>" + Math.round(secondsAlive) + "</td><td>" + minutesAlive + "</td><td>" + hoursAlive + "</td><td>" + daysAlive + "</td><td>" + weeksAlive + "</td><td>" + monthsAlive + "</td><td>" + yearsAlive + "</td></tr><tr><th>Left</th><td>" + Math.round(secondsLeft) + "</td><td>" + minutesLeft + "</td><td>" + hoursLeft + "</td><td>" + daysLeft + "</td><td>" + weeksLeft + "</td><td>" + monthsLeft + "</td><td>" + yearsLeft + "</td></tr></table></div>";
-  }
-  calculateTimeAlive();
+### February
 
-  var cancel = setInterval(calculateTimeAlive, 1000);
-</script>
-
+🛍 Returned to Shopify from parental leave
 
 ## 2021
 
 ### December
 
-🐣 Diana and I became parents, Marisol Jasmine Lam Clarke was born at 2021-12-06 04:25EST (3.560Kg/49.5cm)
+🐣 Diana and I became parents, Marisol Jasmine Lam Clarke was born at 2021-12-06 04:25EST (3.560Kg/49.5cm)  
+🍼 Started 14 months of parental leave
 
 ### July
 
@@ -388,10 +372,6 @@ search_terms: [history, biography, life story, chronology, milestones]
 
 🎓 Started studying structural engineering at TAFE
 
-### January
-
-👫 Started dating my first serious girlfriend, Julia Stockdale
-
 ## 2001
 
 ### November
@@ -401,6 +381,10 @@ search_terms: [history, biography, life story, chronology, milestones]
 ### May?
 
 🚙 Bought my first car, a 1983 Toyota Hilux with a 253 V8
+
+### January
+
+👫 Started dating my first serious girlfriend, Julia Stockdale
 
 ## 2000
 
