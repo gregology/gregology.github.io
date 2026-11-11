@@ -10,12 +10,12 @@
   {%- endcapture %}
 
   <div class="language-plaintext highlighter-rouge" style="max-height:200px;overflow-y:auto;"><pre class="highlight"><code>{{ signature_content | escape }}</code></pre></div>
-  <a href="{{ site.raw_baseurl }}{{ page.path }}.asc" download>download</a>
+  <a href="{{ page.signature_url | relative_url }}" download>download</a>
 
   <h3 id="verify">Verify</h3>
 
   <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 curl https://gregology.net/public_key | gpg --import
-curl {{ site.raw_baseurl }}{{ page.path }}.asc | gpg --verify
+curl {{ page.signature_url | absolute_url }} | gpg --verify
   </code></pre></div></div>
 </p>
