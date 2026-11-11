@@ -10,9 +10,13 @@
   var hint = results.innerHTML;
   var index = null;
 
-  // Lowercase and drop accents, so "resume" finds "Résumé"
+  // Letters that keep their shape when accents are dropped, so need spelling out
+  var PLAIN = { 'ø': 'o', 'ł': 'l', 'ı': 'i', 'đ': 'd', 'ð': 'd', 'æ': 'ae', 'œ': 'oe', 'ß': 'ss', 'þ': 'th' };
+
+  // Lowercase and drop accents, so "resume" finds "Résumé" and "oresund" finds "Øresund"
   function fold(term) {
-    return term.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    return term.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+      .replace(/[øłıđðæœßþ]/g, function (letter) { return PLAIN[letter]; });
   }
 
   function buildIndex(docs) {
