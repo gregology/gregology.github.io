@@ -2,16 +2,19 @@
 <script>
   window.CLIPPY_PAGE = {
     base: {{ site.baseurl | jsonify | replace: "</", "<\/" }},
+    // changes on every build, so a deploy never mixes cached old files with new ones
+    version: {{ site.time | date: '%s' | jsonify }},
     message: {{ page.clippy_help | jsonify | replace: "</", "<\/" }},
     choices: {{ page.clippy_choices | jsonify | replace: "</", "<\/" }}
   };
   (function () {
     var base = window.CLIPPY_PAGE.base;
+    var version = '?v=' + encodeURIComponent(window.CLIPPY_PAGE.version);
 
     function loadScripts() {
       ['/js/clippy.js', '/js/office-assistant.js'].forEach(function (src) {
         var script = document.createElement('script');
-        script.src = base + src;
+        script.src = base + src + version;
         script.async = false; // run in this order
         document.body.appendChild(script);
       });
@@ -20,7 +23,7 @@
     function start() {
       var css = document.createElement('link');
       css.rel = 'stylesheet';
-      css.href = base + '/css/clippy.css';
+      css.href = base + '/css/clippy.css' + version;
       css.onload = css.onerror = loadScripts;
       document.head.appendChild(css);
     }

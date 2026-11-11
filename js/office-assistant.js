@@ -19,6 +19,9 @@
 
     var page = window.CLIPPY_PAGE || {};
     var BASE = page.base || '';
+
+    // fetch this build's agent files, not whatever an earlier visit cached
+    clippy.load.version = page.version || '';
     var AGENTS_PATH = BASE + '/agents/';
     var STORAGE_KEY = 'officeAssistant';
     var GREETING_DELAY = 1500;

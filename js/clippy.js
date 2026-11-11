@@ -74,7 +74,7 @@ var Animator = function Animator (el, path, data, sounds) {
     this._el = el;
     this._data = data;
     this._path = path;
-    this._sheets = $.map(data.sheets || ['map.png'], function (sheet) { return path + '/' + sheet; });
+    this._sheets = $.map(data.sheets || ['map.png'], function (sheet) { return load._url(path + '/' + sheet); });
     // the first (core) sheet is always loaded before an Animator is created
     this._loadedSheets = { 0: true };
     this._animationSheets = {};
@@ -1460,7 +1460,7 @@ load.data = function data (name, base_path) {
     var path = base_path + name;
     return load._loadAgent(name, path).then(function (agentData) {
         var sheets = agentData.sheets || ['map.png'];
-        return load._loadImage(path + '/' + sheets[0]).then(function () { return agentData; });
+        return load._loadImage(load._url(path + '/' + sheets[0])).then(function () { return agentData; });
     });
 };
 
@@ -1491,7 +1491,7 @@ load._loadSounds = function _loadSounds (name, path) {
     if (!audio.canPlayType || !audio.canPlayType('audio/mpeg')) {
         dfd.resolve({});
     } else {
-        load._loadScript(path + '/sounds-mp3.js', function () { dfd.resolve({}); });
+        load._loadScript(load._url(path + '/sounds-mp3.js'), function () { dfd.resolve({}); });
     }
 
     return dfd.promise();
@@ -1501,7 +1501,7 @@ load._loadAgent = function _loadAgent (name, path) {
     var dfd = load._getAgentDfd(name);
     if (!load._requested[name]) {
         load._requested[name] = true;
-        load._loadScript(path + '/agent.js', function () {
+        load._loadScript(load._url(path + '/agent.js'), function () {
             delete load._requested[name];
             delete load._data[name];
             dfd.reject(path + '/agent.js');
@@ -1525,6 +1525,18 @@ load._getAgentDfd = function _getAgentDfd (name) {
         dfd = load._data[name] = $.Deferred();
     }
     return dfd;
+};
+
+/***
+ * Set clippy.load.version (e.g. the site's build time) and every file an agent
+ * fetches gets ?v=<version>, so a deploy never mixes cached files from an older
+ * build with new ones.
+ */
+load.version = '';
+
+load._url = function _url (src) {
+    if (!load.version) { return src; }
+    return src + (src.indexOf('?') === -1 ? '?' : '&') + 'v=' + encodeURIComponent(load.version);
 };
 
 load._images = {};
