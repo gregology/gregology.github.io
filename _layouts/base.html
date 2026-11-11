@@ -2,7 +2,6 @@
 common-css:
   - "/css/bootstrap.min.css"
   - "/css/main.css"
-  - "/css/clippy.css"
 
 common-googlefonts:
   - "Lora:400,700,400italic,700italic"
@@ -32,15 +31,7 @@ common-js:
     {% include footer-scripts.html %}
 
     {% if page.clippy_help %}
-      <script src="/js/jquery.min.js"></script>
-      <script src="/js/clippy.js"></script>
-      <script type="text/javascript">
-      clippy.load('Clippy', function(agent){
-          agent.show();
-          setTimeout(function(){ agent.play('Wave'); agent.speak("{{ page.clippy_help }}"); }, 1500);
-          setTimeout(function(){ agent.animate(); }, 10000);
-      });
-      </script>
+      {% include clippy.html %}
     {% endif %}
 
   </body>

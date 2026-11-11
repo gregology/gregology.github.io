@@ -1,24 +1,70 @@
-.clippy, .clippy-balloon {
+/*
+ * Office Assistant (js/clippy.js and js/office-assistant.js).
+ * Loaded on demand by _includes/clippy.html, after the page has finished loading.
+ */
+
+.clippy {
   position: fixed;
-  z-index: 1000;
+  z-index: 1045;
   cursor: pointer;
+  /* let fingers drag the assistant instead of scrolling the page */
+  touch-action: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
+.clippy:focus {
+  outline: none;
+}
+
+.clippy:focus-visible {
+  outline: 1px dotted #000;
+  outline-offset: 2px;
+}
+
+.clippy-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --- Balloon --- */
+
 .clippy-balloon {
-
-  background: #FFC;
-  color: black;
-  padding: 8px;
-  border: 1px solid black;
-  border-radius: 5px;
-
+  position: fixed;
+  z-index: 1046;
+  background: #ffc;
+  color: #000;
+  padding: 8px 10px;
+  border: 1px solid #000;
+  border-radius: 8px;
+  font: 12px/1.4 Tahoma, Verdana, "Segoe UI", sans-serif;
+  text-align: left;
 }
 
 .clippy-content {
   max-width: 200px;
   min-width: 120px;
-  font-family: "Microsoft Sans", sans-serif;
-  font-size: 10pt;
+  overflow-wrap: break-word;
+}
+
+.clippy-asking .clippy-content {
+  max-width: 240px;
+}
+
+@media (max-width: 400px) {
+  .clippy-content,
+  .clippy-asking .clippy-content {
+    max-width: calc(100vw - 50px);
+  }
 }
 
 .clippy-tip {
@@ -41,7 +87,6 @@
   left: 0;
   margin-left: 50px;
   background-position: -10px 0;
-
 }
 
 .clippy-bottom-right .clippy-tip {
@@ -58,4 +103,471 @@
   left: 100%;
   margin-left: -50px;
   background-position: 0px -16px;
+}
+
+.clippy-title {
+  margin: 0 0 6px;
+  font-weight: bold;
+}
+
+.clippy-text {
+  margin: 0 0 6px;
+  font: inherit;
+  line-height: inherit;
+}
+
+/* the blue bullet choices */
+.clippy-choices {
+  list-style: none;
+  margin: 4px 0 6px;
+  padding: 0;
+}
+
+.clippy-choices li {
+  margin: 0;
+  padding: 0;
+}
+
+.clippy-choice {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  width: 100%;
+  margin: 0;
+  padding: 2px 0;
+  border: 0;
+  background: none;
+  color: #000;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.clippy-choice::before {
+  content: "";
+  flex: none;
+  width: 9px;
+  height: 9px;
+  margin-top: 4px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #8cf 0, #06f 45%, #003 100%);
+}
+
+.clippy-choice:hover,
+.clippy-choice:focus-visible {
+  color: #00c;
+  text-decoration: underline;
+  outline: none;
+}
+
+.clippy-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  margin: 6px 0;
+}
+
+.clippy-input {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+  padding: 2px 4px;
+  resize: none;
+  background: #fff;
+  color: #000;
+  font: inherit;
+  border: 0;
+  border-radius: 0;
+  box-shadow: inset 1px 1px #808080, inset -1px -1px #fff, inset 2px 2px #000, inset -2px -2px #dfdfdf;
+}
+
+.clippy-input:focus {
+  outline: none;
+}
+
+.clippy-check {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin: 4px 0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.clippy-check input {
+  margin: 0;
+}
+
+.clippy-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+/* --- Windows 98 controls --- */
+
+.clippy-button,
+.clippy-titlebar-button,
+.clippy-restore {
+  background: #c0c0c0;
+  color: #000;
+  border: 0;
+  border-radius: 0;
+  box-shadow: inset -1px -1px #000, inset 1px 1px #fff, inset -2px -2px #808080, inset 2px 2px #dfdfdf;
+  cursor: pointer;
+}
+
+.clippy-button {
+  min-width: 64px;
+  margin: 0;
+  padding: 3px 10px;
+  font: 12px Tahoma, Verdana, "Segoe UI", sans-serif;
+}
+
+.clippy-button:active,
+.clippy-titlebar-button:active,
+.clippy-restore:active {
+  box-shadow: inset 1px 1px #000, inset -1px -1px #fff, inset 2px 2px #808080, inset -2px -2px #dfdfdf;
+}
+
+.clippy-button:active {
+  padding: 4px 9px 2px 11px;
+}
+
+.clippy-button:focus-visible,
+.clippy-restore:focus-visible,
+.clippy-titlebar-button:focus-visible {
+  outline: 1px dotted #000;
+  outline-offset: -4px;
+}
+
+.clippy-button:disabled {
+  color: #808080;
+  text-shadow: 1px 1px #fff;
+  cursor: default;
+}
+
+/* --- Tip of the Day lightbulb --- */
+
+.clippy-lightbulb {
+  position: fixed;
+  z-index: 1046;
+  width: 24px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.clippy-lightbulb::before {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 0;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #a80;
+  border-radius: 50%;
+  background: radial-gradient(circle at 40% 35%, #fff 0, #ffff80 30%, #fc0 80%);
+  animation: clippy-glow 1.6s ease-in-out infinite alternate;
+}
+
+.clippy-lightbulb::after {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 17px;
+  width: 8px;
+  height: 8px;
+  border-radius: 0 0 3px 3px;
+  background: repeating-linear-gradient(#999 0 2px, #666 2px 3px);
+}
+
+.clippy-lightbulb:focus-visible {
+  outline: 1px dotted #000;
+}
+
+@keyframes clippy-glow {
+  from { box-shadow: 0 0 2px 1px rgba(255, 220, 0, 0.4); }
+  to { box-shadow: 0 0 8px 3px rgba(255, 220, 0, 0.9); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .clippy-lightbulb::before {
+    animation: none;
+  }
+}
+
+/* --- "Show the Office Assistant" button --- */
+
+.clippy-restore {
+  position: fixed;
+  right: 12px;
+  bottom: 12px;
+  z-index: 1045;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+}
+
+.clippy-restore::before {
+  content: "?";
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 20px;
+  height: 15px;
+  border: 1px solid #000;
+  border-radius: 50%;
+  background: #ffff80;
+  color: #000;
+  font: bold 11px/15px Tahoma, Verdana, sans-serif;
+  text-align: center;
+}
+
+.clippy-restore::after {
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  border-style: solid;
+  border-width: 5px 5px 0 0;
+  border-color: #000 transparent transparent;
+}
+
+/* --- Right-click menu --- */
+
+.clippy-menu {
+  position: fixed;
+  z-index: 1060;
+  min-width: 160px;
+  padding: 3px;
+  background: #c0c0c0;
+  box-shadow: inset -1px -1px #000, inset 1px 1px #dfdfdf, inset -2px -2px #808080, inset 2px 2px #fff;
+  font: 12px Tahoma, Verdana, "Segoe UI", sans-serif;
+}
+
+.clippy-menu:focus {
+  outline: none;
+}
+
+.clippy-menu-item {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 3px 20px;
+  border: 0;
+  background: none;
+  color: #000;
+  font: inherit;
+  text-align: left;
+  white-space: nowrap;
+  cursor: default;
+}
+
+.clippy-menu-item:hover,
+.clippy-menu-item:focus {
+  background: #000080;
+  color: #fff;
+  outline: none;
+}
+
+/* --- Office Assistant dialog --- */
+
+.clippy-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1060;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+
+.clippy-window {
+  width: 100%;
+  max-width: 410px;
+  max-height: calc(100vh - 16px);
+  overflow: auto;
+  padding: 3px;
+  background: #c0c0c0;
+  color: #000;
+  font: 12px/1.4 Tahoma, Verdana, "Segoe UI", sans-serif;
+  text-align: left;
+  box-shadow: inset -1px -1px #000, inset 1px 1px #dfdfdf, inset -2px -2px #808080, inset 2px 2px #fff;
+}
+
+.clippy-titlebar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 2px 2px 4px;
+  background: linear-gradient(90deg, #000080, #1084d0);
+  color: #fff;
+  font-weight: bold;
+}
+
+.clippy-titlebar-button {
+  position: relative;
+  width: 16px;
+  height: 14px;
+  padding: 0;
+}
+
+/* the close cross */
+.clippy-titlebar-button::before,
+.clippy-titlebar-button::after {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 6px;
+  width: 8px;
+  height: 2px;
+  background: #000;
+  transform: rotate(45deg);
+}
+
+.clippy-titlebar-button::after {
+  transform: rotate(-45deg);
+}
+
+/* the selected tab is taller and covers the panel's top edge, as in Windows 98 */
+.clippy-tabs {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: -2px;
+  padding: 6px 6px 0;
+}
+
+.clippy-tabs [role=tab] {
+  position: relative;
+  margin: 0 0 2px;
+  padding: 2px 10px;
+  border: 0;
+  border-radius: 3px 3px 0 0;
+  background: #c0c0c0;
+  color: #000;
+  font: inherit;
+  box-shadow: inset 1px 1px #fff, inset -1px 0 #000, inset -2px 0 #808080;
+  cursor: pointer;
+}
+
+.clippy-tabs [role=tab].is-active {
+  z-index: 1;
+  margin: 0 -2px;
+  padding: 4px 12px 5px;
+}
+
+.clippy-tabs [role=tab]:focus-visible {
+  outline: 1px dotted #000;
+  outline-offset: -4px;
+}
+
+.clippy-panel {
+  min-height: 200px;
+  margin: 0 6px;
+  padding: 10px;
+  box-shadow: inset -1px -1px #000, inset 1px 1px #fff, inset -2px -2px #808080, inset 2px 2px #dfdfdf;
+}
+
+.clippy-panel[hidden] {
+  display: none;
+}
+
+.clippy-gallery {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.clippy-gallery-text {
+  flex: 1;
+}
+
+.clippy-gallery-name {
+  margin: 0 0 6px;
+  color: #000;
+  font: bold 14px Tahoma, Verdana, "Segoe UI", sans-serif;
+}
+
+.clippy-gallery-blurb {
+  margin: 0;
+  font: inherit;
+  line-height: 1.4;
+}
+
+.clippy-gallery-stage {
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 120px;
+  background: #fff;
+  box-shadow: inset 1px 1px #808080, inset -1px -1px #fff, inset 2px 2px #000, inset -2px -2px #dfdfdf;
+  color: #808080;
+}
+
+.clippy-gallery-stage.is-loading::after {
+  content: "Loading...";
+}
+
+.clippy-gallery-nav {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.clippy-group {
+  margin: 0 0 10px;
+  padding: 6px 10px 8px;
+  border: 1px solid #808080;
+  box-shadow: 1px 1px #fff, inset 1px 1px #fff;
+}
+
+.clippy-group legend {
+  float: none;
+  width: auto;
+  margin: 0;
+  padding: 0 3px;
+  color: #000;
+  font: inherit;
+}
+
+.clippy-group .clippy-button {
+  margin-top: 6px;
+}
+
+.clippy-dialog-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  padding: 8px 6px 4px;
+}
+
+@media (max-width: 400px) {
+  .clippy-gallery {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+}
+
+/* the assistant has no business on paper */
+@media print {
+  .clippy,
+  .clippy-balloon,
+  .clippy-lightbulb,
+  .clippy-menu,
+  .clippy-backdrop,
+  .clippy-restore {
+    display: none !important;
+  }
 }

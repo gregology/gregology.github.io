@@ -10,6 +10,7 @@ redirect_from:
   - /gregologicalstudies/Gazillion
   - /gazillion
   - /Gazillion
+clippy_help: It looks like you're trying to count to a Gazillion, let me help.
 ---
 ### A Gazillion
 
@@ -45,23 +46,24 @@ Gazzen, from Latin `earthly edge`, or end of the earth, abbreviated to gaz (lite
 
 1, {% include gazillion_zeros.html %}
 
-<script src="/js/jquery.min.js"></script>
-<script src="/js/clippy.js"></script>
 <script type="text/javascript">
-  clippy.load('Clippy', function(agent){
-    agent.show();
-    setTimeout(function(){ agent.play('Wave'); agent.speak("It looks like you're trying to count to a Gazillion, let me help."); }, 1500);
-      
+  // the Office Assistant calls this once it appears (see _includes/clippy.html)
+  window.clippyReady = function (agent) {
     var i = 1;
 
     function counting () {
       setTimeout(function () {
+        // stop if the reader picked a different assistant
+        if (window.OfficeAssistant.agent() !== agent) { return; }
+        // only count while someone is watching
+        if (agent.isVisible() && !document.hidden) {
           agent.speak(i.toString());
           i++;
-          counting();
-      }, 3000)
+        }
+        counting();
+      }, 3000);
     }
 
     counting();
-  });
+  };
 </script>
