@@ -13,6 +13,7 @@ categories:
 tags:
   - quantified self
   - privacy
+search_terms: [social media, social network, screen time, addiction, chart, graph, line chart, google charts, data visualization, data visualisation, personal data, habits, trends, meta, fb, statistics, self tracking, personal analytics, digital wellbeing, late night, versus, usage stats]
 ---
 
 <script type="text/javascript">

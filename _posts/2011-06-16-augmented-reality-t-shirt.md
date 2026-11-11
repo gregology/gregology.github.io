@@ -19,6 +19,7 @@ tags:
   - android
   - tutorial
   - video
+search_terms: [tshirt, tee, tee shirt, screen printing, screenprint, stencil, fiducial marker, fashion, augmented reality fashion, clothing, apparel, halloween, halloween costumes, costume, video conference, videoconferencing, suit, girlfriend, augmented girlfriend, proof of concept, diy, how to, craft, apps, mobile app, smartphone, 3d graphics, computer vision, camera, youtube, wearable, wearables, maker]
 ---
 I have been playing around with augment reality apps for Android and thinking of useful ways to integrate them into my every day life. Augmented reality fashion will allow us to change our appearance with a push of a button. Imagine having a video conference wearing a comfortable t-shirt but appearing as though you are wearing a suit. Other applications include awesome Halloween costumes, girlfriends getting ready quickly, and never turning up to a party wearing the same clothes as someone else. This is just a fun proof of concept but I will attempt to make more useful 3d models to augment over the real t-shirt.
 

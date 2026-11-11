@@ -9,6 +9,7 @@ categories:
 tags:
   - turkey
   - greece
+search_terms: [alexandroupoli, alexandroupolis, alexanderop, athens, train, mountains, snow, greek girl, hospitality, dinner, greek coffee, sister, constantinople, istanbul, night train, american, islamic, muslim, mother, french student, bus terminal, bus, gallipoli, galipoli, gelibolu, gallipoli peninsula, eceabat, eckabash, turkish, high school student, bus ticket, hostel, kebab, shower, barber, haircut, shave, gallipoli movie, film, british officers, anzac, kindness of strangers, strangers, travel, backpacking]
 ---
 The train for Alexanderop left Athens at the ungodly hour of 6 something yesterday morning. The land scape changed from greens, to greens, oranges, & white then finally to solid white as the train carried me through the mountains. a Greek girl started chatting with me and invited me to her place while i wait the 8 hours for my connection to Constantinople (what the Greeks call Istanbul). I met her family then she took me out for dinner (a euros and she insisted she pay). We returned to the family home for Greek coffee then explored the city accompanied by her younger sister.
 

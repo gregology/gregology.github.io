@@ -9,6 +9,7 @@ categories:
 tags:
   - religion
   - politics
+search_terms: [governments, money, iraq, iraq war, policy change, financial sector, finance, identity, self, consciousness, mind, death, afterlife, survival, rational, rationality, irrational, irrationality, apple, orange, global ideas, norms, masses, justice, crime, perception, democratic corporation, democracy, allah, god, army, tsunami, problem of evil, theodicy, aphorisms, musings, ideas, philosophy]
 ---
 lives are not as important to governments as money (as seen in Iraq) so forced policy change would be more successful targeting the finical sector of a government.
 

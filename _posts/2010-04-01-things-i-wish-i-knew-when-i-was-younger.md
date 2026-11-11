@@ -9,6 +9,7 @@ wordbooker_options:
 comments: True
 categories:
   - philosophy
+search_terms: [advice, life lessons, lessons, wisdom, tips, younger self, youth, teenager, teens, purpose, meaning of life, smile, smiling, dancing, high school, lying, lies, dating, relationships, rationality, logic, religion, bible, skepticism, scepticism, asking for help, seeking help, laughter, conformity, cultural norms, judgement, judgment, empathy, free will, freedom, ethics, immoral, mortality, self improvement, self help]
 ---
 Legal doesn't mean moral  
 Illegal doesn't mean immoral  

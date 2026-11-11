@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - greece
+search_terms: [souvlaki, gyros, lamb, chicken, corner store, gps, athens, national gallery, alexandros soutzos museum, military museum, war museum, planes, aircraft, cannons, modern art, antiquity, ancient greece, marble statues, sculpture, statues, mono-brows, monobrow, unibrow, paintings, art, simone pignoni, allegory of music, georgios averoff, averoff bequest, georgios vroutos, leda and the swan, nikolaos gysis, wishbone, cupid breaking his bow, cupid, leonidas drosis, penelope, konstantinos parthenis, christ, national bank of greece, national archaeological museum, archaeology, dodgy hostel, hostel, euro, greek, travel]
 ---
 After a corner store lamb kebab i followed my gps 2.9km to the national gallery & Alexandros soutzos museum (stopping briefly at the military museum to look at planes and cannons). It was interesting to see how modern artists dealt with their antique ancestry. There were some amazing marble statues, so real that i was sure i could stir life into them by tickling their toes. Mono-brows where a common sight in the galleries paintings. My favorite pieces were ;  
 Simone pignoni 1611-1698, allegory of music, georgios averoff bequest inv. No. 1181  

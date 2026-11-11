@@ -13,6 +13,7 @@ tags:
   - video
   - usa
   - dog
+search_terms: [florida, south beach, venetian causeway, dinner key marina, mooring ball, dog overboard, swimming dog, honey, dinghy, animal rescue, pet paperwork, pet permit, bahamas, department of agriculture, money order, efax, fax, provisions, groceries, shopping list, canned goods, dried goods, toilet paper, fresh produce, fishing, lures, cat food, thru hull plugs, splash zone epoxy, epoxy, spare parts, fuses, beer, marina shuttle, pets, cats, catamaran, boat, youtube, vlog, united states]
 ---
 
 {% include youtube_player.html id='yV8A5xpaCHo' %}

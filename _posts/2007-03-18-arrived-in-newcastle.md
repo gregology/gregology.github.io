@@ -8,5 +8,6 @@ categories:
   - travel
 tags:
   - australia
+search_terms: [newie, nsw, new south wales, hunter region, travel, travelling, traveling, trip, journey, arrival, backpacking, road trip, sister]
 ---
 I arrived in Newcastle

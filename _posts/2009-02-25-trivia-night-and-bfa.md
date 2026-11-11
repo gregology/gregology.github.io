@@ -8,6 +8,7 @@ categories:
   - military
 tags:
   - solomon islands
+search_terms: [basic fitness assessment, basic fitness test, fitness test, quiz night, pub quiz, dry deployment, alcohol, drinking, drunk, red wine, hangover, vomiting, gastro, watch keeper, stretcher, raffle tickets, officers, fake answers, graveyard shift, night shift, coffee, push ups, push-ups, sit ups, sit-ups, run, running, 2.4km run, personal best, pb, sleep, nap, army, australian army, military, deployment]
 ---
 Tonight we're playing trivia so we might get to drink tonight. For a dry deployment there has been a lot of drinking :) I've filled my boots on three occasions, the last time being last trivia night where I decided to be classy and get smashed on red wine. I paid for it the next day spending a good portion of it nursing a toilet bowl. That day I had to cover lunch which I spent lying in the watch keepers stretcher. I explained to him that I must have caught gastro from the red wine, he seemed satisfied with this explanation. I'm excited about tonight, last trivia night I was helping out because I didn't get on a team in time. I sold raffle tickets. To boost sales with the officers I put fake answers on the back.
 

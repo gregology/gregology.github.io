@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, catamaran, gemini, yacht, sailboat, boat, cape cod, chaumont, new york, chaumont yacht club, cyc, boat transport, hauling, delivery, fiberglass, fibreglass, fiberglass repair, boat repair, hull damage, cracked hull, epoxy, west system, west marine, resin, hardener, fiberglass mat, acetone, grinder, hydraulic jack, shrink wrap, saran wrap, duct tape, plywood, hairdryers, supplies, tools, diy, charles, sophia, doug, chris, geordie, lake ontario, launch, on the hard, cinder blocks, survey, diana, vlog, episode]
 ---
 
 {% include youtube_player.html id='5Zoppo5A7mg' %}

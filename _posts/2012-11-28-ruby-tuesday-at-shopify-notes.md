@@ -9,6 +9,7 @@ categories:
 tags:
   - coding
   - canada
+search_terms: [ottawa, meetup, user group, tech meetup, ruby on rails, rails, internationalization, internationalisation, i18n, localization, localisation, l10n, locale, locales, translation, programming, software development, developer, code quality, clean code, methods, magic, copy, talk, free beer, beer]
 ---
 Tonight I'm playing with the Ottawian Ruby crowd at Ruby Tuesday hosted by Shopify. My notes are limited as there was free beer.
 

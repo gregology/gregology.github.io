@@ -10,6 +10,7 @@ categories:
   - sport
 tags:
   - acroyoga
+search_terms: [learnt, acro yoga, acro, acrobatics, partner acrobatics, partner yoga, imgur, gallery, photos, skill, trick, new move, flyer, base, progress, practice]
 ---
 
 {% include imgur_gallery.html id='0gyE7' %}

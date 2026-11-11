@@ -9,6 +9,7 @@ categories:
 tags:
   - video
   - family
+search_terms: [learnt, kid, kids, child, toddler, cash, coins, dollars, pocket money, allowance, financial literacy, money lesson, two years later, then and now, uncle, funny, cute, youtube]
 ---
 
 {% include youtube_player.html id='FvJrYH6_nFc' %}

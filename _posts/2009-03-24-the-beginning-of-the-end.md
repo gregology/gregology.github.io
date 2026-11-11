@@ -8,6 +8,7 @@ categories:
   - military
 tags:
   - solomon islands
+search_terms: [replacements, nz, new zealand, flight home, adelaide, going home, leftist, left wing, worldview, politics, graveyard shift, night shift, programming, coding, one time pad, encryption, cryptography, backup scripts, scripting, nerd, geek, movies, internet, radio checks, afternoon shift, day shift, roster, defence internet, welfare internet, facebook, rest on call, studies, antarctica, antarctic, storm, sea, wet season, sunshine, floods, toads, nathalie, break up, breakup, taking a break, relationship, adventure, regret, children, stories, heartbreak, army, military, deployment, end of deployment]
 ---
 The NZ replacements have arrived which signals the beginning of the end of our trip here. In a week our Australian replacements arrive and Saturday week I'll be on a plane back to Australia, then after a few days in Adelaide I'll be on my way home :) I've enjoyed my time here and the experience has pushed me to a more global leftist view of the world.
 

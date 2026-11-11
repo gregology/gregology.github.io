@@ -10,6 +10,7 @@ categories:
   - personal
 tags:
   - canada
+search_terms: [pec, ontario, real estate, house hunting, land, acreage, rural, countryside, waterfront, cottage, cabin, farley mowat, highway 401, de-urbanization, tree change, investment, batna, negotiation, diana, airbnb, bungalow, wineries, wine country, karaoke, noise complaint, decibels, refund, service fee, customer service, loyalist lofts, bloomfield, picton, wellington, vacation rental, holiday rental, accommodation, chargeback, reviews, reputation economy, sharing economy, uber, weekend getaway]
 ---
 
 Recently I wrote about my [theories on the impending de-urbanization of Canada](/2019/09/musk-de-urbanization/). This weekend, I decided to put my money where my mouth is. Diana and I visited Prince Edward County to look at real estate. The ideal investment for us is a 3-6 acre rural residential waterfront property close (15 mins) to the 401. There were a few options including a cabin previously owned by authour Farley Mowat. Unfortunately, none of the properties we visited were the one for us. We are in no rush and have a strong [BATNA](https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement).

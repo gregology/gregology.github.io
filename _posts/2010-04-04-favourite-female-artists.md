@@ -10,6 +10,7 @@ categories:
   - creative
 tags:
   - music
+search_terms: [favorite, playlist, youtube, music videos, film clips, songs, singers, female singers, women in music, sia, you've changed, lisa mitchell, coin laundry, carla bruni, quelqu'un m'a dit, regina spektor, on the radio, soko, dandy cowboys, alizée, j'en ai marre, peter bjorn and john, young folks, camille, ta douleur, ladyhawke, paris is burning, emilíana torrini, jungle drum, lily allen, ldn, katie melua, shy boy, mia, blondie, shakira, lady gaga, katy perry, guilty pleasures, french pop, indie pop, pop music, french, swedish, icelandic, kiwi, english, music recommendations]
 ---
 Here are my favourite female artists I've found on YouTube.  
 The playlist:  

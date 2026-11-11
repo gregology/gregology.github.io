@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - austria
+search_terms: [vienna, zurich, zürich, train, gps, hostel, bordello, brothel, stationery shop, pastels, fruit, gloves, dorm, museumsquartier, museum quarter, leopold museum, lennod, inter-war, interwar, richard gerstl, gerstl, selbstbildnis als halbakt, semi-nude self portrait, self-portrait, emil gerstl, portrait, deep fried bread, garlic, langos, lángos, market, wiener staatsoper, vienna state opera, opera house, coppelia, coppélia, standing tickets, standing room, first ballet, dancing, hollywood, audience, perfume, cologne, people watching, theatre, theater, austrian, österreich]
 ---
 Again on a train this time bound for Zürich. I enjoyed my short stay in Vienna. I arrived into Vienna around 14:00 and followed a sign and my gps to a hostel which i later discovered was converted from a bordello. Quickly i settled in and with only a couple of hours of sun left i wondered the local area getting my bearings. A stationary shop caught my eye and i purchased some pascals to pass the time on long train trips. I made the mistake of buying some fruit with gloves then returned to the hostel promising myself I'd make more of tomorrow.
 

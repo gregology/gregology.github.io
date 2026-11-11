@@ -12,6 +12,7 @@ tags:
   - sailing
   - cat
   - photography
+search_terms: [catsaway, sv catsaway, svcatsaway, kitties, pets, boat cats, ship's cat, feline, photos, pictures, gallery, imgur, boat, sailboat, catamaran, liveaboard, cruising]
 ---
 
 {% include imgur_gallery.html id='iuQGM' %}

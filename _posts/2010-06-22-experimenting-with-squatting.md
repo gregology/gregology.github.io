@@ -6,6 +6,7 @@ permalink: /2010/06/experimenting-with-squatting/
 comments: True
 categories:
   - personal
+search_terms: [squat, squat toilet, toilet, toilets, toilet stall, bathroom, restroom, loo, dunny, poo, bowel movement, fecal stagnation, colon cancer, colitis, crohn's disease, diverticulosis, hemorrhoids, haemorrhoids, gerd, hiatus hernia, health, health benefits, digestive health, gut health, uni, university, signs, no squatting sign, rule breaking, disobedience, toilet humour, toilet humor, toilet brush, posture, tips]
 ---
 The toilet stalls at uni have anti squatting signs similar to this one.  
 <img src="/wp-content/uploads/2010/06/NoSquatting.jpg" alt="" title="NoSquatting" width="100%" height="auto" />

@@ -13,6 +13,7 @@ tags:
   - ai
   - coding
 clippy_help: It looks like you're trying to add tech debt and security vulnerabilities. Would you like help?
+search_terms: [code review, code reviewer, software engineering, software development, programming, developers, best practices, tips, advice, craftsmanship, clean code, ownership, accountability, vibe coding, ai agents, coding agents, glazing, sycophancy, sycophantic, regex, regular expressions, trojan, security, ikea effect, cognitive bias, technical debt, codebase, tech bros, hype, investors, chatgpt, openai, sam altman, internship, agi, rogue ai, hanlon's razor, missile, dependency, tokens, non-deterministic, mcp, model context protocol, github mcp, context window, wrappers, force multiplier, competence, rate limits, quota, backoff, least privilege, principle of least privilege, permissions, jailbreaking, llm, large language model, training data, concise, brevity]
 ---
 
 Tips for elegant contributions in the age of confident glazzing AI tooling

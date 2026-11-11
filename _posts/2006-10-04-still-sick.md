@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - dog
+search_terms: [ill, illness, unwell, poorly, under the weather, sympathy, natural yogurt, plain yogurt, yoghurt, probiotic, cultures, antibiotics, medicine, dairy, sugar, healthy eating, molly, pet, doggie, pooch, spastic centre, spastic center, cerebral palsy, charity, fundraising, fund raising, donation, donate, cold call, mum, mother, bad person]
 ---
 I'm still sick :( I need sympathy... I bought natural yogurt. I thought I'd be healthy, get some good cultures while I'm taking antibiotics. I figured natural yogurt would be really nice but no, no it isn't. It doesn't have any sugar in it :( it's so plan and boring. It's just milk and cultures. Who came up with that? It's ridiculous!
 

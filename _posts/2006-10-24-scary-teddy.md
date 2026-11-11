@@ -6,6 +6,7 @@ permalink: /2006/10/scary-teddy/
 comments: True
 categories:
   - personal
+search_terms: [doggie, pooch, teddy bear, grizzly bear, dog attack, dog bite, growling, aggressive dog, woolly, fluffy, brown dog, cute, postie, postman, mail, letterbox, postie bike, auspost, australia post, yamaha r1, wedding present, wedding gift, honeymoon, foreign currency, exchange rate, money, neighbour, neighbor, nathalie, girlfriend, bouquet toss, cork, dead leg]
 ---
 While I was playing postie today I came across a cute doggie. He was chocolate brown with a woolly coat that covered everything but his dark indented eyes. He waged his tail at me and barked "hello". I thought to myself, what a cute woolly doggie, just like a living teddy bear… but I was wrong. As soon as I'd finished feeding his letter box and was turning around to leave he came. And that cute teddy bear was gone, in its place was one pissed off grizzly bear showing its teeth, growling, and trying to bite my legs. I gave my postie all it had which wasn't much due to the fact that Auspost won't splash out and buy us R1 postie bikes :( and I managed to get away unscathed and with a valuable lesson learnt, the dog at 147 Campbell Pde is a cute bastard.
 

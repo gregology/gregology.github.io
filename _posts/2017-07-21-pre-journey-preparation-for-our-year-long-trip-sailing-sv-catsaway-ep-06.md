@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, prep, preparations, website launch, svcatsaway.com, online store, cat stuff, shopify, prince charles, royal visit, canada day, canada 150, confederation, 150th anniversary, sailing course, sailing lessons, learn to sail, advantage boating, basic cruising course, ottawa, kingston, first aid, cpr, first aid certificate, lifeguard, city of ottawa, vaccinations, vaccines, travel vaccinations, passport health, typhoid, hepatitis a, hep a, hep b, malaria, travellers diarrhea, traveller's diarrhoea, dukoral, antibiotics, cipro, tetanus, booster, prescription medication, epipen, family doctor, health, medical, safety, diana, vlog, episode]
 ---
 
 {% include youtube_player.html id='XH8Fqu5w5ks' %}

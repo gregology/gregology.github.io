@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - england
+search_terms: [last day, farewell, goodbye, leaving, going away, coworker, colleague, college, part-time study, lunch, kristy, cheese, cheese phobia, phobia, fear, allergy, allergic, melted cheese, sick, lynn, chocolates, puppy, curse, elevator, lift, elevator game, lift game, prank, practical joke, wrong floor, revenge, david, desk drawers, mischief, office, office humour, office humor, work]
 ---
 George (the lucky fellow who had the honour of sitting opposite me at work) had his last day on Friday. He's heading back to collage one day a week and needs a 6 day weekend. On Thursday we bought him lunch and then I convinced him that Kristy had rubbed cheese on his chair. George has a phobia of unmelted cheese but he believes he is allergic to it and explained to me that when you melt cheese the bad bits disappear but the bad bits return when it returns to its solid state. He ended up going home early because he was sick. Before he left he looked at me with a pale face and said "Now do you believe this cheese thing isn't all in my head?" I smiled and agreed with him. 
 

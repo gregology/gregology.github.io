@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, catamaran, gemini, yacht, sailboat, repair, repairs, charles, floor repair, plywood, fiberglass, fibreglass, west marine, epoxy, epoxy filler, putty, paint, fairleads, renaming, renaming ceremony, boat renaming, de-naming, rhapsody, tradition, champagne, celebration, lifeline netting, safety netting, pet safety, fishing net, cat overboard, kitties, cats, downunder solar, kurt, solar installation, solar panel, canadian solar, 315 watt, agm battery, battery bank, kilowatt hour, leds, lightbulbs, energy saving, liveaboards, oswego, live map, diana, vlog, episode]
 ---
 
 {% include youtube_player.html id='TyTEc23UXFk' %}

@@ -9,6 +9,7 @@ categories:
 tags:
   - music
   - ukulele
+search_terms: [banjo, 5 string banjo, five string banjo, guitar, acoustic guitar, martin d28, martin guitar, uke, strings, musical instrument, learn an instrument, learning music, poll, vote, survey, help me decide, decision, choosing, beginner]
 ---
 Being able to make music would be pretty cool so I've decided to buy a string instrument. Please help me decide, the choices I'm putting forward are;  
 

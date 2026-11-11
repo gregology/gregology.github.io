@@ -13,6 +13,7 @@ tags:
   - caribbean
   - video
   - food
+search_terms: [hatchet bay, current cut, tidal current, slack tide, tide table, nassau, active captain, downwind run, speed over ground, upwind sailing, jennabird, laura belle, st nick, barefoot adventures, aground, grounding, halyard, colourful houses, colorful houses, aquarium, juvenile conch, harvesting, diving, heavy weather, thunderstorms, conch fritters, recipe, cooking, seafood, dipping sauce, sriracha, mayonnaise, vodka, freezing, conch shell, abacos, eleuthera, bahamian, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='DP6zeiOAGuc' %}

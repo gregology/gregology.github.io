@@ -10,6 +10,7 @@ tags:
   - video
   - acroyoga
   - canada
+search_terms: [busker, buskers, street performer, street performance, street performing, acro yoga, acro, acrobatics, partner acrobatics, ottawa, ontario, downtown ottawa, lowertown, tips, outdoor, show, performance, youtube]
 ---
 
 {% include youtube_player.html id='gXP1Bc2d3Zk' %}

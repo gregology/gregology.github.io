@@ -10,6 +10,7 @@ categories:
   - military
 tags:
   - afghanistan
+search_terms: [mother, family, sister, commanding officer, co, email, secret, white lie, lying, solomon islands, swear on my life, worry, worried, shift work, shift roster, roster, fatigue, tired, gym, groundhog day, dentist, teeth brushing, ied, improvised explosive device, amputee, wounded, casualties, american soldier, us soldier, war, military, army, deployment, tarin kowt]
 ---
 
 The cat is out of the bag. Today I received an email from my sister letting me know that my CO had sent out an email detailing the importance of our work in Afghanistan. This is a little bit problematic because I had told my family that I was playing army in the Solomon Islands. If my family didn't know, they wouldn't worry and them worrying wouldn't make this trip any easier for them or me. My mum had started to clue on that something was different and she made me swear on my life that I wasn't going to Afghanistan. I did, thinking that it was funny to swear on my life that I wasn't doing something because it was dangerous. 

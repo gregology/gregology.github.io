@@ -12,6 +12,7 @@ categories:
   - personal
 tags:
   - quantified self
+search_terms: [cal newport, deep work, technopoly, memair, memair dns, happiness, wellbeing, mood, mental health, unfriending, network effect, email, profile picture, habits, digital detox, self reported, bias, conclusion, findings, chart, quit facebook, delete facebook, meta, fb, dns blocking, hypothesis]
 ---
 
 > If we had hard metrics relating the impact of [using social media] on bottom line, our current technopoly would likely crumble. - Deep Work by Cal Newport.

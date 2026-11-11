@@ -13,6 +13,7 @@ tags:
   - generative ai
   - prediction
   - llm
+search_terms: [large language model, artificial intelligence, genai, machine learning, chatgpt, openai, mistral, mixtral, mixture of experts, open source models, self-hosted llm, gaming pc, semantic meaning, semantic extraction, reasoning, multimodal, receipts, tax deductible, taxes, sms, email, photo library, journalism, investigative journalism, personalised news, al jazeera, solomon islands, china, pacific ocean, acrobatics, partner acrobatics, teaching, diana, education, local government, councillors, town hall, climate change, fossil fuel, lobbying, united nations, vehicle recall, auditing, corruption, neural network, knowledge graph, towels, riddle, logic puzzle, bing, microsoft, advertising, context window, us election, weaponization, public key cryptography, impersonation, forecast]
 ---
 
 The potential of Generative AI goes far beyond Large Language Models (LLMs like ChatGPT) being able to answer trivia questions, write generic essays, and code using established patterns. The true value of Generative AI is its ability to organise information.

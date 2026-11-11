@@ -11,6 +11,7 @@ categories:
 tags:
   - art
   - canada
+search_terms: [ottpixels, mario, super mario, nintendo, pixelart, 8-bit, retro, video game, twitter, tweetdeck, tweets, timeline, rivalry, competition, community art, ontario]
 ---
 
 [Mario and I](/2015/10/making-mario-pixel-art) started a pixel war

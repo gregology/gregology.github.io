@@ -8,6 +8,7 @@ categories:
   - creative
 tags:
   - art
+search_terms: [favourite, artworks, art gallery, museum, pierre-narcisse guérin, pierre-narcisse guerin, guerin, franciabigio, francesco di cristofano bigi, jacques gamelin, escarmouche de cavalerie, cavalry skirmish, salvator rosa, bataille heroique, heroic battle, witch of endor, saul, samuel, joseph vernet, la nuit, port by moonlight, moonlight, pavel brazda, pavel brázda, podobizna otce, father's portrait, richard gerstl, selbstbildnis als halbakt, semi-nude self portrait, self-portrait, emil gerstl, simone pignoni, allegory of music, georgios averoff, georgios vroutos, leda and the swan, nikolaos gysis, wishbone, cupid breaking his bow, leonidas drosis, penelope, konstantinos parthenis, christ, national bank of greece, sculpture, marble, statues, europe, travel]
 ---
 Pierre-narcisse guerin  
 Francesco di cristofano bigi, franciabigio  

@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [new york harbour, manasquan inlet, glimmer glass, bascule bridge, drawbridge, barnegat bay, barnegat inlet, dolphins, atlantic city, brigantine, casinos, boardwalk, salt water taffy, cape may, offshore, atlantic ocean, swells, high winds, rough seas, chesapeake and delaware canal, chesapeake city, halloween, hallowe'en, bandera, buddy boat, ferries, water taxis, fishing boats, beam reach, weather window, jersey shore, nj, ice cream, wifi, diana, catamaran, boat, youtube, vlog, united states]
 ---
 
 {% include youtube_player.html id='Bm4xdu6ObTc' %}

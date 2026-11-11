@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [georgetown, great exuma, stocking island, cruisers, anchorage, restaurants, resorts, jennabird, be as you are, spiraserpula, crab cay, plantation ruins, failed development, abandoned, history, chat n chill, volleyball, yoga, water aerobics, cats, restaurant cats, conch horn, conch shell, seas life for good, intrepid, despacito, bahamas, bahamian, catamaran, youtube, vlog, community]
 ---
 
 {% include youtube_player.html id='qykEFk16XMY' %}

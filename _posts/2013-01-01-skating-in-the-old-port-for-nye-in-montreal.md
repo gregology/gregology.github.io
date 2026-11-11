@@ -16,6 +16,7 @@ tags:
   - montreal
   - new year
 format: image
+search_terms: [new year's eve, new years eve, vieux-port, vieux-montréal, ice skating, skates, rink, outdoor rink, night, winter, celebration, nouvel an, photos, quebec]
 ---
 [<img title="IMAG0173.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2013/01/wpid-IMAG0173.jpg" />][1]
 

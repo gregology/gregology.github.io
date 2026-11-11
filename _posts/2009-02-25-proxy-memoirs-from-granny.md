@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - family
+search_terms: [family history, genealogy, family tree, ancestry, ancestors, grandmother, oral history, edward thompson, thompson, drumgivery, farmer, mary porter, porter, parish church, templemachury, county fermanagh, fermanagh, county furmanny, enniskillen, clerk union, william, canada, factories, belfast, irvinestown, irvinastown, ederney, edernay, northern ireland, ireland, irish, england, doctor, usa, america, new york, flushing, queens, long island, st michael church, norah mulchany, mulchany, mulchay, newry, county down, black bordered envelopes, black bordered letters, death notices, county limerick, limerick, catholic, protestant, prodistent, mixed marriage, disowned, larne, emigration, trim, county meath, meath, village, hotel, driver, conway, conways, james conway, mordy, lilly, owen, jim, ramond, raymond, berny, berney conway, vivien, captain andy conway, andy conway, uncle, pounds]
 ---
 From Granny 2007
 

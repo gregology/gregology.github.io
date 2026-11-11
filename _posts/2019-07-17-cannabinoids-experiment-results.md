@@ -12,6 +12,7 @@ categories:
   - personal
 tags:
   - quantified self
+search_terms: [cannabis, marijuana, weed, medical cannabis, cannabidiol, tetrahydrocannabinol, sleep quality, sleep score, sleep tracker, mi band 3, xiaomi, fitness tracker, insomnia, raw data, graph, chart, analysis, hypothesis, control, findings, conclusion, success, sleep aid]
 ---
 
 This morning was the last day of a 42 day [experiment with sleep and cannabinoids](/2019/06/experimenting-with-cannabinoids/). My hypothesis was that low dose cannabinoids taken orally before bed would increase my sleep quality. The sleep quality metric was being measured using my Mi Band 3. Here are the results;

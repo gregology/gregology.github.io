@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - germany
+search_terms: [cologne, koln, köln, cologne cathedral, kölner dom, cathedral, bells, tripod, photography, photos, camera, rules, guard, jobsworth, hitler, nazi, museum ludwig, ludwig, modern art, postmodern art, postmodernism, po mo, contemporary art, art gallery, museum, erotic art, pornographic, world war ii, ww2, wwii, swastika, german soldiers, soldiers, remembrance, respect, military, australian soldiers, british soldiers, night train, overnight train, copenhagen, denmark, train station, locker, backpack, backpacking, travel, europe]
 ---
 I'm waiting at a train station in koln for the over night to Copenhagen. Twelve hours in a seat but at least i don't have to folk out for accommodation tonight :)
 

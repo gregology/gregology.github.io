@@ -13,6 +13,7 @@ categories:
 tags:
   - prediction
   - canada
+search_terms: [elon musk, deurbanization, urbanisation, rural living, countryside, country living, off grid, spacex, solarcity, solar panels, solar energy, batteries, satellite internet, satellites, low earth orbit, bandwidth, broadband, self driving cars, driverless cars, autonomous vehicles, autopilot, tesla semi, electric vehicles, electric trucks, tunnels, tunnel boring, steve jurvetson, infrastructure, commuting, congestion, urban sprawl, toronto, europe, latitude, winter solstice, population density, real estate, property values, condos, techno optimist, codex vitae, well water, electricity, transportation]
 ---
 
 Admiral Elon Musk with his fleet of companies will de-urbanize Canada. Cities are great at storing people. [Utilities](#utilities), [transport](#transport), & [infrastructure](#infrastructure) are efficiently centralized. However Canadian cities are ripe for disruption.

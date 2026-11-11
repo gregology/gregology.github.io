@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [icw, daily routine, checklist, typical day, cats, engine, engine oil, anchor alarm, tablet, navigation, plot a course, anchor, helm, steering, breakfast, coffee, tea, oatmeal, cereal, bridge openings, drawbridge, dolphins, manatees, shallow water, anchorage, lunch, dinner, sleep, diana, liveaboard, cruising, boat life, catamaran, boat, east coast, youtube, vlog, united states]
 ---
 
 {% include youtube_player.html id='oFVUEMeEpFc' %}

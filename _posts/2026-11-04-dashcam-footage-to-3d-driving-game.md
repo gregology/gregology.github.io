@@ -14,6 +14,7 @@ tags:
   - games
   - family
   - ai
+search_terms: [dash cam, dash camera, neighborhood, modeled, modelling, modeling, 3d model, photogrammetry, osm, open street map, aerial imagery, maps, mapping, digital twin, game development, gamedev, racing game, driving simulator, kids, child, preschooler, parenting, dad, kid mode, lane centering, controller, gamepad, qbasic, nibbles, doom, quake, level design, levels, custom maps, modding, tinkering, nissan leaf, kia ev3, honda fit, honda jazz, school bus, electric vehicle, ev, electric car, cars, school, commute, drone detection, acoustic drone detection, ios app, iphone, gaming pc, ai generated, ai slop, stem]
 ---
 
 {% include youtube_player.html id='B5W1PVEkcHY' %}

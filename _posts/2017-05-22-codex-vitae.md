@@ -8,6 +8,7 @@ comments: True
 categories:
   - philosophy
 licence: Creative Commons
+search_terms: [life philosophy, personal philosophy, philosophy, principles, values, personal values, worldview, convictions, opinions, forecasts, future, accountability, honesty, honest, living document, manifesto, credo, creed, book of life]
 ---
 
 Keep me honest by reviewing my evolving [Codex Vitae](/codex).

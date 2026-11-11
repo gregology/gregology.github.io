@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - ireland
+search_terms: [blarney stone, blarney castle, blarney, kiss, kissed, cork, county cork, galway, tralee, kerry, county kerry, ring of kerry, doolin, kinsale, hostel, peat fire, fireplace, card games, board games, aussie girls, scenic drive, road trip, roadtrip, driving, seaside town, laneways, cheap alcohol, cheap beer, budget travel, budget, cheap, fortified wine, british wine, wine, ham and cheese sandwiches, sandwiches, tuna pasta, pasta, castle, caves, spiral staircase, euro, gift of the gab, backpacking, travel, irish]
 ---
 We've made it to cork. Saturday night was in Galway, Sunday night in Tralee, Monday night in Doolin (in a really nice hostel with all the little things covered like multiple hooks in the bathrooms and a peat fire place where we played cards and board games with some Aussie girls), Tuesday we drove the ring of Kerry and spent the night in Kinsale (a really European sea side town with lots of narrow lane ways but i didn't like the guy at the hostel, he was German), and today we kissed the Balarny stone (i got tongue action and am now feeling a little unwell).
 

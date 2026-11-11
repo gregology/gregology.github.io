@@ -6,6 +6,7 @@ permalink: /2010/04/how-to-get-out-of-a-pool-head-last/
 comments: True
 categories:
   - personal
+search_terms: [swimming pool, swimming, swim, step by step, steps, tutorial, guide, instructions, hair flip, hair toss, wet hair, shampoo ad, shampoo commercial, photos, photo sequence, funny, humour, humor, parody, exit, climb out, poolside, nostrils, water]
 ---
 <img src="/wp-content/uploads/2010/04/1.jpg" alt="Step 1" width="100%" height="auto">
 Step one: Position yourself with one hand on the rim of the pool, try to close your nostrils.

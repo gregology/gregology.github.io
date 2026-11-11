@@ -9,6 +9,7 @@ categories:
 tags:
   - augmented reality
   - australia
+search_terms: [ardevcamp, ar dev camp, ar, augmented reality developers camp, developers, conference, tech event, technology, powerhouse museum, powerhouse, ultimo, mozilla, remixing reality, junaio, osgjs, webgl, got gastro, gotgastro, data.gov.au, open data, government data, buildar, build ar, keyhole markup language, kml, fraunhofer, geoloqi, calm computing, droidshooting, andar, andar model, layar, android, android apps, apps, wikijam, musicians, jam, github, links, notes, research, ideas, mobile, smartphone]
 ---
 I'm currently at the Augmented Reality Developers Camp at the Powerhouse Museum in Sydney. I'll edit this post during the day as new interesting things come up :)
 

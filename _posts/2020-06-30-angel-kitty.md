@@ -187,6 +187,7 @@ gallery:
     - https://lh3.googleusercontent.com/MoH6qCN_KI1TsIEGvoYrk9GWa3kTxedKXWSsFgIa8aKz4bcNuNkc1-M2tcnM-s3MyFnIHi7QXB4fYURALqG8HBALOYjzS-N6aI6uMQnMOJO3zXA4Y56fB8-kuzTa_U7Bzye0GeHJUW4=w1920-h1080
     - https://lh3.googleusercontent.com/bvKtK-sqbQiTMwOmBoYrGdLVEiiW7GxC38xzzd3eAtHczHbpY6IAwxew03TYa2yeZVnbrUU0NVfl_S916Qll1cnARhjatggPA6lHVDqpiQWOQU9VaHqnK5JaIRxWQuzfzr8Rgt7IEpk=w1920-h1080
     - https://lh3.googleusercontent.com/IqBdFaQ4SQF-YdWNheLeSFlcjdP8w1lDgC2pAorX5TM7Dq-FmQwV7I8HvLg1pPD4bSaLYVRfiSdJGxnOAHNOBrYU6B97jXpn0-SrsaJGslZHAwAVeS4ZnMX0k-kSLnjP5Ys-NSEToFo=w1920-h1080
+search_terms: [jazz, pet, pet loss, passed away, death, rest in peace, rip, memorial, tribute, grief, senior cat, feline, photo gallery, cuddles, goodbye]
 ---
 
 Our beautiful old lady kitty passed away today :( We will miss you Jazz, you were purrrrfect. Thank you for all the cuddles.

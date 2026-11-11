@@ -10,6 +10,7 @@ tags:
   - video
   - acroyoga
   - canada
+search_terms: [acro yoga, acro, acrobatics, partner acrobatics, show, performing, performers, arts festival, festival, street performance, community arts, somerset street, circus, dance, ontario, youtube]
 ---
 
 {% include youtube_player.html id='S0drn6F0M3Q' %}

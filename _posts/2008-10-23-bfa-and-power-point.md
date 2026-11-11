@@ -8,6 +8,7 @@ categories:
   - military
 tags:
   - australia
+search_terms: [basic fitness assessment, basic fitness test, fitness test, mark, pub, quiet night, dessert, early morning, csm, company sergeant major, run, running, kit, chest webbing, body armour, body armor, helmets, camelbak, camel back, sandals, mess, tofu, vegetarian, radio, hf, high frequency, comms, communications, no comms catt, catt, alliteration, powerpoint, death by powerpoint, presentations, briefings, lectures, inoculations, vaccinations, injections, jabs, needles, army, australian army, pre-deployment, soldier, signaller, military]
 ---
 Mark and the others went to the pub. After the BCCC I'm keen to have some quite nights. I passed my fitness test today so didn't feel guilty about eating desert at lunch today :) The test was at some ridiculous hour and because I was the only one getting up for it, I was scared I would sleep in so I spent half the night checking the time on my phone. I was the only one doing the BFA (basic fitness test) so it was nice of the CSM to come in and run the show. It was very lonely running alone so I might do the run again tomorrow with one of the other guys who has failed.
 

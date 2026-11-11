@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - switzerland
+search_terms: [zurich, zürich, liechtenstein, zug, adrian, everlean, beers, luzern, lucerne, picasso, pasico, hiking, hike, wildspitz, rossberg, sheela, dog, opposable thumbs, raclette, cheese, swiss food, parents, australian wine, aldi, wine connoisseur, grindelwald, grindlevault, snowboarding, snow board, fried chicken, chicken in a bucket, drunk, clubbing, hangover, aussie burgers, lamingtons, lemon sponge, baking, titlis, titlist, black run, black piste, ski slope, sea of fog, fog, electronics stores, lugano, ticino, swiss, alps, mountains, snow, food]
 ---
 I haven't had time to write, i was to busy eating.
 

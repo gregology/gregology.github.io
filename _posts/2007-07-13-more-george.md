@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - england
+search_terms: [bus, commute, commuting, lunch, lasagna, lasagne, salad, coffee machine, coffee, fire alarm, fire drill, alarm test, friday, laura, birthday, birthday party, toddler, two year old, sick, vomiting, throwing up, chocolate cake, cake, skynet, terminator, science fiction, sci-fi, naughty, wine, bottle of wine, gift, present, gift ideas, office, work]
 ---
 Now I'm on the bus home after a hard 7 hours work. Nothing too exciting happened apart from having lasagna instead of salad for lunch and finding the strength button on the coffee machine :) Fridays are alway exciting though because it's the day they test the fire alarm. At about 10am for about 5 seconds the fire alarm sounds, which is good i suppose unless a fire breaks out for 5 seconds at about 10am on a Friday, we'd all be burnt alive with no warning :(
 

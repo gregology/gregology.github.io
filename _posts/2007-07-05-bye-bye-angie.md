@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - england
+search_terms: [angela, last day, farewell, goodbye, leaving, coworker, colleague, arch enemy, compliment, gorgeous, flirting, blushing, double standard, gender, luton, bus, walking, czech, czech republic, czech friend, holiday, weekend away, freebies, free stuff, pub company, st patrick's day, saint patrick, st patricks, smoothies, juice, upset stomach, diarrhoea, diarrhea, toilet, loo, office tips, work tips, look busy, slacking off, productivity, screensaver, screen saver, rubber finger, finger cone, rubber thimble, email, e-mail, office humour, office humor, office, work]
 ---
 It was Angies last day today. Her parting wasn't anything special, she just disappeared at 5 with not a word spoken which was probably best because she might of yelled at me for suggesting filing together, that and the fact that i found out her name was actually Angela not Angie which I'd been calling her for the past 2 weeks :s
 

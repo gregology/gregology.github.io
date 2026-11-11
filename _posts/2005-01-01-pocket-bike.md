@@ -10,6 +10,7 @@ categories:
   - creative
 tags:
   - video
+search_terms: [minibike, mini bike, pocketbike, minimoto, mini moto, pocket rocket, motorbike, motorcycle, riding, mad skills, stunts, tricks, showing off, youtube, clip, film]
 ---
 
 {% include youtube_player.html id='zpscuMoeF0M' %}

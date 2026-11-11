@@ -10,6 +10,7 @@ categories:
   - creative
 tags:
   - video
+search_terms: [motorbike, motor bike, motorcycle, biker, riding, mad skills, stunts, tricks, showing off, youtube, clip, film]
 ---
 
 {% include youtube_player.html id='aCWU55Fwzu8' %}

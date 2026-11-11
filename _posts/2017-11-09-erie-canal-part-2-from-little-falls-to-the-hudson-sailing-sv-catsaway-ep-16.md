@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [locks, lock 17, highest lock, canajoharie, canajoharie gorge, stop light, amsterdam, pedestrian bridge, bike paths, schoharie aqueduct, aqueduct, canal history, mid-autumn festival, chinese food, scotia, schenectady, union college, stockade district, waterford, flight of five, tropical storm nate, waterford historical museum, drive leg, albany, troy, upstate new york, new york state, hudson river, history, wifi, cruisers, catamaran, boat, liveaboard, youtube, vlog, svcatsaway, united states]
 ---
 
 {% include youtube_player.html id='sFMprJlQbQs' %}

@@ -7,6 +7,7 @@ permalink: /2010/04/islands-to-start-a-new-country/
 comments: True
 categories:
   - philosophy
+search_terms: [micronation, micronations, sovereignty, terra nullius, nation, uninhabited, uninhabited islands, desert island, colonise, colonize, kermadec islands, raoul island, new zealand, tetepare island, solomon islands, head hunters, blasket islands, ireland, antipodes islands, palmyra atoll, hawaii, nomans land, no man's land, massachusetts, bombing range, unexploded ordnance, acteon group, french polynesia, nuclear testing, moruroa, mururoa, ducie island, pitcairn islands, commonwealth, lagoon, ghyben-herzberg lens, freshwater lens, bir tawil, egypt, sudan, strange maps, anarchism, information anarchism, leonardo da vinci, mona lisa, atoll, atolls, pacific ocean, atlantic ocean, conservation, nature reserve, bird sanctuary, sailing, youtube channel]
 ---
 
 **2017 update:** I bought a boat, [follow along](https://www.youtube.com/channel/UCvxC2_BVnsAcaPEsIUcJx6A) as we visit some of these islands.

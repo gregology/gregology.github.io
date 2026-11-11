@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, yacht, sailboat, boat, multihull, gemini, liveaboard, liveaboards, oil change, oil filter, engine oil, diesel, 10w30, synthetic oil, dipstick, alternator belt, maintenance, boat maintenance, genoa, genoa tracks, fairlead, sail trim, sail shape, pointing, close-hauled, into the wind, centreboards, centerboards, hatch, rebed, rebedding, leak, butyl rubber, silicone, caulking, stripped screw, vise grip, power drill, razor blade, acetone, chores, diy, diana, marina, vlog, episode]
 ---
 
 {% include youtube_player.html id='mHHihyLrSzs' %}

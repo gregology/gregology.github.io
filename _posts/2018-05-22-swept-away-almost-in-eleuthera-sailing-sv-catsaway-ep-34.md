@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [bahamas, bahamian, tourist, sightseeing, hatchet bay, safest harbour, harbor, hitchhiking, hatchet bay caves, caves, tamarind tree, locals, convenience store, windward side, beaches, sand dune, sea glass, beachcombing, rental car, jennabird, glass window bridge, narrowest point, harbour island, pink sand, architecture, golf cart, st. nicolas de sauzon, st nick, barefoot adventures, pizza, spanish wells, drone footage, road trip, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='5WjaNW2XBK8' %}

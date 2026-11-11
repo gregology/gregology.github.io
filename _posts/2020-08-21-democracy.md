@@ -13,6 +13,7 @@ categories:
 tags:
   - politics
   - usa
+search_terms: [economist intelligence unit, eiu, united states, america, american politics, republican, democrat, democratic party, gop, presidents, george w bush, barack obama, donald trump, joe biden, voter suppression, voting rights, elections, free and fair elections, electoral process, pluralism, functioning of government, political participation, political culture, civil liberties, full democracy, flawed democracy, democratic backsliding, gerrymandering, superdelegates, supreme court, scotus, census, citizenship question, australia, canada, new zealand, united kingdom, uk, britain, sheriff, daniel coverley, nevada, 911 calls, library, diversity statement, black lives matter, polarization, polarisation, partisan, constitutional rights, masks, checks and balances, freedom of expression, press freedom, human rights, chart, dataset, gapminder, data visualization, data visualisation]
 ---
 
 The [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is compiled by the [Economist Intelligence Unit](https://en.wikipedia.org/wiki/Economist_Intelligence_Unit). Using expert interviews, the index has measured the state of democracy around the world since 2006. The Democracy Index has been criticised for lacking transparency as it does not clarify who the experts are. However, the Economist Intelligence Unit is well respected and this is likely the best available dataset on democracy.

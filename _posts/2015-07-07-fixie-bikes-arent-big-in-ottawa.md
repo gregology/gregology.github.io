@@ -9,6 +9,7 @@ categories:
 tags:
   - video
   - canada
+search_terms: [fixed gear, single speed, bicycle, bicycles, bike, cycling, cyclist, hipster, ontario, funny, youtube]
 ---
 
 {% include youtube_player.html id='wWOgN9U5zUk' %}

@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - turkey
+search_terms: [gallipoli, gelibolu, anniversary, allied retreat, evacuation, allies, eid al-adha, kurban bayramı, kurban bayrami, bayram, bairam, greater bairam, biram, abraham, sacrifice, lamb, sheep, eceabat, eshabat, free ferry, ferry, dardanelles, çanakkale, canakkale, internet cafe, counter-strike, counter strike, gaming, gallipoli movie, film, niece, dream, aussies, australians, ruins, archaeological site, excavation, ancient, truva, gallipoli campaign, anzac, anzacs, turkish perspective, school, history, souvenirs, trinkets, bullet casings, spent rounds, cartridge cases, ammunition, bus, istanbul, subtitles, bus steward, cake, wwi, ww1, world war i, first world war, great war, travel]
 ---
 Yesterday marked the 92nd anniversary of the allied retreat from Galipoli. Yesterday was also the first day of Greater Bairam, a celebration of Abraham's sacrifice of a lamb instead of his son. This meant the locals were to busy sacrificing sheep on the side of the road to take me on a tour so i had to spend another night in the little town of Eshabat. I took a free ferry (an upside of Bairam) across the Dardanelles and spent the day in canakkale. As with Eshabat, nearly everything was closed but it was a bigger town so it occupied my time more efficiently. When I'd had enough of looking into closed shops and internet cafes full of youth playing counter strike, i ferried back to my hostel, watched Galipoli once more, then slept.
 

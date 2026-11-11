@@ -6,6 +6,7 @@ permalink: /2006/10/hungry-hungry-letter-box/
 comments: True
 categories:
   - personal
+search_terms: [letterbox, mailbox, postbox, postie, postman, mailman, australia post, auspost, junk mail, bills, do not fold, do not bend, unit blocks, apartments, private school, parcel, post office, antique cars, classic cars, magazine, long day, tired, doggie biscuits, dog biscuits, doggie mafia, bus, public transport, dance routine, dance partner, connie, london ballet, wheelchair, spit bridge, split bridge, sydney, restaurants, orsos, mc spit, webcam, comedy, hungry hippos]
 ---
 The letters boxes were hungry yesterday! I worked from 0630 to 1820 :( I was as you might imagine a little tired so I decided to leave my blogging for today. I need more doggie biscuits to pay off the doggie mafia.
 

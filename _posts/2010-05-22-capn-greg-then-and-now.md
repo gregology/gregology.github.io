@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - sailing
+search_terms: [captain, skipper, sailor, boat, childhood, kid, child, before and after, comparison, side by side, recreation, photo, photos, london, england, uk, sydney, australia, nostalgia, throwback, growing up]
 ---
 <center>
 <img src="/wp-content/uploads/2010/05/Greg-1987.rotated.jpeg" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" title="Cap'n Greg 1987"><img src="/wp-content/uploads/2010/05/P1310046.rotated.jpg" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" title="Cap'n Greg 2010">

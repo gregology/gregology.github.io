@@ -10,6 +10,7 @@ categories:
   - technology
 tags:
   - webcam
+search_terms: [webcams, ip camera, ip cameras, network camera, cctv, surveillance, security camera, security cameras, google dorking, google dork, google hacking, google search, inurl, viewerframe, search operator, live cam, live stream, remote control, pan tilt zoom, zoom, unsecured cameras, exposed cameras, privacy, south club marina, marina, boats, loch, trams, sunrise, cityscape, okinawa, ginowan, japan]
 ---
 Have you ever wanted to play lazy arse security guard? The kind that doesn't even leave his chair? By googling *inurl:"viewerframe?mode=motion"* you can! *"viewerframe?mode=motion"* is used in the urls of a massive amount of controllable webcams and the *inurl:* query searches for urls which contain it. Google, science bless it, has found a lot of them. Here are my favourites:
 

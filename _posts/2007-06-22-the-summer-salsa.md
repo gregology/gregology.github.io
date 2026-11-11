@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - england
+search_terms: [summer solstice, solstice, midsummer, longest day, daylight, long evenings, swimming, swim, goggles, haley, liz, office, office work, the office, tv show, television, data entry, typing, boring, hot chocolate, free drinks, perks, trudy, angie, coworkers, co-workers, colleagues, introductions, dress down day, casual friday, dilbert, comic strip, cartoon, workplace humour, workplace humor]
 ---
 It's still light outside on this, the day of summer salsa. I went swimming with haley and liz. I don't have goggles so my eyes hurt. Office work is nothing like the tv show. I type numbers into a screen then click a button, then type more numbers. It's quite boring but the company seems like a good company to work for because they have free hot chocolate.
 

@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - dog
+search_terms: [earliest memory, tinker, pet, family pet, father, dad, told off, scolded, front room, sofa, couch, blankets, toddler, two years old, childhood, early childhood, immigrated, immigration, migrating, australia, sister, anatomy, mother, birth, floppy, species, loss, grief, missing her, recollection, nostalgia, memoir, family]
 ---
 First memory  
 Early 1986

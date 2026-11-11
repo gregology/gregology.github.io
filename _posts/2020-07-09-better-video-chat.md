@@ -10,6 +10,7 @@ categories:
   - technology
 tags:
   - video
+search_terms: [video call, videoconferencing, video conference, conference call, webcam, web cam, laptop, smartphone, phone, mobile phone, cell phone, front facing camera, selfie camera, camera, eye contact, mirror, teleprompter, diy, gadget, hack, image quality, box, redundancy]
 ---
 
 Laptops are optimized for consuming video content but their webcams are potato quality. Phones are optimized for creating video content but their camera's face the wrong direction. Phones also have network & power redundancy making them perfect for uninterrupted video calls. I designed a box that centers the phone's screen image directly in front of the phone's front facing camera. In addition to awesome image quality, this design also gives the illusion of eye contact.

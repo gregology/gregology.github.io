@@ -9,6 +9,7 @@ categories:
 tags:
   - australia
   - photography
+search_terms: [fish, fisherman, angling, catch, not catching, no fish, basin, weekend, afternoon, relaxing, outdoors, sunny, nature, water]
 ---
 [<img title="1344135802146.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/08/wpid-1344135802146.jpg" />][1]
 

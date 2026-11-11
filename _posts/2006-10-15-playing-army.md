@@ -6,6 +6,7 @@ permalink: /2006/10/playing-army/
 comments: True
 categories:
   - military
+search_terms: [military, australian army, army reserve, reservist, full time, adf, australian defence force, soldiers, army mates, night out, drinking, drunk, partying, break dancing, breakdancing, dancing, base, barracks, gate, hangover, hungover, eggs benedict, breakfast, mum, motorbike, motorcycle, sold, selling, ashleigh, europe, plane ticket, liam, farewell, send off]
 ---
 So I sold my bike :( I'm going to miss her. Her new owners renamed her too :( now she's called Ashleigh. Her new owners look like they'll have fun with her but we were together for 3 years. On the up side I've now got enough money for my plane ticket to Europe. I hope she forgives me…
 

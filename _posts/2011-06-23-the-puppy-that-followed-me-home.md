@@ -18,6 +18,7 @@ categories:
   - personal
 tags:
   - dog
+search_terms: [stray, stray dog, lost dog, lost pet, missing dog, found dog, puppy found, lost and found, notices, flyer, poster, vet, veterinarian, owner, reunited, pet, pup, doggo, canine, jesus, jesus bum, bum, butt, bed, cute animal, funny]
 ---
 
   This puppy followed me home.

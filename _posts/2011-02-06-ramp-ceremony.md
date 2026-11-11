@@ -12,6 +12,7 @@ categories:
   - military
 tags:
   - afghanistan
+search_terms: [cpl, mtf, mentoring task force, digger, killed in action, kia, fallen soldier, repatriation, farewell, memorial, remembrance, honour, mourning, salute, chaplain, casket, coffin, procession, slow march, aslav, armoured vehicle, armored vehicle, raaf, royal australian air force, hercules, c-130, americans, slovaks, slovakia, dutch, netherlands, afghan soldiers, improvised explosive device, roadside bomb, kaf, tk, omelette, omelettes, moustache, mustache, moe, snow, mountains, scenery, tortoise, tortoises, tortoise enclosure, cracker, jimmy, speedy, camp speedy, spreadsheet, rocket attacks, military, army, australian army, deployment]
 ---
 
 Yesterday was the ramp ceremony for an MTF digger, Corporal Richard Atkinson who died last week from an IED. We along with Americans, Slovaks, Dutch, and others helped the MTF line the route to the awaiting RAAF Hercules. The procession was lead by a chaplain and the casket was carried in the back of an Aslav As Richard Atkinson's body rolled pass we came to attention and threw a salute. Following the casket was a slow marching party made up of representatives of other militaries and government organisations. I noticed two Afghani soldiers in the group walking with very little purpose, as if they didn't want to be there. When thousands of their own are killed each year, I suppose so much effort for one loss might seem excessive.

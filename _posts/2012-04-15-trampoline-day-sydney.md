@@ -9,6 +9,7 @@ categories:
 tags:
   - australia
   - open source
+search_terms: [unconference, conference, meetup, event, talks, talk, presentation, notes, knowledge management, peerfunding, crowdfunding, crowd funding, kickstarter, startsomegood, social enterprise, social change, community, 3d printing, entrepreneur, entrepreneurship, startup, business growth, change management, dunbar's number, dunbars number, nonprofit, non profits, charity, sign language, auslan, signbank, deaf, deaf culture, design, landfill, upcycling, recycling, foss, free software, intergenerational, bono]
 ---
 [Trampoline Day][1] is a self organised event and today was the first time the event had been held in Sydney. It is a two way dialogue where anyone who wishes gets an opportunity to run a talk. Mine was on Open Source and I'll upload the YouTube video shortly. Here are my notes from today.
 

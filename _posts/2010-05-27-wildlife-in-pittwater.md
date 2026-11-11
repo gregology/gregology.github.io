@@ -12,6 +12,7 @@ tags:
   - sailing
   - photography
   - australia
+search_terms: [street mission, sailing program, volunteer, volunteering, charity, clients, sydney, northern beaches, harbour, harbor, boat, animals, nature, birds, bird, jellyfish, wallaby, the basin, ku-ring-gai chase, sponge, rash, mothers day, mother's day, mum, dolphins, dolphin, pod of dolphins, fairy penguins, little penguins, penguins, sea eagles, eagles, snakes, marine life, sea life, photos, camera]
 ---
 Once a week I volunteer for the Street Mission sailing program. We take clients for a sail around Pittwater which is the next harbour north of Sydney. Here are some photos of wildlife I've taken.
 

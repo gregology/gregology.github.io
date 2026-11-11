@@ -10,6 +10,7 @@ categories:
   - technology
 tags:
   - video
+search_terms: [memair, recommender system, recommendation engine, youtube, kids, children, parents, parenting, beta testers, personal data, data ownership, startup, product launch, algorithm, feedback, side project]
 ---
 
 {% include youtube_player.html id='yCtx-MDaiYw' %}

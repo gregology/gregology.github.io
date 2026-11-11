@@ -15,6 +15,7 @@ tags:
   - australia
 redirect_from:
   - /2019/07/my-experience-with-the-australian-dva/
+search_terms: [department of veterans affairs, veterans affairs canada, vac, reciprocal agreement, ptsd, post-traumatic stress disorder, insomnia, sleeping pills, zopiclone, trazodone, adjustment disorder, psychiatrist, psychology, therapy, counselling, treatment, mlcoa, medico-legal, mrca, military rehabilitation and compensation act, vocational rehabilitation, incapacity payments, incite solutions, improv, freedom of information, foi, non-liability health care, nlhc, minister, darren chester, amanda rishworth, shayne neumann, linda reynolds, jesse bird, veteran suicide, bureaucracy, red tape, paperwork, waiting list, afghanistan, solomon islands, australian army, adf, australian defence force, signalman, ottawa, canada, ohip, ontario health insurance plan, medavie blue cross, reimbursement, out of pocket, myservice, family doctor, gp referral, medals, mates, vets, expat, taxpayer]
 ---
 
 It took 324 days to see a psychologist for treatment through the Australian DVA. The DVA paid 3rd parties [$8,782.40](/wp-content/uploads/2019/12/2019-12-24%20FOI%2033349%20-%20Total%20amount%20DVA%20paid%20to%203rd%20parties%20for%20treatment%20so%20far.pdf) for assessments prior to the beginning of my treatment and had spent [$13,986.50](/wp-content/uploads/2020/12/FOI%2039313%20-%20Document%20created%20in%20accordance%20with%20section%2017%20of%20the%20FOI%20Act.pdf) on 3rd parties by the end of my treatment. My psychologist only charged the DVA $2,433 for my 12 treatments.

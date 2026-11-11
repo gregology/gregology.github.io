@@ -43,4 +43,5 @@ gallery:
     - /wp-content/uploads/2019/05/san-francisco-trip/IMG_20190523_180549.jpg
     - /wp-content/uploads/2019/05/san-francisco-trip/IMG_20190523_182819.jpg
     - /wp-content/uploads/2019/05/san-francisco-trip/IMG_20190523_184646.jpg
+search_terms: [sf, california, bay area, fisherman's wharf, pier 39, sea lions, uss pampanito, submarine, alcatraz, clam chowder, sourdough bread bowl, cable cars, lombard street, crooked street, coit tower, streetcar, chinatown, dragon gate, sailboats, marina, tall ship, security robot, travel, sightseeing, walking tour, tourism, pictures, gallery, united states, west coast]
 ---

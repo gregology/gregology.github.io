@@ -13,6 +13,7 @@ tags:
   - ai
 redirect_from:
   - /ddo
+search_terms: [ddo, biased bots, presentation, meetup, public speaking, google slides, document polluter, biased stop words, stopwords, python, pypi, open source, github, jupyter notebook, sentiment analysis, aws, amazon web services, azure, microsoft, gcp, google cloud platform, natural language processing, artificial intelligence, machine learning, gendered language, sexism, algorithmic fairness, ethics]
 ---
 
 <style>

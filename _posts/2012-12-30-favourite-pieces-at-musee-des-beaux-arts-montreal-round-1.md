@@ -15,6 +15,7 @@ categories:
 tags:
   - montreal
   - art
+search_terms: [montreal museum of fine arts, mmfa, mbam, museum, fine art, art gallery, gallery, favorite, favorites, artworks, paintings, painting, sculpture, canadian art, contemporary art, modern art, abstract art, tony matelli, old enemy new victim, mark ramsey, action painting, erró, christmas white house, bgl, an adult's toy, quebec city, claude tousignant, gong 96, adrien hébert, peel and sainte-catherine, sainte-catherine, marc-aurèle fortin, hochelaga, storm brewing over hochelaga, lady in black, underground tunnels]
 ---
 The Montreal Museum of Fine Art is housed in 4 building connected by underground tunnels. It contains some really interesting prices, here are my favourites.
 

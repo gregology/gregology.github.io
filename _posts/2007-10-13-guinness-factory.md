@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - ireland
+search_terms: [guinness storehouse, storehouse, st james's gate, brewery, brewery tour, beer, stout, the black stuff, pint, dublin, chris, scott, jacqui, backpackers, crepes, crepe bar, euro, barrels, cooperage, birthday, chicken burgers, lamingtons, australian food, aussie, baking, cooking, kitchen, road trip, car hire, hire car, travel, tour]
 ---
 Chris, Scott, and I visited the Guinness factory with 3 of Chris' backpacker mates yesterday. We drank a lot of black and then hit up a crepe bar. The Guinness factory was pretty cool, it cost 14e and we got at least 3 pints so it was a really good deal, plus now I know how they make barrels.
 

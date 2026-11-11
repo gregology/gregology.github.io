@@ -9,6 +9,7 @@ categories:
 tags:
   - solomon islands
   - family
+search_terms: [army newspaper, our people, newspaper, celebrity, fame, autographs, reach for the stars, beers, mum, care packages, parcels, presents, gifts, morale, sam, aaron, christmas tree, zander, framed picture, ninny, gerard, clothes, stu, janell, book, stock market, share trading, coffee grinder, milk frother, food, nathalie, wine set, art supplies, cookies, biscuits, pregnant, nephews, nieces, oliver, walking, australian antarctic program, antarctic, antarctica, job application, selection, trivia, trivia night, team name, clarkey, drink voucher, performers, entertainment, concert, mark wilkinson, singer songwriter, asleep in the park, band, dave jory, comedian, renee brack, tv presenter, television presenter, chopper reid, chopper read, compassion, latin dance, dancing, shenanigans, danni, food poisoning, medical centre, shift, graveyard shift, helicopter, chopper, emergency exit, tired, army, military, deployment]
 ---
 This week I appeared in the Army Newspaper in the Our People section. So I'm pretty much famous now. I signed all the papers I could find with phrases like "reach of the stars". Being in the paper means I owe beers and everyone is trying to call me up on it.
 

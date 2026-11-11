@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, sailboat, yacht, buying a boat, boat buying, boat search, used boat, cruising, bluewater, blue water, liveaboard, live aboard, solar panels, radar, dinghy, budget, lake ontario, caribbean, sailing adventure, adventure, vlog, youtube channel, episode, diana, admeowral, cat-tain, chief petting officer, able seacat, jazz, hercules, hercie, tabby, black cat, kitties, pets on board, sailing with cats, australian, canadian, final cut pro, video editing]
 ---
 
 {% include youtube_player.html id='W0lhlPdo0mw' %}

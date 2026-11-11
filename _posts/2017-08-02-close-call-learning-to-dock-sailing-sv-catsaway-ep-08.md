@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - canada
+search_terms: [sailing vessel, catamaran, yacht, sailboat, boat, docking, kingston, ontario, diana, diana's parents, parents, in-laws, visit, light winds, boat name, renaming, name removal, heat gun, razor scraper, goo gone, rubbing compound, rewiring, wiring, dc chargers, phone chargers, fast charging, beam reach, centreboards, centerboards, knots, leeway, upwind, gusts, strong wind, slip, berth, marina, starboard, port side, throttle, neighbours, neighbors, near miss, vlog, episode]
 ---
 
 {% include youtube_player.html id='sZrZ2F94xJg' %}

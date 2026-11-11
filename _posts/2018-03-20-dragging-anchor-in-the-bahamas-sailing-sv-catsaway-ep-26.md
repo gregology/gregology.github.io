@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [black point, exumas, wind shift, laundry, chores, jennabird, buddy boat, radio, dinghy, fouled prop, propeller, bridle, reset anchor, spearfishing, reef, boreas, spiraserpula, lionfish, venomous, farmer's cay, farmers cay, first friday in february festival, fffff, festival, cruisers, shaun and julia sailing, wooden sailboats, acro, acrobatics, ty's sunset bar and grill, caves, fresh water, swimming, hiking, rudder cut cay, mermaid, catamaran, bahamian, youtube, vlog]
 ---
 
 {% include youtube_player.html id='LQCoHLQkFxw' %}

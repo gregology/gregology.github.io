@@ -11,6 +11,7 @@ tags:
   - android
   - tutorial
 licence: Creative Commons
+search_terms: [audio books, audio book, spoken word, how-to, guide, phone, smartphone, mobile, play store, google play, offline, available offline, sync, cloud storage, backup, folder, directory, root folder, storage, library, settings, no ads, ad-free, stackexchange, bus, buses, busses, commute, commuting, transit]
 ---
 
 My ears get bored on busses so I consume a lot of audiobooks. Dropbox is my main backup solution and it contains the majority of my collection. I wanted an easy way to consume those audiobooks on my Android device. This is what I did;

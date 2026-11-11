@@ -18,5 +18,6 @@ categories:
 tags:
   - canada
   - montreal
+search_terms: [train, train journey, rail travel, via rail, ottawa, snow, snowstorm, snow storm, blizzard, winter, landscape, scenery, dusk, twilight, quebec, travel diary, writing]
 ---
 The sugar coated landscape has changed from ghostly white to pale blue now that the sun has disappeared. At times the windows are a single colour as the train throws up a cloud of winter. A snow storm and a 20 minute walk await me in Montreal hopefully followed quickly by a drink by a window.

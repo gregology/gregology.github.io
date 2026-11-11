@@ -8,6 +8,7 @@ categories:
   - personal
 tags:
   - family
+search_terms: [big bang, universe, expanding universe, cosmology, physics, science, father, dad, stuart, brother, floppy, dog, bush walks, bushwalking, hiking, red hill, flying floppy rock, greg's bridge, puddle, clap, mortality, death, existential, philosophy, childhood, memoir, insomnia, fear, anxiety]
 ---
 1988*
 

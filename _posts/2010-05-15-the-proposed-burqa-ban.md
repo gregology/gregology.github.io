@@ -14,6 +14,7 @@ tags:
   - politics
   - religion
   - privacy
+search_terms: [burka, burkha, face covering, veil, islam, muslim, muslims, france, post office, robbery, robbers, motorbike helmet, motorbike, costume, costumes, dress up, guy fawkes, guy fawkes mask, anonymous, security cameras, cctv, surveillance, gimp, image editing, peak oil, population growth, overpopulation, indecent exposure, topless, gender equality, nudity, naked, electronic burqa, infrared leds, infrared, fashion police, petrol station, service station, gas station, fuel station, civil liberties, freedom]
 ---
 The whole burqa debate has got me worried. What affect will a ban on burqas have on my freedom of fancy dress or my freedom of motorbike helmet wearing? This has all kicked off again after [burqa clad robbers held up a post office in France][1]. There have been hundreds of helmet clad and fancy dress clad robbers so are two of my favourite pass times at risk? I am already greeted with this sign at fuel stations.  
 [<img src="/wp-content/uploads/2010/05/no-helmets.jpeg" alt="" title="no helmets" width="146" height="206" class="alignnone size-full wp-image-382" />][2]  

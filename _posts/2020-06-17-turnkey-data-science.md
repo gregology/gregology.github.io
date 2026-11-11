@@ -13,6 +13,7 @@ categories:
 tags:
   - ai
   - privacy
+search_terms: [data scientist, machine learning, artificial intelligence, algorithmic bias, gender bias, sexism, facebook, social media, engagement, advertising, recommendation engine, filter bubble, echo chamber, rohingya, genocide, myanmar, burma, marzuki darusman, united nations, hate speech, content moderation, notification fatigue, bing, search engine, microsoft azure, google cloud, natural language processing, nlp, sentiment analysis, employee morale, statistical significance, mann-whitney, jupyter notebook, python package, document polluter, pew research center, media bias, political bias, ground news, blindspot, shopify, defensive patent, non-causal dependencies, ethics, fairness, loan risk]
 ---
 
 Data science affects our lives from trivial restaurant recommendations to life changing loan risk predictions. Data science has the ability to improve lives, but like any tool, when misused or misunderstood, it can cause damage.

@@ -12,6 +12,7 @@ tags:
   - sailing
   - caribbean
   - video
+search_terms: [hope town, abacos, elbow reef lighthouse, kerosene lighthouse, candy striped, colourful houses, colorful houses, wrecking, wreckers, salvage, shipwrecks, barrier reef, history, american revolution, barefoot adventures, drive leg, bearings, anzac day, australian and new zealand army corps, dawn service, remembrance, cholera cemetery, anzac biscuits, cookies, baking, sunflair solar oven, solar cooking, australian, scrubs, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='hKUQMcLPJCk' %}

@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - poland
+search_terms: [krakow, kraków, cracow, polish, nathan's villa hostel, hostel, english girls, slovakian, slovak, jewish summer camp, czartoryski museum, lady with an ermine, leonardo da vinci, da vinci, rembrandt, rembrandt van rijn, egbert van der poel, fire in a town, art gallery, obwarzanek, pretzel, bread, jewish museum, milk bar, milky bar, bar mleczny, polish food, pierogi, dumplings, beer, apple beer, non alcoholic beer, snowball fight, snow, dancing, nightclub, kebab, independence day, polish independence day, hangover, hungover, castle, wawel, coffee, night train, budapest, ireland, backpackers]
 ---
 I arrived in Krakow the night before last staying again at Nathan's villa hostel. In my room lived two English girls who were reuniting with some Polish and Slovakian work friends (they worked at a Jewish summer camp in the US). The next day the invited me to join them on a sight seeing tour of the city. With Polish interpreters we visited visited one of Krakow museums (the czartoryski) which hung art in the Polish fashion I'd become accustomed too. Lady with an ermine by da Vinci was placed on a maroon wall. My favorite pieces were Rembrandt's van rijn and Egbert van Der poel's fire in a town. Our Polish friends guided us through the art works and gave us a history lesson. Then my new Polish friends introduced me to some donut shaped salty bread and took us through a Jewish museum.
 

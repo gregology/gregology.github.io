@@ -9,6 +9,7 @@ categories:
 tags:
   - czech republic
   - poland
+search_terms: [krakow, kraków, vienna, wien, train, powder snow, yellow snow, dog, german shepherd, snowball, go karting, go-kart, karting, stag weekend, stag do, bucks party, zloty, złoty, night train, sleeper train, aussies, australian, amy, peta, shithead card game, card games, passports, train robbery, thieves, bandits, theft, stolen bag, gen x, generation x, maps, gps, navigation, hostel, plus prague, sauna, swimming pool, continental breakfast, cheap beer, pizza, nightclub, tram, kebab, hangover, prague castle, changing of the guard, russian tourists, national gallery, narodni galerie, národní galerie, pavel brazda, pavel brázda, podobizna otce, father's portrait, hamburger, czechia]
 ---
 Prague is slowly getting smaller as i sit traveling backwards on a train heading toward Vienna.
 

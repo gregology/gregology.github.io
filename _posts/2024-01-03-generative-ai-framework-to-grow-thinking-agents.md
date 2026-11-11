@@ -13,6 +13,7 @@ tags:
   - generative ai
   - llm
   - coding
+search_terms: [agentic ai, autonomous agents, large language model, artificial intelligence, knowledge graph, graph database, neo4j, cypher, python, flask, docker, containers, containerization, celery, flower, postgresql, redis, searxng, search engine, ollama, mixtral, mistral, openai, chatgpt, gpt-4, github, pull requests, slack, imap, email, wikipedia, pypi, web scraping, researcher, prime minister, canada, api, microservices, architecture, system design, proof of concept, prototype, hallucinations, prompt engineering, prompts, confidence scores, task queue, self-improving, multimodal, image generation, too many fingers, context window, skynet, ai safety, bias, personality, dreaming, model agnostic, chatbot, reasoning]
 ---
 
 Generative AI is predicting what should come next and is unaware of concepts. For instance, generative AI image models do not have a concept of a human hand. The models predict that a finger-like structure is normally next to another finger-like structure so they often create hands with too many fingers. Increasing the context window will help reduce these kinds of errors but it does not address the fundamental problem, the model is unaware of the concept of a hand. This project will use generative AI's semantic extraction and reasoning abilities to build a concept aware auditable AI framework that can learn, think, and improve itself.

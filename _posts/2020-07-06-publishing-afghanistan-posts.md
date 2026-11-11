@@ -12,6 +12,7 @@ categories:
 tags:
   - afghanistan
   - veteran
+search_terms: [australian army, adf, australian defence force, military, soldier, digger, war in afghanistan, tour of duty, deployed, diary, journaling, journalling, memoir, series, kandahar, ramp ceremony, richard atkinson, corporal, jamie larcombe, sapper, fallen soldiers, wikileaks, toilet, caught out, extension, handover, coffee, new year, homecoming, coming home, australia, aussie]
 ---
 
 It's been nearly a decade since I deployed to Afghanistan with the Australian Army. Going has never been a regret but returning was tough. I journalled my experiences with the intent of eventually posting them to my blog. These posts don't include the more difficult experiences. 

@@ -9,6 +9,7 @@ categories:
 tags:
   - poland
   - hungary
+search_terms: [kraków, cracow, pda, personal digital assistant, forgot, left behind, budapest, buda, buda castle, tourist information, modern art gallery, closed on monday, szepmuveszeti muzeum, szépművészeti múzeum, museum of fine arts, antiquities, picasso, pasico, paul klee, klee, kandinsky, kandinszkij, forint, art gallery, exhibition, night train, hostel, milk bar, potato dumplings, pierogi, felicity, beer, tea, iced tea, snow, snowball fight, sniper, snowman, brits, british, prague]
 ---
 15/11/07
 

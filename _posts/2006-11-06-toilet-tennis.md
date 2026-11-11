@@ -6,6 +6,7 @@ permalink: /2006/11/toilet-tennis/
 comments: True
 categories:
   - personal
+search_terms: [mp3 player, music, moby, cyndi lauper, pet shop boys, trance, 80s music, eighties, mail sorting, postie, postman, mail, bathroom, loo, dunny, restroom, lavatory, graffiti, look left look right, newspaper, hygiene, registered letter, signature, open plan office, startup, yoyo, ebay, resume, résumé, cv, swimming, laps, 1km, personal best, dad, father, budgie smugglers, speedos, bathers, togs, swimwear]
 ---
 I brought my new MP3 player to work today and listened to it while I sorted. It really helped me sort faster until Moby came on, then I just drifted into this euphoric trance and spaced out for a while. Cyndi Lauper snapped me out of it but then I found myself dancing, so a happy medium was The Pet Shop Boys :) When I get bored I go to the toilet. There are two good toilets, one has the newspaper in it but I'm only game enough to read the first page for hygiene reasons, the second one has toilet tennis. It's a simple game, on the cubic door someone has written "look left" on the left wall someone has written "look right" and on the right wall someone has written "look left". I stay in there until my neck hurts.
 

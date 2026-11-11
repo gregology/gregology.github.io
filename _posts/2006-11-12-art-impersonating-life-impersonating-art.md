@@ -10,6 +10,7 @@ categories:
   - personal
 tags:
   - art
+search_terms: [brain development, maturity, maturing, neuroscience, saving, overseas, travel, ship, boat, crew, sailing, berth, india, voyage, forum, birthday party, chris, renovation, kazimir malevich, white on white, suprematism, suprematist, russian avant-garde, modernism, modern art, abstract art, art history, university, electrical box, fuse box, meter box, mistake, embarrassing, toilet, replica, cleaning, tiling, backyard, diy, chores, nathalie, michael, mike, part time job]
 ---
 The other day I discovered that male brains don't stop maturing until 25. This made me feel so much better. Now I've got an excuse for the next year and a half! I'm still saving up all my money for a trip overseas. A fellow called me the other day regarding a message I left on a forum. He has a ship in Australia and he needs crew for a trip to India! He'll be leaving early next year so if I can get a berth on that ship I'll be off :)
 

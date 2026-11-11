@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - usa
+search_terms: [hudson river, nyc, big apple, manhattan, catskills, hop-o-nose marina, mast, mast stepping, marine traffic, commercial traffic, trains, cruising license, catamaran, buddy boat, half moon bay, anchor chain, rode, anchoring, anchorage, 79th street boat basin, boat basin, mooring field, current, dinghy, central park, metropolitan museum of art, met museum, times square, russian samovar, phantom of the opera, broadway, new york harbour, new york harbor, diana, wifi, boat, liveaboard, youtube, vlog, united states]
 ---
 
 {% include youtube_player.html id='LE_yy0Z3_w0' %}

@@ -12,6 +12,7 @@ tags:
   - sailing
   - video
   - caribbean
+search_terms: [rudder cut cay, caves, reefs, mermaid sculpture, underwater sculpture, statue, snorkeling, slack tide, conch shell, seashell, freezing, cracked conch, tenderize, tenderise, fried, cooking, recipe, seafood, lee stocking island, marine research centre, research center, abandoned, ruins, airstrip, machete, great exuma, barreterre, exumas, settlement, vegetables, tomatoes, cabbages, local produce, anchorage, catamaran, bahamian, youtube, vlog]
 ---
 
 {% include youtube_player.html id='jbpi2YTC_uM' %}

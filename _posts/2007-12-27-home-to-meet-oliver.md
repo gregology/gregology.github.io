@@ -10,6 +10,7 @@ tags:
   - australia
   - family
   - dog
+search_terms: [ollie, bayram, biram, eid, istanbul, christmas shopping, grand bazaar, grand bizzar, bargaining, haggling, islamic art, flight, frankfurt, singapore, sydney, exit row, leg room, jet lag, long haul, customs, quarantine, brother, stuart, stu, newcastle, surprise, homecoming, coming home, navy, navy uniform, caltex, servo, black betty, car, sam, aaron, pregnant, janell, jannell, mum, mom, mother, sister, nephew, baby, bath, christmas day, christmas, xmas, christmas swim, tradition, labour, labor, niece, molly, baby room, nursery, youngest, baby of the family]
 ---
 Biram closed the city of Istanbul and I was lucky to get my christmas shopping done. I found a few little stores but my barging powers were greatly reduced as the grand bizzar was closed :( It also meant I missed out on islamic art galleries which I was really interesting in visiting.
 

@@ -12,6 +12,7 @@ tags:
   - sailing
   - caribbean
   - video
+search_terms: [repairs, maintenance, diy, crossing, united states, rigging, rig tuning, barefoot adventures, masthead light, navigation light, led bulb, incandescent, wiring, electrical, route planning, hopetown, hope town, green turtle cay, new plymouth, memorial sculpture garden, museum, colourful houses, colorful houses, weather window, staging, bahamas, abacos, bahamian, vivaldi, four seasons, catamaran, youtube, vlog]
 ---
 
 {% include youtube_player.html id='3fyYaY5cy4o' %}

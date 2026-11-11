@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - montreal
+search_terms: [pictures, gallery, warm cider, hot cider, cider, rum, ice skating, skating, new friends, friends, nye, new year's eve, fireworks, dancing, dancing on snow, snow, marisol, acro yoga, acro, exploring, statues, statues wearing hats, cold cow, cow, old port, vieux-port, old montreal, winter, mum, quebec, holiday, vacation, olympus, camera]
 ---
 <div id='gallery-4' class='gallery galleryid-1295 gallery-columns-3 gallery-size-responsive-200'>
   <dl class='gallery-item'>

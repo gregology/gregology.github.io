@@ -9,6 +9,7 @@ categories:
 tags:
   - ai
 licence: Creative Commons
+search_terms: [google images, google image search, image search, search results, google, avatar, profile picture, vanity search, googling myself, ego search, dickhead, face transplant, preteen, it takes a village, training, machine learning, artificial intelligence, algorithm, fluffy animals, cute animals, cat, koala, puppy, funny, humour, humor]
 ---
 
 Out of curiosity I Google image searched [Gregology](https://www.google.ca/search?q=gregology&tbm=isch). The top hit was the current avatar for this site with some interesting related images.

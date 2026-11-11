@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - france
+search_terms: [sugar mama, sugar momma, sugar mommy, sugar mummy, nathalie, girlfriend, restaurant, snooty, french tv, fountain, tintin, comic, homeless, hippies, dogs, pets, police, vet, veterinarian, arrest, rabbits, cats, public toilets, urine, urinal, car park, parking lot, countryside, rural, horses, carrots, horseshoes, horse shoes, hooves, good luck, horse meat, cahors]
 ---
 I just dropped Nathalie at work for her second day. She doesn't really like it there, it's a really snooty French restaurant but she's got another job offer starting on Wednesday and this is good experience for her. Plus it's money and how can she be my sugar mumma if she's not earning? I watching French TV and I'm a bit over not knowing what's going on :(
 

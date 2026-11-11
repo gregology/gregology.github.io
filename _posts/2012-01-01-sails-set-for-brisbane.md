@@ -10,6 +10,7 @@ tags:
   - sailing
   - australia
 format: status
+search_terms: [laura court, yacht, boat, voyage, passage, coastal passage, ocean sailing, skipper, crew, alan, gaten, john, helan, port stephens, queensland, new south wales, nsw, east coast, departure, setting sail]
 ---
 The Laura Court has set sails for the trip to Brisbane. Alan (skipper), Gaten, John, helan, and myself onboard. First scheduled stop is Port Stephens which with current winds should be in our sights by early tomorrow morning.
 

@@ -8,6 +8,7 @@ categories:
   - travel
 tags:
   - belgium
+search_terms: [brussels, european union, european parliament, parliament, meps, charter of fundamental rights, fundamental rights, human rights, slavery, forced labour, forced labor, conscription, national service, draft, freedom of thought, freedom of religion, freedom of conscience, holocaust denial, holocaust, unknown soldier, tomb of the unknown soldier, congress column, eternal flame, war memorial, memorial, monument, lions, map, sightseeing, cobbled streets, cobblestones, architecture, equality, gender equality, museum, royal museums of art and history, musées royaux d'art et d'histoire, cinquantenaire, royal military museum, army museum, military history, military, begging, beggar, immigrant, poverty, manneken pis, manneke pis, pissing boy, peeing boy, fountain, urinal, public urinal, car park, panorama, cologne, koln, belgian, politics, travel, backpacking, europe]
 ---
 Using my legs and an analog GPS receiver, a.k.a. a map, i visited the sights of Brussels. I found tall glass buildings towering over cobbled streets in an odd mix of old and new. My first stop was the unknown solider. He lay between two lions who mirrored each other facing outwards. Behind him climbed a pillar carrying other statues. A flame burned. It was a powerful scene and i wish i could have understood the inscriptions.
 
