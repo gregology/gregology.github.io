@@ -15,3 +15,11 @@ Using pre-render post markdown instead was rejected because it would put raw `{%
 On 30 test queries (titles, typos, accents, plurals and words only in a page's body), MiniSearch put the right page in the top 3 for 29. SimpleJekyllSearch, which this replaced, managed 8: it only indexed posts and returned the first 10 records whose fields contained the query's letters in order, unranked. Fuse.js also scored 29 but each query took about 21 times as long. Pagefind scored 25 and found 2 of 7 typos.
 
 The index leaves out body text. It is 17 KB gzipped against 407 KB with full text, and only 1 of the 30 queries needed the body. Body text would also need a `:post_render` hook, for the same render-order reason as `llms-full.txt` above. Words a visitor might search for that aren't in the title, description or tags go in `search_terms` in front matter instead; for a signed file, that means re-signing it. With about 34 terms on every post, the index is 69 KB gzipped, still a sixth of the full-text size.
+
+## Signatures are published beside each page's .md version
+
+`_plugins/signature_files.rb` copies each post's and each `signed: true` page's `.asc` into the site unchanged, at the page's URL with `.md.asc` in place of the trailing slash: `/2026/11/dashcam-footage-to-3d-driving-game.md.asc`. `_includes/signature.html` links to it and uses it in the `gpg --verify` example.
+
+They used to be served from `raw.gregology.net`, a proxy of the GitHub repo's raw files. Publishing them with the site removes that dependency, and makes the link's `download` attribute work, because browsers ignore it on links to another domain.
+
+The signature covers the source file in `_posts/` (or the page's `.md`), front matter included, not the generated `.md` beside it, which has its front matter replaced by a heading and its Liquid rendered. A clear-signed file carries its own copy of the text, so `gpg --verify` needs only the `.asc`. Serving it at the source path (`/_posts/2026-11-04-...md.asc`) was rejected as less tidy.
