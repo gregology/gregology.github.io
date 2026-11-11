@@ -6,6 +6,7 @@ title: Codex Vitae
 signed: True
 subtitle: An exercise in metacognition
 description: "My beliefs, principles, and predictions in a public document. Updated when I change my mind. Hold me accountable."
+search_terms: [blueprint, personal blueprint, values, philosophy, manifesto, worldview, metacognition]
 redirect_from:
   - /blueprint
   - /codexvitae

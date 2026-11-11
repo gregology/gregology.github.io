@@ -1,0 +1,79 @@
+# External links that site search returns alongside posts and pages (see search.json).
+# Each needs a title and url; description and search_terms are optional.
+
+# Contact and profiles (the same ones as the footer)
+- title: Signal
+  url: https://signal.me/#p/+16132626705
+  description: Message Greg on Signal.
+  search_terms: [contact, message, chat, text, messenger]
+
+- title: Mastodon
+  url: https://clar.ke
+  description: Greg's Mastodon profile.
+  search_terms: [fediverse, toots, social media, follow]
+
+- title: GitHub
+  url: https://github.com/gregology
+  description: Greg's code and open source projects.
+  search_terms: [code, repositories, repos, git]
+
+- title: LinkedIn
+  url: https://linkedin.com/in/gregology
+  description: Greg's LinkedIn profile.
+  search_terms: [work, professional, network, jobs]
+
+- title: Stack Overflow
+  url: https://stackoverflow.com/users/1142113/gregology
+  description: Greg's questions and answers on Stack Overflow.
+  search_terms: [stackoverflow, programming, answers]
+
+- title: Reddit
+  url: https://reddit.com/user/gregologynet
+  description: Greg's Reddit profile.
+  search_terms: [social media, comments]
+
+- title: YouTube
+  url: https://www.youtube.com/gregologynet
+  description: Greg's YouTube channel.
+  search_terms: [videos, channel]
+
+- title: Twitch
+  url: https://www.twitch.tv/babyarmour/
+  description: Greg's Twitch channel.
+  search_terms: [streaming, games, gaming]
+
+- title: Steam
+  url: https://steamcommunity.com/id/BabyArmour/
+  description: Greg's Steam profile.
+  search_terms: [games, gaming, friends]
+
+- title: Discord
+  url: https://discordapp.com/users/305821319239434240
+  description: Greg's Discord profile.
+  search_terms: [chat, message, gaming]
+
+# Projects (the external ones in the navbar)
+- title: Structured Context
+  url: https://sctx.dev
+  description: Give AI agents the right context at the right time.
+  search_terms: [sctx, ai, agents, llm, context engineering]
+
+- title: Quinte Mesh
+  url: https://QuinteMesh.ca
+  description: A community mesh network for Belleville, Trenton, Picton and beyond.
+  search_terms: [meshcore, mesh network, radio, off grid, quinte]
+
+- title: Memair
+  url: https://Memair.com
+  description: A personal analytics product Greg founded.
+  search_terms: [quantified self, personal data, analytics]
+
+- title: Smiley Om
+  url: https://SmileyOm.com
+  description: Acroyoga in Ottawa. Performances, teaching and apparel.
+  search_terms: [acroyoga, acro yoga, yoga, ottawa]
+
+- title: SV Catsaway
+  url: https://SVCatsaway.com
+  description: Sailing adventures of Diana, Greg and their two cats.
+  search_terms: [catsaway, sailing, boat, catamaran, cats]

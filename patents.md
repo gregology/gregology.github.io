@@ -4,6 +4,7 @@ layout: page
 comments: True
 licence: Creative Commons
 description: "Patents I've invented for detecting ML bias and server load balancing during flash sales."
+search_terms: [inventions, inventor, intellectual property, machine learning]
 ---
 
 ### Systems & Methods for Detecting Non-causal Dependencies in Machine Learning Models

@@ -4,6 +4,7 @@ layout: page
 comments: True
 licence: Creative Commons
 description: "Open source Python and Ruby packages I maintain, including Document Polluter for detecting ML bias."
+search_terms: [libraries, pypi, rubygems, gems, npm, signal k, lcars, facebook etl, spot sdk, stop words]
 ---
 
 Some packages that Greg maintains.

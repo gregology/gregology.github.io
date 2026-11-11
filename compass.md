@@ -5,6 +5,7 @@ comments: True
 chart: True
 licence: Creative Commons
 description: "I take the Political Compass test every six months and chart the results. So far I'm drifting left."
+search_terms: [politics, political views, ideology, libertarian, left wing, quiz]
 ---
 
 Every 6 months I take the [Political Compass test](https://www.politicalcompass.org/test) to see how my beliefs drift over time. Here are the results so far.

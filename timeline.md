@@ -5,6 +5,7 @@ layout: page
 comments: True
 licence: Creative Commons
 description: "Major life events from 1983 to now, with a live counter showing how long I've been alive."
+search_terms: [history, biography, life story, chronology, milestones]
 ---
 
 <div id='time-alive'> </div>

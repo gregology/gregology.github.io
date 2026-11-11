@@ -1,14 +1,24 @@
 ---
 layout: none
 ---
+{%- comment -%}
+  The index js/site-search.js searches: every post, every titled page (leave one out with `search: false`),
+  and the external links in _data/search_links.yml. `search_terms` in front matter holds words a visitor
+  might type that aren't in the title, description or tags.
+{%- endcomment -%}
+{%- assign pages = site.pages | where_exp: "p", "p.title" | where_exp: "p", "p.twin_kind == nil" | where_exp: "p", "p.tag == nil" | where_exp: "p", "p.search != false" -%}
+{%- assign sep = "" -%}
 [
-  {% for post in site.posts %}
-  {
-    "title"    : "{{ post.title | escape }}",
-    "category" : "{{ post.category }}",
-    "tags"     : "{{ post.tags | join: ', ' }}",
-    "url"      : "{{ site.baseurl }}{{ post.url }}",
-    "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ]
+{%- for post in site.posts %}{{ sep }}
+  {"kind":"post","url":{{ post.url | relative_url | jsonify }},"title":{{ post.title | jsonify }},"description":{{ post.description | default: post.subtitle | default: "" | jsonify }},"tags":{{ post.tags | join: " " | jsonify }},"terms":{{ post.search_terms | join: " " | jsonify }},"date":{{ post.date | date: "%b %Y" | jsonify }}}
+  {%- assign sep = "," -%}
+{%- endfor -%}
+{%- for page in pages %}{{ sep }}
+  {"kind":"page","url":{{ page.url | relative_url | jsonify }},"title":{{ page.title | jsonify }},"description":{{ page.description | default: page.subtitle | default: "" | jsonify }},"tags":"","terms":{{ page.search_terms | join: " " | jsonify }},"date":""}
+  {%- assign sep = "," -%}
+{%- endfor -%}
+{%- for link in site.data.search_links %}{{ sep }}
+  {"kind":"link","url":{{ link.url | jsonify }},"title":{{ link.title | jsonify }},"description":{{ link.description | default: "" | jsonify }},"tags":"","terms":{{ link.search_terms | join: " " | jsonify }},"date":""}
+  {%- assign sep = "," -%}
+{%- endfor %}
+]

@@ -2,6 +2,7 @@
 title: Funny Sayings
 layout: page
 description: "Sayings and expressions I've collected. Mostly Australian."
+search_terms: [aussie, slang, idioms, similes, insults, jokes]
 ---
 Lights on, door open, nobody at home
 

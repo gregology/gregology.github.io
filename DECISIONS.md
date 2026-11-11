@@ -7,3 +7,11 @@
 As a template, `llms-full.txt` depended on render order: posts render before pages, so `post.content` was already HTML, while `page.content` on the twins was still unrendered Liquid (`{% include_relative %}`, `{{ site.author... }}`). Building from the twins after everything has rendered means each section is identical to its `.md` file, whatever the render order.
 
 Using pre-render post markdown instead was rejected because it would put raw `{% include youtube_player.html %}` tags in `llms-full.txt` while the `.md` twins have them expanded.
+
+## Site search ranks titles, descriptions, tags and search terms with MiniSearch
+
+`/search/` and `/posts/` load `search.json` (every post, every titled page, and the external links in `_data/search_links.yml`) into MiniSearch in the browser. Title matches count most, then tags and `search_terms`, then descriptions. Prefix matching is always on; typos are allowed only in words of 5+ letters, because allowing them in shorter words made "llm" match "Lam".
+
+On 30 test queries (titles, typos, accents, plurals and words only in a page's body), MiniSearch put the right page in the top 3 for 29. SimpleJekyllSearch, which this replaced, managed 8: it only indexed posts and returned the first 10 records whose fields contained the query's letters in order, unranked. Fuse.js also scored 29 but each query took about 21 times as long. Pagefind scored 25 and found 2 of 7 typos.
+
+The index leaves out body text. It is 17 KB gzipped against 407 KB with full text, and only 1 of the 30 queries needed the body. Body text would also need a `:post_render` hook, for the same render-order reason as `llms-full.txt` above. Words a visitor might search for that aren't in the title, description or tags go in `search_terms` in front matter instead; for a signed file, that means re-signing it.

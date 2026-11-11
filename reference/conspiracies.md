@@ -3,6 +3,7 @@ title: Conspiracy Theories
 disqus: yep
 layout: page
 description: "Original conspiracy theories I've made up. Mosquitos are flies with their armour off, and other science."
+search_terms: [vampires, flies, humour, satire]
 ---
 
 ## The fly mosquito theory

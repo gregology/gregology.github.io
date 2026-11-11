@@ -2,6 +2,7 @@
 title: Guide to Phlegm
 layout: page
 description: "Does milk actually cause phlegm when you're sick? I looked into it."
+search_terms: [mucus, dairy, common cold, cough, flu, myth]
 ---
 ### Greg&#8217;s Guide to Milk and Phlegm
 

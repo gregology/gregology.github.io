@@ -3,6 +3,7 @@ title: .zshrc and .bash_profile
 disqus: yep
 layout: page
 description: "My shell config. Aliases, prompt customization, and useful functions I've collected."
+search_terms: [zsh, dotfiles, terminal, git, homebrew, macos]
 ---
 {% raw %}
 Useful aliases and alike from my `.zshrc`

@@ -2,6 +2,7 @@
 title: Koumpounophobia
 disqus: yep
 description: "Support and information for people with koumpounophobia, the fear of buttons."
+search_terms: [phobia, button phobia, anxiety, therapy]
 redirect_from:
   - /health/koumpounophobia/
   - /Health/Koumpounophobia/

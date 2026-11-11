@@ -3,6 +3,7 @@ title: Genarrsis
 disqus: yep
 layout: page
 description: "The book of Genesis retold in pirate. In the beginning, Cap'n created the heaven and the earth. Arrrr."
+search_terms: [bible, talk like a pirate, parody, old testament]
 redirect_from:
   - /GregologicalStudies/Genarrsis
   - /GregologicalStudies/genarrsis

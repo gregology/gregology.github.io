@@ -3,6 +3,7 @@ title: Guide to chivalry
 disqus: yep
 layout: page
 description: "A visual guide to being chivalrous in modern times."
+search_terms: [knights, code of conduct, honour, gentleman, manners, etiquette]
 ---
 ### Greg&#8217;s Guide to Chivalry
 

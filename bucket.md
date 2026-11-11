@@ -4,6 +4,7 @@ layout: page
 comments: True
 licence: Creative Commons
 description: "Things I want to do before I die. Tracked with a live countdown of my estimated remaining lifespan."
+search_terms: [goals, life goals, to do list, wishlist, dreams, adventures]
 ---
 
 <div id='time-alive'> </div>
