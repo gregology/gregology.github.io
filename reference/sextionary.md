@@ -2,6 +2,7 @@
 title: Sextionary
 layout: page
 description: "The largest list of sex euphemisms on the internet. Community submitted."
+search_terms: [slang, synonyms, intercourse]
 ---
  The largest list of sex euphemisms  
 

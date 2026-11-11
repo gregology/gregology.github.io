@@ -2,6 +2,7 @@
 title: Guide to women
 layout: page
 description: "A thorough guide to understanding women."
+search_terms: [satire, humour, joke]
 ---
 ### Greg&#8217;s Guide to Women
 

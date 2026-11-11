@@ -2,6 +2,7 @@
 title: Raspberry Pi Cheatsheet
 layout: page
 description: "Quick reference for Raspberry Pi setup. Wifi config, SSH, static IP, and common commands."
+search_terms: [pi, rpi, raspbian, headless, wpa supplicant, cheat sheet]
 redirect_from:
   - /pi
 ---

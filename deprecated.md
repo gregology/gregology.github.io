@@ -4,6 +4,7 @@ comments: False
 licence: Creative Commons
 title: Deprecated Projects
 description: "Old projects I've retired. Emoji social network, hand signal protocol, DNS ad blocker, and more."
+search_terms: [archived, abandoned, oasis dns, handy signs, dump board, weather blink, wikijam]
 ---
 
 ### [Oasis DNS](https://github.com/gregology/oasis_dns)

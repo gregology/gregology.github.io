@@ -2,6 +2,7 @@
 title: Menstruationary
 layout: page
 description: "The largest list of menstruation euphemisms on the internet. Community submitted."
+search_terms: [period, periods, time of the month, aunt flo, slang, synonyms]
 ---
  The largest list of menstruation euphemisms  
 

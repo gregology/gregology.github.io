@@ -2,6 +2,7 @@
 title: Dicktionary
 layout: page
 description: "The largest list of penis euphemisms on the internet. Community submitted."
+search_terms: [dictionary, slang, synonyms, dick, willy]
 redirect_from:
   - /reference/Dicktionary
   - /Reference/Dicktionary

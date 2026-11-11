@@ -1,6 +1,7 @@
 ---
 title: Decimal prime numbers
 description: "Every prime number from 0 to 1,000,000 in base 10."
+search_terms: [primes, prime list, number theory, maths, math]
 layout: page
 ---
 

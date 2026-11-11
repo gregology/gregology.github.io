@@ -5,6 +5,7 @@ markdown_twin: true
 comments: True
 licence: Creative Commons
 description: "Greg Clarke is a sentient being. Australian, Canadian, software developer, army veteran, sailor, cat person."
+search_terms: [bio, biography, greg clarke, profile, philosophies]
 redirect_from:
   - /about/philosophies/
 ---

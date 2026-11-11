@@ -2,6 +2,7 @@
 title: Power of 2
 layout: page
 description: "Every power of 2 from 2^0 to 2^1024."
+search_terms: [powers of two, binary, exponents, bits]
 ---
 
 <!-- 

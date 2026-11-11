@@ -2,6 +2,7 @@
 title: Vagitionary
 layout: page
 description: "The largest list of vagina euphemisms on the internet. Community submitted."
+search_terms: [slang, synonyms, fanny]
 ---
  The largest list of sex euphemisms  
 

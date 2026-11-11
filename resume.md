@@ -10,6 +10,7 @@ signed: True
 licence: Creative Commons
 title: Résumé
 description: "Staff engineer building AI-assisted developer tooling. Python, GCP, LLMs, and infrastructure automation."
+search_terms: [cv, curriculum vitae, career, work history, employment, experience, jobs, hire]
 clippy_help: It looks like you're trying to hire Greg. Consider paying him in cheese 🧀 It's his favourite food!
 ---
 
