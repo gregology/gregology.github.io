@@ -23,3 +23,11 @@ The index leaves out body text. It is 17 KB gzipped against 407 KB with full tex
 They used to be served from `raw.gregology.net`, a proxy of the GitHub repo's raw files. Publishing them with the site removes that dependency, and makes the link's `download` attribute work, because browsers ignore it on links to another domain.
 
 The signature covers the source file in `_posts/` (or the page's `.md`), front matter included, not the generated `.md` beside it, which has its front matter replaced by a heading and its Liquid rendered. A clear-signed file carries its own copy of the text, so `gpg --verify` needs only the `.asc`. Serving it at the source path (`/_posts/2026-11-04-...md.asc`) was rejected as less tidy.
+
+## The timeline stays markdown and is laid out in the browser
+
+`timeline.md` is year headings, month headings and one emoji-led line per milestone. `js/timeline.js` rebuilds those as a line down the page, coloured by where Greg was living, and draws Greg's Clock (every week of an 86-year life as a square) into an empty `<div>`.
+
+Moving the milestones into a `_data` file rendered with Liquid was rejected. A page's `.md` twin, and so `llms-full.txt`, is its source with the Liquid rendered, so both would carry generated HTML instead of readable markdown. The clock's script moved out of the page for the same reason: the twin used to include it.
+
+The costs: without JavaScript the page is plain headings with no clock, and the places lived are repeated in `PLACES` in `js/timeline.js`, because they colour whole years and the markdown has nowhere to hold that.

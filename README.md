@@ -26,6 +26,9 @@ Make sure the repository Settings → Pages “Build and deployment” source is
 ## Markdown twins and llms.txt
 `_plugins/markdown_page_generator.rb` writes a `.md` twin of every post and of every page linked internally from `navbar-links` in `_config.yml`. To twin a page that isn't in the nav, add `markdown_twin: true` to its front matter. The generator is the only place that decides twin URLs: it exposes them as `markdown_url` on the source page or post, and `llms.txt` links to those. `llms-full.txt` has no template; the plugin builds it from the rendered twins after the site renders.
 
+## Timeline
+`timeline.md` is plain markdown: a `## year` heading, an optional `### month` heading (end it with `?` when unsure), then one milestone per line, each starting with an emoji. `js/timeline.js` lays those out as a line down the page and draws Greg's Clock above it; `css/timeline.css` styles both. The line and the clock are coloured by where Greg was living, which comes from the `PLACES` list in `js/timeline.js`, so a move needs a line there as well as in `timeline.md`.
+
 ## Includes
 [_includes](https://github.com/gregology/gregology.github.io/tree/master/_includes) contains tools for instagram, youtube, flickr, and generic video players. I have tried to make them as generic as possible with usage examples so they can be used elsewhere. I'm working on my javascript / jekyll skills so please let me know of any improvements.
 

@@ -1,0 +1,278 @@
+/* Greg's Clock and the spine layout on /timeline/, both built by js/timeline.js */
+
+:root {
+  /* Where Greg was living. Checked as a set for colour-blind separation, so change them together */
+  --chapter-uk: #6250d6;
+  --chapter-au: #eda100;
+  --chapter-dep: #008300;
+  --chapter-ca: #e34948;
+  --chapter-sea: #1baf7a;
+  --clock-future: #e3e8ed;
+  --timeline-ink: #1f2a33;
+  --timeline-soft: #7b8690;
+  --timeline-sans: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* --- Greg's Clock --- */
+
+#greg-clock {
+  container-type: inline-size;
+  margin-bottom: 48px;
+  font-family: var(--timeline-sans);
+}
+.clock-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 6px 20px;
+}
+.clock-head h3 {
+  margin: 0;
+  font-size: 24px;
+}
+.clock-percent {
+  margin: 0;
+  font-size: 14px;
+  color: var(--timeline-soft);
+}
+.clock-percent b {
+  color: #404040;
+  font-variant-numeric: tabular-nums;
+}
+.clock-percent a {
+  font-size: 0.75em;
+  vertical-align: super;
+  line-height: 0;
+}
+.clock-weeks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 10px;
+  margin: 10px 0 16px;
+  font-size: clamp(16px, 3.4cqw, 20px);
+  line-height: 1.2;
+  color: var(--timeline-soft);
+}
+.clock-weeks b {
+  font-size: clamp(34px, 9cqw, 60px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--timeline-ink);
+  font-variant-numeric: tabular-nums;
+}
+.clock-weeks .clock-left {
+  margin-left: clamp(0px, 2cqw, 18px);
+  color: #a7b1ba;
+}
+.clock-grid {
+  position: relative;
+  touch-action: pan-y;
+}
+.clock-grid canvas {
+  display: block;
+  width: 100%;
+}
+.clock-now {
+  position: absolute;
+  border-radius: 2px;
+  background: var(--timeline-ink);
+  animation: clock-pulse 1.6s ease-out infinite;
+  pointer-events: none;
+}
+@keyframes clock-pulse {
+  from { box-shadow: 0 0 0 0 rgba(0, 138, 255, 0.75); }
+  to { box-shadow: 0 0 0 12px rgba(0, 138, 255, 0); }
+}
+.clock-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  margin: 14px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 13px;
+  line-height: 1.3;
+}
+.clock-legend li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.clock-legend i {
+  flex: none;
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+}
+.clock-legend-now {
+  background: var(--timeline-ink);
+}
+.clock-legend-future {
+  background: var(--clock-future);
+}
+.clock-numbers {
+  margin-top: 18px;
+  font-size: 14px;
+}
+.clock-numbers summary {
+  width: fit-content;
+  color: #008AFF;
+  font-weight: 600;
+  cursor: pointer;
+}
+.clock-numbers div {
+  margin-top: 10px;
+  overflow-x: auto;
+}
+.clock-numbers table {
+  width: 100%;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.clock-tip {
+  position: fixed;
+  z-index: 1040; /* above the fixed navbar */
+  max-width: 260px;
+  padding: 7px 10px;
+  border-radius: 6px;
+  background: var(--timeline-ink);
+  color: #FFF;
+  font: 13px/1.35 var(--timeline-sans);
+  box-shadow: 0 6px 18px rgba(13, 42, 69, 0.22);
+  pointer-events: none;
+}
+
+/* --- Spine --- */
+
+.timeline-decades {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 14px;
+  margin-bottom: 12px;
+  font: 14px/2 var(--timeline-sans);
+  color: var(--timeline-soft);
+}
+.timeline-decades a {
+  font-weight: 700;
+}
+.timeline-year {
+  position: relative;
+  scroll-margin-top: 51px; /* the fixed navbar's height once scrolled */
+}
+/* The line, in the colour of where Greg was living that year */
+.timeline-year::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 18px;
+  width: 2px;
+  background: var(--chapter);
+}
+.timeline-year header {
+  position: sticky;
+  top: 51px;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 12px;
+  padding: 14px 0 6px 50px;
+  background: linear-gradient(#FFF 80%, rgba(255, 255, 255, 0));
+}
+.timeline-year header::before {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: 11px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--chapter);
+  box-shadow: 0 0 0 4px #FFF;
+}
+.timeline-year h2 {
+  margin: 0;
+  font-size: 38px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--timeline-ink);
+  font-variant-numeric: tabular-nums;
+}
+.timeline-year header span {
+  font: 14px/1.3 var(--timeline-sans);
+  color: var(--timeline-soft);
+}
+.timeline-year ol {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 4px 0 26px;
+  list-style: none;
+}
+.timeline-year li {
+  display: grid;
+  grid-template-columns: 38px 44px minmax(0, 1fr);
+  column-gap: 12px;
+  align-items: start;
+}
+.timeline-icon {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border: 2px solid var(--chapter);
+  border-radius: 50%;
+  background: #FFF;
+  font-size: 17px;
+  line-height: 1;
+}
+.timeline-month {
+  font: 700 12px/38px var(--timeline-sans);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--timeline-soft);
+  white-space: nowrap;
+}
+.timeline-year li p {
+  margin: 0;
+  padding: 5px 0;
+  overflow-wrap: anywhere;
+}
+
+/* On a phone the month sits above its milestone instead of beside it */
+@media (max-width: 520px) {
+  .timeline-year li {
+    grid-template-columns: 38px minmax(0, 1fr);
+  }
+  .timeline-icon {
+    grid-row: 1 / span 2;
+  }
+  .timeline-month {
+    grid-column: 2;
+    padding-top: 6px;
+    line-height: 1.2;
+  }
+  .timeline-month:empty {
+    display: none;
+  }
+  .timeline-year li p {
+    grid-column: 2;
+    padding-top: 2px;
+  }
+  .timeline-month:empty + p {
+    padding-top: 5px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .clock-now {
+    animation: none;
+    box-shadow: 0 0 0 3px rgba(0, 138, 255, 0.45);
+  }
+}
