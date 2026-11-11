@@ -751,3 +751,16 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
   font-size:1.2em;
   z-index:999;
 }
+/* --- Site search (_includes/site-search.html) --- */
+
+.search-result-meta {
+  color: #808080;
+  font-size: 0.85em;
+  margin-left: 0.5em;
+  white-space: nowrap;
+}
+
+.search-result-message {
+  list-style: none;
+  color: #808080;
+}

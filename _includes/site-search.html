@@ -1,0 +1,11 @@
+{%- comment -%} Site search box and results, used by search.html and posts.html {%- endcomment -%}
+{%- assign search_version = site.time | date: '%s' -%}
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="Type here..." aria-label="Search posts, pages and links" autocomplete="off">
+  <div class="col-md-12 content-panel articles">
+    <ul id="results-container" aria-live="polite"><small>Start typing to see some results</small></ul>
+  </div>
+</div>
+
+<script src="{{ '/js/minisearch.min.js' | relative_url }}?v={{ search_version }}"></script>
+<script src="{{ '/js/site-search.js' | relative_url }}?v={{ search_version }}" data-index="{{ '/search.json' | relative_url }}?v={{ search_version }}"></script>

@@ -3,6 +3,7 @@ title: tmp
 layout: page
 comments: True
 licence: Creative Commons
+search: false
 ---
 
 [tutorial](https://www.techdoctoruk.com/custom-launcher-on-all-amazon-devices-october-2020/)
