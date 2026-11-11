@@ -5,3 +5,5 @@ _site
 .sass-cache
 links.txt
 _creds.yml
+__pycache__/
+*.pyc

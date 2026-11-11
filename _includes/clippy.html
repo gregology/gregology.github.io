@@ -1,0 +1,42 @@
+<!-- Office Assistant: nothing loads until the page has finished loading and the browser is idle -->
+<script>
+  window.CLIPPY_PAGE = {
+    base: {{ site.baseurl | jsonify | replace: "</", "<\/" }},
+    message: {{ page.clippy_help | jsonify | replace: "</", "<\/" }},
+    choices: {{ page.clippy_choices | jsonify | replace: "</", "<\/" }}
+  };
+  (function () {
+    var base = window.CLIPPY_PAGE.base;
+
+    function loadScripts() {
+      ['/js/clippy.js', '/js/office-assistant.js'].forEach(function (src) {
+        var script = document.createElement('script');
+        script.src = base + src;
+        script.async = false; // run in this order
+        document.body.appendChild(script);
+      });
+    }
+
+    function start() {
+      var css = document.createElement('link');
+      css.rel = 'stylesheet';
+      css.href = base + '/css/clippy.css';
+      css.onload = css.onerror = loadScripts;
+      document.head.appendChild(css);
+    }
+
+    function whenIdle() {
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(start, { timeout: 3000 });
+      } else {
+        window.setTimeout(start, 200);
+      }
+    }
+
+    if (document.readyState === 'complete') {
+      whenIdle();
+    } else {
+      window.addEventListener('load', whenIdle);
+    }
+  })();
+</script>

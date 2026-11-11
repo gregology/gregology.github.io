@@ -1,5 +1,6 @@
 ---
 layout: default
+clippy_help: It looks like you're trying to find something. Type it in the box and I'll pretend to help.
 ---
 
 <div class="container-fluid index">
@@ -22,13 +23,35 @@ layout: default
 <script src="{{ site.baseurl }}/js/jekyll-search.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-  SimpleJekyllSearch.init({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    dataSource: '{{ site.baseurl }}/search.json',
-    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
-    noResultsText: 'No results found',
-    limit: 10,
-    fuzzy: true,
-  })
+  (function () {
+    var input = document.getElementById('search-input');
+    var dataUrl = '{{ site.baseurl }}/search.json';
+    // /search?q=... (the Office Assistant's search box) runs that search straight away
+    var query = new URLSearchParams(window.location.search).get('q');
+
+    function init (dataSource) {
+      SimpleJekyllSearch.init({
+        searchInput: input,
+        resultsContainer: document.getElementById('results-container'),
+        dataSource: dataSource,
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: true,
+      });
+      if (query) {
+        input.value = query;
+        input.dispatchEvent(new KeyboardEvent('keyup'));
+      }
+    }
+
+    if (!query) {
+      init(dataUrl);
+      return;
+    }
+    // with a URL the search box isn't wired up until the data arrives, so fetch it first
+    fetch(dataUrl)
+      .then(function (response) { return response.json(); })
+      .then(init, function () { init(dataUrl); });
+  })();
 </script>
