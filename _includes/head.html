@@ -27,9 +27,19 @@
     {% endfor %}
   {% endif %}
 
+  {% if layout.common-googlefonts or page.googlefonts %}
+    <!-- The font files come from here once the stylesheets below arrive, so connect early -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  {% endif %}
+  {% if content contains 'youtube-player' %}
+    <!-- Video thumbnails (_includes/youtube_player.html) come from here -->
+    <link rel="preconnect" href="https://i.ytimg.com" />
+  {% endif %}
+
+  {% comment %} display=swap shows text in a fallback font until the web font arrives, instead of hiding it {% endcomment %}
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}&amp;display=swap" />
     {% endfor %}
   {% endif %}
 
@@ -47,7 +57,7 @@
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}&amp;display=swap" />
     {% endfor %}
   {% endif %}
 

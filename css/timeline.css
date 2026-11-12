@@ -10,7 +10,7 @@
   --clock-future: #e3e8ed;
   --timeline-ink: #1f2a33;
   --timeline-soft: #7b8690;
-  --timeline-sans: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --timeline-sans: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 /* --- Greg's Clock --- */

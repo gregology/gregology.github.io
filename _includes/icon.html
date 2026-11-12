@@ -1,0 +1,15 @@
+{%- comment -%}
+  An icon from _data/icons.yml as an inline SVG, sized like text: 1.25em wide and 1em tall.
+
+    {% include icon.html name="github-alt" %}                 the icon in the colour of the text
+    {% include icon.html name="github-alt" circle="#333" %}   white, on a coloured disc in a dark ring (the footer)
+
+  The disc version draws the same shapes Font Awesome did with fa-layers: a #404040 circle, the
+  coloured circle at 13/16 of its size (shrink-3) and the icon at 10/16 (shrink-6).
+{%- endcomment -%}
+{%- assign icon = site.data.icons[include.name] -%}
+{%- if include.circle -%}
+<svg class="icon" viewBox="-64 0 640 512" aria-hidden="true" focusable="false"><circle cx="256" cy="256" r="256" fill="#404040"/><circle cx="256" cy="256" r="208" fill="{{ include.circle }}"/><path fill="#fff" transform="translate(256 256) scale(.625) translate(-{{ icon.width | divided_by: 2 }} -256)" d="{{ icon.path }}"/></svg>
+{%- else -%}
+<svg class="icon" viewBox="0 0 {{ icon.width }} 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="{{ icon.path }}"/></svg>
+{%- endif -%}
