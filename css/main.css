@@ -8,6 +8,12 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
+  /* At least as tall as the window, so the footer has room to sit at the bottom (see footer).
+     flow-root keeps the intro header's top margin inside the body. Without it the margin pushes
+     the body down, and a short page scrolls by that much. */
+  display: flow-root;
+  min-height: 100vh;
+  min-height: 100dvh;
 }
 p {
   line-height: 1.5;
@@ -278,6 +284,11 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
+  /* On a page shorter than the window, this pushes the footer down to the bottom of the body,
+     which is the bottom of the window. On a longer page the footer already ends the body, so
+     there is no room to push it and it stays where it is. */
+  position: sticky;
+  top: 100vh;
 }
 
 footer a {
@@ -739,7 +750,8 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
   color: #fff;
   background-color:#000;
   left: auto;
-  top: auto;
+  /* Below the navbar and avatar, level with the top of the intro header */
+  top: 80px;
   width: 30%;
   height: auto;
   overflow:auto;
@@ -750,6 +762,11 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
   text-align:center;
   font-size:1.2em;
   z-index:999;
+}
+@media only screen and (min-width: 768px) {
+  a.skip-nav-link:focus, a.skip-nav-link:active {
+    top: 130px;
+  }
 }
 /* --- Site search (_includes/site-search.html) --- */
 
