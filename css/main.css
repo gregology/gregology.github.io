@@ -1,7 +1,107 @@
+/* --- Fallback fonts --- */
+
+/* Lora and Open Sans come from Google Fonts with display=swap, so text shows in a fallback font until they
+   arrive. These faces stretch Times New Roman and Arial (or their metric twins Liberation and Tinos/Arimo on
+   Linux and ChromeOS) to the width and line height of the web fonts, so the text wraps the same and the
+   page doesn't jump when the web fonts swap in. size-adjust is the average width ratio over the site's
+   text for each weight; the overrides are Lora's and Open Sans's ascent and descent, divided by size-adjust
+   because size-adjust scales them too. */
+
+@font-face {
+  font-family: "Lora fallback";
+  font-weight: 400;
+  font-style: normal;
+  src: local("Times New Roman"), local("TimesNewRomanPSMT"), local("Liberation Serif"), local("LiberationSerif"), local("Tinos"), local("Tinos-Regular");
+  size-adjust: 113.86%;
+  ascent-override: 88.35%;
+  descent-override: 24.06%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Lora fallback";
+  font-weight: 700;
+  font-style: normal;
+  src: local("Times New Roman Bold"), local("TimesNewRomanPS-BoldMT"), local("Liberation Serif Bold"), local("LiberationSerif-Bold"), local("Tinos Bold"), local("Tinos-Bold");
+  size-adjust: 110.29%;
+  ascent-override: 91.21%;
+  descent-override: 24.84%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Lora fallback";
+  font-weight: 400;
+  font-style: italic;
+  src: local("Times New Roman Italic"), local("TimesNewRomanPS-ItalicMT"), local("Liberation Serif Italic"), local("LiberationSerif-Italic"), local("Tinos Italic"), local("Tinos-Italic");
+  size-adjust: 111.23%;
+  ascent-override: 90.44%;
+  descent-override: 24.63%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Lora fallback";
+  font-weight: 700;
+  font-style: italic;
+  src: local("Times New Roman Bold Italic"), local("TimesNewRomanPS-BoldItalicMT"), local("Liberation Serif Bold Italic"), local("LiberationSerif-BoldItalic"), local("Tinos Bold Italic"), local("Tinos-BoldItalic");
+  size-adjust: 109.75%;
+  ascent-override: 91.66%;
+  descent-override: 24.97%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Open Sans fallback";
+  font-weight: 300;
+  font-style: normal;
+  src: local("Arial"), local("ArialMT"), local("Liberation Sans"), local("LiberationSans"), local("Arimo"), local("Arimo-Regular");
+  size-adjust: 99.92%;
+  ascent-override: 106.99%;
+  descent-override: 29.32%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Open Sans fallback";
+  font-weight: 400;
+  font-style: normal;
+  src: local("Arial"), local("ArialMT"), local("Liberation Sans"), local("LiberationSans"), local("Arimo"), local("Arimo-Regular");
+  size-adjust: 103.83%;
+  ascent-override: 102.95%;
+  descent-override: 28.22%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Open Sans fallback";
+  font-weight: 400;
+  font-style: italic;
+  src: local("Arial Italic"), local("Arial-ItalicMT"), local("Liberation Sans Italic"), local("LiberationSans-Italic"), local("Arimo Italic"), local("Arimo-Italic");
+  size-adjust: 98.27%;
+  ascent-override: 108.78%;
+  descent-override: 29.82%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Open Sans fallback";
+  font-weight: 700;
+  font-style: normal;
+  src: local("Arial Bold"), local("Arial-BoldMT"), local("Liberation Sans Bold"), local("LiberationSans-Bold"), local("Arimo Bold"), local("Arimo-Bold");
+  size-adjust: 103.88%;
+  ascent-override: 102.9%;
+  descent-override: 28.2%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Open Sans fallback";
+  font-weight: 800;
+  font-style: normal;
+  src: local("Arial Bold"), local("Arial-BoldMT"), local("Liberation Sans Bold"), local("LiberationSans-Bold"), local("Arimo Bold"), local("Arimo-Bold");
+  size-adjust: 107.42%;
+  ascent-override: 99.52%;
+  descent-override: 27.28%;
+  line-gap-override: 0%;
+}
+
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lora', 'Lora fallback', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -22,7 +122,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -59,7 +159,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -105,7 +205,7 @@ img {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 0;
   min-height: 51px;
 }
@@ -324,7 +424,7 @@ footer .footer-links > li {
   transition: transform 0.12s ease-out;
 }
 footer .copyright {
-  font-family: Open Sans;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -390,7 +490,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -427,7 +527,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -520,7 +620,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -545,7 +645,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -644,7 +744,7 @@ footer .theme-by {
 }
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -799,7 +899,7 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
 .site-search-input {
   width: 100%;
   padding: 12px 16px 12px 46px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #404040;
   background: #FFF url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2.2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-4-4'/%3E%3C/svg%3E") no-repeat 16px center / 20px;
@@ -819,7 +919,7 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
 
 .site-search-status {
   margin: 12px 16px 6px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #808080;
 }
@@ -851,7 +951,7 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
 
 .search-result-title {
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 17px;
   font-weight: 700;
   line-height: 1.35;
@@ -893,7 +993,7 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
   align-items: center;
   gap: 4px 10px;
   margin-top: 8px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Open Sans fallback', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 13px;
   color: #808080;
 }
