@@ -7,8 +7,11 @@
   var script = document.currentScript;
   var input = document.getElementById('search-input');
   var results = document.getElementById('results-container');
-  var hint = results.innerHTML;
+  var status = document.getElementById('search-status');
+  var hint = status.textContent;
   var index = null;
+
+  var KINDS = { post: 'Post', page: 'Page', link: 'Link' };
 
   // Letters that keep their shape when accents are dropped, so need spelling out
   var PLAIN = { 'ø': 'o', 'ł': 'l', 'ı': 'i', 'đ': 'd', 'ð': 'd', 'æ': 'ae', 'œ': 'oe', 'ß': 'ss', 'þ': 'th' };
@@ -22,6 +25,8 @@
 
   // Splits text into words the way MiniSearch does
   var SEPARATOR = /[\s\p{P}]+/u;
+  // The same, keeping the separators, so the text can be put back together
+  var SEPARATOR_KEPT = new RegExp('(' + SEPARATOR.source + ')', 'u');
 
   // Lowercase and drop accents, so "resume" finds "Résumé" and "oresund" finds "Øresund"
   function fold(term) {
@@ -63,30 +68,54 @@
     return miniSearch;
   }
 
-  function message(text) {
-    var item = document.createElement('li');
-    item.className = 'search-result-message';
-    item.textContent = text;
-    results.appendChild(item);
+  function say(text) {
+    status.textContent = text;
+  }
+
+  function element(tag, className, text) {
+    var el = document.createElement(tag);
+    el.className = className;
+    if (text) el.textContent = text;
+    return el;
+  }
+
+  // The text with each word the hit matched in this field wrapped in <mark>. MiniSearch reports
+  // matches as index terms, so each word is folded the same way before comparing.
+  function highlighted(tag, className, text, hit, field) {
+    var el = element(tag, className);
+    text.split(SEPARATOR_KEPT).forEach(function (part, i) {
+      var term = fold(part);
+      // Odd parts are the separators between words
+      var matched = i % 2 === 0 && Object.prototype.hasOwnProperty.call(hit.match, term) &&
+        hit.match[term].indexOf(field) !== -1;
+      if (matched) {
+        el.appendChild(element('mark', '', part));
+      } else {
+        el.appendChild(document.createTextNode(part));
+      }
+    });
+    return el;
   }
 
   function resultItem(hit) {
-    var item = document.createElement('li');
+    var item = element('li', 'search-result search-result-' + hit.kind);
     var link = document.createElement('a');
     link.href = hit.url;
-    link.textContent = hit.title;
-    if (hit.description) link.title = hit.description;
-    item.appendChild(link);
+    link.appendChild(highlighted('span', 'search-result-title', hit.title, hit, 'title'));
+    if (hit.description) {
+      link.appendChild(highlighted('span', 'search-result-description', hit.description, hit, 'description'));
+    }
 
-    var meta = document.createElement('span');
-    meta.className = 'search-result-meta';
+    var meta = element('span', 'search-result-meta');
+    meta.appendChild(element('span', 'search-result-kind', KINDS[hit.kind]));
     if (hit.kind === 'link') {
       // Say where an external link goes before anyone follows it
-      meta.textContent = '↗ ' + new URL(hit.url).hostname.replace(/^www\./, '').toLowerCase();
-    } else {
-      meta.textContent = hit.date || 'Page';
+      meta.appendChild(element('span', '', new URL(hit.url).hostname.replace(/^www\./, '').toLowerCase() + ' ↗'));
+    } else if (hit.date) {
+      meta.appendChild(element('span', '', hit.date));
     }
-    item.appendChild(meta);
+    link.appendChild(meta);
+    item.appendChild(link);
     return item;
   }
 
@@ -94,21 +123,26 @@
     var query = input.value.trim();
     results.textContent = '';
     if (!query) {
-      results.innerHTML = hint;
+      say(hint);
       return;
     }
     if (!index) {
-      message('Loading…');
+      say('Loading…');
       return;
     }
     // Untrimmed, so a trailing space shows the last word is finished
     var words = withoutStopWords(input.value);
-    var hits = words ? index.search(words).slice(0, LIMIT) : [];
+    var hits = words ? index.search(words) : [];
     if (!hits.length) {
-      message('No results found');
+      say('No results found');
       return;
     }
-    hits.forEach(function (hit) {
+    if (hits.length > LIMIT) {
+      say('Top ' + LIMIT + ' of ' + hits.length + ' results');
+    } else {
+      say(hits.length === 1 ? '1 result' : hits.length + ' results');
+    }
+    hits.slice(0, LIMIT).forEach(function (hit) {
       results.appendChild(resultItem(hit));
     });
   }
@@ -145,6 +179,6 @@
     })
     .catch(function () {
       results.textContent = '';
-      message("Search isn't working right now. Try again later.");
+      say("Search isn't working right now. Try again later.");
     });
 })();
