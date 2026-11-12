@@ -9,12 +9,13 @@ thumbnail links to the video on YouTube.
 
 The thumbnail is the 640px one (sddefault). Some older videos don't have it, and YouTube then sends a
 120x90 placeholder instead of an error, so onload switches those to the 480px one (hqdefault).
-It isn't lazy-loaded: the video is usually near the top of its post, and lazy images start late.
+It loads straight away at high priority, not lazily: the video is usually near the top of its post
+and the largest thing on screen.
 {% endcomment %}
 
 <div class="embed-container youtube-player">
   <a href="https://www.youtube.com/watch?v={{ include.id }}" data-youtube-id="{{ include.id }}" aria-label="Play video">
-    <img src="https://i.ytimg.com/vi/{{ include.id }}/sddefault.jpg" alt="" width="640" height="480" onload="if (this.naturalWidth <= 120 &amp;&amp; this.src.indexOf('/sddefault.') > -1) this.src = this.src.replace('/sddefault.', '/hqdefault.')">
+    <img src="https://i.ytimg.com/vi/{{ include.id }}/sddefault.jpg" alt="" width="640" height="480" fetchpriority="high" onload="if (this.naturalWidth <= 120 &amp;&amp; this.src.indexOf('/sddefault.') > -1) this.src = this.src.replace('/sddefault.', '/hqdefault.')">
     <svg class="youtube-player-button" viewBox="0 0 68 48" aria-hidden="true" focusable="false"><rect width="68" height="48" rx="12"/><path d="M27 14v20l18-10z" fill="#fff"/></svg>
   </a>
 </div>
