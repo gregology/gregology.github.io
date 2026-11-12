@@ -1,10 +1,9 @@
 {%- comment -%} Site search box and results, used by search.html and posts.html {%- endcomment -%}
 {%- assign search_version = site.time | date: '%s' -%}
-<div id="search-container">
-  <input type="text" id="search-input" placeholder="Type here..." aria-label="Search posts, pages and links" autocomplete="off">
-  <div class="col-md-12 content-panel articles">
-    <ul id="results-container" aria-live="polite"><small>Start typing to see some results</small></ul>
-  </div>
+<div id="search-container" class="site-search">
+  <input type="search" id="search-input" class="site-search-input" placeholder="Type here..." aria-label="Search posts, pages and links" autocomplete="off" spellcheck="false">
+  <p id="search-status" class="site-search-status" aria-live="polite">Start typing to see some results</p>
+  <ol id="results-container" class="site-search-results"></ol>
 </div>
 
 <script src="{{ '/js/minisearch.min.js' | relative_url }}?v={{ search_version }}"></script>
