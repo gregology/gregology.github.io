@@ -31,3 +31,12 @@ The signature covers the source file in `_posts/` (or the page's `.md`), front m
 Moving the milestones into a `_data` file rendered with Liquid was rejected. A page's `.md` twin, and so `llms-full.txt`, is its source with the Liquid rendered, so both would carry generated HTML instead of readable markdown. The clock's script moved out of the page for the same reason: the twin used to include it.
 
 The costs: without JavaScript the page is plain headings with no clock, and the places lived are repeated in `PLACES` in `js/timeline.js`, because they colour whole years and the markdown has nowhere to hold that.
+
+## Comments, videos and icons load only what a reader uses
+
+A post with a video loaded about 2 MB of third-party script before the reader scrolled or clicked anything: Disqus and the trackers it brings, YouTube's player, and Font Awesome's 1.5 MB script, which drew 17 icons.
+
+- Disqus loads once the page has finished loading and the reader is within 400px of the comments, or straight away for a link to a comment (`_includes/disqus.html`). A "Show comments" button was rejected so comments still appear without a click. A short post still loads Disqus, but only after the page has loaded.
+- A YouTube video is its thumbnail with a play button until it's clicked (`_includes/youtube_player.html`, `js/youtube-player.js`). Without JavaScript the thumbnail links to the video on YouTube.
+- Icons are inline SVGs from `_data/icons.yml`, copied from Font Awesome Free. The footer's icons draw the same shapes Font Awesome layered, and render pixel-identical. A new icon needs its width and path copied from Font Awesome into that file.
+- Google Fonts load with `display=swap`, so text shows in a fallback font until the web font arrives instead of being hidden for up to 3 seconds. Self-hosting the fonts would avoid the swap but was rejected: GitHub Pages caches every file for 10 minutes, while Google caches font files for a year.

@@ -6,10 +6,35 @@
 	    /* ensure that pages with query string get the same discussion */
             var url_parts = window.location.href.split("?");
             var disqus_url = url_parts[0];
+	    // Disqus brings about 1 MB of scripts, so it loads only once the page has finished loading
+	    // and the reader has scrolled to within 400px of the comments. A link straight to a comment
+	    // (#comment-123) or to the comments loads it right away.
 	    (function() {
-	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	        var loaded = false;
+	        function load() {
+	            if (loaded) return;
+	            loaded = true;
+	            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	        }
+	        function whenNear() {
+	            if (!('IntersectionObserver' in window)) return load();
+	            var observer = new IntersectionObserver(function(entries) {
+	                if (entries.some(function(entry) { return entry.isIntersecting; })) {
+	                    observer.disconnect();
+	                    load();
+	                }
+	            }, { rootMargin: '0px 0px 400px 0px' });
+	            observer.observe(document.getElementById('disqus_thread'));
+	        }
+	        if (/^#(comment-|disqus_thread)/.test(window.location.hash)) {
+	            load();
+	        } else if (document.readyState === 'complete') {
+	            whenNear();
+	        } else {
+	            window.addEventListener('load', whenNear);
+	        }
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

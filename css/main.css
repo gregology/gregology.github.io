@@ -1,5 +1,3 @@
-@import url("pygment_highlights.css");
-
 /* --- General --- */
 
 body {
@@ -276,6 +274,16 @@ img {
   }
 }
 
+/* --- Icons (_includes/icon.html) --- */
+
+.icon {
+  display: inline-block;
+  width: 1.25em;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+
 /* --- Footer --- */
 
 footer {
@@ -306,6 +314,9 @@ footer .list-inline > li {
 footer .footer-links {
   /* So the icons' offsetLeft and offsetTop are measured from the list */
   position: relative;
+}
+footer .footer-links .icon {
+  font-size: 3em;
 }
 footer .footer-links > li {
   /* Magnified icons grow up from their bottom edge */
@@ -906,4 +917,58 @@ a.skip-nav-link:focus, a.skip-nav-link:active {
 .search-result-link .search-result-kind {
   background: #FFF1DE;
   color: #8F4A00;
+}
+
+/* --- YouTube player (_includes/youtube_player.html, js/youtube-player.js) --- */
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.youtube-player a {
+  position: absolute;
+  inset: 0;
+  background: #000;
+}
+
+.youtube-player a:focus-visible {
+  outline: 3px solid #008AFF;
+  outline-offset: -3px;
+}
+
+.youtube-player img {
+  width: 100%;
+  height: 100%;
+  /* The thumbnail is 4:3 with black bars above and below a 16:9 picture, which this crops off */
+  object-fit: cover;
+}
+
+.youtube-player-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 68px;
+  height: 48px;
+  transform: translate(-50%, -50%);
+  fill: rgba(33, 33, 33, 0.8);
+  transition: fill 0.15s;
+}
+
+.youtube-player a:hover .youtube-player-button,
+.youtube-player a:focus-visible .youtube-player-button {
+  fill: #F00;
 }
