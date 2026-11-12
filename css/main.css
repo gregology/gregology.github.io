@@ -302,6 +302,16 @@ footer .list-inline {
 footer .list-inline > li {
   display: inline-block;
 }
+/* The macOS Dock style magnification in js/footer-dock.js */
+footer .footer-links {
+  /* So the icons' offsetLeft and offsetTop are measured from the list */
+  position: relative;
+}
+footer .footer-links > li {
+  /* Magnified icons grow up from their bottom edge */
+  transform-origin: 50% 100%;
+  transition: transform 0.12s ease-out;
+}
 footer .copyright {
   font-family: Open Sans;
   text-align: center;
