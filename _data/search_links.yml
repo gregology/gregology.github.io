@@ -53,6 +53,16 @@
   search_terms: [chat, message, gaming]
 
 # Projects (the external ones in the navbar)
+- title: Shrike Ops
+  url: https://ShrikeOps.ca
+  description: Identifies hybrid threats, digital and physical. Belleville, Ontario.
+  search_terms: [shrikeops, security, defence, drone detection, acoustic, hybrid threats]
+
+- title: Meerkat Watch
+  url: https://MeerkatWatch.ca
+  description: Monitors what the internet can reach of your organization, the way an attacker would. Coming soon.
+  search_terms: [meerkatwatch, security, attack surface, monitoring, vulnerabilities]
+
 - title: Structured Context
   url: https://sctx.dev
   description: Give AI agents the right context at the right time.
